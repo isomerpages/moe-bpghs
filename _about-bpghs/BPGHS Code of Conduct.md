@@ -50,6 +50,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 
 
 
+
 | Boys | Girls |
 |---|---|
 | ● Short, neat and tidy hairstyle with natural colour. <br>● Hair at the back must be above the shirt collar. <br>● Hair at the front when combed down must be above the eyebrows.  <br>● Hair at the crown must not be too thick or bushy. <br>● Hair at the sides must be above the ears. <br>● Side-burns are not allowed. <br>● Hair on the sides and back should be gradually tapered ('gently sloped'). The following are disallowed: <br>● Sideburns Undercut or outlandish hairstyles <br>● Ear-studs/earrings/sticks and all kinds of accessories <br>● Facial hair such as a moustache or a beard | ● Neat and tidy hairstyle with natural colour. <br>● Long hair that falls below the collar or touching the shoulders must be tied up neatly with black or dark purple hair accessories. <br>● Hair in front must not cover the eyes or fall across the cheeks. <br>● If it is beyond the eyes, it must be tied or pinned up. <br>● Cosmetics or make-up of any kind are not allowed. <br>● Only ONE pair of small plain ear-studs/sticks is allowed. <br>● Only gold, silver or black coloured ear studs are accepted. <br>● Ear sticks must be cut short to fit the thickness of the ear lobes. <br>● Only dark coloured hair accessories are allowed. |
@@ -70,6 +71,8 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 **Important Note:**
 <br>For attire check on the first day of each school term, students with **dyed hair/unacceptable hairstyles** will be identified and referred to the Year Heads or HOD/Student Management. Students will be sent home on the day itself. 
 
+<br>
+
 <strong><center>Attire</center></strong>
 
 <img src="/images/UNIFORM1.png" 
@@ -78,3 +81,9 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
      style="width:75%">
 <img src="/images/HAIR.png" 
      style="width:75%">
+		 
+
+<p><strong>4. GROOMING AND ATTIRE DURING THE SCHOOL VACATION</strong></p>
+
+* The above guidelines on grooming and attire applies when students come back during the school vacation to attend remedial/supplementary lessons or other activities. Approved CCA attire is allowed too.
+* Students are not to wear sandals/flip-flops and non-school T-shirts (excluding class T-shirts). Offenders will be asked to leave the school premises.
