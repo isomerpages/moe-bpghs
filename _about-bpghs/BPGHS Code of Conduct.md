@@ -159,16 +159,24 @@ Every BPian has the responsibility of attending all lessons, CCAs and other scho
 
 **PERMISSION TO LEAVE SCHOOL DURING SCHOOL HOURS**
 
-A student may request for an early release from school only on the following conditions:
-When he/she is not feeling well,
-Upon special request from his/her parent/guardian.
-The student must report to the General Office to obtain permission from the Principal/Vice-Principal.
-The General Office will inform the parent/guardian to fetch the student from school.
+<ul>
+<li>A student may request for an early release from school only on the following conditions:</li>
+</ul>
+<ul>
+<ul>
+<li>When he/she is not feeling well,</li>
+<li>Upon special request from his/her parent/guardian.</li>
+</ul>
+<li>The student must report to the General Office to obtain permission from the Principal/Vice-Principal.</li>
+</ul>
+<ul>
+<li>The General Office will inform the parent/guardian to fetch the student from school.</li>
+</ul>
 
 **OVERSEAS TRAVEL**
 
-Parents are required to submit their children's travel declarations via Parents Gateway when they go on any trip overseas during the holidays. 
-Overseas travel applications are not allowed during term time. Students who travel overseas without the permission of the school will be marked as 'absent without valid reason', and be given a nil grade/mark for the assessment they have missed. Should there be a valid reason for overseas travel, applications must be made directly to the Principal.
+* Parents are required to submit their children's travel declarations via Parents Gateway when they go on any trip overseas during the holidays. 
+* Overseas travel applications are not allowed during term time. Students who travel overseas without the permission of the school will be marked as 'absent without valid reason', and be given a nil grade/mark for the assessment they have missed. Should there be a valid reason for overseas travel, applications must be made directly to the Principal.
 
 # General Conduct
 Every BPian must exhibit exemplary conduct, and show respect and care for others and the environment. Every BPian must respect the school as an environment for conducive learning.
