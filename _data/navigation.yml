@@ -10,12 +10,3 @@ links:
     collection: partners
   - title: Links
     collection: links
-  - title: About BPGHS
-    url: /about-bpghs/vision-mission-values-and-motto
-    sublinks:
-      - title: Vision, Mission, Values, Motto
-        url: /about-bpghs/vision-mission-values-and-motto
-      - title: Our Achievements
-        url: /about-bpghs/Our-People/our-people
-      - title: Submenu Title
-        url: /permalink
