@@ -678,3 +678,42 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 </table>
 
 
+
+
+
+**DETENTION / SERVICE TO SCHOOL**
+* Students who break school rules will be required to serve up to a maximum of 4 hours of detention/service to school (each time) as a consequence of their misbehaviour or misconduct. They will be given 30 minutes to have their lunch before commencing their detention/service to school.
+* During detention/service to school, the student will reflect on his/her behaviour and make a decision to change the undesirable behaviour to a positive one.
+* Students are responsible to approach the teacher-in-charge of detention or the HOD/Student Management to arrange for an alternate date if they are unable to serve their detention/perform the service to school on the assigned day.
+* Athletic practices or games, after-school employment, co-curricular activities, transportation difficulties or forgetting that one has an outstanding detention/service to school are not considered as valid reasons for not turning up for detention.
+* Failure to report for detention/ service to school will result in more serious consequences. Students with overdue detentions/unperformed service to school may not participate in school activities or CCAs until these detentions are served/service to school is performed. If a pattern of overdue detentions/unperformed service to school develops, the student is liable for suspension. Parents will be informed accordingly.
+
+**CANING**
+
+* Caning will be meted out in accordance to MOE guidelines and the school rules as one of the possible consequences for major offences.
+* Caning, with a range of 1 to 3 strokes of a light cane, may be given on the palms, or buttocks over clothing, and nowhere else (for male offenders only).
+* Caning will be carried out by either the Principal or a delegated senior member of staff, in the General Office.
+* The student's parents will be informed with details of the offence and the follow up actions that the school will be taking before caning is meted out.
+* The school will take appropriate follow-up actions to counsel the student concerned.
+
+**SUSPENSION (IN-SCHOOL / HOME)**
+
+The HOD/Student Management notifies the student’s parents and teachers of the student’s in-school/house suspension.
+
+The student may not participate in any school activity during the 24-hour period of any suspension day.
+
+A student who is suspended either in or out of school is required to do the academic work missed on the day(s) of his/her suspension in order to receive an appropriate grade for the work done.
+
+For an in-school suspension, the student is expected to:
+
+* Report directly to the HOD/Student Management before flag raising at the General Office.
+* Be responsible for making up all class work and homework.
+* Complete a reflective writing assignment, which is to be signed by a parent and returned to the HOD/Student Management, the day following the suspension.
+
+For a home suspension, the student is expected to:
+
+* Sit for missed tests and quizzes on the day he/she returns to school (will be rescheduled by subject teachers).
+* Complete all class work and homework for each day of the home suspension and submit the work upon his/her return to school.
+* Submit a reflective writing assignment to the HOD/Student Management upon his/her return to school. This assignment is to be signed by a parent.
+
+NO SCHOOL CODE OF CONDUCT CAN EXPLICITLY STATE EVERY SCHOOL RULE OR REGULATION. THE SCHOOL RESERVES THE RIGHT TO INTERPRET AND DEVELOP POLICIES AND REGULATIONS AS NECESSARY BASED ON THE MISSION AND VALUES OF THE SCHOOL.
