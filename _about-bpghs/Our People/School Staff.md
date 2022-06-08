@@ -388,3 +388,52 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
+
+
+# Non-Form Teachers
+
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><strong>Department</strong></td>
+<td><strong>Name</strong></td>
+<td><strong>Position</strong></td>
+<td><strong>Email address</strong></td>
+</tr>
+<tr>
+<td rowspan="2">Mathematics</td>
+<td>Mrs Chiu Hwee Wan</td>
+<td>Teacher</td>
+<td>ng_hwee_wan@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mr Tan Peng Chiang</td>
+<td>Teacher</td>
+<td>tan_peng_chiang@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2">Mother Tongue Language</td>
+<td>Ms Kong Siew Hong</td>
+<td>Teacher</td>
+<td>kong_siew_hong@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Mdm Siti Sahrinah</td>
+<td>Teacher</td>
+<td>siti_sahrinah_mohd_said@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Science</td>
+<td>Ms Chew Ee Wei</td>
+<td>Teacher</td>
+<td>chew_ee_wei@moe.edu.sg</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Ms Angela Huang</td>
+<td>Allied Educator (Learning and Behavioural Support)</td>
+<td>huang_liping_angela@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
+
