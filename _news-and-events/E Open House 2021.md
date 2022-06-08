@@ -38,3 +38,11 @@ We aim to inspire an aspiration to succeed in our students. To find out more abo
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/zk5vBox7q68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 We aim to develop our students holistically by providing experiences that inculcate sound moral values, build character, and foster camaraderie. A teaser of the CCAs.
+
+
+<strong><em>Performing Arts Showcase</em></strong>
+
+At the SYF 2021, our performing arts groups, namely Chinese Dance, Chinese Drama, Chinese Orchestra, Concert Band and the Gamelan Ensemble achieved the Certificate of Distinction. Our other performing arts groups also put up equally enthralling performances. Hope you enjoy their performances.
+
+**Concert Band [Birds in the Azure Sky by Satoshi Yagisawa]**
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/1ZTG-2iwlmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
