@@ -46,3 +46,22 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 <p><strong>3.    GROOMING</strong></p>
 
 ****The following set of guidelines applies every time the uniform is put on. It applies to all students, at all times, regardless of whether students are in or out of school.***
+
+
+
+
+
+| Boys | Girls |
+|---|---|
+| ● Short, neat and tidy hairstyle with natural colour. <br>● Hair at the back must be above the shirt collar. <br>● Hair at the front when combed down must be above the eyebrows.  <br>● Hair at the crown must not be too thick or bushy. <br>● Hair at the sides must be above the ears. <br>● Side-burns are not allowed. <br>● Hair on the sides and back should be gradually tapered ('gently sloped'). The following are disallowed: <br>● Sideburns Undercut or outlandish hairstyles <br>● Ear-studs/earrings/sticks and all kinds of accessories <br>● Facial hair such as a moustache or a beard | ● Neat and tidy hairstyle with natural colour. <br>● Long hair that falls below the collar or touching the shoulders must be tied up neatly with black or dark purple hair accessories. <br>● Hair in front must not cover the eyes or fall across the cheeks. <br>● If it is beyond the eyes, it must be tied or pinned up. <br>● Cosmetics or make-up of any kind are not allowed. <br>● Only ONE pair of small plain ear-studs/sticks is allowed. <br>● Only gold, silver or black coloured ear studs are accepted. <br>● Ear sticks must be cut short to fit the thickness of the ear lobes. <br>● Only dark coloured hair accessories are allowed. |
+
+
+
+
+| The following are disallowed: |
+|---|
+| ● Tinting, dyeing, highlighting or perming of hair |
+| ● Long and/or varnished fingernails |
+| ● Fanciful/striking spectacle frames, tinted glasses or fanciful contact lenses |
+| ● Body studs, rings, bangles, wristbands and necklace of any colour or kind. Students will be told to remove them immediately. Recalcitrants may have their accessories safe kept by the school. |
+| ● Tattoos of any designs, shapes and sizes on any part of the body. |
