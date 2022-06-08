@@ -4,4 +4,8 @@ permalink: /about-bpghs/Our-People/our-people
 description: ""
 third_nav_title: Our People
 ---
+To access a list of teachers in the School Management Committee and School Staff, click on the relevant tabs on the left-hand side of the page or **the maroon circle with three vertical white dots on the bottom right corner (mobile version).**
+
+(check mobile version and phrase accordingly)
+
 ![](/images/2021%20BPGHS%20Full%20Staff%20Photo.jpeg)
