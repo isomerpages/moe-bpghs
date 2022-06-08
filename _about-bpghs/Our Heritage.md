@@ -13,7 +13,7 @@ In 1993, the school moved from its old premises at Jalan Teck Whye to its presen
 <h2><u>Our School Crest</u></h2>
 
 <img src="/images/logo.jpeg" 
-     style="width:15%">
+     style="width:25%">
 
 The **Circle** symbolises integration and perfection.
 <br>The **Red Triangle** stands for brotherhood and the common bond among all BPians.
