@@ -316,44 +316,48 @@ Note: Parents will be required to meet the HOD/Student Management for a discussi
 
 **USE OF TECHNOLOGY**
 
-Students are expected to treat others with respect, behave responsibly and with integrity when using technology.
-They shall not engage in any activities relating to the use of the ICT resources that will be in violation of the laws of Singapore, in particular (but not limited to), the Computer Misuse and Cybersecurity Act (Cap 50A, available at https://sso.agc.gov.sg//) as may be amended from time to time. Some examples of illegal uses are:
-downloading, distribution, sharing or storing of seditious, obscene or pornographic materials 
-infringement of any copyright and intellectual property right 
-cyber-bullying
-posting online remarks that are racially and religiously insensitive
-posting vulgar and/or offensive statements
-disruptive of public order
-intentionally causing emotional distress/harm to others
-making unauthorised attempts to gain access to any account belonging to others
-hacking into computer systems
-spreading computer viruses
-sending undesirable materials
-Other inappropriate use of technology, including, but not limited to emails, instant messaging, social media, web publishing, and use of hardware/software which invades the privacy of staff or students, and/or disrupts or interferes with the safety and well-being of he school community, is prohibited, even if such uses take place outside of school. 
-Disciplinary action will be taken against any student found misusing technology. The PEDs will be confiscated as a disciplinary measure or for the purpose of investigation.
+<ul>
+<li>Students are expected to treat others with respect, behave responsibly and with integrity when using technology.</li>
+<li>They shall not engage in any activities relating to the use of the ICT resources that will be in violation of the laws of Singapore, in particular (but not limited to), the Computer Misuse and Cybersecurity Act (Cap 50A, available at https://sso.agc.gov.sg//) as may be amended from time to time. Some examples of illegal uses are:</li>
+<ul>
+<li>downloading, distribution, sharing or storing of seditious, obscene or pornographic materials&nbsp;</li>
+<li>infringement of any copyright and intellectual property right&nbsp;</li>
+<li>cyber-bullying</li>
+<li>posting online remarks that are racially and religiously insensitive</li>
+<li>posting vulgar and/or offensive statements</li>
+<li>disruptive of public order</li>
+<li>intentionally causing emotional distress/harm to others</li>
+<li>making unauthorised attempts to gain access to any account belonging to others</li>
+<li>hacking into computer systems</li>
+<li>spreading computer viruses</li>
+<li>sending undesirable materials</li>
+</ul>
+<li>Other inappropriate use of technology, including, but not limited to emails, instant messaging, social media, web publishing, and use of hardware/software which invades the privacy of staff or students, and/or disrupts or interferes with the safety and well-being of he school community, is prohibited, even if such uses take place outside of school.&nbsp;</li>
+<li>Disciplinary action will be taken against any student found misusing technology. The PEDs will be confiscated as a disciplinary measure or for the purpose of investigation.</li>
+</ul>
 
-USE OF BICYCLES AND PERSONAL MOBILITY DEVICES
+**USE OF BICYCLES AND PERSONAL MOBILITY DEVICES**
 
-Personal Mobility Devices (PMDs) include kick-scooters, skateboards and similar mobility devices.
+*Personal Mobility Devices (PMDs) include kick-scooters, skateboards and similar mobility devices.*
 
-Students who intend to cycle or use PMDs to commute to school will need to collect an advisory note from the General Office.
-There should be no usage of bicycles and PMDs within the school grounds. Cyclists and students with PMDs must secure their bicycles and devices at the designated area within the school.
-The school will not be responsible for the loss of, or damage to the bicycles and PMDs.
-Skateboards or kick-scooters are to be stored in proper storage bags when they are brought to school or to the classroom.
+* Students who intend to cycle or use PMDs to commute to school will need to collect an advisory note from the General Office.
+* There should be no usage of bicycles and PMDs within the school grounds. Cyclists and students with PMDs must secure their bicycles and devices at the designated area within the school.
+* The school will not be responsible for the loss of, or damage to the bicycles and PMDs.
+* Skateboards or kick-scooters are to be stored in proper storage bags when they are brought to school or to the classroom.
 
-Expected Student Behaviour inside/outside of school
+# Expected Student Behaviour inside/outside of school
 Students are to exercise self-discipline and exemplify school values, whether in/outside the school. They must uphold the good name of the school by conducting themselves in a disciplined and responsible manner. Their every action has a bearing on the image of the school and the reputation of the entire student body. 
 
 Students must learn to be responsible for their actions and expect certain consequences if they choose to break the school rules and regulations. Any student who witnesses anyone doing things detrimental to the school, himself/herself or other school mates must bring it to the attention of any staff of the school immediately.
 
-Representation of School
-Students may not use the name, image, logo or uniform of Bukit Panjang Government High School, nor may students use representations of staff or students in any medium, including, but not limited to electronic, paper, video and sound, in a manner not in keeping with the mission and values of the school.
-Posting pictures, videos, emails or other communication of staff without the express permission of the staff is also prohibited. These prohibitions specifically include, but are not limited to pictures, emails, personal web pages, social networking sites and blogs.
-Students who display information, pictures or language contrary to school policy and the mission and values of the school on such a site, or in any medium will be subject to disciplinary action.
-The school has the sole discretion in determining what constitutes appropriate representation of the school’s name, image, uniform and logos.
-Students may be barred from representing the school in competitions or other school activities if their conduct/behaviour is deemed to have infringed school rules and regulations.
+# Representation of School
+* Students may not use the name, image, logo or uniform of Bukit Panjang Government High School, nor may students use representations of staff or students in any medium, including, but not limited to electronic, paper, video and sound, in a manner not in keeping with the mission and values of the school.
+* Posting pictures, videos, emails or other communication of staff without the express permission of the staff is also prohibited. These prohibitions specifically include, but are not limited to pictures, emails, personal web pages, social networking sites and blogs.
+* Students who display information, pictures or language contrary to school policy and the mission and values of the school on such a site, or in any medium will be subject to disciplinary action.
+* The school has the sole discretion in determining what constitutes appropriate representation of the school’s name, image, uniform and logos.
+* Students may be barred from representing the school in competitions or other school activities if their conduct/behaviour is deemed to have infringed school rules and regulations.
 
-Conduct Grade
+# Conduct Grade
 
 A conduct grade reflects a student’s general conduct or behaviour throughout the semester. In BPGHS, all students are expected to exemplify the school values in their attitude and behaviour. They are also expected to demonstrate self-discipline and abide by all the school rules and regulations.
 
@@ -364,3 +368,73 @@ For students who have committed any minor or major offences, the HOD/Student Man
 Only students with conduct grade ‘Good’ and above will be eligible for any government or school awards, e.g. Edusave/Eagles/Colours/Edusave Character Award.
 
 The following guide will be used by teachers in assigning the conduct grade to each student:
+
+
+<table>
+<tbody>
+<tr>
+<th>Conduct Grade</th>
+<th>Descriptors</th>
+</tr>
+<tr>
+<td>Excellent</td>
+<td>A student who&nbsp;<strong>consistently behaves in an exemplary manner</strong>. He/she<br />
+<ul>
+<li>is always courteous and respectful towards others and</li>
+<li>always does things well in his/her own and</li>
+<li>shows a very clear sense of right and wrong through speech and action and</li>
+<li>is always dependable; always completes tasks on time and&nbsp;</li>
+<li>contributes actively to the betterment of others.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Very Good</td>
+<td>A student who&nbsp;<strong>consistently behaves well</strong>. He/she<br />
+<ul>
+<li>is courteous and respectful towards others and</li>
+<li>does things well in his/her own and</li>
+<li>shows a clear sense of right and wrong through speech and action and</li>
+<li>is dependable; completes tasks on time and&nbsp;</li>
+<li>contributes to the betterment of others.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Good</td>
+<td>&nbsp;A student who<strong>&nbsp;behaves well most of the time</strong>. He/she<br />
+<ul>
+<li>is generally courteous and respectful towards others most of the time and</li>
+<li>does things well in his/her own most of the time and</li>
+<li>shows a sense of right and wrong through speech and action most of the time and</li>
+<li>is dependable most of the time; completes tasks on time when reminded and&nbsp;</li>
+<li>contributes to the betterment of others most of the time.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Fair&nbsp;</td>
+<td>&nbsp;A student who<strong>&nbsp;shows unacceptable behaviour</strong>. He/she<br />
+<ul>
+<li>is courteous and respectful towards others sometimes</li>
+<li>does things well in his/her own sometimes</li>
+<li>shows a sense of right and wrong through speech and action when guided</li>
+<li>is seldom dependable; tasks are usually not completed on time and&nbsp;</li>
+<li>contributes to the betterment of others when reminded.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Poor&nbsp;</td>
+<td>A student who<strong>&nbsp;frequently shows unacceptable behaviour</strong>. He/she<br />
+<ul>
+<li>is seldom courteous and respectful towards others sometimes</li>
+<li>seldom does things well in his/her own</li>
+<li>shows a sense of right and wrong through speech and action when reminded</li>
+<li>is rarely dependable; tasks are often not completed on time</li>
+<li>seldom contributes to the betterment of others.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
