@@ -13,4 +13,4 @@ Do you have what it takes to be crowned "Champion Reader" of BPGHS? Scan the QR 
 
 Need some ideas on what to read? Download the file below for some EL and MT book recommendations! Be curious and read widely!
 
-Read for Life Book Recommendations.pdf 
+[Read for Life Book Recommendations.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/News%20&%20Events/Read%20for%20Life/Read%20for%20Life%20%20Book%20Recommendations.pdf)
