@@ -18,7 +18,7 @@ For parents with Singpass, please make an online submission at [https://go.gov.s
 <br> Hard copies are also available in the school’s General Office.
 
 
-PDLP Parents Engagement Session
+**PDLP Parents Engagement Session**
 
 There will be a PDLP Parents Engagement Session on Friday, 4 February 2022 @ 6pm.
  
