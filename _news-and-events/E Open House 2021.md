@@ -40,9 +40,32 @@ We aim to inspire an aspiration to succeed in our students. To find out more abo
 We aim to develop our students holistically by providing experiences that inculcate sound moral values, build character, and foster camaraderie. A teaser of the CCAs.
 
 
+(more videos to embed)
+
+
 <strong><em>Performing Arts Showcase</em></strong>
 
 At the SYF 2021, our performing arts groups, namely Chinese Dance, Chinese Drama, Chinese Orchestra, Concert Band and the Gamelan Ensemble achieved the Certificate of Distinction. Our other performing arts groups also put up equally enthralling performances. Hope you enjoy their performances.
 
+
 **Concert Band [Birds in the Azure Sky by Satoshi Yagisawa]**
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1ZTG-2iwlmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+(more videos to embed)
+
+
+# Our Alumni Stories
+
+
+Prominent BP alumni who have established themselves in their respective fields. We hope these videos inspire current as well as future BPians to scale new heights in pursuit of their passions and dreams.
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/KISmxfrqEhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+<center>Featuring Olympian Saiyidah Aisyah and SEA Games medallist Lim Shengyu. Discover their journeys from school sportspersons to representing Singpore in the international sporting arena.</center>
+
+
+
+	
