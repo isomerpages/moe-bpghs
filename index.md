@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bukit Panjang Government High School
 description: Brief site description here
 image: /images/logo.jpeg
 permalink: /
@@ -25,4 +25,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
