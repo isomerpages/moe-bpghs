@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/logo.jpeg" 
      style="width:35%">
-<center><strong>Vision</strong></center>
+<h2><center>Vision</center></h2>
 <center><em>Every BPian a Passionate Learner, an Inspiring Leader</em></center>
 
 Every BPian embodying the qualities in the school values and 21st century competencies that enable them to be:
@@ -13,7 +13,7 @@ Every BPian embodying the qualities in the school values and 21st century compet
 * Inspiring Leaders who exemplify and lead in service to others in the school and community.
 
 
-<center><strong>Mission</strong></center>
+<h2><center>Mission</center></h2>
 <center><em>To ignite the joy of learning through a holistic education and develop leaders with a heart to serve</em></center>
 
 <center><strong>"Ignite the joy of learning"</strong></center>
@@ -32,7 +32,7 @@ Every BPian embodying the qualities in the school values and 21st century compet
 <center>refers to nurturing BPians, anchored in school values, who lead in serving others in the school community</center>
 
 
-<center><strong>Values</strong></center>
+<h2><center>Values</center></h2>
 
 <center><em>BPGHS espouses the values of Responsibility, Resilience, Respect, Integrity and Care for others.</center></em>
 
@@ -51,7 +51,7 @@ Every BPian embodying the qualities in the school values and 21st century compet
 <br>
 
 
-<center><strong>Motto</strong></center>
+<h2><center>Motto</center></h2>
 <center><em>Diligent in study and practice</em></center>
 
 
@@ -64,14 +64,16 @@ Every BPian embodying the qualities in the school values and 21st century compet
 
 
 
-Strategic Thrusts
+<h2><center>Strategic Thrusts</center></h2>
 
-ST1 Igniting the Joy of Learning
-An engaging and enriching student focussed learning environment to develop passionate learners
+<center><strong>ST1 Igniting the Joy of Learning</strong></center>
 
-ST2 Nurturing Future Leaders
-A robust student development programme to nurture students to be leaders with a heart to serve
+<center>An engaging and enriching student focussed learning environment to develop passionate learners</center>
 
-ST3 Building Staff Capacity and Competency
-Purposeful staff learning and development programmes to enhance staff capacity and competency
+<center><strong>ST2 Nurturing Future Leaders</strong></center>
 
+<center>A robust student development programme to nurture students to be leaders with a heart to serve</center>
+
+<center><strong>ST3 Building Staff Capacity and Competency</strong></center>
+
+<center>Purposeful staff learning and development programmes to enhance staff capacity and competency</center>
