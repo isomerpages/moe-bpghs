@@ -208,71 +208,71 @@ Every BPian must exhibit exemplary conduct, and show respect and care for others
 * Violation of any rules pertaining to the use of laptops may result in their confiscation for 3 school days and other disciplinary actions.
 * If a student’s laptop has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student’s parents will be kept informed about the matter. It will only be returned to the student/parent after the investigation has concluded.
 
-STANDARDS OF BEHAVIOUR
+**STANDARDS OF BEHAVIOUR**
 
-BELL SYSTEM
+**BELL SYSTEM**
 
 The bell will ring at the following times:
-At the start of the flag-raising ceremony/lesson. Students must be ready at the respective venues for the flag-raising ceremony/lesson.
-At the end of the lesson/recess. Students must be ready to move to their respective venues for the next lesson.
-At the end of each school day.
+* At the start of the flag-raising ceremony/lesson. Students must be ready at the respective venues for the flag-raising ceremony/lesson.
+* At the end of the lesson/recess. Students must be ready to move to their respective venues for the next lesson.
+* At the end of each school day.
 
-AT THE ASSEMBLY AREA DURING FLAG RAISING CEREMONY
+**AT THE ASSEMBLY AREA DURING FLAG RAISING CEREMONY**
 
-Assemble according to their classes and class index numbers quickly and quietly.
-Sing the National Anthem and take the Pledge with the right fist placed over the heart (for Singapore Citizens).
-Stand at attention (regardless of where they are) when they hear the National Anthem being played.
-Sing the school song with pride.
-Pay attention when announcements are being made.
-Proceed to class in an orderly and quiet manner after the ceremony.
+* Assemble according to their classes and class index numbers quickly and quietly.
+* Sing the National Anthem and take the Pledge with the right fist placed over the heart (for Singapore Citizens).
+* Stand at attention (regardless of where they are) when they hear the National Anthem being played.
+* Sing the school song with pride.
+* Pay attention when announcements are being made.
+* Proceed to class in an orderly and quiet manner after the ceremony.
 
-AT THE ASSEMBLY IN THE HALL
+**AT THE ASSEMBLY IN THE HALL**
 
-Assemble according to their classes and class index numbers quickly and quietly.
-Observe silence during the assembly.
-Behave with consideration towards the speaker or performer(s).
-Show appreciation for the time and effort spent in presenting the programme.
+* Assemble according to their classes and class index numbers quickly and quietly.
+* Observe silence during the assembly.
+* Behave with consideration towards the speaker or performer(s).
+* Show appreciation for the time and effort spent in presenting the programme.
 
-AT THE CANTEEN AND CAFE
+**AT THE CANTEEN AND CAFE**
 
-Buy and consume food and drinks only during recess or when special permission has been obtained.
-Queue up to buy food.
-Display good table manners by not leaving or throwing food scraps on the table or floor.
-Return all utensils and crockery to the appropriate collection basins provided by each stall.
-The canteen and café are the only designated places for food consumption. Do not bring food out of these places to any other areas. Easting and drinking sugary drinks are strictly prohibited in the classroom at all times.
+* Buy and consume food and drinks only during recess or when special permission has been obtained.
+* Queue up to buy food.
+* Display good table manners by not leaving or throwing food scraps on the table or floor.
+* Return all utensils and crockery to the appropriate collection basins provided by each stall.
+* The canteen and café are the only designated places for food consumption. Do not bring food out of these places to any other areas. Easting and drinking sugary drinks are strictly prohibited in the classroom at all times.
 
-DURING RECESS
+**DURING RECESS**
 
-Refrain from disturbing other schoolmates by making excessive and unnecessary noise during recess.
-Do not loiter around classroom blocks, particularly along the corridors, during recess.
+* Refrain from disturbing other schoolmates by making excessive and unnecessary noise during recess.
+* Do not loiter around classroom blocks, particularly along the corridors, during recess.
 
-AFTER RECESS
+**AFTER RECESS**
 
-5 minutes before recess ends, students are to make their way back to their classrooms in a quiet and orderly manner to get ready for the next lesson. Students are expected to be back in class at the time recess ends.
+* 5 minutes before recess ends, students are to make their way back to their classrooms in a quiet and orderly manner to get ready for the next lesson. Students are expected to be back in class at the time recess ends.
 
-AFTER CURRICULUM HOURS
+**AFTER CURRICULUM HOURS**
 
-Classrooms should only be used for instructional or CCA programmes after school and for self-study. Usage by students for group recreational/leisure purposes is strictly prohibited.
+* Classrooms should only be used for instructional or CCA programmes after school and for self-study. Usage by students for group recreational/leisure purposes is strictly prohibited.
 
-BEHAVIOUR ON SCHOOL GROUNDS
+**BEHAVIOUR ON SCHOOL GROUNDS**
 
-No loitering along the corridors. Students should move along the corridors in a quiet and orderly manner. There should not be running/shouting/playing around at all times. 
-No gathering of students at the study corners or toilets during changeover periods.
-No usage of the school hall for any personal activity at any time of the day unless authorised.
-No playing of ball games in the classrooms or any part of the school grounds NOT designated for such activities.
-Students may have to pay the replacement / repair costs of minor acts of vandalism in school, such as a damaged locker, broken window or fan, graffiti, etc.
+* No loitering along the corridors. Students should move along the corridors in a quiet and orderly manner. There should not be running/shouting/playing around at all times. 
+* No gathering of students at the study corners or toilets during changeover periods.
+* No usage of the school hall for any personal activity at any time of the day unless authorised.
+* No playing of ball games in the classrooms or any part of the school grounds NOT designated for such activities.
+* Students may have to pay the replacement / repair costs of minor acts of vandalism in school, such as a damaged locker, broken window or fan, graffiti, etc.
 
-USE OF SCHOOL PROPERTY
+**USE OF SCHOOL PROPERTY**
 
-Use all school property with care.
-Handle all books, sports equipment and items on loan from the school with care and return them in their original condition after use.
-Do not remove any school property from the school premises unless given permission by a teacher.
-Report all defective equipment immediately to the General Office. Students will be required to replace any damage or loss which they caused to any school property due to recklessness or negligence.
-Make it a habit to save water and electricity. All lights, fans, air conditioners and school equipment must be switched off immediately after use.
-Keep the classrooms, noticeboards and furniture clean and tidy, free of unsightly clutter and litter.
-Switch off all lights and fans if you are the last person to leave the classroom. 
-Keep the toilets clean at all times.
-Refrain from stepping on the grass.
+* Use all school property with care.
+* Handle all books, sports equipment and items on loan from the school with care and return them in their original condition after use.
+* Do not remove any school property from the school premises unless given permission by a teacher.
+* Report all defective equipment immediately to the General Office. Students will be required to replace any damage or loss which they caused to any school property due to recklessness or negligence.
+* Make it a habit to save water and electricity. All lights, fans, air conditioners and school equipment must be switched off immediately after use.
+* Keep the classrooms, noticeboards and furniture clean and tidy, free of unsightly clutter and litter.
+* Switch off all lights and fans if you are the last person to leave the classroom. 
+* Keep the toilets clean at all times.
+* Refrain from stepping on the grass.
 
 Classroom Conduct
 Every BPian must show respect for self and others’ right to learn, and therefore exercise self-discipline so as not to disturb the learning of self and others.
