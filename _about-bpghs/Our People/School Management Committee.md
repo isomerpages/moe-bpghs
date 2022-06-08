@@ -25,10 +25,10 @@ third_nav_title: Our People
 <table border="0" width="1087" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td width="271" height="40">Department</td>
-<td width="285">Position</td>
-<td width="203">Name</td>
-<td width="328">Email address</td>
+	<td width="271" height="40"><strong>Department</strong></td>
+<td width="285"><strong>Position</strong></td>
+<td width="203"><strong>Name</strong></td>
+<td width="328"><strong>Email address</strong></td>
 </tr>
 <tr>
 <td rowspan="2" width="271" height="46">English Language &amp; Literature</td>
