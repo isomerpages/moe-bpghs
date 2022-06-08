@@ -91,4 +91,11 @@ Prominent BP alumni who have established themselves in their respective fields. 
 </div>
 </div>
 
-
+<div>
+<div style="float: left">
+Parent's Testimonial 1 - By Mdm Julie Low
+</div>
+<div>
+Parent's Testimonial 2 - By Mr Frank Yong
+</div>
+</div>
