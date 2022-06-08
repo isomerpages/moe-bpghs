@@ -82,20 +82,11 @@ Prominent BP alumni who have established themselves in their respective fields. 
 # Parents' Voices
 
 
-<div>
-<div style="float: left">
-<iframe width="280" height="158" src="https://www.youtube.com/embed/uvh5FEn4FO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div>
-<iframe width="280" height="158" src="https://www.youtube.com/embed/D4yw6VS0jQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-</div>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uvh5FEn4FO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center> Parent's Testimonial 1 - By Mdm Julie Low </center>
 
-<div>
-<div style="float: left">
-Parent's Testimonial 1 - By Mdm Julie Low
-</div>
-<div>
-Parent's Testimonial 2 - By Mr Frank Yong
-</div>
-</div>
+<br>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D4yw6VS0jQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center>Parent's Testimonial 2 - By Mr Frank Yong </center>
