@@ -1,5 +1,5 @@
 collections:
-  news-and-events-folder:
+  news-and-events:
     output: true
     order:
       - E Open House 2021.md
