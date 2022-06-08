@@ -183,16 +183,16 @@ Every BPian must exhibit exemplary conduct, and show respect and care for others
 
 **GETTING READY FOR LESSONS**
 
-Students must get themselves ready for lessons before the start if the school day, by filling up their water bottles and visiting the toilets before the first lesson. They should also do likewise during each recess so as to be prepared for the next segment of the school day. Hence, students should not request to refill their bottles or visit the toilets during the period immediately after recess.
+**Students must get themselves ready for lessons before the start if the school day, by filling up their water bottles and visiting the toilets before the first lesson. They should also do likewise during each recess so as to be prepared for the next segment of the school day. Hence, students should not request to refill their bottles or visit the toilets during the period immediately after recess.**
 
 **USE OF PERSONAL ELECTRONIC DEVICES (PEDs)**
 
-Personal Electronic Devices (PEDs) include handphones, ipods, ipads, tablets, laptops, cameras, smart watches and similar electronic devices.
+*Personal Electronic Devices (PEDs) include handphones, ipods, ipads, tablets, laptops, cameras, smart watches and similar electronic devices.*
 
-Students are not encouraged to bring their PEDs to school. If they choose to do so, they are personally responsible and accountable for the safe-keeping of their PEDs, to prevent loss, damage and theft. 
-The following PEDs are disallowed: iPads, tablets, handheld game devices and cameras.
-Students are not allowed to wear smart watches to school to prevent distraction during lessons.
-The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines with regards to the following PEDs:
+* Students are not encouraged to bring their PEDs to school. If they choose to do so, they are personally responsible and accountable for the safe-keeping of their PEDs, to prevent loss, damage and theft. 
+* The following PEDs are disallowed: iPads, tablets, handheld game devices and cameras.
+* Students are not allowed to wear smart watches to school to prevent distraction during lessons.
+* The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines with regards to the following PEDs:
 
 Handphones:
 Handphones must be switched off immediately the moment they step into the school and kept out of sight of everyone.
