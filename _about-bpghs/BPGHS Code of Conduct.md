@@ -439,3 +439,242 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tbody>
 </table>
 
+
+
+
+# Discipline Management for Major and Minor Offences
+
+As the school strives to provide a safe, respectful and caring community that promotes and supports positive student behaviour and discipline, students are also expected to learn and take responsibility for their actions or misbehaviours, and be expected to receive certain consequences if they choose to break the school rules and regulations.
+
+The school reserves the right to revise, formulate and add new rules as it deems necessary. The HOD/Student Management, together with the Student Development Team, are authorised to deliberate and decide on the form of consequences to be meted out for any misbehaviour or misdeed of a student.
+
+At stipulated junctures for each offence, teachers will update HOD/Student Management and/or the Student Development Team for follow-up actions.
+
+All offences (major and minor cases) will be recorded in the School Cockpit Offence Module (SOM). Only students with Good Conduct Grade and above will be eligible for MOE Edusave / EAGLES/ Colours/ Edusave Character Award and other school awards.
+
+<table width="630">
+<tbody>
+<tr>
+<td width="83">
+<p><strong>Offences</strong></p>
+</td>
+<td width="274">
+<p><strong>Description</strong></p>
+</td>
+<td width="273">
+<p><strong>Consequences</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" width="83">
+<p><strong>Major</strong></p>
+</td>
+<td width="274">
+<ul>
+<li>Arson</li>
+<li>Theft / shoplifting in/outside school / misappropriation of property</li>
+<li>Vandalism</li>
+<li>Assault / Fighting</li>
+<li>Gambling (includes possession of gambling cards)</li>
+<li>Gangsterism&nbsp;/ Involvement in secret society activities/ Extortion / Rioting / Unlawful assembly</li>
+<li>Pornography (consumption / possession / distribution / sale of)</li>
+<li>Possession of weapons</li>
+<li>Sexual misconduct</li>
+<li>Smoking / Possession of tobacco products</li>
+<li>Alcohol / Drug / Inhalant Abuse (in possession / consumption)</li>
+<li>Bullying (Cyber, Verbal, Physical)</li>
+<li>Forgery</li>
+<li>Open defiance and/or rudeness</li>
+<li>Cyber offences [include but not limited to]:</li>
+<ul>
+<li>Downloading, distribution, sharing or storing of seditious, obscene or pornographic materials</li>
+<li>Posting online remarks that are racially and religiously insensitive</li>
+<li>Intentionally causing emotional distress/harm to others</li>
+<li>Making unauthorised attempts to gain access to any account not belonging to others</li>
+<li>Hacking into computer systems</li>
+<li>Spreading computer viruses</li>
+</ul>
+<li>Assistance to any of the above major offences</li>
+<li>Other criminal offences</li>
+</ul>
+</td>
+<td width="273">
+<ul>
+<li>Conduct grade down by at least 2 grades</li>
+<li>Caning</li>
+<li>Suspension (in-school / at-home)</li>
+<li>Compensation (where relevant)</li>
+<li>Home involvement</li>
+<li>Counselling / Referral to external agencies</li>
+<li>Detention / Service to School</li>
+<li>Police assistance (if needed)</li>
+<li>Others:</li>
+<ul>
+<li>Not eligible to apply for overseas trips</li>
+<li>Step down from leadership position in CCA / Class</li>
+<li>Suspension from school / co-curricular activities (includes any of the following):</li>
+<ul>
+<li>CCA / non-CCA related matches/competitions</li>
+<li>SYF / performance</li>
+<li>no promotion in uniform groups</li>
+</ul>
+</ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="274">
+<ul>
+<li>Leaving school grounds without permission</li>
+<li>Truancy / Unexcused Absences</li>
+</ul>
+</td>
+<td width="273">
+<ul>
+<li>Conduct grade down by at least 2 grades</li>
+<li>Suspension (in-school / at-home)</li>
+<li>Home involvement</li>
+<li>Counselling / Referral to external agencies</li>
+<li>Detention / Service to School (each day of truancy or unexcused absences)</li>
+<li>Others:</li>
+<ul>
+<li>Not eligible to apply for overseas trips</li>
+<li>Step down from leadership position in CCA / Class</li>
+<li>Suspension from school / co-curricular activities (includes any of the following):</li>
+<ul>
+<li>CCA / non-CCA related matches/competitions</li>
+<li>SYF / performance</li>
+<li>no promotion in uniform groups</li>
+</ul>
+</ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="274">
+<ul>
+<li>Committing an act of dishonesty in assessments / tests / examinations</li>
+</ul>
+<div>
+<div><em>Include but not limited to:</em></div>
+<div>
+<ul>
+<ul>
+<li>Attempts to obtain unfair assistance or advantage on assessment material</li>
+<li>Copying other students' answers or from subject materials</li>
+<li>Providing answers for others to copy</li>
+</ul>
+</ul>
+</div>
+</div>
+</td>
+<td width="273">
+<ul>
+<li>Conduct grade down by at least 2 grades</li>
+<li>Home involvement</li>
+<li>Counselling&nbsp;</li>
+<li>Results nullified</li>
+<li>Others:</li>
+<ul>
+<li>Not eligible to apply for overseas trips</li>
+<li>Step down from leadership position in CCA / Class</li>
+<li>Suspension from school / co-curricular activities (includes any of the following):</li>
+<ul>
+<li>CCA / non-CCA related matches/competitions</li>
+<li>SYF / performance</li>
+<li>no promotion in uniform groups</li>
+</ul>
+</ul>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Breach of assessments / tests / examinations procedures&nbsp;</li>
+</ul>
+<div><em>Include but not limited to:</em></div>
+<div>
+<ul>
+<ul>
+<li>All kinds of communication between students during the exams (includes the time for giving instructions and paper collection)</li>
+<li>Possession of unauthorised materials</li>
+<li>Failure to stop writing when told to do so at the end of assessment</li>
+</ul>
+</ul>
+</div>
+</td>
+<td>
+<ul>
+<li>Home involvement</li>
+<li>Counselling&nbsp;</li>
+<li>Results nullified&nbsp;</li>
+</ul>
+<div>*<em>Conduct grade down by at least 2 grades for repeat offenders.</em></div>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p><strong>Minor</strong></p>
+</td>
+<td width="274">
+<ul>
+<li>Late-coming</li>
+<li>Late for lessons (more than 5 minutes)</li>
+<li>Skipping lessons / remedial / supplementary / enrichment programmes / assembly / detention / service to school without valid reasons</li>
+<li>Improper attire and grooming</li>
+<li>Littering</li>
+<li>Not doing assignments</li>
+<li>Using vulgar language</li>
+<li>Disruptive / inappropriate behaviour</li>
+<li>Consuming food / drink outside caf&eacute; / canteen and outside recess time during school hours</li>
+<li>Possession of poker cards</li>
+<li>Possession and/or use of PEDs outside designated places and beyond approved time periods</li>
+</ul>
+<div>*<em>Late-coming records will be reviewed at the end of the first semester to determine whether they are carried forward or reset for the second semester.</em></div>
+<div></div>
+<div><em>Conditions for reset:</em></div>
+<div>
+<ul>
+<li><em>Students observe at least 2 full months / 40 days of consecutive punctuality from the last date of late-coming&nbsp;</em><em><strong>OR</strong></em></li>
+<li><em>Students with 3 times or less of late-coming in the first semester.</em></li>
+</ul>
+</div>
+</td>
+<td width="273"><u><strong>For Late-coming:<br /></strong><br />Committed offence 1 &ndash; 3 times</u><br />
+<ul>
+<li>Verbal warning</li>
+<li>Home involvement</li>
+</ul>
+<br /><u>Committed offence 4 - 8 times</u><br />
+<ul>
+<li>Conduct grade down by 1 grade</li>
+<li>Home involvement</li>
+<li>Counselling / Referral to external agencies</li>
+<li>Detention / Service to school</li>
+</ul>
+<br /><u>Committed offence 9 times or more<br /></u><br />
+<ul>
+<li>Conduct grade down by 2 grades</li>
+<li>Home involvement</li>
+<li>Counselling / Referral to external agencies</li>
+<li>In-school suspension</li>
+<li>Others:</li>
+<ul>
+<li>Not eligible to apply for overseas trips</li>
+<li>Step down from leadership position in CCA / Class</li>
+<li>Suspension from school / co-curricular activities (includes any of the following):</li>
+<ul>
+<li>CCA / non-CCA related matches/competitions</li>
+<li>SYF / performance</li>
+<li>no promotion in uniform groups</li>
+</ul>
+</ul>
+</ul>
+<div>+<em>Consequences differ for the other minor offences indicated here. School will refer to internal disciplinary standard operating procedures for follow up.&nbsp;</em></div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
