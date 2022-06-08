@@ -2,6 +2,7 @@ collections:
   about-bpghs:
     output: true
     order:
+      - Our People/Our People.md
       - Our People/.keep
       - BPGHS Code of Conduct.md
       - Contact Us.md
