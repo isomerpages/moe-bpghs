@@ -68,8 +68,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 
 
 **Important Note:**
-
-For attire check on the first day of each school term, students with **dyed hair/unacceptable hairstyles** will be identified and referred to the Year Heads or HOD/Student Management. Students will be sent home on the day itself. 
+<br>For attire check on the first day of each school term, students with **dyed hair/unacceptable hairstyles** will be identified and referred to the Year Heads or HOD/Student Management. Students will be sent home on the day itself. 
 
 <strong><center>Attire</center></strong>
 
