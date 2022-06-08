@@ -90,3 +90,9 @@ Prominent BP alumni who have established themselves in their respective fields. 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/D4yw6VS0jQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center>Parent's Testimonial 2 - By Mr Frank Yong </center>
+
+<br>
+
+(link FAQ)
+
+**[ASK BPGHS](https://form.gov.sg/619616f2a342eb00125bd7bf)**
