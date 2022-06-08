@@ -8,7 +8,8 @@ description: ""
 <strong><center>LIVE SESSIONS <br> with the Principal and Vice-Principals</center></strong>
 <center><strong>1ST DATE</strong>: FRIDAY, 19 NOV 2021 TIME: 6PM <br> <strong>2ND DATE</strong>: SATURDAY, 20 NOV 2021 TIME: 9AM</center>
 
-<center><em>Registration for the Live sessions has already closed on 16 Nov. <br> For further queries on registration, please email the school at bpghs@moe.edu.sg.</em></center>
+<center><em>Registration for the Live sessions has already closed on 16 Nov. <br> For further queries on registration, please email the school at <a href="mailto:bpghs@moe.edu.sg.">bpghs@moe.edu.sg</a>.</em></center>
+
 
 # Our Virtual Tour
 
