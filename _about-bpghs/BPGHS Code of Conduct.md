@@ -73,6 +73,6 @@ For attire check on the first day of each school term, students with **dyed hair
 
 <strong><center>Attire</center></strong>
 
-
-
-
+![](/images/UNIFORM1.png)
+![](/images/UNIFORM2.png)
+![](/images/HAIR.png)
