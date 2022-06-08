@@ -2,5 +2,6 @@ collections:
   about-bpghs:
     output: true
     order:
+      - BPGHS Code of Conduct.md
       - Contact Us.md
       - Vision, Mission, Values and Motto.md
