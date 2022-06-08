@@ -437,3 +437,5 @@ third_nav_title: Our People
 </tbody>
 </table>
 
+
+For general inquiries, please contact us at: <a href="mailto:bpghs@moe.edu.sg">bpghs@moe.edu.sg</a>
