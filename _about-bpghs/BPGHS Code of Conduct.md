@@ -194,16 +194,16 @@ Every BPian must exhibit exemplary conduct, and show respect and care for others
 * Students are not allowed to wear smart watches to school to prevent distraction during lessons.
 * The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines with regards to the following PEDs:
 
-Handphones:
-Handphones must be switched off immediately the moment they step into the school and kept out of sight of everyone.
-Hndphones can only be used at the following venues at all times: canteen and café. Handphones are not  allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
-Students who wish to use their handphones can only do so during recess and after school dismissal, either in the canteen or café.
-Handphones found in sight outside the designated places, and beyond approved time periods will be safe-kept by the school till the end of the school day, unless otherwise stated. This applies regardless of whether the phone seen by the teachers is in use or not.
-For students who breach the handphone rules twice or more, his or her handphone will be safe-kept in the General Office for 3 working days (overnight), or longer, in proportion to the frequency of offences.
-If there are repeated cases of students not adhering to the above guidelines, the PEDs of that class will be placed in the classroom lockers during curriculum time, for a stipulated period of time according to the number of reported cases.
-If a student's PED has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student's parents will be kept informed about the matter. The PED will only be returned to the student/ parent after the investigation has concluded.
+<strong><u>Handphones:</u></strong>
+* Handphones must be **switched off** immediately the moment they step into the school and kept out of sight of everyone.
+* Hndphones can only be used at the following venues at all times: **canteen and café**. Handphones are ***not***  allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
+* Students who wish to use their handphones can only do so **during recess and after school dismissal**, either in the canteen or café.
+* Handphones found in sight outside the designated places, and beyond approved time periods will be safe-kept by the school till the end of the school day, unless otherwise stated. This applies regardless of whether the phone seen by the teachers is in use or not.
+* For students who breach the handphone rules twice or more, his or her handphone will be safe-kept in the General Office for 3 working days (overnight), or longer, in proportion to the frequency of offences.
+* If there are repeated cases of students not adhering to the above guidelines, the PEDs of that class will be placed in the classroom lockers during curriculum time, for a stipulated period of time according to the number of reported cases.
+* If a student's PED has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student's parents will be kept informed about the matter. The PED will only be returned to the student/ parent after the investigation has concluded.
 
-Learning Devices (Laptops):
+<strong><u>Learning Devices (Laptops):</u></strong>
 PEDs such as laptops are solely for learning purposes. Personal use such as gaming, watching videos and engaging in social media activities is strictly prohibited.
 Violation of any rules pertaining to the use of laptops may result in their confiscation for 3 school days and other disciplinary actions.
 If a student’s laptop has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student’s parents will be kept informed about the matter. It will only be returned to the student/parent after the investigation has concluded.
