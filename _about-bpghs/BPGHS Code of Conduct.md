@@ -34,7 +34,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 * Game attire (e.g. CCA T-shirts, jerseys etc.) is not allowed during lessons.
 * Upon feedback from teachers, all rectifications should be done on the day itself. Otherwise, students will be sent back home.
 
-<strong><p> 2. PE ATTIRE & CCA/CLASS T-SHIRT </p></strong>
+<strong><p>2. PE ATTIRE & CCA/CLASS T-SHIRT</p></strong>
 
 * Students can wear half uniform to school on days when they have PE lessons, except Mondays with assembly period. 
 * Half uniform: School T-shirt with school shorts/pants/skirt.
