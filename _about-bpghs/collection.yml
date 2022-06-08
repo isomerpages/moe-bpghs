@@ -1,4 +1,5 @@
 collections:
   about-bpghs:
     output: true
-    order: []
+    order:
+      - Vision, Mission, Values and Motto.md
