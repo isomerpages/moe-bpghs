@@ -124,22 +124,40 @@ Every BPian has the responsibility of attending all lessons, CCAs and other scho
 </ul>
 
 
-PUNCTUALITY
+**PUNCTUALITY**
 
-The school regards punctuality as a very important virtue. Late coming is a school offence.
-Students must be responsible for their actions and be considerate to others.
-Being late for school not only upsets normal school proceedings but also disrupts lessons / programmes.
-All students must be punctual for school, lessons, CCA and other committed school activities.
-Students will be deemed as late if they are not with their classes at the respective venues when the flag raising ceremony commences at 7.30 a.m. The designated venues, unless otherwise informed, are:
-Mondays: Multi-Purpose Hall
-Tuesdays and Thursdays: Classrooms
-Wednesdays and Fridays: Courtyard
-Students will be held at the foyer for safety reasons, and will be considered late, if they reach school after 7.28am.
-Students who are late for school must report to the General Office to obtain a permission slip to enter their classes.
-Disciplinary action will be taken against those who are late for school, class or any school organised programme.
-Upon the third and subsequent offences within the semester, parents will be called up, and the student will face consequences meted out by the school (e.g. detention, service to the school, in-house suspension for serious offenders).
+<ul>
+<li>The school regards punctuality as a very important virtue. Late coming is a school offence.</li>
+</ul>
+<ul>
+<li>Students must be responsible for their actions and be considerate to others.</li>
+</ul>
+<ul>
+<li>Being late for school not only upsets normal school proceedings but also disrupts lessons / programmes.</li>
+</ul>
+<ul>
+<li>All students must be punctual for school, lessons, CCA and other committed school activities.</li>
+</ul>
+<ul>
+<li>Students will be deemed as late if they are not with their classes at the respective venues when the flag raising ceremony commences&nbsp;at 7.30 a.m. The designated venues, unless otherwise informed, are:</li>
+</ul>
+<ul>
+<ul>
+<li>Mondays: Multi-Purpose Hall</li>
+<li>Tuesdays and Thursdays: Classrooms</li>
+<li>Wednesdays and Fridays:&nbsp;Courtyard</li>
+</ul>
+<li>Students will be held at the foyer for safety reasons, and will be considered late, if they reach school after 7.28am.</li>
+<li>Students who are late for school must report to the General Office to obtain a permission slip to enter their classes.</li>
+</ul>
+<ul>
+<li>Disciplinary action will be taken against those who are late for school, class or any school organised programme.</li>
+</ul>
+<ul>
+<li>Upon the third and subsequent offences within the semester, parents will be called up, and the student will face consequences meted out by the school (e.g. detention, service to the school, in-house suspension for serious offenders).</li>
+</ul>
 
-PERMISSION TO LEAVE SCHOOL DURING SCHOOL HOURS
+**PERMISSION TO LEAVE SCHOOL DURING SCHOOL HOURS**
 
 A student may request for an early release from school only on the following conditions:
 When he/she is not feeling well,
@@ -147,19 +165,19 @@ Upon special request from his/her parent/guardian.
 The student must report to the General Office to obtain permission from the Principal/Vice-Principal.
 The General Office will inform the parent/guardian to fetch the student from school.
 
-OVERSEAS TRAVEL
+**OVERSEAS TRAVEL**
 
 Parents are required to submit their children's travel declarations via Parents Gateway when they go on any trip overseas during the holidays. 
 Overseas travel applications are not allowed during term time. Students who travel overseas without the permission of the school will be marked as 'absent without valid reason', and be given a nil grade/mark for the assessment they have missed. Should there be a valid reason for overseas travel, applications must be made directly to the Principal.
 
-General Conduct
+# General Conduct
 Every BPian must exhibit exemplary conduct, and show respect and care for others and the environment. Every BPian must respect the school as an environment for conducive learning.
 
-GETTING READY FOR LESSONS
+**GETTING READY FOR LESSONS**
 
 Students must get themselves ready for lessons before the start if the school day, by filling up their water bottles and visiting the toilets before the first lesson. They should also do likewise during each recess so as to be prepared for the next segment of the school day. Hence, students should not request to refill their bottles or visit the toilets during the period immediately after recess.
 
-USE OF PERSONAL ELECTRONIC DEVICES (PEDs)
+**USE OF PERSONAL ELECTRONIC DEVICES (PEDs)**
 
 Personal Electronic Devices (PEDs) include handphones, ipods, ipads, tablets, laptops, cameras, smart watches and similar electronic devices.
 
@@ -334,4 +352,3 @@ For students who have committed any minor or major offences, the HOD/Student Man
 Only students with conduct grade ‘Good’ and above will be eligible for any government or school awards, e.g. Edusave/Eagles/Colours/Edusave Character Award.
 
 The following guide will be used by teachers in assigning the conduct grade to each student:
-
