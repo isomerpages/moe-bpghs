@@ -5,4 +5,6 @@ date: 2022-03-11
 layout: post
 description: ""
 ---
+[MYE Format of Paper Topics to be Tested 2022.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202022/Announcements%20&%20Updates/MYE%20Format%20of%20Paper%20%20Topics%20to%20be%20Tested%202022.pdf)
 
+[MYE Exam Schedule 2022 (updated 1 Apr 2022).pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202022/Announcements%20&%20Updates/MYE%20Exam%20Schedule%202022%20updated%201%20Apr%202022.pdf)
