@@ -274,42 +274,47 @@ The bell will ring at the following times:
 * Keep the toilets clean at all times.
 * Refrain from stepping on the grass.
 
-Classroom Conduct
+# Classroom Conduct
 Every BPian must show respect for self and others’ right to learn, and therefore exercise self-discipline so as not to disturb the learning of self and others.
 
-BEHAVIOUR DURING LESSONS
+**BEHAVIOUR DURING LESSONS**
 
-Report punctually for lessons. You are considered late if you reach the lesson venue more than 5 minutes beyond the start of each lesson.
-Bring textbooks, workbooks and other materials relevant to your lessons.
-Complete and hand in your assignments by the specified deadline. Any request for an extension of time must be made to the teacher before the deadline.
-Stay focused and participate actively during lessons.
-Seek the teacher’s permission before leaving the class during lesson.
-Do not to disrupt the lessons or waste curriculum time.
-Move quietly and quickly in an orderly manner as a class, from one venue to another for lessons.
-Do your own self-study when a teacher is absent
-No handphones are allowed in the classroom, study corners, corridors, library and any part of the school compound during curriculum time, unless instructed by the teachers for curriculum time, unless instructed by the teachers for academic purposes. 
+* Report punctually for lessons. You are considered late if you reach the lesson venue more than 5 minutes beyond the start of each lesson.
+* Bring textbooks, workbooks and other materials relevant to your lessons.
+* Complete and hand in your assignments by the specified deadline. Any request for an extension of time must be made to the teacher before the deadline.
+* Stay focused and participate actively during lessons.
+* Seek the teacher’s permission before leaving the class during lesson.
+* Do not to disrupt the lessons or waste curriculum time.
+* Move quietly and quickly in an orderly manner as a class, from one venue to another for lessons.
+* Do your own self-study when a teacher is absent
+* No handphones are allowed in the classroom, study corners, corridors, library and any part of the school compound during curriculum time, unless instructed by the teachers for curriculum time, unless instructed by the teachers for academic purposes. 
 
-Responsible Use of Equipment
+# Responsible Use of Equipment
 Every BPian is responsible for his/her personal belongings. Every BPian also has the responsibility to be a good digital citizen and make responsible decisions.
 
-PERSONAL BELONGINGS
+**PERSONAL BELONGINGS**
 
-Students are strongly advised against bringing valuable items to school.
-Students are to be responsible for their own personal belongings and should not leave them unattended at all times.
-While the school will assist in the search for lost valuables, the school cannot guarantee the successful return of these valuables. The school cannot be held responsible nor liable in any way for the theft/loss of valuables.
-All students are disallowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-The following items will be confiscated if brought to school:
-chewing gum
-poker cards
-cigarettes
-lighters
-pornographic materials
-sharp/pointed objects
-hazardous chemicals
-alcoholic drinks
+<ul>
+<li>Students are strongly advised against bringing valuable items to school.</li>
+<li>Students are to be responsible for their own personal belongings and should not leave them unattended at all times.</li>
+<li>While the school will assist in the search for lost valuables, the school cannot guarantee the successful return of these valuables. The school cannot be held responsible nor liable in any way for the theft/loss of valuables.</li>
+<li>All students are disallowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
+<li>The following items will be confiscated if brought to school:</li>
+<ul>
+<li>chewing gum</li>
+<li>poker cards</li>
+<li>cigarettes</li>
+<li>lighters</li>
+<li>pornographic materials</li>
+<li>sharp/pointed objects</li>
+<li>hazardous chemicals</li>
+<li>alcoholic drinks</li>
+</ul>
+</ul>
+
 Note: Parents will be required to meet the HOD/Student Management for a discussion and collect the items confiscated. This does not apply to illegal items.
 
-USE OF TECHNOLOGY
+**USE OF TECHNOLOGY**
 
 Students are expected to treat others with respect, behave responsibly and with integrity when using technology.
 They shall not engage in any activities relating to the use of the ICT resources that will be in violation of the laws of Singapore, in particular (but not limited to), the Computer Misuse and Cybersecurity Act (Cap 50A, available at https://sso.agc.gov.sg//) as may be amended from time to time. Some examples of illegal uses are:
