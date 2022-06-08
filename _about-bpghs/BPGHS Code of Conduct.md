@@ -439,14 +439,3 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tbody>
 </table>
 
-
-
-
-
-| Conduct Grade | Descriptors |
-|:---:|:---:|
-| Excellent | A student who consistently behaves in an exemplary manner. He/she  <br>● is always courteous and respectful towards others and <br>● always does things well in his/her own and <br>● shows a very clear sense of right and wrong through speech and action and <br>● is always dependable; <br>● always completes tasks on time and  contributes actively to the betterment of others. |
-| Very Good | A student who consistently behaves well. He/she  is courteous and respectful towards others and does things well in his/her own and shows a clear sense of right and wrong through speech and action and is dependable; completes tasks on time and  contributes to the betterment of others. |
-|  Good |  A student who behaves well most of the time. He/she  is generally courteous and respectful towards others most of the time and does things well in his/her own most of the time and shows a sense of right and wrong through speech and action most of the time and is dependable most of the time; completes tasks on time when reminded and  contributes to the betterment of others most of the time. |
-| Fair  |  A student who shows unacceptable behaviour. He/she  is courteous and respectful towards others sometimes does things well in his/her own sometimes shows a sense of right and wrong through speech and action when guided is seldom dependable; tasks are usually not completed on time and  contributes to the betterment of others when reminded. |
-| Poor  | A student who frequently shows unacceptable behaviour. He/she  is seldom courteous and respectful towards others sometimes seldom does things well in his/her own shows a sense of right and wrong through speech and action when reminded is rarely dependable; tasks are often not completed on time seldom contributes to the betterment of others. |
