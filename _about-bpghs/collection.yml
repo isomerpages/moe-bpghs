@@ -2,10 +2,10 @@ collections:
   about-bpghs:
     output: true
     order:
-      - Our People/School Staff.md
-      - Our People/School Management Committee.md
-      - Our People/Our People.md
       - Our People/.keep
+      - Our People/Our People.md
+      - Our People/School Management Committee.md
+      - Our People/School Staff.md
       - BPGHS Code of Conduct.md
       - Contact Us.md
       - Vision, Mission, Values and Motto.md
