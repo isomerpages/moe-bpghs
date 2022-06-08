@@ -77,3 +77,18 @@ Prominent BP alumni who have established themselves in their respective fields. 
 # Strong Heritage
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UKf-LxjWamE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>'Homecoming', as part of our school's 60th Anniversary celebrations 2020.</center>
+
+# Parents' Voices
+
+
+<div>
+<div style="float: left">
+<iframe width="280" height="158" src="https://www.youtube.com/embed/uvh5FEn4FO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/D4yw6VS0jQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
+
