@@ -33,13 +33,8 @@ description: ""
 
 We aim to inspire an aspiration to succeed in our students. To find out more about the various departments, please click [here](/holistic-education/personalised-digitial-learning-programme-at-bpghs/).
 
-**CCA Teaser**
+**CCA - Teaser**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/zk5vBox7q68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 We aim to develop our students holistically by providing experiences that inculcate sound moral values, build character, and foster camaraderie. A teaser of the CCAs.
-
-
-
-
-
