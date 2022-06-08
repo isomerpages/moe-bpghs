@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News and Events
           description: Check Our School Highlights
-          url: /home/news-and-events
+          url: /news-and-events/gce-n-level-examination-results-release-2019
   - resources:
       title: Announcements and Updates
       subtitle: Stay Updated
