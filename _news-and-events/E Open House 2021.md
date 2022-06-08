@@ -14,8 +14,32 @@ description: ""
 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5XIn_aBu1jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><em>Take an immersive tour of our school</em></center>
 
 
 # Students' Voices
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/r4WUF7FJDjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><em>Follow the 4 BPians to find out how a day in BPGHS looks like. </em></center>
+
+
+
+# Showcases
+<strong><em>Instructional Programme and Co-Curriculur Activities</em></strong>
+
+
+**Instructional Programme in BPGHS**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PH4aCphKsuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We aim to inspire an aspiration to succeed in our students. To find out more about the various departments, please click [here](/holistic-education/personalised-digitial-learning-programme-at-bpghs/).
+
+**CCA Teaser**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zk5vBox7q68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+We aim to develop our students holistically by providing experiences that inculcate sound moral values, build character, and foster camaraderie. A teaser of the CCAs.
+
+
+
+
+
