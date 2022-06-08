@@ -15,7 +15,7 @@ sections:
           description: Check Our School Highlights
           url: /news-and-events
   - resources:
-      title: Announcements and Updates
+      title: Announcements & Updates
       subtitle: Stay Updated
       button: View More
   - infobar:
