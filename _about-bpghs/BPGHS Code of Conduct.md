@@ -34,15 +34,15 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 * Game attire (e.g. CCA T-shirts, jerseys etc.) is not allowed during lessons.
 * Upon feedback from teachers, all rectifications should be done on the day itself. Otherwise, students will be sent back home.
 
-2.    PE ATTIRE & CCA/CLASS T-SHIRT
+<strong><p> 2. PE ATTIRE & CCA/CLASS T-SHIRT </p></strong>
 
-Students can wear half uniform to school on days when they have PE lessons, except Mondays with assembly period. 
-Half uniform: School T-shirt with school shorts/pants/skirt.
-Slacks or track pants can only be worn during PE lessons or during CCA.
-The CCA T-shirt is to be worn only for participation in the respective CCAs. Its design must be approved by the CCA Teacher(s) and endorsed by the HOD PE/ CCA.
-The Class T-shirt is to be worn only for selected school events. Other T-shirts are not allowed. Its design must be approved by the Form Teacher(s) and endorsed by the HOD/Student Management.
-The CCA or Class T-shirt when worn to school, must be matched with the school shorts/pants/skirt.
+* Students can wear half uniform to school on days when they have PE lessons, except Mondays with assembly period. 
+* Half uniform: School T-shirt with school shorts/pants/skirt.
+* Slacks or track pants can only be worn during PE lessons or during CCA.
+* The CCA T-shirt is to be worn only for participation in the respective CCAs. Its design must be approved by the CCA Teacher(s) and endorsed by the HOD PE/ CCA.
+* The Class T-shirt is to be worn only for selected school events. Other T-shirts are not allowed. Its design must be approved by the Form Teacher(s) and endorsed by the HOD/Student Management.
+* The CCA or Class T-shirt when worn to school, must be matched with the school shorts/pants/skirt.
 
-3.    GROOMING
+<p><strong>3.    GROOMING</strong></p>
 
-*The following set of guidelines applies every time the uniform is put on. It applies to all students, at all times, regardless of whether students are in or out of school.
+****The following set of guidelines applies every time the uniform is put on. It applies to all students, at all times, regardless of whether students are in or out of school.***
