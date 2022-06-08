@@ -44,4 +44,34 @@ Every BPian embodying the qualities in the school values and 21st century compet
 | Resilience | Being able to cope with change and seize the opportunity for growth |
 | Respect | Treats self and others with respect |
 | Integrity | Being honest and upright in character |
-| Care for others | Acts with kindness and compassion and contributes to the betterment of the community | 
+| Care for others | Acts with kindness and compassion and contributes to the betterment of the community |
+
+
+
+<br>
+
+
+<center><strong>Motto</strong></center>
+<center><em>Diligent in study and practice</em></center>
+
+
+
+| Diligent | Showing perseverance and tenacity |
+|---|---|
+| Study | The pursuit of learning |
+| Practice | The application of learning that shows purpose and character |
+
+
+
+
+Strategic Thrusts
+
+ST1 Igniting the Joy of Learning
+An engaging and enriching student focussed learning environment to develop passionate learners
+
+ST2 Nurturing Future Leaders
+A robust student development programme to nurture students to be leaders with a heart to serve
+
+ST3 Building Staff Capacity and Competency
+Purposeful staff learning and development programmes to enhance staff capacity and competency
+
