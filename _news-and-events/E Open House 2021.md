@@ -62,15 +62,18 @@ Prominent BP alumni who have established themselves in their respective fields. 
 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/KISmxfrqEhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-
 <center>Featuring Olympian Saiyidah Aisyah and SEA Games medallist Lim Shengyu. Discover their journeys from school sportspersons to representing Singpore in the international sporting arena.</center>
 
+<br>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NkcG-Ze5L_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center> Featuring 
-	
-	
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uujY7a1hsIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center> Featuring Law Song Senf (Founding Director and former CEO of ITE), Cheng Li Hui (Member of Parliament, Tampines GRC) and Joanne Chow (Staff Officer, Singapore Prison Service). Find out what spurred them to take up professions in community and nation service.</center>
 
-<
+<br>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uujY7a1hsIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center> Featuring Artist Tan Seng Kok and Cinematographer/Video Producer Vinod Varma. Find out what motivated them to pursue their passion for the arts.</center>
+
+# Strong Heritage
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UKf-LxjWamE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
