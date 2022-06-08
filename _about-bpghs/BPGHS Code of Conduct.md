@@ -204,10 +204,9 @@ Every BPian must exhibit exemplary conduct, and show respect and care for others
 * If a student's PED has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student's parents will be kept informed about the matter. The PED will only be returned to the student/ parent after the investigation has concluded.
 
 <strong><u>Learning Devices (Laptops):</u></strong>
-PEDs such as laptops are solely for learning purposes. Personal use such as gaming, watching videos and engaging in social media activities is strictly prohibited.
-Violation of any rules pertaining to the use of laptops may result in their confiscation for 3 school days and other disciplinary actions.
-If a student’s laptop has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student’s parents will be kept informed about the matter. It will only be returned to the student/parent after the investigation has concluded.
-
+* PEDs such as laptops are solely for learning purposes. Personal use such as gaming, watching videos and engaging in social media activities is strictly prohibited.
+* Violation of any rules pertaining to the use of laptops may result in their confiscation for 3 school days and other disciplinary actions.
+* If a student’s laptop has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student’s parents will be kept informed about the matter. It will only be returned to the student/parent after the investigation has concluded.
 
 STANDARDS OF BEHAVIOUR
 
