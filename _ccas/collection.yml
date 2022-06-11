@@ -2,12 +2,12 @@ collections:
   ccas:
     output: true
     order:
+      - CCAs.md
+      - Performing Arts/.keep
       - Performing Arts/English Drama.md
       - Performing Arts/Malay Cultural Society.md
-      - Performing Arts/.keep
-      - CCAs.md
+      - Clubs and Societies/.keep
       - Clubs and Societies/Science Society Club.md
       - Clubs and Societies/Infocomm Club.md
       - Clubs and Societies/BP Communication Link.md
       - Clubs and Societies/Service Learning Club.md
-      - Clubs and Societies/.keep
