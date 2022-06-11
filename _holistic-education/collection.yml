@@ -1,6 +1,4 @@
 collections:
   holistic-education:
     output: true
-    order:
-      - CCAs/CCAs.md
-      - CCAs/.keep
+    order: []
