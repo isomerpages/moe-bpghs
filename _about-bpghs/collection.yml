@@ -2,7 +2,6 @@ collections:
   about-bpghs:
     output: true
     order:
-      - Our Achievements/Academic Achievements.md
       - Our Achievements/Our Achievements.md
       - Our Achievements/.keep
       - Our History.md
