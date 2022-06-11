@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - CCAs.md
+      - Clubs and Societies/Service Learning.md
       - Clubs and Societies/.keep
