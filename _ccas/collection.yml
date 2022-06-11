@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - CCAs.md
+      - Clubs and Societies/BP Communication Link.md
       - Clubs and Societies/Service Learning Club.md
       - Clubs and Societies/.keep
