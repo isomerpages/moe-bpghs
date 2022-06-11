@@ -4,7 +4,6 @@ permalink: /ccas/Uniform-Groups/national-cadet-corp
 description: ""
 third_nav_title: Uniform Groups
 ---
-  
 ![IMG_0065.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Cadet%20Corps/IMG_0065.jpg)  
 The Bukit Panjang National Cadet Corps (BPNCC) unit is a uniformed group that aims to nurture student cadets to have a Committed Heart, a Resilient Mind and a Fit Body. The unit was awarded Distinction for the 2018 Unit Recognition award after a demanding year of training and courses attended by cadets. This is the pinnacle award an NCC unit can achieve for all-round excellence.  
   
