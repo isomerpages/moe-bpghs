@@ -1,5 +1,4 @@
 collections:
   holistic-education:
     output: true
-    order:
-      - Holistic Education.md
+    order: []
