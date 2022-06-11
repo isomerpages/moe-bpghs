@@ -36,7 +36,7 @@ Every BPian embodying the qualities in the school values and 21st century compet
 
 
 
-<center><em>BPGHS espouses the values of Responsibility, Resilience, Respect, Integrity and Care for others.</center></em>
+<center><em>BPGHS espouses the values of Responsibility, Resilience, Respect, Integrity and Care for others.</em></center>
 
 
 
