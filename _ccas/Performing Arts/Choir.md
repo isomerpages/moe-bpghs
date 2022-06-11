@@ -6,7 +6,8 @@ third_nav_title: Performing Arts
 ---
 Bukit Panjang Government High School Choir, which was founded in 1994, comprises students who have a passion to sing and further develop their choral abilities. The choir has evolved over the years from a two-part ensemble to a full-fledged STAB (Soprano, Alto, Tenor and Bass) choir. Our repertoire includes folk songs from various countries sung in their original languages and songs from musicals. The choir believes that music is truly a universal language that speaks to the soul and enriches the mind. Through choral singing, we seek to nurture values that develop the whole child – values like discipline, teamwork and aesthetic sensitivity.
 
-  
+![](/images/SYF%202019_2.jpeg)
+<br><center><u>SYF 2019</u></center>
 
 ![SYF 2019_2.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Choir/SYF%202019_2.JPG)
 
