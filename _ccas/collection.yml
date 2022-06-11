@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCAs.md
+      - Performing Arts/Chinese Drama.md
       - Performing Arts/.keep
       - Performing Arts/English Drama.md
       - Performing Arts/Malay Cultural Society.md
