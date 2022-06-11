@@ -4,7 +4,7 @@ permalink: /about-bpghs/vision-mission-values-and-motto
 description: ""
 ---
 <img src="/images/logo.jpeg" 
-     style="width:35%">
+     style="width:25%">
 <h2><center>Vision</center></h2>
 <center><em>Every BPian a Passionate Learner, an Inspiring Leader</em></center>
 
