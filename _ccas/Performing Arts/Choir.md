@@ -9,11 +9,6 @@ Bukit Panjang Government High School Choir, which was founded in 1994, comprises
 ![](/images/SYF%202019_2.jpeg)
 <br><center><u>SYF 2019</u></center>
 
-![SYF 2019_2.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Choir/SYF%202019_2.JPG)
-
-<center><u>SYF 2019</u></center>
-
-  
 
 BPGHS Choir is highly committed to perform at the highest possible level of choral virtuosity. In addition to participating in exchange programs, attending master-classes, and performing in school events, the choir has also participated in competitions and events at both national and international levels.
 
