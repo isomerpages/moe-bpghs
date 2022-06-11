@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <img src="/images/Military%20Band.png" 
-     style="width:45%">
+     style="width:65%">
 
   
 ![BPGH_SD_CVG_23_MAR-157.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/BPGH_SD_CVG_23_MAR-157.jpg)
