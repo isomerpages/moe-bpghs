@@ -9,7 +9,7 @@ third_nav_title: Our Achievements
 <div style="float: left">
 
 <img src="/images/ITEA_Brian.jpeg" 
-     style="width:45%">
+     style="width:75%">
 
 </div>
 
