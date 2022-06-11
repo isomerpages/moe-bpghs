@@ -8,10 +8,7 @@ third_nav_title: Performing Arts
 
 The Chinese Drama Club was established in 2011 with the objective of using theatre arts as a medium for student to increase their mastery and interest in the Chinese Language.
 
-  
-
 The club consists of students who are passionate about acting and interested to explore self-expression through the Chinese Language. With a heightened awareness and skill set related to theatre performances, the students would also develop a keener sense of aesthetic appreciation.
-
   
 
 ![SYF_2019.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Chinese%20Drama/SYF_2019.jpeg)
