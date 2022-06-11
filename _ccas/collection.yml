@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCAs.md
+      - Performing Arts/Concert Band.md
       - Performing Arts/Choir.md
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Dance.md
