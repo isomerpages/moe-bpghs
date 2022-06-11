@@ -10,15 +10,20 @@ third_nav_title: Performing Arts
 
 <div>
 
-<div style="float: left">
+<div style="float: right">
 
-<img src\="https://loremflickr.com/320/240" />
+<img src="/images/raden%20mas.png"/>
 
 </div>
 
 <div>
 
-Text content goes here
+<strong>Our Purpose</strong>
+<br>The English Drama Club was established in 2011 to develop passionate drama members in stagecraft as well as vocal and physical expression.
+
+Drama members work together as a team to manipulate the dramatic elements effectively for stage performances.
+
+We believe that every single person in both the cast and the crew, plays a vital role towards a successful production.
 
 </div>
 
@@ -26,7 +31,7 @@ Text content goes here
 
 
 
-**
+
 
 <div>
 
