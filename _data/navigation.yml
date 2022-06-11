@@ -2,11 +2,14 @@ logo: /images/logo.png
 links:
   - title: About BPGHS
     collection: about-bpghs
-  - title: Holistic Education
-    collection: holistic-education
   - title: Special Programmes
     collection: special-programmes
   - title: Partners
     collection: partners
   - title: Links
     collection: links
+  - title: Holistic Education
+    url: /holistic-education
+    sublinks:
+      - title: CCAs
+        url: /ccas/ccas
