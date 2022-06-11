@@ -4,7 +4,6 @@ permalink: /ccas/Uniform-Groups/scouts
 description: ""
 third_nav_title: Uniform Groups
 ---
-  
 ![NIGHT HIKE IN JUNE 2014.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/Scouts/NIGHT%20HIKE%20IN%20JUNE%202014.jpg)  
 
 Started in 1958, BP Eagle Scout Group has a long history of tradition, values and achievements. The aim of the Bukit Panjang Eagle Scout Group is to educate young people to become competent individuals who play a constructive role in society. The group comprises a Scout Troop and a Venture Scout Unit.
