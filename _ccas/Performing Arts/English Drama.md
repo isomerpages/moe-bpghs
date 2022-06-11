@@ -30,5 +30,12 @@ We believe that every single person in both the cast and the crew, plays a vital
      style="width:45%">
 
 
+**Our Achievements**
 
-  
+* Certificate of Accomplishment for Singapore Youth Festival (SYF) Arts    Presentation 2013, 2015 and 2017.
+* Participation in the Human Values Drama Festival (HVDF) 2016 and        2018 –Nomination for Best Actress in 2018.
+* National Story Challenge - Champion for Individual Category 2016
+* Finalist Team for SYF Play!@The Library 2018.
+* Eco-Skit Competition 2018 – 1st runner up
+
+![](/images/love%20above%20all.png)
