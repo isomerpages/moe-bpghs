@@ -19,6 +19,8 @@ third_nav_title: Performing Arts
 
 <div>
 
+<div style="float: left">
+	
 <strong>Our Purpose</strong>
 <br>The English Drama Club was established in 2011 to develop passionate drama members in stagecraft as well as vocal and physical expression.
 
