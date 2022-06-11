@@ -52,3 +52,21 @@ third_nav_title: Our Achievements
    </body>
 	
 </html>
+
+
+
+
+<html>
+
+   <head>
+      <title>Academic Achievements</title>
+   </head>
+	
+   <body>
+      <h2>Academic Achievements</h2>
+      <a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+         <img src = "/images/OLevel2019.jpeg" alt = "academic achievements" border = "0"/> 
+      </a>
+   </body>
+	
+</html>
