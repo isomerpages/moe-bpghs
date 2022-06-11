@@ -4,7 +4,6 @@ permalink: /about-bpghs/Our-Achievements/our-achievements
 description: ""
 third_nav_title: Our Achievements
 ---
-
 <html>
 
    <head>
@@ -13,7 +12,7 @@ third_nav_title: Our Achievements
 	
    <body>
       <p>Academic Achievements</p>
-      <a href = "academic-achievements" target = "_self"> 
+      <a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
          <img src = "/images/OLevel2019.jpeg" alt = "academic achievements" border = "0"/> 
       </a>
    </body>
@@ -30,7 +29,7 @@ third_nav_title: Our Achievements
 	
    <body>
       <p>Non-Academic Achievements</p>
-      <a href = "non-academic-achievements" target = "_self"> 
+      <a href = "/about-bpghs/our-achievements/non-academic-achievements" target = "_self"> 
          <img src = "/images/NDP2019.jpeg" alt = "academic achievements" border = "0"/> 
       </a>
    </body>
