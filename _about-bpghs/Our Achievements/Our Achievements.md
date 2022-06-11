@@ -46,7 +46,7 @@ third_nav_title: Our Achievements
 	
    <body>
       <p>Staff Achievements</p>
-      <a href = "staff-achievements" target = "_self"> 
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
          <img src = "/images/Staff%20Achievements.jpeg" alt = "academic achievements" border = "0"/> 
       </a>
    </body>
