@@ -12,7 +12,8 @@ third_nav_title: Performing Arts
 
 <div style="float: right">
 
-<img src="/images/raden%20mas.png"/>
+<img src="/images/raden%20mas.png" 
+     style="width:45%">
 
 </div>
 
