@@ -33,8 +33,3 @@ We hope that through the efforts of these students, other fellow BPians will be 
 ![clean the school project.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/clean%20the%20school%20project.jpeg)  
 
 ![Go Green for the Community 1.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/Go%20Green%20for%20the%20Community%201.jpg)
-
-*   [Science Society Club](https://www-bpghs-moe-edu-sg-admin.cwp.sg/holistic-education/ccas/clubs-n-societies/science-society-club)
-*   [Infocomm Club](https://www-bpghs-moe-edu-sg-admin.cwp.sg/holistic-education/ccas/clubs-n-societies/infocomm-club)
-*   [BP Communication Link](https://www-bpghs-moe-edu-sg-admin.cwp.sg/holistic-education/ccas/clubs-n-societies/bp-communication-link)
-*   **Service Learning Club**
