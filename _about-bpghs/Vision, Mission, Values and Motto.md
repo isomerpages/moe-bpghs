@@ -39,12 +39,15 @@ Every BPian embodying the qualities in the school values and 21st century compet
 
 
 
+
 | Responsibility | Fulfils one's role and responsibilities to the best of one's ability |
 |---|---|
 | Resilience | Being able to cope with change and seize the opportunity for growth |
 | Respect | Treats self and others with respect |
 | Integrity | Being honest and upright in character |
 | Care for others | Acts with kindness and compassion and contributes to the betterment of the community |
+
+
 
 
 
