@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <img src="/images/Science%20Society%20Club%20Poster.jpeg" 
-     style="width:45%">
+     style="width:35%">
 
 The Science Society Club is an umbrella CCA comprising three domains - Astronomy, Robotics and Science Quiz. Every student is involved in two or more domains to be exposed to a broad scope of knowledge and skills.
 
