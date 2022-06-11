@@ -37,18 +37,7 @@ Every BPian embodying the qualities in the school values and 21st century compet
 <center><em>BPGHS espouses the values of Responsibility, Resilience, Respect, Integrity and Care for others.</center></em>
 
 
-
-
-
-| Responsibility | Fulfils one's role and responsibilities to the best of one's ability |
-|---|---|
-| Resilience | Being able to cope with change and seize the opportunity for growth |
-| Respect | Treats self and others with respect |
-| Integrity | Being honest and upright in character |
-| Care for others | Acts with kindness and compassion and contributes to the betterment of the community |
-
-
-
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Responsibility</th><th style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Fulfils one's role and responsibilities to the best of one's ability</span></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Resilience</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Being able to cope with change and seize the opportunity for growth</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Respect</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Treats self and others with respect</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integrity</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Being honest and upright in character</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Care for others</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Acts with kindness and compassion and contributes to the betterment of the community</span></td></tr></tbody></table>
 
 
 <br>
@@ -57,15 +46,7 @@ Every BPian embodying the qualities in the school values and 21st century compet
 <h2><center>Motto</center></h2>
 <center><em>Diligent in study and practice</em></center>
 
-
-
-| Diligent | Showing perseverance and tenacity |
-|---|---|
-| Study | The pursuit of learning |
-| Practice | The application of learning that shows purpose and character |
-
-
-
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Diligent</th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">Showing perseverance and tenacity</span></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Study</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">The pursuit of learning</span></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Practice</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">The application of learning that shows purpose and character</span></td></tr></tbody></table>
 
 <h2><center>Strategic Thrusts</center></h2>
 
