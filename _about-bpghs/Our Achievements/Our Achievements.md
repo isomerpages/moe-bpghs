@@ -13,7 +13,7 @@ third_nav_title: Our Achievements
 	
    <body>
       <p>Academic Achievements</p>
-      <a href = "our-achievements/academic-achievements" target = "_self"> 
+      <a href = "/our-achievements/academic-achievements" target = "_self"> 
          <img src = "/images/OLevel2019.jpeg" alt = "academic achievements" border = "0"/> 
       </a>
    </body>
