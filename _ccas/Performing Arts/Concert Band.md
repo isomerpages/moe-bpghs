@@ -4,7 +4,7 @@ permalink: /ccas/Performing-Arts/concert-band
 description: ""
 third_nav_title: Performing Arts
 ---
-![Military Band.png](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/Military%20Band.png)
+![](/images/Military%20Band.png)
 
   
 ![BPGH_SD_CVG_23_MAR-157.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/BPGH_SD_CVG_23_MAR-157.jpg)
