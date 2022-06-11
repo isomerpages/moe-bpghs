@@ -38,4 +38,6 @@ We believe that every single person in both the cast and the crew, plays a vital
 * Finalist Team for SYF Play!@The Library 2018.
 * Eco-Skit Competition 2018 – 1st runner up
 
-![](/images/love%20above%20all.png)
+
+<img src="/images/love%20above%20all.png" 
+     style="width:45%">
