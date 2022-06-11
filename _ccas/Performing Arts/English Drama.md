@@ -35,35 +35,3 @@ We believe that every single person in both the cast and the crew, plays a vital
 
 
 
-
-<div>
-
-  
-
-<div style="float: left">
-
-  
-
-<img src\\="https://loremflickr.com/320/240" />
-
-  
-
-</div>
-
-  
-
-<div>
-
-  
-
-Text content goes here
-
-  
-
-</div>
-
-  
-
-</div>
-
-**
