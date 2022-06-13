@@ -5,16 +5,6 @@ links:
   - title: Holistic Education
     url: /holistic-education
     sublinks:
-      - title: Aesthetics
-        url: /holistic-education/Aesthetics/aesthetics
-      - title: D&T | Nutrition & Food Science
-        url: /holistic-education/design-and-technology-nutrition-and-food-science
-      - title: Physical Education
-        url: /holistic-education/physical-education
-      - title: CCE
-        url: /cce/character-and-citizenship-education
-      - title: CCAs
-        url: /ccas/ccas
       - title: PDLP @ BPGHS
         url: /holistic-education/personalised-digital-learning-programme-at-bpghs
       - title: Full Subject Based Banding
@@ -29,6 +19,16 @@ links:
         url: /holistic-education/science
       - title: Humanities
         url: "/holistic-education/humanities "
+      - title: Aesthetics
+        url: /holistic-education/Aesthetics/aesthetics
+      - title: D&T | Nutrition & Food Science
+        url: /holistic-education/design-and-technology-nutrition-and-food-science
+      - title: Physical Education
+        url: /holistic-education/physical-education
+      - title: CCE
+        url: /cce/character-and-citizenship-education
+      - title: CCAs
+        url: /ccas/ccas
   - title: Special Programmes
     collection: special-programmes
   - title: Partners
