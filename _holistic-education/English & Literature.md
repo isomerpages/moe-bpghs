@@ -50,4 +50,5 @@ As part of the Literature curriculum, Secondary One students attend a drama cour
 
 Secondary One to Four students are encouraged to participate in Singapore’s biggest literary festival for students. The various inter-school literary competitions include choral reading, debate on O-level literature texts and unseen poetry, and flash fiction.  
   
-![](/images/english%205.jpeg)
+<img src="/images/english%205.jpeg" 
+     style="width:65%">
