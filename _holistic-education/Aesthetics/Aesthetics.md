@@ -23,7 +23,8 @@ To expose our students to overseas art and culture, in 2018, selected Secondary 
 
 ![](/images/Aesthetics%203.jpeg)
 
-![](/images/Aesthetics%204.jpeg)
+<img src="/images/Aesthetics%204.jpeg" 
+     style="width:65%">
 
 ![](/images/Aesthetics%205.jpeg)
 
