@@ -50,6 +50,6 @@ To promote the use of the language in an authentic setting, students participate
 
 ![](/images/malay%204.jpeg)
 
- 
+![](/images/malay%205.png)
 
-![Overseas trip - Pic 4.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/Mother%20Tongue/Overseas%20trip%20-%20Pic%204.jpeg)
+![](/images/malay%206.jpeg)
