@@ -2,4 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
+      - Internationalisation Programme/Humanities Learning and Cultural
+        Immersion to Taiwan.md
       - Internationalisation Programme/.keep
