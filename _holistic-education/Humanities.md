@@ -70,3 +70,7 @@ Held on 21st April, this competition made the student participants realise the n
 In this annual event, a group of Secondary Four students tackled the theme “Passport to the world: Sustainable Footprints”.  
   
 Two students were awarded Bronze. They are Akmal Ilham Bin Harry (403A) and Zhang Jiayi (404).
+
+![](/images/humanities%205.png)
+
+![](/images/humanities%206.jpeg)
