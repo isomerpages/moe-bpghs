@@ -111,3 +111,33 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
   
 
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Bukit Panjang Government High School, the eTeens programme will be implemented as follows in 2022:**  
+
+  
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Topics/ Lessons</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Programme Learning Objectives</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Time Period</span><br><span style="color:#222;background-color:#B0B0B0">(e.g. Term 3 Week 9)</span></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Mass Talk by HPB appointed vendor</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Awareness of the different STIs and HIV/AIDS<br><br><br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV</td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Term 2 Week 4</span></td></tr><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Classroom-based Lesson</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Term 2 Week 5</span></td></tr></tbody></table>
+  
+
+  
+	
+
+**INFORMATION FOR PARENTS**
+
+10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+  
+
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/CCE/Annex%20A.pdf). The completed form is to be submitted by 25/02/2022. 
+
+  
+
+12. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/CCE/Annex%20B.pdf).  The completed form is to be submitted by 25/02/2022.
+
+  
+
+13. Parents can contact the school at [bpghs@moe.edu.sg](mailto:bpghs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
