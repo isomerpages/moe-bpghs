@@ -39,6 +39,6 @@ As part of the Literature curriculum, Secondary One students attend a drama cour
 
 ![](/images/english%202.jpeg)
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%203.jpeg" 
-     style="width:100%"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%2044.jpeg" 
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%203.jpeg" 
+     style="width:100%"></td><td style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%2044.jpeg" 
      style="width:100%"></td></tr></thead></table>
