@@ -126,3 +126,39 @@ The NYAA Programme has three key components, which all participants are required
 **Service Learning (Touching Lives, Making a Difference)**  
 
 This component recognizes young people’s development as socially responsible citizens who understand the issues faced by the community and explore how they can contribute actively to find a solution. They can choose to undertake a Values-In-Action project or any community service projects of their interest.
+
+
+<u>Objective:</u>
+
+To learn how to give useful service to others in the community and to understand the meaning behind voluntary service.  
+  
+**Bronze:** At least 20 hours of regular activities spread over a minimum period of 4 months.  
+**Silver** : At least 40 hours of regular activities spread over a minimum period of 8 months.  
+  
+**Outdoor Appreciation (To be at Ease with Nature)**
+
+Outdoor learning supports the development of confidence building as young people are placed in unfamiliar environments outside of the classroom. It also develops young people’s problem-solving skills, enhances teamwork, strengthens understanding of the natural environment and inculcates in young people a sense of stewardship for our environment.  
+  
+<u>Objective:</u>
+
+To be at ease with nature and develop stewardship for our environment.  
+  
+**Bronze:** At least 15 hours of outdoor activities with a specific learning goal.  
+**Silver:** At least 24 hours of outdoor activities with a specific learning goal.  
+  
+**Healthy Living (Physical & Mental Wellness)**
+
+Healthy living aims to develop and maintain a healthy lifestyle that allows us to get through our daily activities. It also hopes to develop a healthy body and mind. Our behavior has a significant impact on our wellness and adapting healthy habits with a balanced diet and exercise while avoiding destructive habits such as tobacco, drugs and alcohol will improve both our physical and emotional well-being.  
+  
+<u>Objective:</u>
+To develop physical and mental wellness through healthy living.  
+  
+**Bronze:** At least 24 hours of regular activities spread over a period of 6 months.  
+**Silver:** At least 32 hours of regular activities spread over a period of 12 months.  
+  
+BPians are strongly encouraged to participate in the National Youth Achievement Award (NYAA).  
+
+* Sec 1 and 2: NYAA Bronze Award
+*   Sec 3 and 4: NYAA Silver Award
+
+After the completion of the NYAA programme, BPians will receive a certificate mailed to their school/home in recognition of their efforts.
