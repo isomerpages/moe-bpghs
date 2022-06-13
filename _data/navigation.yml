@@ -5,6 +5,8 @@ links:
   - title: Holistic Education
     url: /holistic-education
     sublinks:
+      - title: Physical Education
+        url: /holistic-education/physical-education
       - title: CCE
         url: /cce/character-and-citizenship-education
       - title: CCAs
