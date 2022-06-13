@@ -17,3 +17,14 @@ description: ""
   
 <strong><u>Learning Beyond the Classroom</u></strong>
 <br>Visiting places of interest in Singapore may sound like a touristic activity, but for the BPians, the EBS-POA Learning Journey and the Secondary One Mathematics Trail are learning opportunities in which they integrate their learning in the classroom and apply to real life contexts.
+
+![](/images/math%201%201.png)
+
+![](/images/math%203.png)
+
+![](/images/math%204.png)
+
+![](/images/math%205.png)
+
+<strong><u>Applying Learning in Competitions</u></strong>
+<br>With the strong belief that every BPian should be given the opportunity to demonstrate and develop their Mathematical ability, all lower secondary students get to participate in competitions such as the Australian Mathematics Competition. For the upper secondary Express stream students, the students are encouraged to participate in the Singapore Mathematical Olympiad and participants are given training to deepen their mathematical knowledge. Other competitions include Computing and Media Competition and the POA Competition.
