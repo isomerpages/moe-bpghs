@@ -48,11 +48,10 @@ The Structured Level ViA programme is designed with certain objectives in mind i
 Students are made aware of the needs of an ageing population in Singapore through their engagement with the elderly folks at various homes. It is through the act of caring for others that they are able to demonstrate and practise the values of patience and respect.
 
   
-
-![Botien 2.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Botien%202.JPG)
+![](/images/VIA%202.jpeg)
 
   
-![Edited Botien 3.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Edited%20Botien%203.jpg)  
+![](/images/VIA%203.jpeg)
 
   
 
@@ -61,9 +60,9 @@ Students are made aware of the needs of an ageing population in Singapore throug
 Students are given the exciting opportunity to become a role model by displaying appropriate values of responsibility and care to influence and make a positive impact on the young children at SParkletots Pre-schools.
 
   
-![Sec 2c.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Sec%202c.JPG)  
+![](/images/VIA%204.jpeg)
 
-![Sparkletots 2 Edited.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Sparkletots%202%20Edited.jpg)  
+![](/images/VIA%205.jpeg)
 
   
 
@@ -73,13 +72,11 @@ Students are given the autonomy to select and exercise problem solving skills to
 
   
 
-![Sec 3a (1).JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Sec%203a.JPG)
-
+![](/images/VIA%206.jpeg)
   
-![Sec 3a.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Sec%203a(1).JPG)
+![](/images/VIA%207.jpeg)
 
-  
-![APSN 5.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/APSN%205.JPG)  
+![](/images/VIA%208.jpeg)
 
   
 
@@ -92,11 +89,8 @@ At Secondary Four, students should be active contributors to improve the lives o
 Hence, their VIA project is entirely self-initiated, planned and executed by students while the Form Teachers facilitate and guide them in the project planning process. In the process, we hope to ignite the spirit of entrepreneurial dare in students as they explore, experiment and take risk in unfamiliar settings and contexts, thereby cultivating their confidence and perseverance.
 
   
+![](/images/VIA%209.jpeg)
 
-![Sec_4b.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Sec_4b.jpg)
+![](/images/VIA%2010.jpeg)
 
-  
-
-![Sec 4c.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Sec%204c.JPG)  
-
-![Project Sphere 2.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Values%20in%20Action/Project%20Sphere%202.jpg)
+![](/images/VIA%2011.jpeg)
