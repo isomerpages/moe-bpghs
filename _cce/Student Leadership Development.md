@@ -151,6 +151,7 @@ To be at ease with nature and develop stewardship for our environment.
 Healthy living aims to develop and maintain a healthy lifestyle that allows us to get through our daily activities. It also hopes to develop a healthy body and mind. Our behavior has a significant impact on our wellness and adapting healthy habits with a balanced diet and exercise while avoiding destructive habits such as tobacco, drugs and alcohol will improve both our physical and emotional well-being.  
   
 <u>Objective:</u>
+
 To develop physical and mental wellness through healthy living.  
   
 **Bronze:** At least 24 hours of regular activities spread over a period of 6 months.  
