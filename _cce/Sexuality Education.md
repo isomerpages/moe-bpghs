@@ -138,4 +138,4 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
   
 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+<p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
