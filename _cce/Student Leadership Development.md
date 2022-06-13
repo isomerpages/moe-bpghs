@@ -27,7 +27,7 @@ In BPGHS, our **vison** is to develop every BPian to be an Inspiring Leader, w
 
 <br>
 
-1. Our Student Leadership Programmes are underpinned by:
+<p>1. Our Student Leadership Programmes are underpinned by:</p>
 
 
 
@@ -40,3 +40,11 @@ In BPGHS, our **vison** is to develop every BPian to be an Inspiring Leader, w
 | 21st Century Competencies: | These enable the students to face the challenges of the future. |
 | The Leadership Challenge Model (TLC): (see Annex A below) | TLC by Kouzes & Posner serves as the fundamental basis for the design of all SLD programmes. The five exemplary practices of leadership provide the leadership development focus for each dimension of leadership development. |
 | Service Learning (through ViA): (see Annex B) | Students carry out Values-in-Action (VIA) projects using the service-learning approach which combines service to the community with student learning in a way that improves both the student and community. There is an equal emphasis on helping communities and providing valid learning experiences to students. |
+
+
+
+ 
+<p>2. The Student Leadership Development Framework calls for leadership directed towards a greater purpose than self, which is ‘service’ beyond the personal needs to include the needs of the school and the community, as depicted at the core of the framework. The framework is grounded in the belief that every leadership effort should culminate in a positive impact on others, which can consist of their peers, school or the wider community.</p>
+
+<p>3.  The framework describes an interaction between three dimensions of Student Leadership Development – Self-Leadership, Team Leadership and Thought Leadership. The essence of each dimension of leadership is as follows:</p>
+
