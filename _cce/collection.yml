@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Character and Citizenship Education.md
       - National Education.md
       - Values in Action.md
       - Educational & Career Guidance.md
@@ -10,4 +11,3 @@ collections:
       - Student Leadership Development/Student Leadership Development.md
       - Student Leadership Development/Student Council.md
       - Cyberwellness Education.md
-      - Character and Citizenship Education.md
