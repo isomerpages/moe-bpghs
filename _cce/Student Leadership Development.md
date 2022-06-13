@@ -69,7 +69,7 @@ The framework takes reference from the four elements of critical consciousness d
 It also emphasises the experiential learning process of leadership among students, as reflected by the dual-headed arrows around the three dimensions of leadership. It encourages the continual process of service and reflection, deepening the growth of oneself in any of the dimensions in which one is in.  
   
 
-<p>4.  The outer-most ring represents the three key groups of stakeholders that are involved in the Student Leadership Programmes --- Personal, School and the Community.</p>
+<p>4.  The outer-most ring represents the three key groups of stakeholders that are involved in the Student Leadership Programmes — Personal, School and the Community.</p>
 
   
 The school leverages community resources and expertise of external partners to provide the necessary training and opportunities to our students. As leadership development is a continual and directed journey, teacher guidance and mentorship is critical in providing the impetus for successful development of leadership values, skills and knowledge in students.
