@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Holistic Education.md
       - Personalised Digital Learning Programme @ BPGHS.md
       - Full Subject Based Banding.md
       - English & Literature.md
