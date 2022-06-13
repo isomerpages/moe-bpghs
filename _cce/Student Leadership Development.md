@@ -75,6 +75,7 @@ It also emphasises the experiential learning process of leadership among student
 The school leverages community resources and expertise of external partners to provide the necessary training and opportunities to our students. As leadership development is a continual and directed journey, teacher guidance and mentorship is critical in providing the impetus for successful development of leadership values, skills and knowledge in students.
 
 **Student-initiated Activities (SiA)** 
+
 Student-initiated Activities (SiA) is one of the key platforms for students to develop their leadership skills. Students work in groups or as a class to propose projects in support of a good cause. SiA provides opportunities for students to build team spirit and develop the entrepreneurial dare, as well as a greater appetite for risk-taking and experimentation.  
   
 BPians who are keen to make a positive impact on their lives of others in the school or community may launch a SiA project by gathering interested peers and obtaining the endorsement from the school SLD team for implementation.  
