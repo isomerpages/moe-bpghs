@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - Aesthetics/.keep
       - Design & Technology | Nutrition & Food Science.md
       - Physical Education.md
