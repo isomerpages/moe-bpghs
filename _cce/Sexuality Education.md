@@ -68,7 +68,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
   
 
-**At Bukit Panjang Government High School, the following Sexuality Education lessons will be taught in 2022:**
+<strong>At Bukit Panjang Government High School, the following Sexuality Education lessons will be taught in <u>2022</u>:</strong>
 
   
 
