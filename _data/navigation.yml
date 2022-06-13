@@ -5,6 +5,8 @@ links:
   - title: Holistic Education
     url: /holistic-education
     sublinks:
+      - title: Aesthetics
+        url: /holistic-education/Aesthetics/aesthetics
       - title: D&T | Nutrition & Food Science
         url: /holistic-education/design-and-technology-nutrition-and-food-science
       - title: Physical Education
