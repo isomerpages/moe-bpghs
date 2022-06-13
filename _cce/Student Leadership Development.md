@@ -163,3 +163,15 @@ BPians are strongly encouraged to participate in the National Youth Achievement 
 *   Sec 3 and 4: NYAA Silver Award
 
 After the completion of the NYAA programme, BPians will receive a certificate mailed to their school/home in recognition of their efforts.
+
+
+
+<center><strong><u>Annex A</u></strong></center>
+
+<center><strong><u>The Leadership Challenge Model (TLC)</u></strong></center>
+
+<img src="/images/SLD2.jpeg" 
+     style="width:65%">
+<center>(Source: The Student Leadership Challenge – The Five Practices for Exemplary Leaders Wiley Publishing)</center>
+
+
