@@ -47,11 +47,9 @@ Please click on the PDF files below for more information regarding the selected 
 
   
 
-**Student iCON**  
+## Student iCON
 
-  
-
-Dear Parents and BPians,  
+ Dear Parents and BPians,  
   
 Please click on the PDF files below for more information about Student iCON.  
   
@@ -66,7 +64,7 @@ To reset your Student iCON password, please click on the link below.
 
   
 
-**Additional Resources for Parents**
+## Additional Resources for Parents
 
 To support you in keeping your child safe online, you may refer to these additional resources:
 
@@ -76,10 +74,9 @@ To support you in keeping your child safe online, you may refer to these additio
 *   Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
 *   National Library’s Learning & Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/) )
 *   TOUCH Community Services ([https://help123.sg](https://help123.sg/))
+  
 
-###   
-
-### Frequently Asked Questions and Answers
+## Frequently Asked Questions and Answers
 
   
 
