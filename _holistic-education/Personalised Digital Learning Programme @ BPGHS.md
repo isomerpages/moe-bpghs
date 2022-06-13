@@ -17,3 +17,73 @@ The use of the personal learning device for teaching and learning aims to:
      style="width:100%"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/IO%202.jpg" 
      style="width:100%"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/IO%203.jpg" 
      style="width:100%"></td></tr></tbody></table>
+		 
+		 
+
+By equipping students with their own PLD, schools can:
+
+*   **Enhance Teaching and Learning:** PLDs harness technology for greater effectiveness in teaching and learning, enabled by teachers’ use of e-Pedagogy to provide active learning experiences for students.
+*   **Support Self-Directed and Collaborative Learning:** PLDs enable students to learn online according to their needs and interests, and to collaborate with each other, anytime and anywhere.
+*   **Support the Development of Digital Literacies:** PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment.
+
+**The 'Find, Think, Apply, and Create' Framework**
+
+![](/images/PDLP%20framework.png)
+
+**Personal Learning Device (PLD)** 
+
+Our school has selected Microsoft Surface Go 2 as the PLD for our students.
+
+![](/images/Surface%20Go%202.png)
+
+Please click on the PDF files below for more information regarding the selected PLD.
+
+  
+
+[Microsoft Surface Go 2.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Device/Microsoft%20Surface%20Go%202.pdf)  
+
+[Microsoft Classroom Pen 2 External Facing Fact Sheet.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Device/Microsoft%20Classroom%20Pen%202%20External%20Facing%20Fact%20Sheet.pdf)  
+
+  
+
+  
+
+**Student iCON**  
+
+  
+
+Dear Parents and BPians,  
+  
+Please click on the PDF files below for more information about Student iCON.  
+  
+[Student iCON - Introduction.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Student%20iCON%20-%20Introduction.pdf)  
+[Student iCON - Onboarding Guide For Students.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf)  
+[Student iCon - FAQ.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Student%20iCon%20-%20FAQ.pdf)  
+  
+To reset your Student iCON password, please click on the link below.  
+[Student iCON password reset](https://go.gov.sg/bpghs-password-reset)  
+
+  
+
+  
+
+**Additional Resources for Parents**
+
+To support you in keeping your child safe online, you may refer to these additional resources:
+
+*   [Parents' Handbook I](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf) and [Parents' Handbook II](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) on Learning with a Personal Learning Device.
+*   Parent Kit on Cyber Wellness for Your Child ([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))
+*   MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/) )
+*   Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
+*   National Library’s Learning & Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/) )
+*   TOUCH Community Services ([https://help123.sg](https://help123.sg/))
+
+###   
+
+### Frequently Asked Questions and Answers
+
+  
+
+A list of answers to Frequently Asked Questions can be found [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/PDLP/2022%20Set%20of%20FAQs.pdf).  
+
+If you have any further queries, kindly email us at:
