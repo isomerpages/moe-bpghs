@@ -10,4 +10,4 @@ On top of their CCE lessons, the school also organise level wide programmes to r
 There are also Cyberwellness Ambassors in each class who undergo the appropriate training workshops  to advocate the importance of CW and its messages to their peers in school.  
   
 
-![IMG_20180521_102643.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/Character%20&%20Citizenship%20Education/Cyberwellness%20Education/IMG_20180521_102643.jpg)
+![](/images/cyberwellness.jpeg)
