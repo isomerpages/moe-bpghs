@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Student Leadership Development
 ---
 ![](/images/student%20council%201.jpeg) 
+
 The Student Council aims to develop Inspiring Leaders with a Heart to Serve.  
   
 It plays an important role in building school spirit and contributing to the BPian experience by planning and executing school-wide events such as the Secondary One Orientation Programme and Teachers' Day Celebrations. As the bridge between the school and the student body, the Student Councillors facilitate dialogue sessions between the school leaders and students in order to create a positive teaching and learning environment for everyone. To engender a culture of care among the student body and empathy for the community at large, they also spearhead Student-Initiated Activities such as the Appreciation Week for our unsung heroes in school, as well as participate in community initiatives such as the Keat Hong Constituency Give and Take Quarterly Breakfast sessions. To instill a sense of school pride for our sports teams, they rally and lead the student body in cheers at inter-school competitions.  
