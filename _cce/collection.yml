@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Cyberwellness Education.md
       - Character and Citizenship Education.md
