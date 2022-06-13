@@ -24,3 +24,19 @@ In BPGHS, our **vison** is to develop every BPian to be an Inspiring Leader, w
 
 <img src="/images/Student%20Leadership%20Development%20Framework.jpeg" 
      style="width:65%">
+
+<br>
+
+1. Our Student Leadership Programmes are underpinned by:
+
+
+
+
+
+
+| School Values: | These ensure the words and actions undertaken by students are based on sound moral values and motives to have a positive impact on others. |
+|---|---|
+| Social and Emotional Competencies: | These enable the students to manage themselves and others and engage in responsible decision making. |
+| 21st Century Competencies: | These enable the students to face the challenges of the future. |
+| The Leadership Challenge Model (TLC): (see Annex A below) | TLC by Kouzes & Posner serves as the fundamental basis for the design of all SLD programmes. The five exemplary practices of leadership provide the leadership development focus for each dimension of leadership development. |
+| Service Learning (through ViA): (see Annex B) | Students carry out Values-in-Action (VIA) projects using the service-learning approach which combines service to the community with student learning in a way that improves both the student and community. There is an equal emphasis on helping communities and providing valid learning experiences to students. |
