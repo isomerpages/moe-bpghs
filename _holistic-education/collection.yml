@@ -2,8 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - Aesthetics/Education Sculpture Garden.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Education Sculpture Garden.md
       - Design & Technology | Nutrition & Food Science.md
       - Physical Education.md
