@@ -42,3 +42,12 @@ As part of the Literature curriculum, Secondary One students attend a drama cour
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%203.jpeg" 
      style="width:100%"></td><td style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%2044.jpeg" 
      style="width:100%"></td></tr></thead></table>
+		 
+		 
+
+
+**National Schools Literature Festival**
+
+Secondary One to Four students are encouraged to participate in Singapore’s biggest literary festival for students. The various inter-school literary competitions include choral reading, debate on O-level literature texts and unseen poetry, and flash fiction.  
+  
+![](/images/english%205.jpeg)
