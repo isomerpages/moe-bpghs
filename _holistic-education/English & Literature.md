@@ -22,11 +22,23 @@ The **Literature-in-English Programme** seeks to enable students to be:
 
 <strong><u>Department Programmes</u></strong>
 
-**Enrichment Programme – Movie Screening  
-**Students have the opportunity to watch a film and join in a discussion of the themes, characterisation, and language of the movie.  
+**Enrichment Programme – Movie Screening**
+
+Students have the opportunity to watch a film and join in a discussion of the themes, characterisation, and language of the movie.  
   
-**Speech / Oral Communication Course  
-**As part of the English language curriculum, students hone their oral and effective communication skills. Apart from practising their pronunciation, students engage in public speaking in the form of show & tell, news presentation, debate, producing a campaign video or delivering a book talk. Students have the chance to take part in national public speaking competitions. This course also helps to prepare students for their yearly school-based oral examination.  
+**Speech / Oral Communication Course**
+
+As part of the English language curriculum, students hone their oral and effective communication skills. Apart from practising their pronunciation, students engage in public speaking in the form of show & tell, news presentation, debate, producing a campaign video or delivering a book talk. Students have the chance to take part in national public speaking competitions. This course also helps to prepare students for their yearly school-based oral examination.  
   
-**Drama Course  
-**As part of the Literature curriculum, Secondary One students attend a drama course in the first semester. This course aims to develop students’ creative self-expression and confidence, teamwork, communication and performance skills, as well as expose them to the elements of drama. At the end of the course, students stage their play. Apart from watching the performance of their peers, students can look forward to catching a play at the theatre.
+**Drama Course**
+
+As part of the Literature curriculum, Secondary One students attend a drama course in the first semester. This course aims to develop students’ creative self-expression and confidence, teamwork, communication and performance skills, as well as expose them to the elements of drama. At the end of the course, students stage their play. Apart from watching the performance of their peers, students can look forward to catching a play at the theatre.
+
+
+![](/images/english%201.jpeg)
+
+![](/images/english%202.jpeg)
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%203.jpeg" 
+     style="width:100%"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/english%2044.jpeg" 
+     style="width:100%"></td></tr></thead></table>
