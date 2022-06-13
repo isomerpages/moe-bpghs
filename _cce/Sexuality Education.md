@@ -24,17 +24,17 @@ description: ""
 
   
 
-3\. The key messages of Sexuality Education are:
+<p>3. The key messages of Sexuality Education are:</p>
 
   
 
-(i)    Love and respect yourself as you love and respect others;
+<p class="tab">(i)    Love and respect yourself as you love and respect others;</p>
 
-(ii)   Build positive relationships based on love and respect (which are the foundation for strong families);
+<p class="tab">(ii)   Build positive relationships based on love and respect (which are the foundation for strong families);</p>
 
-(iii)  Make responsible decisions for yourself, your family and society; and
+<p class="tab">(iii)  Make responsible decisions for yourself, your family and society; and</p>
 
-(iv)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<p class="tab">(iv)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 
   
 
@@ -52,7 +52,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
   
 
-5\. The subjects that incorporate topics on sexuality include:
+5. The subjects that incorporate topics on sexuality include:
 
   
 
