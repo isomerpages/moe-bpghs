@@ -48,3 +48,14 @@ In BPGHS, our **vison** is to develop every BPian to be an Inspiring Leader, w
 
 <p>3.  The framework describes an interaction between three dimensions of Student Leadership Development – Self-Leadership, Team Leadership and Thought Leadership. The essence of each dimension of leadership is as follows:</p>
 
+
+
+
+| Self-Leadership: | Awareness of one’s own strengths and talents and rootedness in sound values is the basis of strong leadership for service. |
+|---|---|
+| Team Leadership: | Students need to learn how to work collaboratively with others to effect change for the betterment of others. |
+| Thought Leadership: | The ability to envision a future and inspire and mobilise others to serve together. |
+
+
+
+
