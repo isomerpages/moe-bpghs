@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Student Leadership Development/.keep
-      - Student Leadership Development.md
       - Cyberwellness Education.md
       - Character and Citizenship Education.md
