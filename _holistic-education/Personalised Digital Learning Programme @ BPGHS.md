@@ -8,8 +8,7 @@ One of the components of the NDLP is the introduction of the Personalised Digita
   
 
   
-
-**Intended Outcomes**
+## Intended Outcomes
 
 The use of the personal learning device for teaching and learning aims to:
 
@@ -26,11 +25,13 @@ By equipping students with their own PLD, schools can:
 *   **Support Self-Directed and Collaborative Learning:** PLDs enable students to learn online according to their needs and interests, and to collaborate with each other, anytime and anywhere.
 *   **Support the Development of Digital Literacies:** PLDs provide an immersive environment for students to develop the dispositions, knowledge and skills to thrive in the digital environment.
 
-**The 'Find, Think, Apply, and Create' Framework**
+## The 'Find, Think, Apply, and Create' Framework
 
 ![](/images/PDLP%20framework.png)
 
-**Personal Learning Device (PLD)** 
+
+
+## Personal Learning Device (PLD)
 
 Our school has selected Microsoft Surface Go 2 as the PLD for our students.
 
