@@ -40,3 +40,9 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 </div>
 
 
+
+<div>
+	
+I have many fond memories of my journey in BPGHS. I made many good friends, and most have stuck by me until now. We still meet every now and then. There is an inexplicable sense of belonging to the BPian community. Also, my teachers were passionate and caring. They kept encouraging me to strive for academic excellence even though, at certain points, I did not have half of the belief they had in me. I was really grateful for all their help, guidance and care. Moreover, they inspired me to pursue a career in teaching and they remain an inspiration to me. Thank you, BPGHS, for having given me such a wonderful schooling experience._
+
+\- Demas
