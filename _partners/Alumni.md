@@ -17,33 +17,6 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <strong><u>Alumni Testimonials</u></strong>
 
 
-
-<div>
-
-<div style="float: left">
-
-<img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" />
-
-</div>
-
-<div>
-	
-<strong>Name</strong>: Koh Sheng Wei, Demas
-<br><strong>Class in BPGHS:</strong> 4T2/2008
-<br><strong>Scholarship:</strong> Teaching Scholarship (Overseas)
-<br><strong>Organisation awarding the scholarship:</strong> MOE
-<br><strong>School:</strong> London School of Economics & Political Science
-<br><strong>Course:</strong> Economics
-
-</div>
-
-</div>
-
-
-	
-*I have many fond memories of my journey in BPGHS. I made many good friends, and most have stuck by me until now. We still meet every now and then. There is an inexplicable sense of belonging to the BPian community. Also, my teachers were passionate and caring. They kept encouraging me to strive for academic excellence even though, at certain points, I did not have half of the belief they had in me. I was really grateful for all their help, guidance and care. Moreover, they inspired me to pursue a career in teaching and they remain an inspiration to me. Thank you, BPGHS, for having given me such a wonderful schooling experience.*  — Demas
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -60,3 +33,6 @@ We are proud of Natasha’s achievements and are confident that she will go on t
   </tr>
 </thead>
 </table>
+
+*I have many fond memories of my journey in BPGHS. I made many good friends, and most have stuck by me until now. We still meet every now and then. There is an inexplicable sense of belonging to the BPian community. Also, my teachers were passionate and caring. They kept encouraging me to strive for academic excellence even though, at certain points, I did not have half of the belief they had in me. I was really grateful for all their help, guidance and care. Moreover, they inspired me to pursue a career in teaching and they remain an inspiration to me. Thank you, BPGHS, for having given me such a wonderful schooling experience.*  — Demas
+
