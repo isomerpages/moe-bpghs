@@ -54,7 +54,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/Alumni%20-%20Choong%20Ming%20Zhe.jpeg" 
-     style="width:90%"></td>
+     style="width:75%"></td>
 		<td class="tg-0pky"><BR><BR><BR><strong>Name:</strong> Choong Ming Zhe<br><br><br><br><strong>Class:</strong> Class of 2010<br><br><br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
   </tr>
 </thead>
