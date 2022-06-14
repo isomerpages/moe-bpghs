@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Code for Fun.md
       - Centre of Excellence for Mathematics.md
       - Internationalisation Programme/.keep
       - Internationalisation Programme/Humanities Learning and Cultural
