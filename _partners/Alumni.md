@@ -40,9 +40,23 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 </div>
 
 
-
-<div>
 	
-I have many fond memories of my journey in BPGHS. I made many good friends, and most have stuck by me until now. We still meet every now and then. There is an inexplicable sense of belonging to the BPian community. Also, my teachers were passionate and caring. They kept encouraging me to strive for academic excellence even though, at certain points, I did not have half of the belief they had in me. I was really grateful for all their help, guidance and care. Moreover, they inspired me to pursue a career in teaching and they remain an inspiration to me. Thank you, BPGHS, for having given me such a wonderful schooling experience._
+*I have many fond memories of my journey in BPGHS. I made many good friends, and most have stuck by me until now. We still meet every now and then. There is an inexplicable sense of belonging to the BPian community. Also, my teachers were passionate and caring. They kept encouraging me to strive for academic excellence even though, at certain points, I did not have half of the belief they had in me. I was really grateful for all their help, guidance and care. Moreover, they inspired me to pursue a career in teaching and they remain an inspiration to me. Thank you, BPGHS, for having given me such a wonderful schooling experience.*  — Demas
 
-\- Demas
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" /></td>
+    <td class="tg-0pky">Name: Koh Sheng Wei, Demas<br><br>Class in BPGHS: 4T2/2008<br><br>Scholarship: Teaching Scholarship (Overseas)<br><br>Organisation awarding the scholarship: MOE<br><br>School: London School of Economics &amp; Political Science<br><br>Course: Economics</td>
+  </tr>
+</thead>
+</table>
