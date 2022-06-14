@@ -40,6 +40,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 <br>
 
+TEST 1
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -60,3 +61,22 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 
 
+TEST 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="/images/Alumni%20-%20Choong%20Ming%20Zhe.jpeg" 
+     style="width:90%"></td>
+		<td class="tg-0pky"><strong>Name:</strong> Choong Ming Zhe<br><br><strong>Class:</strong> Class of 2010<br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
+  </tr>
+</thead>
+</table>
