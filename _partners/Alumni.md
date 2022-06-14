@@ -76,7 +76,7 @@ TEST 2
   <tr>
     <td class="tg-0pky"><img src="/images/Alumni%20-%20Choong%20Ming%20Zhe.jpeg" 
      style="width:90%"></td>
-		<td class="tg-0pky"><strong>Name:</strong> Choong Ming Zhe<br><br><strong>Class:</strong> Class of 2010<br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
+		<td class="tg-0pky"><strong>Name:</strong> Choong Ming Zhe<br><br><br><br><strong>Class:</strong> Class of 2010<br><br><br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
   </tr>
 </thead>
 </table>
