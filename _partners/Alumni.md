@@ -47,7 +47,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -57,3 +57,6 @@ We are proud of Natasha’s achievements and are confident that she will go on t
   </tr>
 </thead>
 </table>
+
+
+
