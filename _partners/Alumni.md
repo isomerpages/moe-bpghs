@@ -28,7 +28,8 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" /></td>
+    <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" 
+     style="width:90%"></td>
 		<td class="tg-0pky"><strong>Name:</strong> Koh Sheng Wei, Demas<br><br><strong>Class in BPGHS:</strong> 4T2/2008<br><br><strong>Scholarship:</strong> Teaching Scholarship (Overseas)<br><br><strong>Organisation awarding the scholarship:</strong> MOE<br><br><strong>School:</strong> London School of Economics &amp; Political Science<br><br><strong>Course:</strong> Economics</td>
   </tr>
 </thead>
@@ -42,9 +43,9 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
