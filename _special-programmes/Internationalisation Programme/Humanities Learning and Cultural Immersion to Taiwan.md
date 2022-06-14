@@ -20,7 +20,7 @@ The students who went on the trip had these to say regarding the experience:
 
 ![](/images/taiwan%202-min.jpeg)
 
-<br><br>
+<br>
 <img src="/images/taiwan%203-min.jpeg" 
      style="width:65%">
 
@@ -30,12 +30,8 @@ The students who went on the trip had these to say regarding the experience:
 
 ![](/images/taiwan%204-min.jpeg)
 
-<br><br>
+<br>
 <img src="/images/taiwan%205-min.jpeg" 
      style="width:65%">
 
-"The Taiwan trip was definitely memorable as I encountered things which I could not do or experience in Singapore. We visited the Gold Ecological Park where we did a gold mining activity. We also went to view a dormant volcano called Xiaoyoukeng located in Yangmingshan National Park. Although the visibility was low due to fog, it was still an enjoyable experience. The trip helped me better understand Taiwan’s geography, history and culture. I also developed stronger friendships with peers who went on the trip.” 
-
-– Dian Natasha Binte Abd Yajid (305A, 2019)
-
-
+"The Taiwan trip was definitely memorable as I encountered things which I could not do or experience in Singapore. We visited the Gold Ecological Park where we did a gold mining activity. We also went to view a dormant volcano called Xiaoyoukeng located in Yangmingshan National Park. Although the visibility was low due to fog, it was still an enjoyable experience. The trip helped me better understand Taiwan’s geography, history and culture. I also developed stronger friendships with peers who went on the trip.” – Dian Natasha Binte Abd Yajid (305A, 2019)
