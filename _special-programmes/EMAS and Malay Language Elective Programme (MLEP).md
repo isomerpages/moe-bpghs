@@ -56,3 +56,7 @@ Malay Language Elective Scholarship (MLES) MLEP-Sec students who are Singaporean
 *   Subsidy for overseas immersion trip will be given.  
     
 *   The renewal of the MLES is subject to the recipient’s Secondary 3 examination performance and conduct.
+
+![](/images/2021%20EMAS_MLEP%20Drama%20Workshop.jpeg)
+
+![](/images/2021%20EMAS_MLEP%20Poetry%20Workshop.jpeg)
