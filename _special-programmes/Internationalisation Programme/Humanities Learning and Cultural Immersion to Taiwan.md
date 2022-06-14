@@ -35,3 +35,10 @@ The students who went on the trip had these to say regarding the experience:
      style="width:65%">
 
 "The Taiwan trip was definitely memorable as I encountered things which I could not do or experience in Singapore. We visited the Gold Ecological Park where we did a gold mining activity. We also went to view a dormant volcano called Xiaoyoukeng located in Yangmingshan National Park. Although the visibility was low due to fog, it was still an enjoyable experience. The trip helped me better understand Taiwan’s geography, history and culture. I also developed stronger friendships with peers who went on the trip.” – Dian Natasha Binte Abd Yajid (305A, 2019)
+
+![](/images/taiwan%206-min.jpeg)
+
+"The most important lessons I learnt during the trip were about the culture and history of Taiwan. The educational films that our guide, Jerry, showed us during the long bus rides shed light on how Taiwan changed over the years. We learnt about The Mushe Incident (Wushe Rebellion) and how the Taiwanese were affected by the Japanese occupation of Taiwan. Jerry also knew a lot about art and showed us interesting pieces at the National Palace Museum of Taiwan.” – Ryan Teo Wei Hong (302, 2019)
+
+
+![](/images/taiwan%207-min.jpeg)
