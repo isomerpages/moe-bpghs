@@ -47,7 +47,3 @@ The students who went on the trip had these to say regarding the experience:
      style="width:65%">
 
 *"The trip to Taiwan offered many learning opportunities. I especially enjoyed our visit to Jiufen and learning about the history of the place. Our guide said that in the past, all the best products were sold at Jiufen, not the capital Taipei, because the gold miners at Jiufen had a lot of money and could afford the finer things in life. I also enjoyed the boat tour around Sun Moon Lake. I learnt about how it was named and how it was formed by an earthquake many years ago.” – Ryan Ng Yong Xiang (305A, 2019)*
-
-
-
-
