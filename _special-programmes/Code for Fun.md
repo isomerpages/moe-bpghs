@@ -16,4 +16,6 @@ The Code for Fun Enrichment Programme aims to:
 
 All Secondary One students of BPGHS are exposed to various forms of coding and robotics to instill in them problem solving skills and creativity. At the start of Term 1, students begin to use Lego Mindstorms EV3 System to learn the fundamentals of good robot construction and programming. In Term 2, they then move on to explore concepts of drone flight mechanism and application of drone technology in real world, through fun and experiential learning techniques. In Semester 2, students will focus on using the UiFlow platform to build a sustainable and accessible enhancement prototype such as a Smart Home Improvement Gadget, using the IoT enabled M5GO microcontrollers.
 
-![](/images/CFF3.jpeg)
+
+<img src="/images/CFF3.jpeg" 
+     style="width:55%">
