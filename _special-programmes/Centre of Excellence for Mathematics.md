@@ -10,3 +10,14 @@ The West Zone Centre of Excellence for Mathematics and Science was set up to ser
      style="width:100%"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/math%203.jpeg" 
      style="width:100%"></td><td style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/math%204.jpeg" 
      style="width:100%"></td></tr></tbody></table>
+		 
+
+
+
+Since the restructuring of all the West Zone Centres of Excellence at end 2018, Bukit Panjang Government High School is now tasked to focus on Mathematics education and renamed the West Zone Centre of Excellence for Mathematics (Secondary). This Centre of Excellence is now supported by one School Leader and the HOD/Mathematics from each cluster within the zone. The plan for the restructured Centre of Excellence is to enhance professional development of the Mathematics teachers in the zone through a collaborative effort to identify the teachers’ professional development needs and to conduct suitable workshops for effective teaching and learning of Mathematics.
+
+  
+
+Chairperson: Mr Chua Lek Hong (Principal, Bukit Panjang Government High School)
+
+Advisor: Ms Cheryl Foo (Superintendent, West 2)
