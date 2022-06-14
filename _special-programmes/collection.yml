@@ -2,6 +2,8 @@ collections:
   special-programmes:
     output: true
     order:
+      - Internationalisation Programme/Sports Learning and Cultural Immersion to
+        Malaysia.md
       - Internationalisation Programme/MTL (CL) Learning and Cultural Immersion
         to China.md
       - Internationalisation Programme/Humanities Learning and Cultural
