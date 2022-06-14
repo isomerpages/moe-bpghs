@@ -29,7 +29,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" 
-     style="width:90%"></td>
+     style="width:75%"></td>
 		<td class="tg-0pky"><strong>Name:</strong> Koh Sheng Wei, Demas<br><br><strong>Class in BPGHS:</strong> 4T2/2008<br><br><strong>Scholarship:</strong> Teaching Scholarship (Overseas)<br><br><strong>Organisation awarding the scholarship:</strong> MOE<br><br><strong>School:</strong> London School of Economics &amp; Political Science<br><br><strong>Course:</strong> Economics</td>
   </tr>
 </thead>
