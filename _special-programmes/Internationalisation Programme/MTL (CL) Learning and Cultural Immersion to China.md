@@ -24,3 +24,7 @@ Xi’an was the capital for several of the most important dynasties in Chinese h
 ![](/images/china%207.jpeg)
 
 ![](/images/china%208.jpeg)
+
+![](/images/china%209.jpeg)
+
+![](/images/china%2010.jpeg)
