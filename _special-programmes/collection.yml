@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Applied Science Programme.md
       - EMAS and Malay Language Elective Programme (MLEP).md
       - Code for Fun.md
       - Centre of Excellence for Mathematics.md
