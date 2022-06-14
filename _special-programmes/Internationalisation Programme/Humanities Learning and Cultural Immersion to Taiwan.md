@@ -25,7 +25,17 @@ The students who went on the trip had these to say regarding the experience:
      style="width:65%">
 
 
-"We were able to see in real life what we learnt about in our textbooks. The 921 Earthquake Museum helped me understand the extent of damage an earthquake can bring, and made me more grateful for life in Singapore as we do not experience such serious natural disasters. I was also able to experience school life in another country through a school visit to Hui Wen Senior High School. On this 6 days 5 nights trip, I developed stronger bonds with my peers while we experienced new things together like making bubble tea and experiencing a 7.7 magnitude earthquake in a simulator. Life in Taiwan is definitely different from life in Singapore, and being able to experience a part of it was extremely interesting.” 
+"We were able to see in real life what we learnt about in our textbooks. The 921 Earthquake Museum helped me understand the extent of damage an earthquake can bring, and made me more grateful for life in Singapore as we do not experience such serious natural disasters. I was also able to experience school life in another country through a school visit to Hui Wen Senior High School. On this 6 days 5 nights trip, I developed stronger bonds with my peers while we experienced new things together like making bubble tea and experiencing a 7.7 magnitude earthquake in a simulator. Life in Taiwan is definitely different from life in Singapore, and being able to experience a part of it was extremely interesting.”  – Cheryl Soh Yu Tong (303A, 2019)
 
-– Cheryl Soh Yu Tong (303A, 2019)
+
+![](/images/taiwan%204-min.jpeg)
+
+<br><br>
+<img src="/images/taiwan%205-min.jpeg" 
+     style="width:65%">
+
+"The Taiwan trip was definitely memorable as I encountered things which I could not do or experience in Singapore. We visited the Gold Ecological Park where we did a gold mining activity. We also went to view a dormant volcano called Xiaoyoukeng located in Yangmingshan National Park. Although the visibility was low due to fog, it was still an enjoyable experience. The trip helped me better understand Taiwan’s geography, history and culture. I also developed stronger friendships with peers who went on the trip.” 
+
+– Dian Natasha Binte Abd Yajid (305A, 2019)
+
 
