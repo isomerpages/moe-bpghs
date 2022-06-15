@@ -14,22 +14,26 @@ locations:
         description: Closed on Saturdays, Sundays and Public Holidays
     maps_link: ""
     title: School Building
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6769 1031
+      - email: bpghs@moe.edu.sg
+      - other: "Fax: 6762 6576"
+    title: General Enquiries
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: ""
+      - other: Chao Chu Kang
+    title: Nearest MRT
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Blk 442 serviced by Bus 300, 983 <br>Blk 426 (opposite school) serviced
+          by Bus 300, 983
+    title: Nearest Bus Stops
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Take Bus 300 or 983 from Choa Chu Kang MRT station
+    title: Getting to Us
 ---
