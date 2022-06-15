@@ -51,7 +51,7 @@ As part of the BPian family, you can look forward to many enriching and fun acti
 
 
 
-**(I) Eligibility Criteria**
+<strong><u>(I) Eligibility Criteria</u></strong>
 
 Applicants must meet the following criteria under the respective talent area:
 
@@ -77,7 +77,7 @@ Applicants must meet the following criteria under the respective talent area:
 
 **3. Chinese Orchestra (Boy/Girl)**
 
-     Meet at least one of the following:
+> Meet at least one of the following:
 
 *   Demonstrate strong talent and interest in Chinese Orchestra.
 *   Minimum of 2 years playing experience in Chinese Orchestra.
@@ -86,7 +86,7 @@ Applicants must meet the following criteria under the respective talent area:
 
   
 
-**4\. Malay Language**
+**4. Malay Language**
 
 *   Achieved consistently good academic results in Malay Language.
 *   Active participation in activities related to the use of Malay Language.  
@@ -94,7 +94,7 @@ Applicants must meet the following criteria under the respective talent area:
 
   
 
-**(II) Selection Process:**
+<strong><u>(II) Selection Process:</u></strong>
 
   
 
@@ -138,4 +138,4 @@ Applicants must meet the following criteria under the respective talent area:
 > 
 >   
 
-**(III) Schedule**
+<strong><u>(III) Schedule</u></strong>
