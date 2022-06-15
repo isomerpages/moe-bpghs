@@ -94,6 +94,6 @@ Prominent BP alumni who have established themselves in their respective fields. 
 
 <br>
 
-(link FAQ)
+[FAQ](/home/faq)
 
 **[ASK BPGHS](https://form.gov.sg/619616f2a342eb00125bd7bf)**
