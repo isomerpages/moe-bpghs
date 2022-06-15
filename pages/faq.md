@@ -32,25 +32,32 @@ permalink: /faq/
 			<p><strong>14. Does the school organise any overseas trip for students?</strong><br><strong>Ans:</strong> We do have internationalisation programmes organised for our students every year, mainly catered for the Secondary 2 & 3 students. The trips organised range from academic trips (e.g. Geography) to non-academic/ student leadership / CCA trips. However, any overseas trips are currently suspended due to the covid-19 situation</p>
 			<p><strong>15. If my child does not take higher Mother Tongue in primary school, can he/she take higher Mother Tongue in secondary school? What are the requirements?</strong><br><strong>Ans:</strong> If your child did not take Higher Mother Tongue (HMT) in primary school, (s)he may still be offered to take up HMT in secondary school if (s)he fulfils the requirements:<br> ● An overall PSLE Score of 8 or better; or <br> ●  An overall PSLE Score of 9 to 14 (inclusive); and attain AL 1 / AL 2 in MTL  
 	<p><strong>16. If a student is enrolled into BPGHS via DSA Malay, what activities will (s)he be expected to participate in? Must (s)he join Malay Cultural Society CCA and take Malay Literature subject for his/her O level? </strong><br><strong>Ans:</strong> If a student enters our school via DSA Malay, (s)he will take Higher Malay Language (HML) as a subject and be part of a comprehensive Elective Programme for Malay Language in Secondary Schools (EMAS), just like other Express students taking HML in our school. <br><br>In addition, the school will be preparing the DSA Malay students for the Malay Language Elective Programme (MLEP). The programme aims to nurture promising students to attain a high level of language proficiency in Malay, enhance their understanding of Malay literature and develop academically able students to become effectively bilingual so as to better serve the needs of our nation. The 2-year programme (Secondary 3 and 4) is for students who offer ‘O’ Level Literature in Malay, in either full or elective. MLEP activities include language and cultural camps, overseas immersion trips, language symposiums and enrichment workshops on creative writing, drama script writing, public speaking, translation and journalism.</p>
-			<p><strong>17. Does BPGHS have Applied Learning Programme (ALP)?</strong><br><strong>Ans:</strong> BPGHS is an Autonomous Secondary School so we do not offer ALP. However, all our students attend our signature Applied Science Programme (ASP), which focuses on Environment Sustainability.
+			<p><strong>17. Does BPGHS have Applied Learning Programme (ALP)?</strong><br><strong>Ans:</strong> BPGHS is an Autonomous Secondary School so we do not offer ALP. However, all our students attend our signature Applied Science Programme (ASP), which focuses on Environment Sustainability.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Block</label>
+		<label for="accordion3"><h2>Co-Curricular Activities (CCA)</h2></label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+			<p><strong>19. Is CCA compulsory in secondary schools?</strong><br><strong>Ans:</strong> CCA is compulsory in secondary schools. Students can choose a CCA from one of the 4 categories: <br>1.  Uniformed Groups<br>2.  Sports and Games<br>3. Performing Arts<br>4.  Clubs and Societies (only as a second CCA)</p>
+			<p><strong>20. How much time does a student need to spend on CCA each week?</strong><br><strong>Ans:</strong> The frequency and duration of the CCA sessions vary from one to another. These are likely to increase when the students are preparing for competitions. Generally, students can expect to participate in 1 – 3 CCA sessions every week, with approximately 3 hours for each session.</p>
+			<p><strong>21: How is CCA allocated to each student?</strong><br><strong>Ans:</strong> CCA allocation is based on students' choices and talents and available vacancies.
     </div>
   </li>
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+	<li>
+    <input type="checkbox" id="accordion4">
+		<label for="accordion4"><h2>Discipline</h2></label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+			<p><strong>22. What is the policy of the school on mobile phone usage in school?</strong><br><strong>Ans:</strong> Students are not encouraged to bring their PEDs to school. If they choose to do so, they are personally responsible and accountable for the safe-keeping of their PEDs, to prevent loss, damage or theft. <br><br> Students are not allowed to wear smart watches to school to prevent distraction during lessons.
+<br><br>The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines:
+
+*   PEDs, especially handphones, must be switched off immediately the moment they step into the school and kept out of sight of everyone.
+*   PEDs can only be used at the following venues at all times: **canteen and café**. This means that no PEDs are allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
+*   Students who wish to use their PEDs can only use them **during recess and after curriculum time**, either in the canteen or café. 
+
+  
+
+For more details on mobile phone usgae and other rules and regulations, please click [**here**](https://www.bpghs.moe.edu.sg/about-bpghs/bpghs-code-of-conduct).
       </p>
     </div>
   </li>
