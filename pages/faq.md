@@ -21,16 +21,30 @@ permalink: /faq/
   </li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+		<label for="accordion2"><h2>Academic Matters</h2></label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>8. How many assessments will a student have for each subject for a year<br>Ans: As announced by the Ministry of Education (MOE) in Sept 2018, all students will not have more than one weighted assessment per subject per school term. In BPGHS, for Secondary 1 – 3, there will not be any Mid Year Examinations. Students will have 1 weighted assessment in each term for Term 1 – 3, and an End of Year Examination in Term 4. The school also monitors the academic progress of students using other non-weighted assessments, such as project work and presentations.
+			<p>9. Are students expected to purchase a laptop for learning?<br>Ans: On 28 June 2020, MOE announced that every secondary school student will be equipped with a personal learning device by the end of 2021 in an effort to raise the country's digital literacy. All students in the school will be using devices of the same model and the purchasing of the devices will be done in school. A separate briefing will be conducted on this at a later date.
+<p>10. How does the school support students to cope with the demands of the academic programmes?<br>Ans:** Support structures such as remedial lessons and consultations are provided for students when necessary.
+<p>11. What is the arrangement for students doing subjects at a more demanding level under Subject-Based Banding?<br>Ans:** As far as possible, the school will arrange for this group of students to have their lessons together with their peers from the other stream to encourage more interactions among students across different streams.
+<p> 12\. Will students be allowed to switch to a more demanding stream if they do well after they join the school?<br>Ans:** Students may be allowed to switch to a more demanding stream if they meet the criteria at the end of the year of study. They must have scored at least 70% for English, Mathematics and Science, and also attained an overall average score of at least 70%.
+<p>13\. What is the percentage of express students eligible for JC <br>Ans:** Typically, our Express stream students do well in the O level examinations, and about 90-95% of them are eligible for Junior College after their O levels.
+<p>14\. Does the school organise any overseas trip for students> <br> Ans:** We do have internationalisation programmes organised for our students every year, mainly catered for the Secondary 2 & 3 students. The trips organised range from academic trips (e.g. Geography) to non-academic/ student leadership / CCA trips. However, any overseas trips are currently suspended due to the covid-19 situation.
+<p>15\. If my child does not take higher Mother Tongue in primary school, can he/she take higher Mother Tongue in secondary school? What are the requirements? <br>Ans:** If your child did not take Higher Mother Tongue (HMT) in primary school, (s)he may still be offered to take up HMT in secondary school if (s)he fulfils the requirements:<br>*   An overall PSLE Score of 8 or better; or <br> * An overall PSLE Score of 9 to 14 (inclusive); and attain AL 1 / AL 2 in MTL  
+	<p> 16\. If a student is enrolled into BPGHS via DSA Malay, what activities will (s)he be expected to participate in? Must (s)he join Malay Cultural Society CCA and take Malay Literature subject for his/her O level? <br>Ans:** If a student enters our school via DSA Malay, (s)he will take Higher Malay Language (HML) as a subject and be part of a comprehensive Elective Programme for Malay Language in Secondary Schools (EMAS), just like other Express students taking HML in our school. <br><br>In addition, the school will be preparing the DSA Malay students for the Malay Language Elective Programme (MLEP). The programme aims to nurture promising students to attain a high level of language proficiency in Malay, enhance their understanding of Malay literature and develop academically able students to become effectively bilingual so as to better serve the needs of our nation. The 2-year programme (Secondary 3 and 4) is for students who offer ‘O’ Level Literature in Malay, in either full or elective. MLEP activities include language and cultural camps, overseas immersion trips, language symposiums and enrichment workshops on creative writing, drama script writing, public speaking, translation and journalism.
+
+  
+
+  
+
+**17\. Does BPGHS have Applied Learning Programme (ALP)?**
+
+**Ans:** BPGHS is an Autonomous Secondary School so we do not offer ALP. However, all our students attend our signature Applied Science Programme (ASP), which focuses on Environment Sustainability.
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion3">Multi-line Block</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -45,28 +59,6 @@ permalink: /faq/
         This is all going
         to become just one line\n even though there are multiple lines
       </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
     </div>
   </li>
 </ul>
