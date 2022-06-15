@@ -2,7 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
-# FAQ
+<h2><center>FAQ</center></h2>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -64,4 +64,3 @@ permalink: /faq/
 		</div>
   </li>
 </ul>
-
