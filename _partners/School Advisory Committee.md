@@ -45,11 +45,11 @@ description: ""
     <td class="tg-8jgo">MDM TOH AI TIN, PBM<br>MEMBER</td>
   </tr>
   <tr>
-    <td class="tg-jrax"><img src="/images/taiwan%205-min.jpeg" 
+    <td class="tg-jrax"><img src="/images/SAC%20-%20CHAN%20SIAK%20SOONG%20QUENTIN.jpeg" 
      style="width:100%"><br><br></td>
-    <td class="tg-jrax"><img src="/images/taiwan%205-min.jpeg" 
+    <td class="tg-jrax"><img src="/images/VOO%20CHOON%20LING.jpeg" 
      style="width:100%"></td>
-    <td class="tg-jrax"><img src="/images/taiwan%205-min.jpeg" 
+    <td class="tg-jrax"><img src="/images/SAC%20-%20MR%20LAKSHMANAN.png" 
      style="width:100%"><br></td>
   </tr>
   <tr>
