@@ -61,6 +61,7 @@ permalink: /faq/
 		<label for="accordion5"><h2>Parent Support Group</h2></label>
     <div>
 			<p><strong>23. Where can I find out more about partnering the school in the PSG or other events?</strong><br><strong>Ans:</strong> You may refer to the details <a href="/partners/parent-support-group">here</a>.</p>
-
+		</div>
   </li>
 </ul>
+
