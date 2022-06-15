@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Admissions.md
       - Financial Assistance.md
       - Subject Combinations.md
       - Service Providers.md
