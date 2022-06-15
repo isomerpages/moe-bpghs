@@ -7,7 +7,7 @@ permalink: /faq/
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-		<label for="accordion1"><strong>General Information</strong></label>
+		<label for="accordion1"><h3>General Information</h3></label>
     <div>
 			<p><strong>1. What is the indicative score range of BPGHS based on the 2021 cohort?</strong><br><strong>Ans:</strong> Express: 6-11 <br> Normal (Academic): 21-22 <br> Normal (Technical): 25-26</p>
       <p><strong>2. Should I select BPGHS as one of my choices if I just met the minimum requirements of the indicative score range?</strong><br><strong>Ans:</strong> The indicative score range is calculated based on the range of T-score of the 2021 cohort. It should be noted that the Cut Off Point (COP) varies from year to year. One way to go about choosing a school would be to list down schools that you are keen to join and check whether their COP is near your T-score. You can then put these schools down in your application in descending order of their COP. That should put you in a good position to get into a school that you are keen to join.</p>
@@ -21,7 +21,7 @@ permalink: /faq/
   </li>
 	<li>
     <input type="checkbox" id="accordion2">
-		<label for="accordion2"><strong>Academic Matters</strong></label>
+		<label for="accordion2"><h3>Academic Matters</h3></label>
     <div>
 			<p><strong>8. How many assessments will a student have for each subject for a year</strong><br><strong>Ans:</strong> As announced by the Ministry of Education (MOE) in Sept 2018, all students will not have more than one weighted assessment per subject per school term. In BPGHS, for Secondary 1 – 3, there will not be any Mid Year Examinations. Students will have 1 weighted assessment in each term for Term 1 – 3, and an End of Year Examination in Term 4. The school also monitors the academic progress of students using other non-weighted assessments, such as project work and presentations.
 			<p><strong>9. Are students expected to purchase a laptop for learning?<br></strong><strong>Ans:</strong> On 28 June 2020, MOE announced that every secondary school student will be equipped with a personal learning device by the end of 2021 in an effort to raise the country's digital literacy. All students in the school will be using devices of the same model and the purchasing of the devices will be done in school. A separate briefing will be conducted on this at a later date.
@@ -37,7 +37,7 @@ permalink: /faq/
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-		<label for="accordion3"><strong>Co-Curricular Activities (CCA)</strong></label>
+		<label for="accordion3"><h3>Co-Curricular Activities (CCA)</h3></label>
     <div>
 			<p><strong>19. Is CCA compulsory in secondary schools?</strong><br><strong>Ans:</strong> CCA is compulsory in secondary schools. Students can choose a CCA from one of the 4 categories: <br>1.  Uniformed Groups<br>2.  Sports and Games<br>3. Performing Arts<br>4.  Clubs and Societies (only as a second CCA)</p>
 			<p><strong>20. How much time does a student need to spend on CCA each week?</strong><br><strong>Ans:</strong> The frequency and duration of the CCA sessions vary from one to another. These are likely to increase when the students are preparing for competitions. Generally, students can expect to participate in 1 – 3 CCA sessions every week, with approximately 3 hours for each session.</p>
@@ -46,7 +46,7 @@ permalink: /faq/
   </li>
 	<li>
     <input type="checkbox" id="accordion4">
-		<label for="accordion4"><strong>Discipline</strong></label>
+		<label for="accordion4"><h3>Discipline</h3></label>
     <div>
 			<p><strong>22. What is the policy of the school on mobile phone usage in school?</strong><br><strong>Ans:</strong> Students are not encouraged to bring their PEDs to school. If they choose to do so, they are personally responsible and accountable for the safe-keeping of their PEDs, to prevent loss, damage or theft. <br><br> Students are not allowed to wear smart watches to school to prevent distraction during lessons.
 <br><br>The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines:
@@ -58,7 +58,7 @@ permalink: /faq/
 		</li>
 	<li>
     <input type="checkbox" id="accordion5">
-		<label for="accordion5"><strong>Parent Support Group</strong></label>
+		<label for="accordion5"><h3>Parent Support Group</h3></label>
     <div>
 			<p><strong>23. Where can I find out more about partnering the school in the PSG or other events?</strong><br><strong>Ans:</strong> You may refer to the details <a href="/partners/parent-support-group">here</a>.</p>
 		</div>
