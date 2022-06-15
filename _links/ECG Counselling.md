@@ -14,9 +14,6 @@ description: ""
   
 
 **Name of ECG Counsellor:** Ms Lum Limin
-
-**Venue:** MP12 (Block G, Level 1)
-
-**Day / Time:** Every Tuesday, 0730h to 1700h
-
-**How to make an appointment:** Email Ms Lum at [ecgcounselling2016@gmail.com](mailto:ecgcounselling2016@gmail.com)
+<br>**Venue:** MP12 (Block G, Level 1)
+<br>**Day / Time:** Every Tuesday, 0730h to 1700h
+<br>**How to make an appointment:** Email Ms Lum at [ecgcounselling2016@gmail.com](mailto:ecgcounselling2016@gmail.com)
