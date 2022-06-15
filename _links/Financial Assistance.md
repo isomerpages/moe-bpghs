@@ -34,6 +34,4 @@ Types of benefits provided under MOE FAS:
 4) Free school attire comprising 2 sets of uniform, 2 sets of PE attire, 2 pairs of socks and 1 pair of shoes; and
 5) Transport subsidy for students taking public transport to school.
 
-  
-
-\*\*The monthly miscellaneous fee (2nd tier) and autonomous school fee are still payable. With effect from 2019, it is mandatory for parents or legal guardians to apply for the use of their children’s Edusave accounts to pay for miscellaneous fees (2nd tier), autonomous school fees if they want to apply for MOE FAS.
+** The monthly miscellaneous fee (2nd tier) and autonomous school fee are still payable. With effect from 2019, it is mandatory for parents or legal guardians to apply for the use of their children’s Edusave accounts to pay for miscellaneous fees (2nd tier), autonomous school fees if they want to apply for MOE FAS.
