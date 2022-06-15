@@ -16,7 +16,7 @@ Student must be a Singapore citizen enrolled in a Government or Government-aided
 a)    His or her family’s gross household income (GHI)* as at the time of application does not exceed $2,750 per
 <br>month; or
 <br>b)    His or her family’s per capita income (PCI)* as at the time of application does not exceed $690 per month.
-       <br>*   PCI = Monthly GHI / No. of members in the household
+    <br>*   PCI = Monthly GHI / No. of members in the household
     <br>* GHI is the total combined income of all family members who stay in the same household.
 
 *   Included in GHI: Any regular allowances and employee’s CPF contribution. Income from other sources (e.g. pension, alimony and rental income) must also be included when calculating a family’s GHI.  
