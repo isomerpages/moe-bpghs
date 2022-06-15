@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Service Providers.md
       - ECG Counselling.md
       - Pastoral Counselling.md
       - Gebiz | Invitation to Quote.md
