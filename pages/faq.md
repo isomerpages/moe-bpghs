@@ -50,13 +50,17 @@ permalink: /faq/
     <div>
 			<p><strong>22. What is the policy of the school on mobile phone usage in school?</strong><br><strong>Ans:</strong> Students are not encouraged to bring their PEDs to school. If they choose to do so, they are personally responsible and accountable for the safe-keeping of their PEDs, to prevent loss, damage or theft. <br><br> Students are not allowed to wear smart watches to school to prevent distraction during lessons.
 <br><br>The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines:
-
-*   PEDs, especially handphones, must be switched off immediately the moment they step into the school and kept out of sight of everyone.
-*   PEDs can only be used at the following venues at all times: **canteen and café**. This means that no PEDs are allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
-*   Students who wish to use their PEDs can only use them **during recess and after curriculum time**, either in the canteen or café. 
-
-	For more details on mobile phone usgae and other rules and regulations, please click [**here**](https://www.bpghs.moe.edu.sg/about-bpghs/bpghs-code-of-conduct).
-      </p>
+				<br>●  PEDs, especially handphones, must be switched off immediately the moment they step into the school and kept out of sight of everyone.
+				<br>● PEDs can only be used at the following venues at all times: <strong>canteen and café</strong>. This means that no PEDs are allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
+				<br>● Students who wish to use their PEDs can only use them <strong>during recess and after curriculum time</strong>, either in the canteen or café. 
+				<br>For more details on mobile phone usgae and other rules and regulations, please click <a href="/about-bpghs/bpghs-code-of-conduct">here</a>.</p>
     </div>
+		</li>
+	<li>
+    <input type="checkbox" id="accordion5">
+		<label for="accordion5"><h2>Parent Support Group</h2></label>
+    <div>
+			<p><strong>23. Where can I find out more about partnering the school in the PSG or other events?</strong><br><strong>Ans:</strong> You may refer to the details <a href="/partners/parent-support-group">here</a>.</p>
+
   </li>
 </ul>
