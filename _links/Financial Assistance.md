@@ -19,16 +19,20 @@ a)    His or her family’s gross household income (GHI)* as at the time of a
     <br>*   PCI = Monthly GHI / No. of members in the household
     <br>* GHI is the total combined income of all family members who stay in the same household.
 
-*   Included in GHI: Any regular allowances and employee’s CPF contribution. Income from other sources (e.g. pension, alimony and rental income) must also be included when calculating a family’s GHI.  
+*   <u>Included in GHI</u>: Any regular allowances and employee’s CPF contribution. Income from other sources (e.g. pension, alimony and rental income) must also be included when calculating a family’s GHI.  
     
-*   Not included in GHI: National Service allowance earned by NS men; and severance compensation and insurance payouts.  
+*   <u>Not included in GHI</u>: National Service allowance earned by NS men; and severance compensation and insurance payouts.  
     
 
   
 
 Types of benefits provided under MOE FAS:
 
-<table border="0" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="30px;" style="margin: 0px; outline: 0px; padding: 0px;">a)</td><td style="margin: 0px; outline: 0px; padding: 0px;">100% subsidy of school fees;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">b)</td><td style="margin: 0px; outline: 0px; padding: 0px;">100% subsidy of miscellaneous fees (standard)**;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">c)</td><td style="margin: 0px; outline: 0px; padding: 0px;">Free textbooks and stationery in the approved textbook list;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">d)</td><td style="margin: 0px; outline: 0px; padding: 0px;">Free school attire comprising 2 sets of uniform, 2 sets of PE attire, 2 pairs of socks and 1 pair of shoes; and</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;">e)</td><td style="margin: 0px; outline: 0px; padding: 0px;">Transport subsidy for students taking public transport to school.</td></tr></tbody></table>
+1) 100% subsidy of school fees;
+2) 100% subsidy of miscellaneous fees (standard)**;
+3) ree textbooks and stationery in the approved textbook list;
+4) Free school attire comprising 2 sets of uniform, 2 sets of PE attire, 2 pairs of socks and 1 pair of shoes; and
+5) Transport subsidy for students taking public transport to school.
 
   
 
