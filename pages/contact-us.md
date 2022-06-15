@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 7.30am - 6.30pm
         description: Closed on Saturdays, Sundays and Public Holidays
-    maps_link: ""
+    maps_link: https://www.google.com/maps?q=bukit+panjang+government+high+school&rlz=1C5CHFA_enSG891SG893&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi6z5W_z6_4AhVqSGwGHYzNBp4Q_AUoAnoECAIQBA
     title: School Building
 contacts:
   - content:
