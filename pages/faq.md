@@ -7,7 +7,7 @@ permalink: /faq/
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h2>General Information</h2></label>
+    <label for="accordion1"><h3>General Information</h3></label>
     <div>
 			<p><strong>1. What is the indicative score range of BPGHS based on the 2021 cohort?</strong><br><strong>Ans:</strong> Express: 6-11 <br> Normal (Academic): 21-22 <br> Normal (Technical): 25-26</p>
       <p><strong>2. Should I select BPGHS as one of my choices if I just met the minimum requirements of the indicative score range?</strong><br><strong>Ans:</strong> The indicative score range is calculated based on the range of T-score of the 2021 cohort. It should be noted that the Cut Off Point (COP) varies from year to year. One way to go about choosing a school would be to list down schools that you are keen to join and check whether their COP is near your T-score. You can then put these schools down in your application in descending order of their COP. That should put you in a good position to get into a school that you are keen to join.</p>
