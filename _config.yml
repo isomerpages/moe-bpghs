@@ -2,11 +2,11 @@ title: Bukit Panjang Government High School
 url: ""
 favicon: /images/logo.jpeg
 colors:
-  primary-color: "#ffe977"
+  primary-color: "#fee8cd"
   secondary-color: "#9b4d6a"
   media-colors:
     - title: media-color-one
-      color: "#ffe977"
+      color: "#fee8cd"
     - title: media-color-two
       color: "#ffe977"
     - title: media-color-three
