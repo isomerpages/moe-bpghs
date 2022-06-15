@@ -51,7 +51,7 @@ As part of the BPian family, you can look forward to many enriching and fun acti
 
 
 
-<strong><u>(I) Eligibility Criteria</u></strong>
+# (I) Eligibility Criteria
 
 Applicants must meet the following criteria under the respective talent area:
 
@@ -93,9 +93,8 @@ Applicants must meet the following criteria under the respective talent area:
     
 
 
-<strong><u>(II) Selection Process:</u></strong>
+# (II) Selection Process:
 
-  
 
 1. Selection will be based on how well the applicant meets the eligibility criteria. Proofs of applicant’s areas of strength and achievements are essential. Meeting all the criteria does not guarantee that the student will be shortlisted/given an offer.
 2. Shortlisted applicants will be required to participate in a selection trial (for Sports and Games) / audition (for Band and Chinese Orchestra) / assessment (for Malay Language) and an interview.
@@ -117,7 +116,7 @@ Applicants must meet the following criteria under the respective talent area:
 <div class="" style="padding-left: 40px;">2.4&nbsp; &nbsp;&nbsp;Malay Language: Applicants are required to complete a written assessment.</div>
 
 
-<strong><u>(III) Schedule</u></strong>
+# (III) Schedule
 
 
 <style type="text/css">
@@ -189,7 +188,7 @@ Applicants must meet the following criteria under the respective talent area:
 </table>
 
 
-<strong><u>(IV) Application Procedure (5 May 2022, 11am – 1 June 2022, 3pm): </u></strong> 
+# (IV) Application Procedure (5 May 2022, 11am – 1 June 2022, 3pm): 
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)
 
