@@ -34,7 +34,7 @@ permalink: /faq/
 	<p><strong>16. If a student is enrolled into BPGHS via DSA Malay, what activities will (s)he be expected to participate in? Must (s)he join Malay Cultural Society CCA and take Malay Literature subject for his/her O level? </strong><br><strong>Ans:</strong> If a student enters our school via DSA Malay, (s)he will take Higher Malay Language (HML) as a subject and be part of a comprehensive Elective Programme for Malay Language in Secondary Schools (EMAS), just like other Express students taking HML in our school. <br><br>In addition, the school will be preparing the DSA Malay students for the Malay Language Elective Programme (MLEP). The programme aims to nurture promising students to attain a high level of language proficiency in Malay, enhance their understanding of Malay literature and develop academically able students to become effectively bilingual so as to better serve the needs of our nation. The 2-year programme (Secondary 3 and 4) is for students who offer ‘O’ Level Literature in Malay, in either full or elective. MLEP activities include language and cultural camps, overseas immersion trips, language symposiums and enrichment workshops on creative writing, drama script writing, public speaking, translation and journalism.</p>
 			<p><strong>17. Does BPGHS have Applied Learning Programme (ALP)?</strong><br><strong>Ans:</strong> BPGHS is an Autonomous Secondary School so we do not offer ALP. However, all our students attend our signature Applied Science Programme (ASP), which focuses on Environment Sustainability.</p>
 		</div>
-  </li>
+	</li>
 	<li>
     <input type="checkbox" id="accordion3">
 		<label for="accordion3"><h3>Student Well-being</h3></label>
