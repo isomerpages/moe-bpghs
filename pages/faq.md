@@ -37,7 +37,14 @@ permalink: /faq/
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-		<label for="accordion3"><h3>Co-Curricular Activities (CCA)</h3></label>
+		<label for="accordion3"><h3>Student Well-being</h3></label>
+    <div>
+			<p><strong>18. How does the school support students’ social and emotional well-being?</strong><br><strong>Ans:</strong> The school has a student development team comprising Year Heads, Assistant Year Heads, Allied Educators (Learning and Behavioural Support) and a School Counsellor working closely with the Form Teachers to look into the social and emotional needs of the students.</p>
+		</div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion4">
+		<label for="accordion4"><h3>Co-Curricular Activities (CCA)</h3></label>
     <div>
 			<p><strong>19. Is CCA compulsory in secondary schools?</strong><br><strong>Ans:</strong> CCA is compulsory in secondary schools. Students can choose a CCA from one of the 4 categories: <br>1.  Uniformed Groups<br>2.  Sports and Games<br>3. Performing Arts<br>4.  Clubs and Societies (only as a second CCA)</p>
 			<p><strong>20. How much time does a student need to spend on CCA each week?</strong><br><strong>Ans:</strong> The frequency and duration of the CCA sessions vary from one to another. These are likely to increase when the students are preparing for competitions. Generally, students can expect to participate in 1 – 3 CCA sessions every week, with approximately 3 hours for each session.</p>
@@ -45,8 +52,8 @@ permalink: /faq/
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion4">
-		<label for="accordion4"><h3>Discipline</h3></label>
+    <input type="checkbox" id="accordion5">
+		<label for="accordion5"><h3>Discipline</h3></label>
     <div>
 			<p><strong>22. What is the policy of the school on mobile phone usage in school?</strong><br><strong>Ans:</strong> Students are not encouraged to bring their PEDs to school. If they choose to do so, they are personally responsible and accountable for the safe-keeping of their PEDs, to prevent loss, damage or theft. <br><br> Students are not allowed to wear smart watches to school to prevent distraction during lessons.
 <br><br>The school is a place set apart for conducive learning to take place. Students should respect the place provided by upholding the rules and guidelines that allow each and every student to learn effectively. Hence, they are expected to adhere to the following rules and guidelines:
@@ -57,8 +64,8 @@ permalink: /faq/
     </div>
 		</li>
 	<li>
-    <input type="checkbox" id="accordion5">
-		<label for="accordion5"><h3>Parent Support Group</h3></label>
+    <input type="checkbox" id="accordion6">
+		<label for="accordion6"><h3>Parent Support Group</h3></label>
     <div>
 			<p><strong>23. Where can I find out more about partnering the school in the PSG or other events?</strong><br><strong>Ans:</strong> You may refer to the details <a href="/partners/parent-support-group">here</a>.</p>
 		</div>
