@@ -20,7 +20,7 @@ sections:
       button: View More
   - infobar:
       title: "News and Events "
-      subtitle: Catch up on
       button: View More
       url: /news-and-events
+      description: Our School Highlights
 ---
