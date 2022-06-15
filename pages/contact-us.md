@@ -5,18 +5,15 @@ permalink: /contact-us/
 agency_name: Bukit Panjang Government High School
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - "7 Choa Chu Kang "
+      - Avenue 4
+      - Singapore 689809
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 7.30am - 6.30pm
+        description: Closed on Saturdays, Sundays and Public Holidays
     maps_link: ""
-    title: Main Office
+    title: School Building
   - address:
       - 109 North Bridge Road
       - Singapore 179097
