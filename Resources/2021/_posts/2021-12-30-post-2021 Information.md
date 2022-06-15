@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 *   [2021 November-December CCA Schedule](https://docs.google.com/spreadsheets/d/192Wze4oipNrTHEi94DuRUakxUl0UlbxM/edit?usp=sharing&ouid=114076641539275533540&rtpof=true&sd=true) updated 01 Nov 2021
-*   [2021 Bridging Programme](/2021-bridging-exercise) updated 29 Oct 2021
+*   [2021 Bridging Programme](/Resources/2021/bridging-programme) updated 29 Oct 2021
 *   [2021 Streaming Exercise](2021-streaming-exercise) updated 23 Oct 2021
 *   [2021 T4W7 Timetable](https://www-bpghs-moe-edu-sg-admin.cwp.sg/bpghs/announcements-n-updates/2021-t4w7-timetable) updated 23 Oct 2021
 *   [19-22 October Timetables](https://www-bpghs-moe-edu-sg-admin.cwp.sg/bpghs/announcements-n-updates/19-22-october-timetables) updated 14 Oct 2021
