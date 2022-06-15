@@ -55,9 +55,7 @@ permalink: /faq/
 *   PEDs can only be used at the following venues at all times: **canteen and café**. This means that no PEDs are allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
 *   Students who wish to use their PEDs can only use them **during recess and after curriculum time**, either in the canteen or café. 
 
-  
-
-For more details on mobile phone usgae and other rules and regulations, please click [**here**](https://www.bpghs.moe.edu.sg/about-bpghs/bpghs-code-of-conduct).
+	For more details on mobile phone usgae and other rules and regulations, please click [**here**](https://www.bpghs.moe.edu.sg/about-bpghs/bpghs-code-of-conduct).
       </p>
     </div>
   </li>
