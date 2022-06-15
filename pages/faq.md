@@ -16,14 +16,7 @@ permalink: /faq/
 			<p><strong>5. What are the daily school hours at BPGHS?</strong><br><strong>Ans:</strong> School starts at 7:30 a.m. and ends at 1:40 p.m. / 2:40 p.m. for Monday to Thursday and 12:40 p.m. on Friday. Students will be expected to stay back after curriculum hours on some days for after-school activities such as CCA, enrichment activities and remedial / supplementary lessons. As announced by MOE in 2020, all secondary schools will be implementing regular Home-Based Learning (HBL) by 2022. Students will not be required to report to school on a specific day every fortnight, and will be learning from home instead. More details will be communicated at a later date.</p>
 			<p><strong>6. Will there be any physical Open House this year?</strong><br><strong>Ans:</strong> Due to the safe management measures, we will not be having a physical Open House this year at BPGHS.</p>
 			<p><strong>7. What is the duration of the recess?</strong><br><strong>Ans:</strong> The recess is 30 minutes long.</p>
-
-  
-
-  
-
-**8\. What is the average price and variety of food sold in the school canteen?**
-
-**Ans:** A typical meal (without drinks) in the school canteen costs between $2.50 and $3.50. The canteen comprises 4 Chinese food stalls, 2 halal food stalls and 1 drink stall.
+			<p><strong>8. What is the average price and variety of food sold in the school canteen?</strong><br><strong>Ans:</strong> A typical meal (without drinks) in the school canteen costs between $2.50 and $3.50. The canteen comprises 4 Chinese food stalls, 2 halal food stalls and 1 drink stall.</p>
     </div>
   </li>
 	<li>
