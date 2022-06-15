@@ -19,9 +19,8 @@ sections:
       subtitle: Stay Updated
       button: View More
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "News and Events "
+      subtitle: Catch up on
+      button: View More
+      url: /news-and-events
 ---
