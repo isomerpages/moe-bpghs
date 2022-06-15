@@ -118,3 +118,81 @@ Applicants must meet the following criteria under the respective talent area:
 
 
 <strong><u>(III) Schedule</u></strong>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Date</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Process</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">5 May 2022, 11am to</span><br><span style="color:#222;background-color:#EAEAEA">1 Jun 2022, 3pm</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Online application at DSA-Sec portal.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 to 24 Jun 2022</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Shortlisted applicants will be informed of the selection trial/audition and interview via email.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">27, 29 Jun, 1 &amp; 2 Jul 2022</span> <span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Selection trial and interview for</span> Basketball.<br><span style="color:#222;background-color:#EAEAEA">Applicant will be required to attend</span> only 1 session.<br><span style="color:#222;background-color:#EAEAEA">Reporting information will be provided in the email. </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 28 Jun &amp; 2 Jul 2022</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Selection trial and interview for</span> Netball.<br><span style="color:#222;background-color:#EAEAEA">Applicant will be required to attend </span>only 1 session.<br><span style="color:#222;background-color:#EAEAEA">Reporting information will be provided in the email.  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">28, 30 Jun &amp; 2 Jul 2022 </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Selection trial and interview for</span> Volleyball.<br><span style="color:#222;background-color:#EAEAEA">Applicant will be required to attend </span>only 1 session.<br><span style="color:#222;background-color:#EAEAEA">Reporting information will be provided in the email.  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 2 Jul 2022</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Audition and interview for</span> Concert Band<span style="color:#222;background-color:#EAEAEA">, 8am to 12noon.</span><br><span style="color:#222;background-color:#EAEAEA">Audition and interview for</span> Chinese Orchestra<span style="color:#222;background-color:#EAEAEA">, 8am to 12noon.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">29 Jul 2022 </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Assessment for</span> Malay Language<span style="color:#222;background-color:#EAEAEA">, 2.30pm to 3.30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 8 Aug 2022</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Shortlisted applicants for</span> Malay Language <span style="color:#222;background-color:#EAEAEA">will be notified via email by 8 Aug 2022 for the interview.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 12 Aug 2022</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Interview for</span> Malay Language<span style="color:#222;background-color:#EAEAEA">.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> By 17 Aug 2022</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Release of DSA results via email.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">31 Oct 2022 to</span><br><span style="color:#222;background-color:#EAEAEA">4 Nov 2022 </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Primary School: Exercise School Preference Stage.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Early Nov to mid Nov</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Primary School: Results Release Stage by MOE.</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<strong><u>(IV) Application Procedure (5 May 2022, 11am – 1 June 2022, 3pm): </u></strong> 
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
