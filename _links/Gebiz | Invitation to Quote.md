@@ -9,25 +9,25 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-4ynt{background-color:#FFF;border-color:#222222;text-align:center;vertical-align:middle}
+.tg .tg-tpjs{background-color:#FFF;border-color:#222222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mcg7{background-color:#FFF;border-color:#222222;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-f4yw"> </th>
-    <th class="tg-9hzb">MOESCHETQ22001063<br></th>
+    <th class="tg-4ynt"> </th>
+    <th class="tg-tpjs">MOESCHETQ22001063</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi">Period of ITQ<br></td>
-    <td class="tg-ktyi">Published on 1 March 2022 and will close on 9 March 2022<br></td>
+    <td class="tg-mcg7">Period of ITQ</td>
+    <td class="tg-mcg7">Published on 1 March 2022 and will close on 9 March 2022</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Description of ITQ<br></td>
-    <td class="tg-f4yw">Supply of Instructors for Production and Training Programme for Cultural Performance 2022-Contemporary Malay Theatre in Bukit Panjang Government High</td>
+    <td class="tg-mcg7">Description of ITQ</td>
+    <td class="tg-4ynt">Supply of Instructors for Production and Training Programme for Cultural Performance 2022-Contemporary Malay Theatre in Bukit Panjang Government High</td>
   </tr>
 </tbody>
 </table>
