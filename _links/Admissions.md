@@ -100,34 +100,21 @@ Applicants must meet the following criteria under the respective talent area:
 1. Selection will be based on how well the applicant meets the eligibility criteria. Proofs of applicant’s areas of strength and achievements are essential. Meeting all the criteria does not guarantee that the student will be shortlisted/given an offer.
 2. Shortlisted applicants will be required to participate in a selection trial (for Sports and Games) / audition (for Band and Chinese Orchestra) / assessment (for Malay Language) and an interview.
 
-  
-
-> 2.1    Sports DSA: Applicants are to report in sports attire and sport shoes.
-
-
-> 2.2    Concert Band:
-> 
->             a. Sight reading: To be given by Band Director
-> 
->             b. 2 Contrasting Pieces: To prepare 2 contrasting pieces of own choice
-> 
->             c. Scales: Bb Concert; Eb Concert; Ab Concert; Db Concert; C Concert
-> 
->             d. Applicants can choose to use their personal instrument or the one provided by the school during the DSA audition.
-
-
-> 2.3    Chinese Orchestra:
-> 
->             a. Perform 2 contrasting pieces of choice on the instrument.
-> 
->             b. May play selected excerpt of each piece.
-> 
->             c. Total time should not exceed 5 minutes
-> 
->             d. Applicants can choose to use their personal instrument or the one provided by the school during the DSA audition.
-
-
-> 2.4    Malay Language: Applicants are required to complete a written assessment.
+<div class="" style="padding-left: 40px;">2.1&nbsp; &nbsp;&nbsp;Sports DSA: Applicants are to report in sports attire and sport shoes.</div>
+<div class="" style="padding-left: 40px;">&nbsp;</div>
+<div class="" style="padding-left: 40px;">2.2&nbsp; &nbsp;&nbsp;Concert Band:</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; a.&nbsp;Sight reading: To be given by Band Director</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; b. 2 Contrasting Pieces: To prepare 2 contrasting pieces of own choice</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; c.&nbsp;Scales: Bb Concert; Eb Concert; Ab Concert; Db Concert; C Concert</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; d. Applicants can choose to use their personal instrument or the one provided by the school during the DSA audition.</div>
+<div class="" style="padding-left: 40px;">&nbsp;</div>
+<div class="" style="padding-left: 40px;">2.3&nbsp; &nbsp;&nbsp;Chinese Orchestra:</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a. Perform 2 contrasting pieces of choice on the instrument.</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b. May play selected excerpt of each piece.</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c. Total time should not exceed 5 minutes</div>
+<div class="" style="padding-left: 40px;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;d. Applicants can choose to use their personal instrument or the one provided by the school during the DSA audition.</div>
+<div class="" style="padding-left: 40px;">&nbsp;</div>
+<div class="" style="padding-left: 40px;">2.4&nbsp; &nbsp;&nbsp;Malay Language: Applicants are required to complete a written assessment.</div>
 
 
 <strong><u>(III) Schedule</u></strong>
