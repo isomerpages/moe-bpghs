@@ -138,8 +138,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>Gamelan</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/Gamelan%20A.png" 
+     style="width:100%"> 
       </a>
    </body>
 	
@@ -155,8 +155,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>Malay Dance</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/Malay%20Dance%20B.png" 
+     style="width:100%"> 
       </a>
    </body>
 	
