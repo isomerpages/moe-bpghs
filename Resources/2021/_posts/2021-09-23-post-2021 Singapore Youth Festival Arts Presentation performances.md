@@ -35,7 +35,7 @@ The biennial SYF concluded recently with great showing from the BPians Performin
 	
    <body>
       <h2>Chinese Drama</h2>
-      <a href = "/https://www.youtube.com/watch?v=95TKIUWyBV0&list=PLGyo2Mr6-GGQ-WmLKDfOtVow6wkpLE3Z4&index=1" target = "_self"> 
+      <a href = "https://www.youtube.com/watch?v=95TKIUWyBV0&list=PLGyo2Mr6-GGQ-WmLKDfOtVow6wkpLE3Z4&index=1" target = "_self"> 
           <img src="/images/chinese%20drama.jpeg" 
      style="width:100%">  
       </a>
@@ -43,6 +43,22 @@ The biennial SYF concluded recently with great showing from the BPians Performin
 	
 </html>
 
+
+<html>
+
+   <head>
+      <title>chinese orchestra</title>
+   </head>
+	
+   <body>
+      <h2>Chinese Orchestra</h2>
+      <a href = "https://www.youtube.com/watch?v=YJh9w0ZTe-A&list=PLGyo2Mr6-GGQ-WmLKDfOtVow6wkpLE3Z4&index=10" target = "_self"> 
+          <img src="/images/Chinese%20Orchestra%20A.png" 
+     style="width:100%">  
+      </a>
+   </body>
+	
+</html>
 
 
 <html>
