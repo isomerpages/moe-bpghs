@@ -30,13 +30,13 @@ The biennial SYF concluded recently with great showing from the BPians Performin
 <html>
 
    <head>
-      <title>Non-academic Achievements</title>
+      <title>chinese drama</title>
    </head>
 	
    <body>
-      <h2>Non-Academic Achievements</h2>
+      <h2>Chinese Drama</h2>
       <a href = "/about-bpghs/our-achievements/non-academic-achievements" target = "_self"> 
-          <img src="/images/NDP2019.jpeg" 
+          <img src="/images/chinese%20drama.jpeg" 
      style="width:65%">  
       </a>
    </body>
@@ -48,11 +48,112 @@ The biennial SYF concluded recently with great showing from the BPians Performin
 <html>
 
    <head>
-      <title>Staff Achievements</title>
+      <title>Choir</title>
    </head>
 	
    <body>
-      <h2>Staff Achievements</h2>
+      <h2>Choir</h2>
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
+          <img src="/images/Staff%20Achievements.jpeg" 
+     style="width:65%"> 
+      </a>
+   </body>
+	
+</html>
+
+<html>
+
+   <head>
+      <title>concert band A</title>
+   </head>
+	
+   <body>
+      <h2>Concert Band A</h2>
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
+          <img src="/images/Staff%20Achievements.jpeg" 
+     style="width:65%"> 
+      </a>
+   </body>
+	
+</html>
+
+<html>
+
+   <head>
+      <title>concert band b</title>
+   </head>
+	
+   <body>
+      <h2>Concert Band B</h2>
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
+          <img src="/images/Staff%20Achievements.jpeg" 
+     style="width:65%"> 
+      </a>
+   </body>
+	
+</html>
+
+
+<html>
+
+   <head>
+      <title>concert band c</title>
+   </head>
+	
+   <body>
+      <h2>Concert Band C</h2>
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
+          <img src="/images/Staff%20Achievements.jpeg" 
+     style="width:65%"> 
+      </a>
+   </body>
+	
+</html>
+
+
+<html>
+
+   <head>
+      <title>english drama A</title>
+   </head>
+	
+   <body>
+      <h2>English Drama</h2>
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
+          <img src="/images/Staff%20Achievements.jpeg" 
+     style="width:65%"> 
+      </a>
+   </body>
+	
+</html>
+
+
+
+<html>
+
+   <head>
+      <title>gamelan A</title>
+   </head>
+	
+   <body>
+      <h2>Gamelan</h2>
+      <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
+          <img src="/images/Staff%20Achievements.jpeg" 
+     style="width:65%"> 
+      </a>
+   </body>
+	
+</html>
+
+
+<html>
+
+   <head>
+      <title>Malay Dance</title>
+   </head>
+	
+   <body>
+      <h2>Malay Dance</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
           <img src="/images/Staff%20Achievements.jpeg" 
      style="width:65%"> 
