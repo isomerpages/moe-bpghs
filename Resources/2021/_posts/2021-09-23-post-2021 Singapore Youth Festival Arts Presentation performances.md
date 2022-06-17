@@ -19,7 +19,7 @@ The biennial SYF concluded recently with great showing from the BPians Performin
       <h2>Dance</h2>
       <a href = "https://www.youtube.com/watch?list=PLGyo2Mr6-GGQ-WmLKDfOtVow6wkpLE3Z4&v=IDXE9_hhZo0&feature=youtu.be" target = "_self"> 
           <img src="/images/dance.jpeg" 
-     style="width:65%">  
+     style="width:100%">  
       </a>
    </body>
 	
@@ -37,7 +37,7 @@ The biennial SYF concluded recently with great showing from the BPians Performin
       <h2>Chinese Drama</h2>
       <a href = "/about-bpghs/our-achievements/non-academic-achievements" target = "_self"> 
           <img src="/images/chinese%20drama.jpeg" 
-     style="width:65%">  
+     style="width:100%">  
       </a>
    </body>
 	
@@ -54,8 +54,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>Choir</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/choir.jpeg" 
+     style="width:100%"> 
       </a>
    </body>
 	
@@ -70,8 +70,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>Concert Band A</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/concert%20band%20A.jpeg" 
+     style="width:100%"> 
       </a>
    </body>
 	
@@ -86,8 +86,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>Concert Band B</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/Band%20B.png" 
+     style="width:100%"> 
       </a>
    </body>
 	
@@ -103,8 +103,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>Concert Band C</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/concert%20band%20C.jpeg" 
+     style="width:100%"> 
       </a>
    </body>
 	
@@ -120,8 +120,8 @@ The biennial SYF concluded recently with great showing from the BPians Performin
    <body>
       <h2>English Drama</h2>
       <a href = "/about-bpghs/our-achievements/staff-achievements" target = "_self"> 
-          <img src="/images/Staff%20Achievements.jpeg" 
-     style="width:65%"> 
+          <img src="/images/English%20Drama%20A.png" 
+     style="width:100%"> 
       </a>
    </body>
 	
