@@ -35,7 +35,7 @@ The biennial SYF concluded recently with great showing from the BPians Performin
 	
    <body>
       <h2>Chinese Drama</h2>
-      <a href = "/about-bpghs/our-achievements/non-academic-achievements" target = "_self"> 
+      <a href = "/https://www.youtube.com/watch?v=95TKIUWyBV0&list=PLGyo2Mr6-GGQ-WmLKDfOtVow6wkpLE3Z4&index=1" target = "_self"> 
           <img src="/images/chinese%20drama.jpeg" 
      style="width:100%">  
       </a>
