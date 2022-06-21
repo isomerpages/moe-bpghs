@@ -5,3 +5,12 @@ date: 2019-06-27
 layout: post
 description: ""
 ---
+Dear BPians,
+
+  
+
+Please use the form below to nominate fellow BPians or yourself for the Edusave Character Award. Information on the criteria, timeline, and nomination process are included in the form, so please ensure that you follow the deadline and process stated.
+
+  
+
+[2019 ECHA Nomination Form.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/2019%20ECHA%20Nomination/2019%20ECHA%20Nomination%20Form.pdf)
