@@ -8,6 +8,7 @@ description: ""
 <h2><center>Vision</center></h2>
 <center><em>Every BPian a Passionate Learner, an Inspiring Leader</em></center>
 
+
 Every BPian embodying the qualities in the school values and 21st century competencies that enable them to be:
 * Passionate Learners who are committed to be the best that they can be in their learning pursuit.
 * Inspiring Leaders who exemplify and lead in service to others in the school and community.
