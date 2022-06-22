@@ -63,7 +63,7 @@ _I have learnt that the Former Ford factory is the place where the British surre
 
   
 <div>
-	<div style="float: left">
+	<div style="float: right">
 		<p>107A Nadirah</p>
 	</div>
 </div>
