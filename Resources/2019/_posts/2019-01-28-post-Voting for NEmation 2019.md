@@ -8,39 +8,61 @@ description: ""
 Dear BPians,
 
   
-
 3 of our teams made it into the Top 10 of the N.E.mation 2019 competition. They now need your support as 50% of their score come from public voting. You will stand a chance to win attractive prizes from the lucky draw too if you vote. You can view their clips by clicking on the icons below.
 
+<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-gaoc{border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=dcZ5jiVtiIw" target = "_self"> 
+<html>
+
+   <head>
+      <title>sc05</title>
+   </head>
+	
+   <body>
+      <a href = "https://www.youtube.com/watch?v=5q9v-hWLs_g" target = "_self"> 
           <img src="/images/SC05%20Teamstruments%20Thumbnail%201.png" 
-     style="width:100%">  </th>
-    <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=5q9v-hWLs_g" target = "_self"> 
-          <img src="/images/SC07%20The%20Chemist%20Thumbnail%201.jpeg" 
-     style="width:100%"></th>
-    <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=DnoPHNxY79k" target = "_self"> 
-          <img src="/images/SC09%20therunners%20Thumbnail%201.png" 
-     style="width:100%"></th>
-  </tr>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">SC05 Teamstruments</td>
-    <td class="tg-gaoc">SC07 The Chemist</td>
-    <td class="tg-gaoc">SC09 The Runners</td>
-  </tr>
-</tbody>
-</table>
+     style="width:45%">  
+      </a>
+		 <p><center>SC05 Teamstruments</center></p>
+   </body>
+	
+</html>
+
+
+<html>
+
+   <head>
+      <title>sc07</title>
+   </head>
+	
+   <body>
+      <a href = "https://www.youtube.com/watch?v=5q9v-hWLs_g" target = "_self"> 
+      <img src="/images/SC07%20The%20Chemist%20Thumbnail%201.jpeg" 
+     style="width:45%">  
+      </a>
+		 <p><center>SC07 The Chemist</center></p>
+   </body>
+	
+</html>
+	
+
+
+<html>
+
+   <head>
+      <title>sc09</title>
+   </head>
+	
+   <body>
+      <a href = "https://www.youtube.com/watch?v=DnoPHNxY79k" target = "_self"> 
+      <img src="/images/SC09%20therunners%20Thumbnail%201.png" 
+     style="width:45%">  
+      </a>
+		 <p><center>SC09 The Runners</center></p>
+   </body>
+	
+</html>
+
 
 
 <strong><u>Who can vote?</u></strong>
