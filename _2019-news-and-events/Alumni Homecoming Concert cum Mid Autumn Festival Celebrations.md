@@ -9,7 +9,6 @@ The Chinese Department celebrated the Mid-Autumn Festival with a mini concert. A
 
 ![](/images/alumni%202-min.jpeg)
 
-
 ![](/images/alumni%203-min.jpeg)
 
 ![](/images/alumni%204-min.jpeg)
