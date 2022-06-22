@@ -16,11 +16,11 @@ Please refer to the files below for the 2022 book lists for secondary 2 to 4 stu
   
 	
 	
-[Bukit Panjang Government High School 2022 3E.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%203E.pdf)  
-[Bukit Panjang Government High School 2022 3NA.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%203NA.pdf)  
-[Bukit Panjang Government High School 2022 3NT.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%203NT.pdf)  
+[Bukit Panjang Government High School 2022 3E.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%203E.pdf)
+<br>[Bukit Panjang Government High School 2022 3NA.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%203NA.pdf)
+<br>[Bukit Panjang Government High School 2022 3NT.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%203NT.pdf)
   
 	
-[Bukit Panjang Government High School 2022 4E.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%204E.pdf)  
-[Bukit Panjang Government High School 2022 4NA.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%204NA.pdf)  
-[Bukit Panjang Government High School 2022 4NT.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%204NT.pdf)
+[Bukit Panjang Government High School 2022 4E.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%204E.pdf)
+<br>[Bukit Panjang Government High School 2022 4NA.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%204NA.pdf)
+<br>[Bukit Panjang Government High School 2022 4NT.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%204NT.pdf)
