@@ -4,7 +4,7 @@ permalink: /ccas/Clubs-and-Societies/bp-communication-link
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![Learning Journey.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/BP%20Communication%20Link/Learning%20Journey.jpg)  
+![](/images/bpc1.jpeg)
 
 BP Communication Link promotes the mass enjoyment of quality sound and lighting effects across numerous school events through the provision of audio and lighting support. The club also ensures the smooth execution of daily morning assemblies in the courtyard and in the hall.
 
@@ -18,6 +18,6 @@ In addition, members of the club gain exposure to operating equipment commonly u
 
   
 
-![Setting up a mixer.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/BP%20Communication%20Link/Setting%20up%20a%20mixer.jpg)  
+![](/images/bpc2.jpeg)
 
-![Setting up a speaker 1.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/BP%20Communication%20Link/Setting%20up%20a%20speaker%201.jpg)
+![](/images/bpc3.jpeg)
