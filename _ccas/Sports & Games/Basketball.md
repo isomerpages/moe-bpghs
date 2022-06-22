@@ -20,7 +20,8 @@ The team will continue to strive for excellence and uphold the good name of the 
 
 ![](/images/BB2.jpeg)
 
-![](/images/BB3.jpeg)
+<img src="/images/BB3.jpeg" 
+     style="width:65%">
 
 ![](/images/BB4.jpeg)
 
