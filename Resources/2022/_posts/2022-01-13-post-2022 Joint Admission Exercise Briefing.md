@@ -7,11 +7,10 @@ description: ""
 ---
 (embed video)
 
-[2022 JAE Briefing Slides 4E 5NA.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202022/Announcements%20&%20Updates/2022%20JAE%20Briefings/2022%20JAE%20Briefing%20Slides%204E%205NA.pdf)
+[2022 JAE Briefing Slides 4E 5NA.pdf](/files/2022%20JAE%20Briefing%20Slides%204E%205NA.pdf)
 
 
 (embed video)
 
  
-[2022 DPP PFP Briefing Slides 4NA.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202022/Announcements%20&%20Updates/2022%20JAE%20Briefings/2022%20DPP%20%20PFP%20Briefing%20Slides%204NA.pdf)
-
+[2022 DPP PFP Briefing Slides 4NA.pdf](/files/2022%20DPP%20%20PFP%20Briefing%20Slides%204NA.pdf)
