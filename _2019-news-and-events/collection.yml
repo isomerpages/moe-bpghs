@@ -2,6 +2,7 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - BP Day cum National Day Celebration 2019.md
       - Racial Harmony Day 2019.md
       - International Friendship Day 2019.md
       - Secondary 2 Adventure Camp.md
