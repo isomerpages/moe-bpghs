@@ -17,13 +17,13 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=dcZ5jiVtiIw" target = "_self"> 
           <img src="/images/SC05%20Teamstruments%20Thumbnail%201.png" 
      style="width:100%">  </th>
-    <th class="tg-c3ow"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=5q9v-hWLs_g" target = "_self"> 
           <img src="/images/SC07%20The%20Chemist%20Thumbnail%201.jpeg" 
      style="width:100%"></th>
-    <th class="tg-c3ow"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+    <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=DnoPHNxY79k" target = "_self"> 
           <img src="/images/SC09%20therunners%20Thumbnail%201.png" 
      style="width:100%"></th>
   </tr>
