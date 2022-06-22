@@ -62,6 +62,18 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 *In BPGHS, I developed my self-confidence and learned the importance of friendship. Before joining the National Science Challenge, never could I have imagined presenting before a huge audience, including subject-matter experts, no less.*
 
-*Nonetheless, my team’s relentless encouragement gave me the courage necessary. Indeed, true friends should be cherished as they are genuine to you through thick and thin, and will grant you the strength to conquer even the most trying of moments.* — Ming Zhe
+*Nonetheless, my team’s relentless encouragement gave me the courage necessary. Indeed, true friends should be cherished as they are genuine to you through thick and thin, and will grant you the strength to conquer even the most trying of moments.* 
 
-*Being in BPGHS gave me a lot of opportunities to lead and excel; especially being in the Student Council Executive Committee. The support that the teachers and classmates gave made me a more confident person.* — Muhammad Salehan B Jaafar (Lee Kuan Yew Award)
+<div>
+<div style="float: right">
+	— Ming Zhe
+	</div>
+	</div>
+
+*Being in BPGHS gave me a lot of opportunities to lead and excel; especially being in the Student Council Executive Committee. The support that the teachers and classmates gave made me a more confident person.*
+	
+<div>
+<div style="float: right">
+— Muhammad Salehan B Jaafar (Lee Kuan Yew Award)
+		</div>
+	</div>
