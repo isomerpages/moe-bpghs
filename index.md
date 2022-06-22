@@ -14,7 +14,7 @@ sections:
       title: "News and Events "
       button: View More
       url: /news-and-events
-      description: Our School Highlights
+      subtitle: Our School Highlights
   - resources:
       title: Announcements & Updates
       subtitle: Stay Updated
