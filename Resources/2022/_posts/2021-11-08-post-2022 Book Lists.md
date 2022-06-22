@@ -12,7 +12,7 @@ Please refer to the files below for the 2022 book lists for secondary 2 to 4 stu
   
 [Bukit Panjang Government High School 2022 2E.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%202E.pdf)
 <br> [Bukit Panjang Government High School 2022 2NA.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%202NA.pdf)
-<br> [Bukit Panjang Government High School 2022 2NT.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Bukit%20Panjang%20Government%20High%20School%202022%202NT.pdf)  
+<br> [Bukit Panjang Government High School 2022 2NT.pdf](/files/Bukit%20Panjang%20Government%20High%20School%202022%202NT.pdf)
   
 	
 	
