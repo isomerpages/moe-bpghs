@@ -29,7 +29,7 @@ The **Three symbols** stand for different aspects of our educational programme:
 
 <h2><u>Our School Song</u></h2>
 
-Forward, forward on to glory,
+<center>Forward, forward on to glory,
 <br>吾校武中, 英勇前进
 <br>Wu xiao wu zhong, ying yong qian jin
 
@@ -75,7 +75,7 @@ Diligent in study and practice
 
 Is our motto and our will.
 <br>遵我校训，笃学力行
-<br>Zun wo xiao xun, du xue li xing
+<br>Zun wo xiao xun, du xue li xing</center>
 
   
  
