@@ -3,8 +3,7 @@ title: Secondary 4 ECG Day
 permalink: /2019-news-and-events/sec-4-ecg-day
 description: ""
 ---
-![NTU 1.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/News%20&%20Events/Secondary%204%20ECG%20Day/NTU%201.jpg)
-
+![](/images/NTU%201.jpeg)
   
 
 14 March 2019 (Thursday) marked the Education and Career Guidance (ECG) Day planned for the Secondary Four and Five students, when the Express/Normal (Academic) and Normal (Technical) classes visited the Nanyang Technological University (NTU) and the Singapore Polytechnic (SP) respectively.
@@ -82,4 +81,4 @@ We hope that through this learning journey and reflection exercise, the students
 ![](/images/SP%201.jpeg)
 
 <img src="/images/SP%202.jpeg" 
-     style="width:55%"> 
+     style="width:55%">
