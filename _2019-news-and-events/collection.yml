@@ -2,6 +2,7 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - International Friendship Day 2019.md
       - Secondary 2 Adventure Camp.md
       - Public Performance 2019.md
       - 59th Speech & Prize Giving Day.md
