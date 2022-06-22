@@ -41,8 +41,11 @@ _During our Naval Base Museum visit, I got to view the guns and early warships t
 _After going through the activities, I feel that we have become more bonded as there were questions that required us to solve as a class. We got to learn how to work together and how to accept one another’s opinions._ 
 
   
-
-Jerrick, Class 206 
+<div>
+	<div style="float: right">
+		<p>Jerrick, Class 206 </p>
+	</div>
+</div>
 
   
 
@@ -55,7 +58,11 @@ _After the bonding activities, I felt closer to my classmates as I got to work w
 
   
 
-Miguel, Class 203
+<div>
+	<div style="float: right">
+		<p>Miguel, Class 203</p>
+	</div>
+</div>
 
   
 
