@@ -2,6 +2,7 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - 59th Speech & Prize Giving Day.md
       - Sports Carnival.md
       - Secondary 4 ECG Day.md
       - Secondary 3 SLD cum VIA Day Camp.md
