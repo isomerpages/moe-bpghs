@@ -17,9 +17,15 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img src="https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/NEmation%202019/SC05%20Teamstruments%20Thumbnail%201.png" alt="SC05 Teamstruments Thumbnail 1.png" width="185" height="104"></th>
-    <th class="tg-c3ow"><img src="https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/NEmation%202019/SC07%20The%20Chemist%20Thumbnail%201.jpg" alt="SC07 The Chemist Thumbnail 1.jpg" width="184" height="103"></th>
-    <th class="tg-c3ow"><img src="https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/NEmation%202019/SC09%20therunners%20Thumbnail%201.png" alt="SC09 therunners Thumbnail 1.png" width="184" height="104"></th>
+    <th class="tg-c3ow"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:100%">  </th>
+    <th class="tg-c3ow"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:100%"></th>
+    <th class="tg-c3ow"><a href = "/about-bpghs/our-achievements/academic-achievements" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
