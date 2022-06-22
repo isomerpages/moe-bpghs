@@ -8,4 +8,4 @@ description: ""
 
 Please refer to the file below.  
   
-[2022 Secondary 3 Subject Combinations.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Links/Subject%20Combinations/2022%20Secondary%203%20Subject%20Combinations.pdf)
+[2022 Secondary 3 Subject Combinations.pdf](/files/2022%20Secondary%203%20Subject%20Combinations.pdf)
