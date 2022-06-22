@@ -55,22 +55,23 @@ Please click on the PDF files below for more information regarding the selected 
   
 Please click on the PDF files below for more information about Student iCON.  
   
-[Student iCON - Introduction.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Student%20iCON%20-%20Introduction.pdf)  
-[Student iCON - Onboarding Guide For Students.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf)  
-[Student iCon - FAQ.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Student%20iCon%20-%20FAQ.pdf)  
+[Student iCON - Introduction.pdf](/files/Student%20iCON%20-%20Introduction.pdf) 
+
+[Student iCON - Onboarding Guide For Students.pdf](/files/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf)
+
+[Student iCon - FAQ.pdf](/files/Student%20iCon%20-%20FAQ.pdf)
   
 To reset your Student iCON password, please click on the link below.  
 [Student iCON password reset](https://go.gov.sg/bpghs-password-reset)  
 
   
 
-  
-
+ 
 ## Additional Resources for Parents
 
 To support you in keeping your child safe online, you may refer to these additional resources:
 
-*   [Parents' Handbook I](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf) and [Parents' Handbook II](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) on Learning with a Personal Learning Device.
+*   [Parents' Handbook I](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf) and Parents' Handbook II (https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf - **FILE TOO LARGE**) on Learning with a Personal Learning Device.
 *   Parent Kit on Cyber Wellness for Your Child ([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))
 *   MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/) )
 *   Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
@@ -82,7 +83,7 @@ To support you in keeping your child safe online, you may refer to these additio
 
   
 
-A list of answers to Frequently Asked Questions can be found [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/PDLP/2022%20Set%20of%20FAQs.pdf).  
+A list of answers to Frequently Asked Questions can be found [here](/files/2022%20Set%20of%20FAQs.pdf).  
 
 If you have any further queries, kindly email us at:
 
