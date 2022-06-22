@@ -41,8 +41,9 @@ Please click on the PDF files below for more information regarding the selected 
 
   
 
-[Microsoft Surface Go 2.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Device/Microsoft%20Surface%20Go%202.pdf)  
-[Microsoft Classroom Pen 2 External Facing Fact Sheet.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Device/Microsoft%20Classroom%20Pen%202%20External%20Facing%20Fact%20Sheet.pdf)  
+[Microsoft Surface Go 2.pdf](/files/Microsoft%20Surface%20Go%202.pdf)
+
+[Microsoft Classroom Pen 2 External Facing Fact Sheet.pdf](/files/Microsoft%20Classroom%20Pen%202%20External%20Facing%20Fact%20Sheet.pdf)
 
   
 
