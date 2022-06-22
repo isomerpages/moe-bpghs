@@ -2,4 +2,5 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - Release of GCE 'O' Level Results.md
       - Release of GCE 'N' Level Results.md
