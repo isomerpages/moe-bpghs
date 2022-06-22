@@ -11,11 +11,11 @@ Our cadets attend milestone activities including Camp Forge for Sec 1 cadets, Ca
   
 Through engaging activities and a culture that instils discipline and fellowship, BPNCC strives to be the premier NCC Land unit in the West district!  
   
+![](/images/ncc2.jpeg)
 
-![IMG-20190216-WA0006.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Cadet%20Corps/IMG-20190216-WA0006.jpg)  
+![](/images/ncc3.jpeg)
 
-![IMG_20181117_115002.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Cadet%20Corps/IMG_20181117_115002.jpg)  
+![](/images/ncc4.jpeg)
 
-![IMG_20190118_170850.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Cadet%20Corps/IMG_20190118_170850.jpg)  
-
-![14758787271536911482.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Cadet%20Corps/14758787271536911482.jpg)
+<img src="/images/ncc5.jpeg" 
+     style="width:65%">
