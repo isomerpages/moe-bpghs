@@ -29,4 +29,4 @@ The Bukit Panjang Government High School NPCC Unit (BPNP) has had several accola
 
 ![](/images/npcc4.jpeg) 
 
-![DSC_0042.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Police%20Cadet%20Corps/DSC_0042.jpg)
+![](/images/npcc5.jpeg)
