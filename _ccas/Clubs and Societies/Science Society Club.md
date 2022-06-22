@@ -31,14 +31,14 @@ In addition, the students are also given plenty of opportunities for their leade
 
   
 
-![ViA 2018 (Science Quiz Unit).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Science%20Society%20Club/ViA%202018%20(Science%20Quiz%20Unit).jpg)  
+![](/images/ssc1.jpeg)
 
-![Sec 1 CCA Roadshow 2019 (Robotics Unit 1).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Science%20Society%20Club/Sec%201%20CCA%20Roadshow%202019%20(Robotics%20Unit%201).jpg)  
+![](/images/ssc2.jpeg)
 
-![Sec 1 CCA Roadshow 2019 (Robotics Unit 2).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Science%20Society%20Club/Sec%201%20CCA%20Roadshow%202019%20(Robotics%20Unit%202).jpg)  
+![](/images/ssc3.jpeg)
 
-![Summary of Unit Structure & Events.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Science%20Society%20Club/Summary%20of%20Unit%20Structure%20&%20Events.jpg)  
+![](/images/ssc4.jpeg)
 
-![Sec 1 CCA Roadshow (Astronomy Unit 2).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Science%20Society%20Club/Sec%201%20CCA%20Roadshow%20(Astronomy%20Unit%202).jpg)  
+![](/images/ssc5.jpeg)
 
-![Annual General Meeting 2018 (Group Photo 2).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Science%20Society%20Club/Annual%20General%20Meeting%202018%20(Group%20Photo%202).jpg)
+![](/images/ssc6.jpeg)
