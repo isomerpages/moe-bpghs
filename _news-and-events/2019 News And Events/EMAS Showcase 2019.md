@@ -20,8 +20,8 @@ The showcase was presented to the Principal, Mr Chua Lek Hong, Vice-Principals, 
 
   
 
-![Emas Showcase .jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/News%20&%20Events/EMAS%20Showcase%202019/Emas%20Showcase%20.jpeg)  
+![](/images/Emas%20Showcase%20.jpeg)
 
-![Emas showcase.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/News%20&%20Events/EMAS%20Showcase%202019/Emas%20showcase.jpeg)  
+![](/images/Emas%20showcase.jpeg)
 
-![EMAS Showcase(1).jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/News%20&%20Events/EMAS%20Showcase%202019/EMAS%20Showcase(1).jpeg)
+![](/images/EMAS%20Showcase(1).jpeg)
