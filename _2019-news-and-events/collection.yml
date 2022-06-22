@@ -2,5 +2,6 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - Secondary 1 Orientation Prog & CCA Roadshow.md
       - Release of GCE 'O' Level Results.md
       - Release of GCE 'N' Level Results.md
