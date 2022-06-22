@@ -2,6 +2,7 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - Chinese New Year Celebration and Operation Orange.md
       - EMAS Showcase 2019.md
       - Secondary 1 Orientation Prog & CCA Roadshow.md
       - Release of GCE 'O' Level Results.md
