@@ -4,8 +4,7 @@ permalink: /ccas/Performing-Arts/malay-cultural-society
 description: ""
 third_nav_title: Performing Arts
 ---
-  
-![ML Dance 2.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Malay%20Cultural%20Society/ML%20Dance%202.jpeg)  
+![](/images/mc1.jpeg)
 
 The school’s Malay Cultural Society comprises the Malay Dance group and Gamelan Ensemble.
 
@@ -27,8 +26,8 @@ The Malay Cultural Society hopes that the experience and learning obtained by ou
 
   
 
-![Gamelan 1.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Malay%20Cultural%20Society/Gamelan%201.jpeg)  
+![](/images/mc2.jpeg)
 
-![Gamelan 2.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Malay%20Cultural%20Society/Gamelan%202.jpeg)  
+![](/images/mc3.jpeg)
 
-![ML Dance 1.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Malay%20Cultural%20Society/ML%20Dance%201.jpeg)
+![](/images/mc4.jpeg)
