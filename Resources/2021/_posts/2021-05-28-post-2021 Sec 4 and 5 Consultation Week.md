@@ -19,4 +19,4 @@ These are the objectives of Consultation Week:
   
 Please refer to the PDF file below for the Consultation Week schedule.  
   
-[2021 June Consultation Week Schedule.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/2021%20June%20Consultation%20Week%20Schedule.pdf)
+[2021 June Consultation Week Schedule.pdf](/files/2021%20June%20Consultation%20Week%20Schedule.pdf)
