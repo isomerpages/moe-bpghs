@@ -9,7 +9,7 @@ Dear BPians and Parents,
   
 Please refer to the PDF file below for information regarding home-based learning from 19 to 28 May.  
   
-[2021 Full Home-Based Learning.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Home-Based%20Learning%202021%20Students.pdf)  
+[2021 Full Home-Based Learning.pdf](/files/Home-Based%20Learning%202021%20Students.pdf)
   
 To access the FHBL daily lesson guide, go to: [www.go.gov.sg/bpghsbl](http://www.go.gov.sg/bpghsbl).  
   
