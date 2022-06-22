@@ -4,8 +4,7 @@ permalink: /ccas/Sports-and-Games/volleyball
 description: ""
 third_nav_title: Sports & Games
 ---
-  
-![IMG_0448.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Volleyball/IMG_0448.jpg)  
+![](/images/vb1.jpeg)
 
 Through the years, the BP Volleyball boys’ and girls’ teams have consistently attained the top four placings in both the National and Zonal inter-school competitions, establishing themselves as one of the top volleyball teams in Singapore.
 
@@ -23,13 +22,12 @@ There are 4 divisions comprising nearly 100 players altogether. Training session
 
 Many of our players have also been selected to represent the Singapore Combined Schools in local and regional competitions such as the Asean Schools Games and have been awarded the Zonal/ National Colours Awards which helped them gain admission to the tertiary institution of their choice. Every volleyball player is a proud member of the team and many graduate from the school with a deep sense of achievement and enjoyment that is truly unique to this sport.
 
-  
+ ![](/images/vb2.jpeg)
 
-![IMG_0248 - v gd photo pls choose this haha.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Volleyball/IMG_0248%20-%20v%20gd%20photo%20pls%20choose%20this%20haha.jpg)  
+![](/images/vb3.jpeg)
 
-![BPGHS Volleyball Finals Cam1 (199).JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Volleyball/BPGHS%20Volleyball%20Finals%20Cam1%20(199).jpg)  
+![](/images/vb4.jpeg)
 
-![Edit-46.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Volleyball/Edit-46.jpg)  
-![BPGHS 220714 - Volleyball (372 of 376).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Volleyball/BPGHS%20220714%20-%20Volleyball%20(372%20of%20376).jpg)  
+![](/images/vb5.jpeg)
 
-![IMG_0421.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Volleyball/IMG_0421.jpg)
+![](/images/vb6.jpeg)
