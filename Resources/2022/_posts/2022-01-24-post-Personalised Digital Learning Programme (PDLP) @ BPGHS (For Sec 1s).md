@@ -23,4 +23,4 @@ For parents with Singpass, please make an online submission at [https://go.gov.s
 There will be a PDLP Parents Engagement Session on Friday, 4 February 2022 @ 6pm.
  
 The links to the Parents Engagement Sessions will be made available via Parents Gateway.
-Alternatively, you can view the slides [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202022/Announcements%20&%20Updates/Parent%20Engagement%20Deck%20for%20Sec%201%202022.pdf).
+Alternatively, you can view the slides [here](/files/Parent%20Engagement%20Deck%20for%20Sec%201%202022.pdf).
