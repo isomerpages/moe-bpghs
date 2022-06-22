@@ -2,6 +2,7 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - Teachers' Day Celebration 2019.md
       - Alumni Homecoming Concert cum Mid Autumn Festival Celebrations.md
       - BP Day cum National Day Celebration 2019.md
       - Racial Harmony Day 2019.md
