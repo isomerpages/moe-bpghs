@@ -4,7 +4,7 @@ permalink: /ccas/Performing-Arts/dance
 description: ""
 third_nav_title: Performing Arts
 ---
-![passionarts 2019.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Dance/passionarts%202019.jpg)  
+![](/images/d1.jpeg)
 
 From a mere 8 members in 1999 to 45 dancers today, Bukit Panjang Government High International Dance as a CCA has been gaining momentum in terms of skills and exposure. The CCA seeks to nurture and develop the talent and passion for dancing in aspiring students, particularly in the following objectives:
 
@@ -34,11 +34,10 @@ Some of the events our dancers were involved in include SHOWCASE! Performing Art
 *   SYF 2017: Certificate of Accomplishment
 
   
+![](/images/d2.jpeg)
 
-![56220002_10158124861168238_106612495719858176_o.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Dance/56220002_10158124861168238_106612495719858176_o.jpg)  
+![](/images/d3.jpeg)
 
-![JON_4312.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Dance/JON_4312.jpg)  
+![](/images/d4.jpeg)
 
-![JON_4330.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Dance/JON_4330.jpg)  
-
-![JON_4350.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Dance/JON_4350.jpg)
+![](/images/d5.jpeg)
