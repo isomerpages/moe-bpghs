@@ -46,7 +46,9 @@ Please click on the PDF files below for more information regarding the selected 
 [Microsoft Classroom Pen 2 External Facing Fact Sheet.pdf](/files/Microsoft%20Classroom%20Pen%202%20External%20Facing%20Fact%20Sheet.pdf)
 
   
+Please click on the PDF file below for more information about the PLD claims process.
 
+[PLD Claims Process.pdf](/files/PLD%20Claims%20Process.pdf)
   
 
 ## Student iCON
