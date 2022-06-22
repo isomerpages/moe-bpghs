@@ -2,6 +2,7 @@ collections:
   2019-news-and-events:
     output: true
     order:
+      - Secondary 4 ECG Day.md
       - Secondary 3 SLD cum VIA Day Camp.md
       - Chinese New Year Celebration and Operation Orange.md
       - EMAS Showcase 2019.md
