@@ -40,14 +40,13 @@ _During our Naval Base Museum visit, I got to view the guns and early warships t
 
 _After going through the activities, I feel that we have become more bonded as there were questions that required us to solve as a class. We got to learn how to work together and how to accept one another’s opinions._ 
 
-  
 <div>
 	<div style="float: right">
 		<p>Jerrick, Class 206 </p>
 	</div>
 </div>
 
-  
+<br>
 
 ![](/images/BP%20Day%20203-min.jpeg)
   
