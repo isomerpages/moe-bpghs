@@ -7,8 +7,7 @@ third_nav_title: Performing Arts
 <img src="/images/Military%20Band.png" 
      style="width:65%">
 
-  
-![BPGH_SD_CVG_23_MAR-157.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/BPGH_SD_CVG_23_MAR-157.jpg)
+![](/images/b1.jpeg)
 
 <strong><u>About us:</u></strong>
 
@@ -33,8 +32,8 @@ Our members get a full range of experience taking part in both SYF Arts Presenta
 
   
 
-![BPGH_CCAS_5_JAN-149.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/BPGH_CCAS_5_JAN-149.jpg)  
+![](/images/b2.jpeg)
 
-![DSC05416.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/DSC05416.jpg)  
+![](/images/b3.jpeg)
 
-![SYF Soundcheck 2017-14 by Twist Photography (pls credit).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Military%20Band/SYF%20Soundcheck%202017-14%20by%20Twist%20Photography%20(pls%20credit).jpg)
+![](/images/b4.jpeg)
