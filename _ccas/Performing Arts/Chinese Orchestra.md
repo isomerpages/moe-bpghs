@@ -4,7 +4,7 @@ permalink: /ccas/Performing-Arts/chinese-orchestra
 description: ""
 third_nav_title: Performing Arts
 ---
-![BPGH_CP_CO_29_JUN-74.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Chinese%20Orchestra/BPGH_CP_CO_29_JUN-74.jpg)  
+![](/images/co1.jpeg)  
 
 Bukit Panjang Chinese Orchestra (BPCO) was established in 1993, and it has matured in various aspects since its inception. What started out as plucked-string ensemble grew to become a full orchestra in 1999. Our CCA’s core vision is 共享华乐 传承文化 -- Sharing our passion for Chinese music and transmitting our cultural heritage.
 
@@ -28,8 +28,8 @@ Student performers with leadership qualities are also identified to take up posi
 
   
 
-![BPGH_CCAS_5_JAN-115.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Chinese%20Orchestra/BPGH_CCAS_5_JAN-115.jpg)  
+![](/images/co2.jpeg)
 
-![CO photo 2019.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Chinese%20Orchestra/CO%20photo%202019.jpeg)  
+![](/images/co3.jpeg)
 
-![CO Photo 1.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Chinese%20Orchestra/CO%20Photo%201.jpg)
+![](/images/co4.jpeg)
