@@ -21,9 +21,8 @@ The SAC and MOE Long Service Awards were also presented on this occasion. This y
 
 
 
-<center><strong><u>BUKIT PANJANG GOVT HIGH SCHOOL</u></strong></center>
-
-<center><strong><u>MOE LSA 2019</u></strong></center>
+<center><strong><u>BUKIT PANJANG GOVT HIGH SCHOOL
+<br>MOE LSA 2019</u></strong></center>
 
   
 
