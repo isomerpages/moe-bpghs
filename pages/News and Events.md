@@ -11,4 +11,4 @@ description: ""
 * [60th Anniversary Video Series](/news-and-events/60th-anniversary-video-series)
 * [UNSW English and Writing Assessments Results 2019](/news-and-events/unsw-english-and-writing-assessments-results-2019)
 * [GCE N-Level Examination Results Release](/news-and-events/gce-n-level-examination-results-release-2019)
-* 2019 News & Events
+* [2019 News & Events](/2019-news-and-events)
