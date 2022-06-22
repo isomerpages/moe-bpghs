@@ -127,9 +127,9 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
   
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/CCE/Annex%20A.pdf). The completed form is to be submitted by 25/02/2022. 
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf). The completed form is to be submitted by 25/02/2022. 
 
-12. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/Holistic%20Education/CCE/Annex%20B.pdf).  The completed form is to be submitted by 25/02/2022.
+12. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf).  The completed form is to be submitted by 25/02/2022.
 
 13. Parents can contact the school at [bpghs@moe.edu.sg](mailto:bpghs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
