@@ -22,7 +22,6 @@ Dear BPians,
 .tg .tg-gaoc{border-color:inherit;color:#333333;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
   <tr>
     <th class="tg-c3ow"><a href = "https://www.youtube.com/watch?v=dcZ5jiVtiIw" target = "_self"> 
           <img src="/images/SC05%20Teamstruments%20Thumbnail%201.png" 
@@ -34,7 +33,6 @@ Dear BPians,
           <img src="/images/SC09%20therunners%20Thumbnail%201.png" 
      style="width:100%"></th>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-c3ow">SC05 Teamstruments</td>
