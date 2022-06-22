@@ -63,6 +63,7 @@ _After the bonding activities, I felt closer to my classmates as I got to work w
 	</div>
 </div>
 
+<br>
   
 
 _I have learnt that the Former Ford factory is the place where the British surrendered to the Japanese Army on 15 Feb 1942. During the Japanese Occupation, many Singaporeans were mistreated and even killed. I learnt that we need to protect ourselves and no one owes us a living._
