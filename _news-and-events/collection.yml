@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - 2019 News And Events/.keep
       - E Open House 2021.md
       - Read for Life Competition.md
       - Time Lapse Video of 60th Anniversary Thumbprint Artwork.md
