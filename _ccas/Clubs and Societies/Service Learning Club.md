@@ -4,7 +4,7 @@ permalink: /ccas/Clubs-and-Societies/service-learning-club
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![PAYM Project Accolade Silver Award.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/PAYM%20Project%20Accolade%20Silver%20Award.jpg)  
+![](/images/slc1.jpeg)
 
 By providing a platform for students to actively participate in Values in Action (ViA) within the community, the Service Learning Club (SLC) aims to cultivate a sense of volunteerism in students, enabling the students to reach out to various communities in need.
 
@@ -26,10 +26,10 @@ We hope that through the efforts of these students, other fellow BPians will be 
 
   
 
-![operation orange 2.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/operation%20orange%202.jpeg)  
+![](/images/slc2.jpeg)  
 
-![Copy of Operation Orange 2 (1).jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/Copy%20of%20Operation%20Orange%202%20(1).jpg)  
+![](/images/slc3.jpeg)
 
-![clean the school project.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/clean%20the%20school%20project.jpeg)  
+![](/images/slc4.jpeg)
 
-![Go Green for the Community 1.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Clubs%20&%20Societies/Service%20Learning%20Club/Go%20Green%20for%20the%20Community%201.jpg)
+![](/images/slc5.jpeg)
