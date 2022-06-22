@@ -14,7 +14,7 @@ BPGHS Choir is highly committed to perform at the highest possible level of chor
 
   
 
-![Speech Day 2018.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Choir/Speech%20Day%202018.jpg)
+![](/images/c2.jpeg)
 
 <center><u>Speech Day 2018</u></center>
 
@@ -26,13 +26,13 @@ BPGHS Choir earned a Certificate of Distinction in the SYF Arts Presentation in 
 
   
 
-![WCF 2018_Competition.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Choir/WCF%202018_Competition.jpg)
+![](/images/c3.jpeg)
 
 <center><u>Winter Choral Festival 2018</u></center>
 
   
 
-![WCF 2018_Disney Performance 1.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Performing%20Arts/Choir/WCF%202018_Disney%20Performance%201.jpg)
+![](/images/c4.jpeg)
 
 <center><u>Performance at Hong Kong Disneyland</u></center>
 
