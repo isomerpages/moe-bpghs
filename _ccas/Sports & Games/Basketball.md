@@ -4,8 +4,7 @@ permalink: /ccas/Sports-and-Games/basketball
 description: ""
 third_nav_title: Sports & Games
 ---
-  
-![9.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Basketball/9.jpg)  
+![](/images/BB1.jpeg)
 
 ‘Discipline and Teamwork’ is the motto of the Bukit Panjang Government High School (BPGHS) Basketball Team. The CCA provides a platform for players to discover their strengths, weaknesses and leadership qualities by being a part of this exclusive team. Every team member ardently encourages his peers to train hard, train well, focus and to do his utmost for the team, with or without the ball in possession.
 
@@ -19,10 +18,10 @@ The team will continue to strive for excellence and uphold the good name of the 
 
   
 
-![2.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Basketball/2.jpg)  
+![](/images/BB2.jpeg)
 
-![5.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Basketball/5.jpg)  
+![](/images/BB3.jpeg)
 
-![6.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Basketball/6.jpg)  
+![](/images/BB4.jpeg)
 
-![10.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Sports%20&%20Games/Basketball/10.jpg)
+![](/images/BB5.jpeg)
