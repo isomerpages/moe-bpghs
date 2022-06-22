@@ -4,8 +4,7 @@ permalink: /ccas/Uniform-Groups/national-police-cadet-corp
 description: ""
 third_nav_title: Uniform Groups
 ---
-  
-![54524491_1629688700507952_6716560459819909120_n.jpg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Police%20Cadet%20Corps/54524491_1629688700507952_6716560459819909120_n.jpg)  
+![](/images/npcc1.jpeg)
 
 The National Police Cadet Corps (NPCC) is a Uniformed Group under the Ministry of Education and Ministry of Home Affairs. The CCA provides a holistic experience from nurturing values, such as leadership, discipline and responsibility, to acquiring skills such as first-aid and kayaking. Events such as drills sessions and parades teach the members to be disciplined, while outdoor activities such as adventure training camps at Pulau Ubin, campcraft and tent-pitching give members a chance to develop resilience and enjoy outdoor experiences. NPCC members also get a chance to experience policing, learn about the law, be involved in Crime Scene Investigation techniques and get a chance to shoot with a real revolver. Apart from all these activities, NPCC members gain leadership abilities in the midst of grooming their juniors. All in all, NPCC nurtures members into all-rounded and caring citizens.
 
@@ -21,15 +20,13 @@ The Bukit Panjang Government High School NPCC Unit (BPNP) has had several accola
     
 *   BPNP Cadets have also been selected to take part in the following exclusive events: NPCC Annual Parade Guard-of-Honour, National Day Parade Marching Contingent, Harmony Camp, Brunei Overseas Educational Visit, Hong Kong Educational Visit and National UG Camp.  
     
-*   BPNP cadets have been awarded with the Singapore Youth Flying Club (SYFC) Award for the Years 2017 and 2018. The SYFC Award is given to a single student in the Sec 4/5 level for attaining the highest LEAPS points.  
-    
+* BPNP cadets have been awarded with the Singapore Youth Flying Club (SYFC) Award for the Years 2017 and 2018. The SYFC Award is given to a single student in the Sec 4/5 level for attaining the highest LEAPS points.  
 
   
+![](/images/npcc2.jpeg)
 
-![DSC_0038.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Police%20Cadet%20Corps/DSC_0038.jpg)  
+![](/images/npcc3.jpeg)
 
-![WhatsApp Image 2018-08-09 at 12.59.02 PM.jpeg](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Police%20Cadet%20Corps/WhatsApp%20Image%202018-08-09%20at%2012.59.02%20PM.jpeg)  
-
-![IMG_1510.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Police%20Cadet%20Corps/IMG_1510.jpg)  
+![](/images/npcc4.jpeg) 
 
 ![DSC_0042.JPG](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Holistic%20Education/CCAs/Uniform%20Groups/National%20Police%20Cadet%20Corps/DSC_0042.jpg)
