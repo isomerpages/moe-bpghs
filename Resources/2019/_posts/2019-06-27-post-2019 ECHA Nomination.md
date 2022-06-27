@@ -13,4 +13,4 @@ Please use the form below to nominate fellow BPians or yourself for the Edusave 
 
   
 
-[2019 ECHA Nomination Form.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/2019%20ECHA%20Nomination/2019%20ECHA%20Nomination%20Form.pdf)
+[2019 ECHA Nomination Form.pdf](/files/2019%20ECHA%20Nomination%20Form.pdf)
