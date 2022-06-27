@@ -9,6 +9,6 @@ Dear Secondary 2 BPians and parents,
   
 Please refer to the slides below for information on this year's streaming exercise.   
   
-[Streaming 2019 (21 Oct).pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/2019/Streaming%202019%20(21%20Oct).pdf)   
+[Streaming 2019 (21 Oct).pdf](/files/Streaming%202019%20(21%20Oct).pdf)   
   
 Please click on [this link](http://bpghs.adminbreeze.com/) access the portal. Details and instructions can be found in the above slides.
