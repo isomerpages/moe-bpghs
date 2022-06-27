@@ -13,10 +13,7 @@ Please refer to the files below for your timetable in Semester 1, 2019.
 
   
 
-[Sec 1 Timetable v1.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Class%20Timetables%20for%202019/Sec%201%20Timetable%20v1.pdf)  
-
-[Sec 2 Timetable v1.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Class%20Timetables%20for%202019/Sec%202%20Timetable%20v1.pdf)  
-
-[Sec 3 Timetable v1.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Class%20Timetables%20for%202019/Sec%203%20Timetable%20v1.pdf)  
-
-[Sec 4 & 5 Timetable v1.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Class%20Timetables%20for%202019/Sec%204%20&%205%20Timetable%20v1.pdf)
+[Sec 1 Timetable v1.pdf](/files/Sec%201%20Timetable%20v1%20(1).pdf)
+<br>[Sec 2 Timetable v1.pdf](/files/Sec%202%20Timetable%20v1.pdf)
+<br>[Sec 3 Timetable v1.pdf](/files/Sec%203%20Timetable%20v1.pdf)
+<br>[Sec 4 & 5 Timetable v1.pdf](/files/Sec%204%20&%205%20Timetable%20v1.pdf)
