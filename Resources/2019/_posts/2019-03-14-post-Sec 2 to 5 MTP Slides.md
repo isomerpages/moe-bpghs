@@ -13,9 +13,9 @@ Please refer to the files below for the slides that were shared during the **Sec
 
   
 
-[MTP Streaming talk 2Express\_updated.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%202%20MTP%20Slides/MTP%20Streaming%20talk%202Express_updated.pdf)  
-[MTP Streaming talk 2NA\_updated.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%202%20MTP%20Slides/MTP%20Streaming%20talk%202NA_updated.pdf)  
-[MTP Streaming talk 2NT\_updated.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%202%20MTP%20Slides/MTP%20Streaming%20talk%202NT_updated.pdf)
+[MTP Streaming talk 2Express\_updated.pdf](/files/MTP%20Streaming%20talk%202Express_updated.pdf)
+<br>[MTP Streaming talk 2NA\_updated.pdf](/files/MTP%20Streaming%20talk%202NA_updated.pdf) 
+<br>[MTP Streaming talk 2NT\_updated.pdf](/files/MTP%20Streaming%20talk%202NT_updated.pdf)
 
 Please refer to the files below for the slides that were shared during the **Sec 3 MTP session on 7 Mar.**
 
