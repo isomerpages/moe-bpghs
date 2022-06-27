@@ -13,10 +13,10 @@ Here are the lists of the subject teachers' names and contact details for your r
 
   
 
-[Sec 1 Subject Teachers](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Subject%20Teachers%20Lists%202019/Subject%20Teachers%20(Sec%201).pdf) 
+[Sec 1 Subject Teachers](/files/Subject%20Teachers%20(Sec%201).pdf)
 
-[Sec 2 Subject Teachers](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Subject%20Teachers%20Lists%202019/Subject%20Teachers%20(Sec%202).pdf) 
+[Sec 2 Subject Teachers](/files/Subject%20Teachers%20(Sec%202).pdf)
 
-[Sec 3 Subject Teachers](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Subject%20Teachers%20Lists%202019/Subject%20Teachers%20(Sec%203).pdf) 
+[Sec 3 Subject Teachers](/files/Subject%20Teachers%20(Sec%203).pdf)
 
-[Sec 4 & 5 Subject Teachers](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Subject%20Teachers%20Lists%202019/Subject%20Teachers%20(Sec%204%20&%205).pdf)
+[Sec 4 & 5 Subject Teachers](/files/Subject%20Teachers%20(Sec%204%20&%205).pdf)
