@@ -21,9 +21,10 @@ Please refer to the files below for the slides that were shared during the **Sec
 
   
 
-[MTP Briefing Slides for Sec 3 Express (8 Mar)\_updated.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%203%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%203%20Express%20(8%20Mar)_updated.pdf)  
-[MTP Briefing Slides for Sec 3 NA (8 Mar)\_updated.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%203%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%203%20NA%20(8%20Mar)_updated.pdf)  
-[MTP Briefing Slides for Sec 3 NT (8 Mar)\_updated.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%203%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%203%20NT%20(8%20Mar)_updated.pdf)
+[MTP Briefing Slides for Sec 3 Express (8 Mar)\_updated.pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%203%20Express%20(8%20Mar)_updated.pdf)
+<br>[MTP Briefing Slides for Sec 3 NA (8 Mar)\_updated.pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%203%20NA%20(8%20Mar)_updated.pdf)
+<br>[MTP Briefing Slides for Sec 3 NT (8 Mar)\_updated.pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%203%20NT%20(8%20Mar)_updated.pdf)
+
 
 Please refer to the files below for the slides that were shared during the **Sec 4/5 MTP session on 1 Mar.**
 
