@@ -13,6 +13,7 @@ Please refer to this page for important information to help your kid settle in i
 
   
 
-*   [Sec 1 Semester 1 Timetable v1](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%201%20Information/Sec%201%20Timetable%20v1.pdf) updated 29 Dec 2018
-*   [Slides from Sec 1 Registration Day](https://www-bpghs-moe-edu-sg-admin.cwp.sg/bpghs/announcements-n-updates/slides-from-sec-1-registration-day) updated 27 Dec 2018
-*   [Sec 1 Registration (for 2019 Sec 1s)](https://www-bpghs-moe-edu-sg-admin.cwp.sg/bpghs/announcements-n-updates/sec-1-registration) updated 17 Dec 2018
+*   [Sec 1 Semester 1 Timetable v1](/files/Sec%201%20Timetable%20v1.pdf) updated 29 Dec 2018
+*   [Sec 1 Reg Day - School Matters.pdf](/files/Sec%201%20Reg%20Day%20-%20School%20Matters.pdf)
+* [Sec 1 Reg Day - Admin Matters.pdf](/files/Sec%201%20Reg%20Day%20-%20Admin%20Matters.pdf)
+*   [Sec 1 Registration (for 2019 Sec 1s)](/files/Sec%201%20Registration%20For%20Year%202019%20(for%20school%20website).pdf) updated 17 Dec 2018
