@@ -7,4 +7,4 @@ description: ""
 ---
 Please click on the following to download the December Holiday CCA Schedule 2019.  
   
-[2019 December Holiday CCA Schedule.xlsx](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/December%20Holiday%20CCA%20Schedule/2019%20December%20Holiday%20CCA%20Schedule.xlsx)
+[2019 December Holiday CCA Schedule.xlsx](https://go.gov.sg/2019-december-holiday-cca-schedule)
