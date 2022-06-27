@@ -13,9 +13,9 @@ Please refer to the following document for the details of work attachment opport
 
   
 
-[2019 Consolidated Work Attachment for Sec 3 Students\_Students' version2.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%203%20Work%20Attachment%202019/2019%20Consolidated%20Work%20Attachment%20for%20Sec%203%20Students_Students'%20version2.pdf)  
+[2019 Consolidated Work Attachment for Sec 3 Students\_Students' version2.pdf](/files/2019%20Consolidated%20Work%20Attachment%20for%20Sec%203%20Students_Students'%20version2.pdf) 
 
-[Briefing to students on Work Attachment\_2019.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%203%20Work%20Attachment%202019/Briefing%20to%20students%20on%20Work%20Attachment_2019.pdf)  
+[Briefing to students on Work Attachment\_2019.pdf](/files/Briefing%20to%20students%20on%20Work%20Attachment_2019.pdf)
 
   
 
