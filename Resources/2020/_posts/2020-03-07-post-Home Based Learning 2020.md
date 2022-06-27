@@ -11,4 +11,4 @@ Dear Parents / Guardians
 
 Please refer to the Full HBL timetable below.
 
-[HBL Timetable Class updated CLB MLB.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202020/Announcements%20&%20Updates/HBL%20Timetable%20Class%20updated%20CLB%20MLB.pdf)
+[HBL Timetable Class updated CLB MLB.pdf](/files/HBL%20Timetable%20Class%20updated%20CLB%20MLB.pdf)
