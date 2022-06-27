@@ -13,10 +13,10 @@ The following letter was distributed to your child/ward to highlight and update 
 
   
 
-[T1 Letter to Parents for Sec 2](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Term%201%20Letters%20to%20Parents/T1%20Letter%20to%20Parents%20for%20Sec%202%202019.pdf)  
+[T1 Letter to Parents for Sec 2](/files/T1%20Letter%20to%20Parents%20for%20Sec%202%202019.pdf)
 
-[T1 Letter to Parents for Sec 3](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Term%201%20Letters%20to%20Parents/T1%20Letter%20to%20Parents%20for%20Sec%203%202019.pdf)  
+[T1 Letter to Parents for Sec 3](/files/T1%20Letter%20to%20Parents%20for%20Sec%203%202019.pdf)
 
-[T1 Letter to Parents for Sec 4](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Term%201%20Letters%20to%20Parents/T1%20Letter%20to%20Parents%20for%20Sec%204%202019.pdf)  
+[T1 Letter to Parents for Sec 4](/files/T1%20Letter%20to%20Parents%20for%20Sec%204%202019.pdf)
 
-[T1 Letter to Parents for Sec 5](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Term%201%20Letters%20to%20Parents/T1%20Letter%20to%20Parents%20for%20Sec%205%202019.pdf)
+[T1 Letter to Parents for Sec 5](/files/T1%20Letter%20to%20Parents%20for%20Sec%205%202019.pdf)
