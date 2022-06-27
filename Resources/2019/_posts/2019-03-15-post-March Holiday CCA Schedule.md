@@ -9,4 +9,4 @@ Please click on the following to download the March Holiday CCA Schedule 2019.
 
   
 
-[2019 March Holiday CCA Schedule.xlsx](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/March%20Holiday%20CCA%20Schedule/2019%20March%20Holiday%20CCA%20Schedule.xlsx)
+[2019 March Holiday CCA Schedule.xlsx](https://go.gov.sg/2019-march-holiday-cca-schedule)
