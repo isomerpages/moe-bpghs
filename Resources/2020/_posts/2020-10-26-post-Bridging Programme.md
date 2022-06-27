@@ -7,4 +7,4 @@ description: ""
 ---
 Please refer to the file below to download the schedule for the 2020 bridging programme.  
   
-[Bridging Programme 2020.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202020/Announcements%20&%20Updates/Bridging%20Programme%202020.pdf)
+[Bridging Programme 2020.pdf](/files/Bridging%20Programme%202020.pdf)
