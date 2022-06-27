@@ -29,13 +29,7 @@ Please refer to the files below for the slides that were shared during the **Sec
 
   
 
-[MTP Briefing Slides for Sec 4 Express (1 Mar).pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%204_5%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%204%20Express%20(1%20Mar).pdf)  
-[MTP Briefing Slides for Sec 4 Normal Academic (1 Mar).pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%204_5%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%204%20Normal%20Academic%20(1%20Mar).pdf)  
-[MTP Briefing Slides for Sec 4 Normal Technical (1 Mar).pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%204_5%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%204%20Normal%20Technical%20(1%20Mar).pdf)  
-[MTP Briefing Slides for Sec 5 Normal Academic (1 Mar).pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Sec%204_5%20MTP%20Slides/MTP%20Briefing%20Slides%20for%20Sec%205%20Normal%20Academic%20(1%20Mar).pdf)
-
-
-
-
-
-
+[MTP Briefing Slides for Sec 4 Express (1 Mar).pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%204%20Express%20(1%20Mar).pdf)
+<br>[MTP Briefing Slides for Sec 4 Normal Academic (1 Mar).pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%204%20Normal%20Academic%20(1%20Mar).pdf)
+<br>[MTP Briefing Slides for Sec 4 Normal Technical (1 Mar).pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%204%20Normal%20Technical%20(1%20Mar).pdf)
+<br>[MTP Briefing Slides for Sec 5 Normal Academic (1 Mar).pdf](/files/MTP%20Briefing%20Slides%20for%20Sec%205%20Normal%20Academic%20(1%20Mar).pdf)
