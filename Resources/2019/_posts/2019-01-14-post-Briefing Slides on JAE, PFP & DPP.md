@@ -13,4 +13,4 @@ Please refer to the file below for the briefing slides on JAE, PFP and DPP.
 
   
 
-[Briefing on JAE, PFP & DPP.pdf](https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Announcements%20&%20Updates/Briefing%20Slides%20on%20JAE_PFP_DPP/Briefing%20on%20JAE,%20PFP%20&%20DPP.pdf)
+[Briefing on JAE, PFP & DPP.pdf](/files/Briefing%20on%20JAE,%20PFP%20&%20DPP.pdf)
