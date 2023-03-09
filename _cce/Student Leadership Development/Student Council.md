@@ -1,6 +1,6 @@
 ---
 title: Student Council
-permalink: /cce/Student-Leadership-Development/student-council
+permalink: /cce/student-leadership-development/student-council/
 description: ""
 third_nav_title: Student Leadership Development
 ---

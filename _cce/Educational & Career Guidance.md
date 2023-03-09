@@ -1,6 +1,6 @@
 ---
 title: Educational & Career Guidance
-permalink: /cce/educational-and-career-guidance
+permalink: /cce/educational-and-career-guidance/
 description: ""
 ---
 **Education and Career Guidance (ECG)** is about equipping students with the necessary knowledge, skills and values to make decisions at each key education stage for successful transition from school to further education or work, and hence to plan and manage their career pathways and learning throughout their lives.  

@@ -1,6 +1,6 @@
 ---
 title: Sec 4 Prom Night 2019
-permalink: /2019-news-and-events/sec-4-prom-night-2019
+permalink: /2019-news-and-events/sec-4-prom-night-2019/
 description: ""
 ---
 Prom Night 2019 was held on 18 November 2019 (Monday) at Blossom Garden Restaurant @ HomeTeamNS Bukit Batok. It was indeed **A Night To Remember**! All the best to the Sec 4s and 5s!

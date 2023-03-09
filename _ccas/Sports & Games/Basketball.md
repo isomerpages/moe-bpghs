@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /ccas/Sports-and-Games/basketball
+permalink: /ccas/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---

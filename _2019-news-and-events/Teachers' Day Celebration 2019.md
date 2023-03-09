@@ -1,6 +1,6 @@
 ---
 title: Teachers' Day Celebration 2019
-permalink: /2019-news-and-events/Teachers-Day-Celebration-2019
+permalink: /2019-news-and-events/teachers-day-celebration-2019/
 description: ""
 ---
 We celebrated this year’s Teachers’ Day Concert with the theme THEN AND NOW, delving into the evolution of teaching from its early days in the 60s till today. Teachers and students alike were treated to a time of reminiscing the good ol’ days, celebrating the teachers’ work through the generations as they relived their memories of teaching and learning in their earlier years.  

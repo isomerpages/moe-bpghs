@@ -1,6 +1,6 @@
 ---
 title: Chinese Drama
-permalink: /ccas/Performing-Arts/chinese-drama
+permalink: /ccas/performing-arts/chinese-drama/
 description: ""
 third_nav_title: Performing Arts
 ---

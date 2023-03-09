@@ -1,6 +1,6 @@
 ---
 title: 59th Speech & Prize Giving Day
-permalink: /2019-news-and-events/59th-Speech-and-Prize-Giving-Day
+permalink: /2019-news-and-events/59th-speech-and-prize-giving-day/
 description: ""
 ---
 The school’s 59th Speech and Prize-Giving Day took place on Thursday, 25 April, 2019, 10.30 am at School Multi-purpose Hall. This year, our Guest-of-Honor was our SAC member, Mr. Goh Peck San.

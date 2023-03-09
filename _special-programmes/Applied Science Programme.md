@@ -1,6 +1,6 @@
 ---
 title: Applied Science Programme
-permalink: /special-programmes/applied-science-programme
+permalink: /special-programmes/applied-science-programme/
 description: ""
 ---
 ![](/images/ASP1.jpeg)

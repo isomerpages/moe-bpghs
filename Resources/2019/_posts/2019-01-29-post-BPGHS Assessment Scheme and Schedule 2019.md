@@ -1,6 +1,6 @@
 ---
 title: BPGHS Assessment Scheme and Schedule 2019
-permalink: /Resources/2019/BPGHS-Assessment-Scheme-and-Schedule-2019
+permalink: /resources/2019/bpghs-assessment-scheme-and-schedule-2019/
 date: 2019-01-29
 layout: post
 description: ""

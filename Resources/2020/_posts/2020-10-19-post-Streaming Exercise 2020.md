@@ -1,6 +1,6 @@
 ---
 title: Streaming Exercise 2020
-permalink: /Resources/2020/Streaming-Exercise
+permalink: /resources/2020/streaming-exercise/
 date: 2020-10-19
 layout: post
 description: ""

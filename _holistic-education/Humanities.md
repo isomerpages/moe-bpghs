@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /holistic-education/humanities
+permalink: /holistic-education/humanities/
 description: ""
 ---
 The Humanities department comprises the disciplines of History, Geography and Social Studies.  

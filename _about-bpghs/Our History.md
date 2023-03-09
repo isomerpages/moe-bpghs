@@ -1,6 +1,6 @@
 ---
 title: Our History
-permalink: /about-bpghs/our-history
+permalink: /about-bpghs/our-history/
 description: ""
 ---
 # Our History

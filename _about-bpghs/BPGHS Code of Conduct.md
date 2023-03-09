@@ -1,6 +1,6 @@
 ---
 title: BPGHS Code of Conduct
-permalink: /about-bpghs/bpghs-code-of-conduct
+permalink: /about-bpghs/bpghs-code-of-conduct/
 description: ""
 ---
 # Student Management

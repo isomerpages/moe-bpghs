@@ -1,6 +1,6 @@
 ---
 title: Scheme and Schedule of Assessment
-permalink: /Resources/2020/Scheme-and-schedule-of-Assessment
+permalink: /resources/2020/scheme-and-schedule-of-assessment/
 date: 2020-06-01
 layout: post
 description: ""

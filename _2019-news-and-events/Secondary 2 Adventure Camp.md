@@ -1,6 +1,6 @@
 ---
 title: Secondary 2 Adventure Camp
-permalink: /2019-news-and-events/Secondary-2-Adventure-Camp
+permalink: /2019-news-and-events/secondary-2-adventure-camp/
 description: ""
 ---
 <strong><u>Sec 2 Adventure Camp @ Labrador MOE Adventure Centre – 27 to 30 May 2019</u></strong>

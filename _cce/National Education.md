@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /cce/national-education
+permalink: /cce/national-education/
 description: ""
 ---
 National Education (NE) plays an important role in getting students to make sense of what it means to be a Singaporean.  

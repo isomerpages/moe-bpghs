@@ -1,6 +1,6 @@
 ---
 title: Blended Learning Day 2021
-permalink: /Resources/2021/blending-learning-day-2021
+permalink: /resources/2021/blending-learning-day-2021/
 date: 2021-02-24
 layout: post
 description: ""

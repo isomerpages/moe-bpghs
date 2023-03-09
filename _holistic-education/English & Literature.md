@@ -1,6 +1,6 @@
 ---
 title: English & Literature
-permalink: /holistic-education/english-and-literature
+permalink: /holistic-education/english-and-literature/
 description: ""
 ---
 The **English Language Programme** seeks to educate students to be proficient and confident users of the language and to appreciate the language.  

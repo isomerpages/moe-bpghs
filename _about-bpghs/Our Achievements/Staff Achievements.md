@@ -1,6 +1,6 @@
 ---
 title: Staff Achievements
-permalink: /about-bpghs/Our-Achievements/staff-achievements
+permalink: /about-bpghs/our-achievements/staff-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---

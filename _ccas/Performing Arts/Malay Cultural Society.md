@@ -1,6 +1,6 @@
 ---
 title: Malay Cultural Society
-permalink: /ccas/Performing-Arts/malay-cultural-society
+permalink: /ccas/performing-arts/malay-cultural-society/
 description: ""
 third_nav_title: Performing Arts
 ---

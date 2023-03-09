@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /links/for-students
+permalink: /links/for-students/
 description: ""
 ---
 <style type="text/css">

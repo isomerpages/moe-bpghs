@@ -1,6 +1,6 @@
 ---
 title: Briefing Slides on JIE
-permalink: /Resources/2019/Briefing-Slides-on-JIE
+permalink: /resources/2019/briefing-slides-on-jie/
 date: 2019-12-19
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Admissions
-permalink: /links/admissions
+permalink: /links/admissions/
 description: ""
 ---
 **Direct School Admission Exercise – Admission to Secondary 1 in 2023**

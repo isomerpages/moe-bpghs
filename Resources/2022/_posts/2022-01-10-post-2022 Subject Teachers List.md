@@ -1,6 +1,6 @@
 ---
 title: 2022 Subject Teachers List
-permalink: /Resources/2022/subject-teachers-list
+permalink: /resources/2022/subject-teachers-list/
 date: 2022-01-10
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /cce/sexuality-education
+permalink: /cce/sexuality-education/
 description: ""
 ---
 **MOE SEXUALITY EDUCATION IN SCHOOLS**

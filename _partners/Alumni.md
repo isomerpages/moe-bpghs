@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /partners/alumni
+permalink: /partners/alumni/
 description: ""
 ---
 <strong><u>President's Scholar & SAF Scholar 2016 (Natasha Ann Lum)</u></strong>

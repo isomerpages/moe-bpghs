@@ -1,6 +1,6 @@
 ---
 title: Values in Action
-permalink: /cce/values-in-action
+permalink: /cce/values-in-action/
 description: ""
 ---
 ![](/images/VIA%201.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: 2021 Assessment Schedule
-permalink: /Resources/2021/assessment-schedule
+permalink: /resources/2021/assessment-schedule/
 date: 2021-02-04
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /ccas/Sports-and-Games/volleyball
+permalink: /ccas/sports-and-games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---

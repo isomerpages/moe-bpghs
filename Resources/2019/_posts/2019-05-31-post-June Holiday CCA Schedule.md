@@ -1,6 +1,6 @@
 ---
 title: June Holiday CCA Schedule
-permalink: /Resources/2019/june-holiday-schedule
+permalink: /resources/2019/june-holiday-schedule/
 date: 2019-05-31
 layout: post
 description: ""

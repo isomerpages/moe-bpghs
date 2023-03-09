@@ -1,6 +1,6 @@
 ---
 title: Student Leadership Development
-permalink: /cce/student-leadership-development
+permalink: /cce/student-leadership-development/
 description: ""
 third_nav_title: Student Leadership Development
 ---

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-bpghs/contact-us
+permalink: /about-bpghs/contact-us/
 description: ""
 ---
 (embedded map)

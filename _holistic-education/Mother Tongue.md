@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /holistic-education/mother-tongue
+permalink: /holistic-education/mother-tongue/
 description: ""
 ---
 The Mother Tongue Department seeks to offer a range of student learning experiences for purposeful and meaningful student engagement, with the aim to spark interest in the learning of their mother tongue languages, and support student learning for deep subject mastery.   

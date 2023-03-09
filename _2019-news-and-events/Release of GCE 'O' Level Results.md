@@ -1,6 +1,6 @@
 ---
 title: Release of GCE 'O' Level Results
-permalink: /2019-News-And-Events/release-of-GCE-O-level-results
+permalink: /2019-news-and-events/release-of-gce-o-level-results/
 description: ""
 ---
 

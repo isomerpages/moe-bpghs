@@ -1,6 +1,6 @@
 ---
 title: Subject Teachers List
-permalink: /Resources/2020/Subject-Teachers-List
+permalink: /resources/2020/subject-teachers-list/
 date: 2020-02-07
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance
-permalink: /links/financial-assistance
+permalink: /links/financial-assistance/
 description: ""
 ---
 **MOE Financial Assistance Scheme**

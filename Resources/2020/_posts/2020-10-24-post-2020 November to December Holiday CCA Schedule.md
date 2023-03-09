@@ -1,6 +1,6 @@
 ---
 title: 2020 November to December Holiday CCA Schedule
-permalink: /Resources/2020/November-December-Holiday-CCA-Schedule
+permalink: /resources/2020/november-december-holiday-cca-schedule/
 date: 2020-10-24
 layout: post
 description: ""

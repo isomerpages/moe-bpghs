@@ -1,6 +1,6 @@
 ---
 title: National Police Cadet Corp
-permalink: /ccas/Uniform-Groups/national-police-cadet-corp
+permalink: /ccas/uniform-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniform Groups
 ---

@@ -1,6 +1,6 @@
 ---
 title: Our Heritage
-permalink: /about-bpghs/our-heritage
+permalink: /about-bpghs/our-heritage/
 description: ""
 ---
 <h2><u>Our Heritage</u></h2>

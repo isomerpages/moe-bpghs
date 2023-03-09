@@ -1,6 +1,6 @@
 ---
 title: Academic Achievements
-permalink: /about-bpghs/our-achievements/academic-achievements
+permalink: /about-bpghs/our-achievements/academic-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---

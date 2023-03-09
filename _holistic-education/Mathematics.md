@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /holistic-education/mathematics
+permalink: /holistic-education/mathematics/
 description: ""
 ---
 <strong><u>Vision</u></strong>

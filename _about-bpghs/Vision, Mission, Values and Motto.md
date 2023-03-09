@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Values and Motto
-permalink: /about-bpghs/vision-mission-values-and-motto
+permalink: /about-bpghs/vision-mission-values-and-motto/
 description: ""
 ---
 <img src="/images/logo.jpeg" 

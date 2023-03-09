@@ -1,6 +1,6 @@
 ---
 title: EMAS and Malay Language Elective Programme (MLEP)
-permalink: /special-programmes/emas-and-malay-language-elective-programme-mlep
+permalink: /special-programmes/emas-and-malay-language-elective-programme-mlep/
 description: ""
 ---
 ![](/images/EMAS%20Immersion%20Trip%20to%20Sabah.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: Personalised Digital Learning Programme @ BPGHS
-permalink: /holistic-education/personalised-digital-learning-programme-at-bpghs
+permalink: /holistic-education/personalised-digital-learning-programme-at-bpghs/
 description: ""
 ---
 One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.

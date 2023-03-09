@@ -1,6 +1,6 @@
 ---
 title: ECG Counselling
-permalink: /links/ecg-counselling
+permalink: /links/ecg-counselling/
 description: ""
 ---
 **When would you require ECG Counselling? When you want to:**

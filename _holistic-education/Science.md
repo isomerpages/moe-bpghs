@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /holistic-education/science
+permalink: /holistic-education/science/
 description: ""
 ---
 The Science Department enables every BPian to be a passionate learner by providing an enriching and engaging student-centric Science curriculum for all levels. Through a wide range of innovative pedagogical approaches, rigorous performance tasks for continuous assessment and quality feedback, the department seeks to instil in students the right ways of learning Science through scientific inquiry.   

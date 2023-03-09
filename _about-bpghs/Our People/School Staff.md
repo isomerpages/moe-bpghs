@@ -1,6 +1,6 @@
 ---
 title: School Staff
-permalink: /about-bpghs/Our-People/school-staff
+permalink: /about-bpghs/our-people/school-staff/
 description: ""
 third_nav_title: Our People
 ---

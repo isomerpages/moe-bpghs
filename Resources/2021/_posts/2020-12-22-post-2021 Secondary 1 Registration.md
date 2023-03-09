@@ -1,6 +1,6 @@
 ---
 title: 2021 Secondary 1 Registration
-permalink: /Resources/2021/Secondary-1-Registration
+permalink: /resources/2021/secondary-1-registration/
 date: 2020-12-22
 layout: post
 description: ""

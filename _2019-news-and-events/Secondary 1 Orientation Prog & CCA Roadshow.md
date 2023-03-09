@@ -1,6 +1,6 @@
 ---
 title: Secondary 1 Orientation Prog & CCA Roadshow
-permalink: /2019-News-And-Events/Secondary-1-Orientation-Prog-and-CCA-Roadshow
+permalink: /2019-news-and-events/secondary-1-orientation-prog-and-cca-roadshow/
 description: ""
 ---
 

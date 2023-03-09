@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year Celebration and Operation Orange
-permalink: /2019-news-and-events/Chinese-New-Year-Celebration-and-Operation-Orange
+permalink: /2019-news-and-events/chinese-new-year-celebration-and-operation-orange/
 description: ""
 ---
 On 4 February 2019, BPGHS ushered in the Year of the Boar 2019 with a concert aptly named “亥”起来！  

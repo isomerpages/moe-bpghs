@@ -1,6 +1,6 @@
 ---
 title: CCAs
-permalink: /ccas/ccas
+permalink: /ccas/ccas/
 description: ""
 ---
 *To access a list of CCAs, click on the relevant tabs on the left-hand side of the page or the menu tab at the top of the page (mobile version).*

@@ -1,6 +1,6 @@
 ---
 title: Release of GCE 'N' Level Results
-permalink: /2019-News-And-Events/release-of-gce-n-level-results
+permalink: /2019-news-and-events/release-of-gce-n-level-results/
 description: ""
 ---
 

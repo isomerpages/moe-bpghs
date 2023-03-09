@@ -1,6 +1,6 @@
 ---
 title: English Drama
-permalink: /ccas/Performing-Arts/english-drama
+permalink: /ccas/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
 ---

@@ -1,6 +1,6 @@
 ---
 title: Changes to CCA and After School Activities Schedule
-permalink: /Resources/2020/Changes-to-CCA-and-After-School-Activities-Schedule
+permalink: /resources/2020/changes-to-cca-and-after-school-activities-schedule/
 date: 2020-03-18
 layout: post
 description: ""

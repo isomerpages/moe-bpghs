@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /cce/character-and-citizenship-education
+permalink: /cce/character-and-citizenship-education/
 description: ""
 ---
 *To access a list of CCE programmes, click on the relevant tabs on the left-hand side of the page or the menu tab at the top of the page (mobile version).*

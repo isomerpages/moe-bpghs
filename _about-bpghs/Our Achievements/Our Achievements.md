@@ -1,6 +1,6 @@
 ---
 title: Our Achievements
-permalink: /about-bpghs/Our-Achievements/our-achievements
+permalink: /about-bpghs/our-achievements/our-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---

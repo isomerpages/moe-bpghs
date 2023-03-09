@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /ccas/Uniform-Groups/scouts
+permalink: /ccas/uniform-groups/scouts/
 description: ""
 third_nav_title: Uniform Groups
 ---

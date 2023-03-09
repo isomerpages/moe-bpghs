@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /holistic-education/Aesthetics/aesthetics
+permalink: /holistic-education/aesthetics/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---

@@ -1,6 +1,6 @@
 ---
 title: Subject Combinations
-permalink: /links/subject-combinations
+permalink: /links/subject-combinations/
 description: ""
 ---
 # Secondary 3 Subject Combinations for Year 2022

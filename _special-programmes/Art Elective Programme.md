@@ -1,6 +1,6 @@
 ---
 title: Art Elective Programme
-permalink: /special-programmes/art-elective-programme
+permalink: /special-programmes/art-elective-programme/
 description: ""
 ---
 ![](/images/AEP%201.jpeg) 

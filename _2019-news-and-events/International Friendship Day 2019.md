@@ -1,6 +1,6 @@
 ---
 title: International Friendship Day 2019
-permalink: /2019-news-and-events/international-friendship-day
+permalink: /2019-news-and-events/international-friendship-day/
 description: ""
 ---
 International Friendship Day (IFD) is one of the four National Education (NE) events commemorated in all Singapore schools in April. The aim is to encourage our youths to continue actively deepening the connection with our neighbours by empowering them in this process of celebrating our vibrancy and building our community.

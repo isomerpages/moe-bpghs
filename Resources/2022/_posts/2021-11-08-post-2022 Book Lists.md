@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022 Book Lists
-permalink: /Resources/2022/book-lists
+permalink: /resources/2022/book-lists/
 date: 2021-11-08
 description: ""
 ---

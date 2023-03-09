@@ -1,6 +1,6 @@
 ---
 title: Sec 3 OBS Briefing Slides and Letter (Updated 23 May)
-permalink: /Resources/2019/Sec-3-OBS-Briefing-Slides-and-Letter
+permalink: /resources/2019/sec-3-obs-briefing-slides-and-letter/
 date: 2019-05-23
 layout: post
 description: ""

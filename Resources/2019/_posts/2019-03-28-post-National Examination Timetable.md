@@ -1,6 +1,6 @@
 ---
 title: National Examination Timetable
-permalink: /Resources/2019/National-Examination-Timetable
+permalink: /resources/2019/national-examination-timetable/
 date: 2019-03-28
 layout: post
 description: ""

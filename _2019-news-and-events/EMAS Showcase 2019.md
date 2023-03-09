@@ -1,6 +1,6 @@
 ---
 title: EMAS Showcase 2019
-permalink: /2019-News-And-Events/EMAS-Showcase-2019
+permalink: /2019-news-and-events/emas-showcase-2019/
 description: ""
 ---
 

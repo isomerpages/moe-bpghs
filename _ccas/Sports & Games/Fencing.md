@@ -1,6 +1,6 @@
 ---
 title: Fencing
-permalink: /ccas/Sports-and-Games/fencing
+permalink: /ccas/sports-and-games/fencing/
 description: ""
 third_nav_title: Sports & Games
 ---

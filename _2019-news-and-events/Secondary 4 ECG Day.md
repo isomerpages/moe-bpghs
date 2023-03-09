@@ -1,6 +1,6 @@
 ---
 title: Secondary 4 ECG Day
-permalink: /2019-news-and-events/sec-4-ecg-day
+permalink: /2019-news-and-events/sec-4-ecg-day/
 description: ""
 ---
 ![](/images/NTU%201.jpeg)

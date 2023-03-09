@@ -1,6 +1,6 @@
 ---
 title: 2022 JIE Briefing
-permalink: /Resources/2022/jie-briefing
+permalink: /resources/2022/jie-briefing/
 date: 2021-12-17
 layout: post
 description: ""

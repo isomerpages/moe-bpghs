@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /links/for-teachers
+permalink: /links/for-teachers/
 description: ""
 ---
 <style type="text/css">

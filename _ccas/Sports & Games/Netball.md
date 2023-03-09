@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /ccas/Sports-and-Games/netball
+permalink: /ccas/sports-and-games/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
