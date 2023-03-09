@@ -50,6 +50,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-bpghs-staging.netlify.app
-prod: https://moe-bpghs-prod.netlify.app
+staging: https://staging.d2ojqoen9ve22n.amplifyapp.com/
+prod: https://master.d2ojqoen9ve22n.amplifyapp.com/
 shareicon: /images/logo.jpeg
