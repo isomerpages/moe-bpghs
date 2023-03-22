@@ -3,6 +3,8 @@ title: EMAS and Malay Language Elective Programme (MLEP)
 permalink: /special-programmes/emas-and-malay-language-elective-programme-mlep/
 description: ""
 ---
+### EMAS and Malay Language Elective Programme (MLEP)
+
 ![](/images/EMAS%20Immersion%20Trip%20to%20Sabah.jpeg)
 
 # EMAS (Elective Programme in Malay Language for Secondary Schools)
