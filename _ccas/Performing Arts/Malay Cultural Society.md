@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/malay-cultural-society/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Malay Cultural Society
+
 ![](/images/mc1.jpeg)
 
 The school’s Malay Cultural Society comprises the Malay Dance group and Gamelan Ensemble.
