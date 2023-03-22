@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/chinese-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Chinese Drama
+
 ![](/images/cd1.jpeg)
 The Chinese Drama Club was established in 2011 with the objective of using theatre arts as a medium for student to increase their mastery and interest in the Chinese Language.
 
