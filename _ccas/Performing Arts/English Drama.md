@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
+### English Drama
+
 <img src="/images/english%20drama%20icon.jpeg" 
      style="width:45%">
 
