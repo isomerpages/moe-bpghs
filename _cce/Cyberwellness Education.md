@@ -3,11 +3,24 @@ title: Cyberwellness Education
 permalink: /cce/cyberwellness-education/
 description: ""
 ---
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.  
+### Cyberwellness Education
   
-On top of their CCE lessons, the school also organise level wide programmes to reinforce the importance of CW and its messages. The cyberwellness workshop hopes to deepen the learning of cyber wellness and new media literacy. Students gain knowledge in the following subject matter: Online Aggression, Cyber Bullying & Media Violence and Cyber Crime. Through the programme, students understand the consequences of Cybercrime or Cyberbullying and also develop and share with their peers their individualised action plans to realise their personal goals on Cyber Wellness. The media literacy workshop for the Seconday Two students focus on equipping participants with fundamental media literacy processing skills to use various types of media, and to apply to a wide range of age-relevant social issues like Internet Addiction & Digital Distractions, Fake News & Viral Content and Appropriate Online Expression.  
-  
-There are also Cyberwellness Ambassors in each class who undergo the appropriate training workshops  to advocate the importance of CW and its messages to their peers in school.  
+Technology is becoming increasingly pervasive in our world.  While we appreciate the instant connectivity and access to information, knowledge and opinions, it is important to equip BPians with the critical thinking skills to determine what is right and to act responsibly within the cyberspace.  
+
   
 
-![](/images/cyberwellness.jpeg)
+The Cyber Wellness programme focuses on the positive well-being of BPians. The aim of the programme is to equip BPians with the knowledge and skills to harness technology for their learning and productivity, to safeguard themselves from the dangers of cyberspace and to learn about maintaining a positive presence in the cyberspace.  
+
+  
+
+Bpians get to discuss and think critically on the contemporary issues such as cyberbullying and the various challenges posed by the social media platforms.  Through the authentic and relatable scenarios shared in class, Bpians express their opinions and learn from the perspectives of others.  These lessons will give Bpians the opportunities to develop the necessary skills to think and make responsible decisions now and in the future.   
+
+  
+
+Through meaningful partnerships, the school also provides BPians with up-to-date and interesting facts about the cyber space.  
+
+  
+
+The school encourages interested students to be cyber wellness ambassadors.  These ambassadors gain deeper knowledge on various cyber wellness issues such as cyber bullying, peer pressure, social media influence and internet addiction. They advocate the importance of cyber wellness and share with their peers their actionable steps to reduce the dangers of the cyberspace.
+
+<img src="/images/cwe1.png" style="width:80%">
