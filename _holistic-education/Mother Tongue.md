@@ -3,9 +3,11 @@ title: Mother Tongue
 permalink: /holistic-education/mother-tongue/
 description: ""
 ---
+### Mother Tongue
+
 The Mother Tongue Department seeks to offer a range of student learning experiences for purposeful and meaningful student engagement, with the aim to spark interest in the learning of their mother tongue languages, and support student learning for deep subject mastery.   
 
-# Chinese Language Unit
+#### Chinese Language Unit
 
   
 Through the use of suitable innovative pedagogical approaches such as the Inquiry-based Learning and Questions-based Learning tasks, the Chinese Unit aims to promote authentic learning and ignite the joy of learning, as they grasp the essential knowledge and skills in the mother tongue languages. Apart from the rigorous performance tasks, we also provide timely and instructive feedback to boost our students’ learning, and at the same time, leveraging different ICT tools, such as Student Learning Space (SLS), to enhance their oral communication skills.  
@@ -31,8 +33,7 @@ Across all levels, students will participate in the Mother Tongue Fortnight Prog
 
 Other than learning about the different cultures in school, the Unit organises overseas immersion programmes to broaden our students’ global awareness. To date, overseas immersion trips to China (Chengdu, Xi’an, Beijing, Shanghai, Xiamen), and Taiwan have been organised.  
   
-
-# Malay Language Unit
+#### Malay Language Unit
 
   
 
