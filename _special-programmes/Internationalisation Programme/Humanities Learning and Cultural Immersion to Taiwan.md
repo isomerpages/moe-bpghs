@@ -4,6 +4,8 @@ permalink: /special-programmes/internationalisation-programme/humanities-learnin
 description: ""
 third_nav_title: Internationalisation Programme
 ---
+### Humanities Learning and Cultural Immersion to Taiwan
+
 On 19 to 24 November 2019, 29 students and 4 teachers went for an overseas learning journey to Taiwan for cultural immersion and geographical fieldwork. The group went to various places in Taipei, Taichung and Nantou that showcase Taiwan’s culture and heritage. They also learnt more about physical and human features and phenomena related to the Geography syllabus and engaged in geographical investigation. 
 
   
