@@ -4,6 +4,7 @@ permalink: /cce/student-leadership-development/
 description: ""
 third_nav_title: Student Leadership Development
 ---
+### Student Leadership Development
 
 In BPGHS, our **vison** is to develop every BPian to be an Inspiring Leader, who exemplify and lead in serving others in the school and community. Our **mission** is to develop leaders with a heart to serve, by nurturing BPians to be anchored in school values and equipped with 21C competencies.  
   
