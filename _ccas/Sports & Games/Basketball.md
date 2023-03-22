@@ -4,6 +4,8 @@ permalink: /ccas/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
+### Basketball
+
 ![](/images/BB1.jpeg)
 
 ‘Discipline and Teamwork’ is the motto of the Bukit Panjang Government High School (BPGHS) Basketball Team. The CCA provides a platform for players to discover their strengths, weaknesses and leadership qualities by being a part of this exclusive team. Every team member ardently encourages his peers to train hard, train well, focus and to do his utmost for the team, with or without the ball in possession.
