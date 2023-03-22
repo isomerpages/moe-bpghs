@@ -3,6 +3,8 @@ title: Art Elective Programme
 permalink: /special-programmes/art-elective-programme/
 description: ""
 ---
+### Art Elective Programme
+
 ![](/images/AEP%201.jpeg) 
 
 The Art Elective Programme (AEP) is offered at selected secondary schools and junior colleges. Set up in 1984, the AEP provides an enriched environment for students to realise their creative talents and develop their artistic vision. In the AEP, the study of Art extends beyond the acquisition of artistic skills and techniques. It is a journey of artistic expression that challenges students’ thinking and imagination, fires up their passion and transforms the way they look at themselves and the world around them. They will learn new ways to see, make and uncover information. In the process, their creative sensibilities will be heightened through exploration of different media such as drawing, painting, illustration, sculpture, ceramics, photography, installation, video and digital animation.
