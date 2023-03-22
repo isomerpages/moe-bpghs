@@ -3,6 +3,8 @@ title: Science
 permalink: /holistic-education/science/
 description: ""
 ---
+### Science
+
 The Science Department enables every BPian to be a passionate learner by providing an enriching and engaging student-centric Science curriculum for all levels. Through a wide range of innovative pedagogical approaches, rigorous performance tasks for continuous assessment and quality feedback, the department seeks to instil in students the right ways of learning Science through scientific inquiry.   
   
 Continuous assessment is carried out via termly Weighted Assessment (WA), designed with an eye on both Content and Process Outcomes. Not only will students be put through a series of rigorous, complex and demanding assessment tasks over each year, they also develop important 21st Century Competencies (21CC) manifested in the assessment design. The WA tasks are supplemented by ungraded Formative Assessments (FA) that place focus on qualitative feedback to improve understanding. These processes ensure that students are provided with sufficient opportunities to develop the emerging 21CC across the Science curriculum, in alignment with the Desired Outcomes of Education.  
