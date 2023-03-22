@@ -3,6 +3,8 @@ title: Code for Fun
 permalink: /special-programmes/code-for-fun/
 description: ""
 ---
+### Code for Fun
+
 ![](/images/CFF1.jpeg)
 
 The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary and secondary schools. The programme includes learning of computational thinking concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create an engaging coding experience for the students.
