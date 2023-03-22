@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Dance
+
 ![](/images/d1.jpeg)
 
 From a mere 8 members in 1999 to 45 dancers today, Bukit Panjang Government High International Dance as a CCA has been gaining momentum in terms of skills and exposure. The CCA seeks to nurture and develop the talent and passion for dancing in aspiring students, particularly in the following objectives:
