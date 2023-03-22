@@ -4,6 +4,9 @@ permalink: /special-programmes/internationalisation-programme/student-council-le
 description: ""
 third_nav_title: Internationalisation Programme
 ---
+### Student Council Leadership and Cultural Immersion to Hong Kong
+
+
 From 7 to 12 June 2019, 21 Student Councillors and 3 Teachers visited Hong Kong and embarked on an exploration of what it means to live in a multicultural and globalised world, and to think deeply about all the problems and potentials associated with it. Neighbourhoods, communities, restaurants, corporations and even a theme park were turned into spaces of inquiry and learning.
 
   
