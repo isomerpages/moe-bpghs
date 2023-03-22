@@ -3,6 +3,8 @@ title: Full Subject Based Banding
 permalink: /holistic-education/full-subject-based-banding/
 description: ""
 ---
+### Full Subject Based Banding
+
 Bukit Panjang Government High School is one of 30+ secondary schools that will implement Full Subject-Based Banding (Full SBB) from 2022.
 
   
