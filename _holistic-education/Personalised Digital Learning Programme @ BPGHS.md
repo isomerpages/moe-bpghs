@@ -3,12 +3,14 @@ title: Personalised Digital Learning Programme @ BPGHS
 permalink: /holistic-education/personalised-digital-learning-programme-at-bpghs/
 description: ""
 ---
+### Personalised Digital Learning Programme @ BPGHS
+
 One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
   
 
   
-## Intended Outcomes
+### Intended Outcomes
 
 The use of the personal learning device for teaching and learning aims to:
 
@@ -31,27 +33,26 @@ By equipping students with their own PLD, schools can:
 
 
 
-## Personal Learning Device (PLD)
+#### Personal Learning Device (PLD)
 
-Our school has selected Microsoft Surface Go 2 as the PLD for our students.
-
-![](/images/Surface%20Go%202.png)
+Our school has selected Microsoft Surface Go 3 as the PLD for our students.
 
 Please click on the PDF files below for more information regarding the selected PLD.
 
-  
+[Microsoft-SurfaceGo3.pdf](/files/pld1.pdf) 
 
-[Microsoft Surface Go 2.pdf](/files/Microsoft%20Surface%20Go%202.pdf)
-
-[Microsoft Classroom Pen 2 External Facing Fact Sheet.pdf](/files/Microsoft%20Classroom%20Pen%202%20External%20Facing%20Fact%20Sheet.pdf)
+[Parent Engagement Deck for Sec 1 2022.pdf](/files/pld2.pdf) 
 
   
+
 Please click on the PDF file below for more information about the PLD claims process.
 
-[PLD Claims Process.pdf](/files/PLD%20Claims%20Process.pdf)
+[PLD Claims Process.pdf](/files/pld3.pdf) 
+
+
   
 
-## Student iCON
+#### Student iCON
 
  Dear Parents and BPians,  
   
@@ -69,7 +70,7 @@ To reset your Student iCON password, please click on the link below.
   
 
  
-## Additional Resources for Parents
+#### Additional Resources for Parents
 
 To support you in keeping your child safe online, you may refer to these additional resources:
 
