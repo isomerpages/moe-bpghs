@@ -3,6 +3,8 @@ title: Pastoral Counselling
 permalink: /links/pastoral-counselling/
 description: ""
 ---
+### Pastoral Counselling
+
 <center><em>Sometimes it’s difficult to say what is on your mind<br>Sometimes grief can build up to take control of your life<br>Sometimes you don’t know which direction to take or where to begin<br>Sometimes you just need a listening ear…</em></center>
 
   
