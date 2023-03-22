@@ -4,6 +4,8 @@ permalink: /holistic-education/aesthetics/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
+### Aesthetics
+
 Under the Aesthetics arm, we have the Art and Music Units. The design of the Art and Music lessons are modular in nature and based on the 3E (Excite, Engage & Excel) Framework.  
   
 The Music Unit develops students’ awareness and appreciation of local and global music and cultivates their ability to express and communicate creatively through music. In Secondary One and Two, students are exposed to music practices such as singing, playing the keyboard and percussion instruments, as well as music history and theory.  
