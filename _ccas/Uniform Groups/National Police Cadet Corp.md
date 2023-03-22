@@ -4,6 +4,8 @@ permalink: /ccas/uniform-groups/national-police-cadet-corp/
 description: ""
 third_nav_title: Uniform Groups
 ---
+### National Police Cadet Corp
+
 ![](/images/npcc1.jpeg)
 
 The National Police Cadet Corps (NPCC) is a Uniformed Group under the Ministry of Education and Ministry of Home Affairs. The CCA provides a holistic experience from nurturing values, such as leadership, discipline and responsibility, to acquiring skills such as first-aid and kayaking. Events such as drills sessions and parades teach the members to be disciplined, while outdoor activities such as adventure training camps at Pulau Ubin, campcraft and tent-pitching give members a chance to develop resilience and enjoy outdoor experiences. NPCC members also get a chance to experience policing, learn about the law, be involved in Crime Scene Investigation techniques and get a chance to shoot with a real revolver. Apart from all these activities, NPCC members gain leadership abilities in the midst of grooming their juniors. All in all, NPCC nurtures members into all-rounded and caring citizens.
