@@ -3,7 +3,7 @@ title: Our History
 permalink: /about-bpghs/our-history/
 description: ""
 ---
-# Our History
+### Our History
 
 The school opened its doors on 11 January 1960 to the children of the rural folk comprising manual workers, small traders, and pig, vegetable and poultry farmers who lived in Bukit Panjang and the surrounding areas of Bukit Gombak, Mandai and Woodlands. It made history as the first integrated government secondary school in Singapore. The challenge for the school was to foster integration between the English and Chinese educated students – something it did with panache and imagination through extra-curricular activities such as folk dancing.
 
