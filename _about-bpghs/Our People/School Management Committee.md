@@ -4,7 +4,7 @@ permalink: /about-bpghs/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
 ---
-# School Leaders
+### School Leaders
 
 
 
@@ -17,7 +17,7 @@ third_nav_title: Our People
 
 
 
-# Key Personnel
+#### Key Personnel
 
 
 
