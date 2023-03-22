@@ -3,6 +3,8 @@ title: Mathematics
 permalink: /holistic-education/mathematics/
 description: ""
 ---
+### Mathematics
+
 <strong><u>Vision</u></strong>
 <br>Every BPian a future-ready, self-directed and critical thinker.  
   
