@@ -28,10 +28,10 @@ a)    His or her family’s gross household income (GHI)* as at the time of a
 
 Types of benefits provided under MOE FAS:
 
-1) 100% subsidy of school fees;
-2) 100% subsidy of miscellaneous fees (standard)**;
-3) ree textbooks and stationery in the approved textbook list;
-4) Free school attire comprising 2 sets of uniform, 2 sets of PE attire, 2 pairs of socks and 1 pair of shoes; and
-5) Transport subsidy for students taking public transport to school.
+1\) 100% subsidy of school fees; <br>
+2\) 100% subsidy of miscellaneous fees (standard)\**;<br>
+3\) Free textbooks and stationery in the approved textbook list;<br>
+4\) Free school attire comprising 2 sets of uniform, 2 sets of PE attire, 2 pairs of socks and 1 pair of shoes; and<br>
+5\) Transport subsidy for students taking public transport to school.
 
 ** The monthly miscellaneous fee (2nd tier) and autonomous school fee are still payable. With effect from 2019, it is mandatory for parents or legal guardians to apply for the use of their children’s Edusave accounts to pay for miscellaneous fees (2nd tier), autonomous school fees if they want to apply for MOE FAS.
