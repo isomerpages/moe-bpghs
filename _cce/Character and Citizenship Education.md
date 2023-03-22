@@ -3,6 +3,8 @@ title: Character and Citizenship Education
 permalink: /cce/character-and-citizenship-education/
 description: ""
 ---
+### Character and Citizenship Education
+
 *To access a list of CCE programmes, click on the relevant tabs on the left-hand side of the page or the menu tab at the top of the page (mobile version).*
   
 Character & Citizenship Education (CCE) plays an integral role in fulfilling the school’s mission to nurture our students to be future leaders who have the strength of character and are willing to lead and serve. To cater to the holistic development of the students, students are provided with varied and authentic learning opportunities to develop their character and social-emotional competencies to thrive in life and work in the 21st century.  
