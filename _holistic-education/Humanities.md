@@ -3,6 +3,8 @@ title: Humanities
 permalink: /holistic-education/humanities/
 description: ""
 ---
+### Humanities
+
 The Humanities department comprises the disciplines of History, Geography and Social Studies.  
   
 **Teaching approaches**  
