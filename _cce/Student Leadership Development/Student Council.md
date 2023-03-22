@@ -4,6 +4,8 @@ permalink: /cce/student-leadership-development/student-council/
 description: ""
 third_nav_title: Student Leadership Development
 ---
+### Student Council
+
 ![](/images/student%20council%201.jpeg) 
 
 The Student Council aims to develop Inspiring Leaders with a Heart to Serve.  
