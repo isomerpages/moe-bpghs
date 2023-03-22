@@ -4,6 +4,8 @@ permalink: /ccas/clubs-and-societies/science-society-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+### Science Society Club
+
 <img src="/images/Science%20Society%20Club%20Poster.jpeg" 
      style="width:35%">
 
