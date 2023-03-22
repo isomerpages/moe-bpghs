@@ -3,6 +3,8 @@ title: Physical Education
 permalink: /holistic-education/physical-education/
 description: ""
 ---
+### Physical Education
+
 The Physical Education (PE) Department’s programmes are customised for each level to develop BPians into physically active, mentally resilient and socially competent individuals. The department adopts a game-centred approach to teach sports and games. This allows students to learn and develop their skills progressively, thereby igniting their joy of learning and developing them to be passionate learners who will pursue an active and healthy lifestyle. Throughout the four or five years, they are exposed to a variety of physical activities that will  
   
 
