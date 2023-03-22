@@ -4,6 +4,8 @@ permalink: /ccas/clubs-and-societies/bp-communication-link/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+### BP Communication Link
+
 ![](/images/bpc1.jpeg)
 
 BP Communication Link promotes the mass enjoyment of quality sound and lighting effects across numerous school events through the provision of audio and lighting support. The club also ensures the smooth execution of daily morning assemblies in the courtyard and in the hall.
