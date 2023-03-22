@@ -3,6 +3,8 @@ title: English & Literature
 permalink: /holistic-education/english-and-literature/
 description: ""
 ---
+### English & Literature 
+
 The **English Language Programme** seeks to educate students to be proficient and confident users of the language and to appreciate the language.  
   
 
