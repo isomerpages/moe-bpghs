@@ -3,6 +3,8 @@ title: Applied Science Programme
 permalink: /special-programmes/applied-science-programme/
 description: ""
 ---
+### Applied Science Programme
+
 ![](/images/ASP1.jpeg)
 
 In 2017, the school piloted and developed the Applied Science Programme (ASP), as part of the school’s effort to bring authentic learning into the curriculum. Under the year-long programme, our Secondary Two students, were exposed to the research process, anchored on urban farming experiments. They also learned basic electronics and programming through an in-house Arduino curriculum. Following the completion of the research and programming modules, they then had a chance to apply their learning in designing a prototype greenhouse system to improve plant yield. The programme ultimately culminated in our own ASP Science Fair where students showcased their year-long work.
