@@ -4,6 +4,8 @@ permalink: /ccas/clubs-and-societies/service-learning-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+### Service Learning Club
+
 ![](/images/slc1.jpeg)
 
 By providing a platform for students to actively participate in Values in Action (ViA) within the community, the Service Learning Club (SLC) aims to cultivate a sense of volunteerism in students, enabling the students to reach out to various communities in need.
