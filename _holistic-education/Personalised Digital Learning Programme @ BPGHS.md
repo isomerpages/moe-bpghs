@@ -68,13 +68,15 @@ To reset your Student iCON password, please click on the link below.
 [Student iCON password reset](https://go.gov.sg/bpghs-password-reset)  
 
   
+To make a request to reset your Student Icon password or make an appointment to resolve issues related to your PLD, please click on the link below.  
 
+[BPGHS ICT](https://form.gov.sg/63bfa3dce2862f00118e3e7b)
  
 #### Additional Resources for Parents
 
 To support you in keeping your child safe online, you may refer to these additional resources:
 
-*   [Parents' Handbook I](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf) and Parents' Handbook II (https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202021/Announcements%20&%20Updates/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf - **FILE TOO LARGE**) on Learning with a Personal Learning Device.
+*   [Parents' Handbook I](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf) and Parents' Handbook II Please reupload file **FILE TOO LARGE**) on Learning with a Personal Learning Device.
 *   Parent Kit on Cyber Wellness for Your Child ([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))
 *   MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/) )
 *   Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
