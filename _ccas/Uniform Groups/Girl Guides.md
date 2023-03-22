@@ -4,6 +4,8 @@ permalink: /ccas/uniform-groups/girl-guides/
 description: ""
 third_nav_title: Uniform Groups
 ---
+### Girl Guides
+
 ![](/images/GG1.jpeg)
 
 Bukit Panjang Girl Guides aims to groom all guides to be leaders of character and grace, who serve selflessly and with humility. Through weekly activities, the Guides are exposed to valuable skill sets such as organizational, planning, management and peer mediation skills. Weekly sessions also aim to promote team building and discipline, as well as encourage critical and flexible thinking.
