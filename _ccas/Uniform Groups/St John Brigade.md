@@ -4,6 +4,8 @@ permalink: /ccas/uniform-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniform Groups
 ---
+### St John Brigade
+
 ![](/images/sjb1.jpeg)
 
 The St John Brigade was founded not just with the primary aim to equip members with the necessary skills to save lives, but to develop them into resourceful, skilful and confident individuals.  
