@@ -119,31 +119,31 @@ third_nav_title: Our People
 <td width="328">chong_lin_lin@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="285" height="23">Subject Head / NE (covering)</td>
+<td width="285" height="23">Subject Head / NE</td>
 <td width="203">Mr Ong Weiquan</td>
 <td width="328">ong_weiquan@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="271" height="46">Year Head</td>
-<td width="285">Secondary 1</td>
+<td width="285">Secondary 2</td>
 <td width="203">Ms Jessie Lee Min</td>
 <td width="328">lee_min_jessie@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="285" height="23">Secondary 3 (covering)</td>
+<td width="285" height="23">Secondary 4 & 5</td>
 <td width="203">Mr Yeo Zhi Wen</td>
 <td width="328">yeo_zhi_wen@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="271" height="46">Assistant Year Head</td>
-<td width="285">Secondary 2</td>
-<td width="203">Mdm Tan Lily</td>
-<td width="328">tan_lily_b@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Secondary 4 &amp; 5</td>
+<td width="285">Secondary 1</td>
 <td width="203">Mr Leonard Ng</td>
 <td width="328">ng_ding_zhong@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="285" height="23">Secondary 3</td>
+<td width="203">Mdm Tan Lily</td>
+<td width="328">tan_lily_b@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="271" height="68">Student Management</td>
@@ -152,9 +152,9 @@ third_nav_title: Our People
 <td width="328">ong_seok_jean@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="285" height="45">Subject Head / Student Leadership &amp; VIA</td>
-<td width="203">Ms Serene Ng</td>
-<td width="328">ng_wei-en_serene@moe.edu.sg</td>
+<td width="285" height="45">Subject Head / Student Leadership &amp; VIA (Covering)</td>
+<td width="203">Mr Ng Zi Jian</td>
+<td width="328">ng_zi_jian_a@moe.edu.sg</td>
 </tr>
 <tr>
 <td width="271" height="45">School Staff Developer&nbsp;</td>
