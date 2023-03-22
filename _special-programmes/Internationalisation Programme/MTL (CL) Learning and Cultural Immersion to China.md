@@ -4,6 +4,8 @@ permalink: /special-programmes/internationalisation-programme/mtl-cl-learning-an
 description: ""
 third_nav_title: Internationalisation Programme
 ---
+### MTL (CL) Learning and Cultural Immersion to China
+
 In 2019 November, 29 BPians went on a cultural immersion trip to Xi’an, China. During the trip, the students were engaged in various fun-filled and enriching activities, such as learning Chinese calligraphy and T’ai chi. These authentic learning experiences provided them with exposure to the rich cultural heritage of China.
   
 
