@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Concert Band
+
 <img src="/images/Military%20Band.png" 
      style="width:65%">
 
