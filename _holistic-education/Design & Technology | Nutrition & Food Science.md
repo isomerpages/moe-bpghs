@@ -3,7 +3,7 @@ title: Design & Technology | Nutrition & Food Science
 permalink: /holistic-education/design-and-technology-nutrition-and-food-science/
 description: ""
 ---
-# Design & Technology
+### Design & Technology
   
 The Design and Technology (D&T) Unit aims to develop design thinking skills and give students opportunities to apply design knowledge through the D&T curriculum’s 3E Framework (Excite, Engage and Excel).  
   
