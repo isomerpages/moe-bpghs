@@ -3,6 +3,8 @@ title: Centre of Excellence for Mathematics
 permalink: /special-programmes/centre-of-excellence-for-mathematics/
 description: ""
 ---
+### Centre of Excellence for Mathematics
+
 The West Zone Centre of Excellence for Mathematics and Science was set up to serve the professional learning needs of the Mathematics and Science teachers. For the past few years, Bukit Panjang Government High School has been active in gathering the West Zone schools to share classroom practices for effective teaching of Mathematics and Science.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/math%201.jpeg" 
