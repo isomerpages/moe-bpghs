@@ -24,4 +24,4 @@ description: ""
 * [Release of GCE 'O' Level Results](/2019-news-and-events/release-of-gce-o-level-results)
 * [Release of GCE 'N' Level Results](/2019-news-and-events/release-of-gce-n-level-results)
 *   [UNSW English and Writing Assessments Results 2019](/news-and-events/unsw-english-and-writing-assessments-results-2019/)
-*   [GCE N-Level Examination Results Release 2019](https://www-bpghs-moe-edu-sg-admin.cwp.sg/bpghs/news-n-events/gce-n-level-examination-results-release-2019)
+*   [GCE N-Level Examination Results Release 2019](/news-and-events/gce-n-level-examination-results-release-2019/)
