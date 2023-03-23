@@ -10,15 +10,15 @@ image: ""
 
 #### Secondary One
 
-[Sec 1 EOY Exam Schedule 2022.pdf](/files/eoy1.pdf)
+[Sec 1 EOY Exam Schedule 2022.pdf](/files/eoy1.pdf)<br>
 [Sec 1 EOY Format of Paper Topics to be Tested 2022.pdf](/files/eoy2.pdf) 
 
 #### Secondary Two
 
-[Sec 2 EOY Exam Schedule 2022.pdf](/files/eoy3.pdf)
+[Sec 2 EOY Exam Schedule 2022.pdf](/files/eoy3.pdf)<br>
 [Sec 2 EOY Format of Paper Topics to be Tested 2022.pdf](/files/eoy4.pdf)
 
 #### Secondary Three
 
-[Sec 3 EOY Exam Schedule 2022.pdf](/files/eoy5.pdf)
+[Sec 3 EOY Exam Schedule 2022.pdf](/files/eoy5.pdf)<br>
 [Sec 3 EOY Format of Paper Topics to be Tested 2022.pdf](/files/eoy6.pdf)
