@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+[Class Timetable](/files/Class%20Timetable%20061022.pdf)
