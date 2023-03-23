@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+[2022 Nov-Dec holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1ITOgHeJwVZe2IGhlkeSW8Vcu6El1o1rf/edit#gid=973038398)
