@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/bpghs homepage.gif
-      button: Contact Us
-      url: /contact-us/
   - infobar:
       title: "News and Events "
       button: View More
