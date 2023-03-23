@@ -8,13 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/bpghs homepage.gif
-  - infobar:
-      title: "News and Events "
-      button: View More
-      url: /news-and-events
-      subtitle: Our School Highlights
-  - resources:
-      title: Announcements & Updates
-      subtitle: Stay Updated
-      button: View More
+      key_highlights:
+        - title: News & Events
+          description: ""
+          url: /news-and-events
+        - title: Announcements & Updates
+          description: ""
+          url: /announcements-and-updates/
 ---
