@@ -3,7 +3,8 @@ title: 2019 News and Events
 permalink: /2019-news-and-events/
 description: ""
 ---
-* [Sec 4 Prom Night 2019](/2019-news-and-events/sec-4-prom-night-2019)
+*   [Secondary 2 ECG Programme 2019](https://www-bpghs-moe-edu-sg-admin.cwp.sg/bpghs/news-n-events/secondary-2-ecg-programme-2019)
+*  [Sec 4 Prom Night 2019](/2019-news-and-events/sec-4-prom-night-2019)
 * [Open House 2019](/2019-news-and-events/open-house-2019)
 * [Passing Torches – an Art Exhibition at Visual Arts Centre 2019](/2019-news-and-events/passing-torches-an-art-exhibition-at-visual-arts-centre-2019)
 * [Teachers' Day Celebration 2019](/2019-news-and-events/teachers-day-celebration-2019)
