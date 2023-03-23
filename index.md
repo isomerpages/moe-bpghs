@@ -15,4 +15,8 @@ sections:
         - title: Announcements & Updates
           description: ""
           url: /announcements-and-updates/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
