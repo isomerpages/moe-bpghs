@@ -21,7 +21,6 @@ description: ""
 *   [Chinese New Year Celebration and Operation Orange](/2019-news-and-events/chinese-new-year-celebration-and-operation-orange)
 *   [EMAS Showcase 2019](/2019-news-and-events/emas-showcase-2019)  
 *   [Secondary 1 Orientation Prog & CCA Roadshow](/2019-news-and-events/secondary-1-orientation-prog-and-cca-roadshow)
-* [Secondary 2 ECG Programme 2019](/2019-news-and-events/sec-2-ecg-programme-2019)
 * [Release of GCE 'O' Level Results](/2019-news-and-events/release-of-gce-o-level-results)
 * [Release of GCE 'N' Level Results](/2019-news-and-events/release-of-gce-n-level-results)
 *   [UNSW English and Writing Assessments Results 2019](/news-and-events/unsw-english-and-writing-assessments-results-2019/)
