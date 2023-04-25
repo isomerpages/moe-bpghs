@@ -9,4 +9,3 @@ description: ""
 * [Time-lapse Video of 60th Anniversary Thumbprint Artwork](/news-and-events/time-lapse-video-of-60th-anniversary-thumbprint-artwork)
 * [60th Anniversary Musical Videos](/news-and-events/60th-anniversary-musical-videos)
 * [60th Anniversary Video Series](/news-and-events/60th-anniversary-video-series)
-* [2019 News & Events](/2019-news-and-events)
