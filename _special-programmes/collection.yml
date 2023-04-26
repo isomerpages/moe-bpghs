@@ -1,0 +1,18 @@
+collections:
+  special-programmes:
+    output: true
+    order:
+      - Art Elective Programme.md
+      - Applied Science Programme.md
+      - EMAS and Malay Language Elective Programme (MLEP).md
+      - Code for Fun.md
+      - Centre of Excellence for Mathematics.md
+      - Internationalisation Programme/.keep
+      - Internationalisation Programme/Humanities Learning and Cultural
+        Immersion to Taiwan.md
+      - Internationalisation Programme/MTL (CL) Learning and Cultural Immersion
+        to China.md
+      - Internationalisation Programme/Sports Learning and Cultural Immersion to
+        Malaysia.md
+      - Internationalisation Programme/Student Council Leadership and Cultural
+        Immersion to Hong Kong.md

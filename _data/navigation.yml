@@ -1,13 +1,37 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About BPGHS
+    collection: about-bpghs
+  - title: Holistic Education
+    url: /holistic-education/personalised-digital-learning-programme-at-bpghs
+    sublinks:
+      - title: PDLP @ BPGHS
+        url: /holistic-education/personalised-digital-learning-programme-at-bpghs
+      - title: Full Subject Based Banding
+        url: /holistic-education/full-subject-based-banding
+      - title: English and Literature
+        url: /holistic-education/english-and-literature
+      - title: Mother Tongue
+        url: /holistic-education/mother-tongue
+      - title: Mathematics
+        url: /holistic-education/mathematics
+      - title: Science
+        url: /holistic-education/science
+      - title: Humanities
+        url: /holistic-education/humanities
+      - title: Aesthetics
+        url: /holistic-education/aesthetics/aesthetics
+      - title: D&T | Nutrition & Food Science
+        url: /holistic-education/design-and-technology-nutrition-and-food-science
+      - title: Physical Education
+        url: /holistic-education/physical-education
+      - title: CCE
+        url: /cce/character-and-citizenship-education
+      - title: CCAs
+        url: /ccas/ccas
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Partners
+    collection: partners
+  - title: Links
+    collection: links

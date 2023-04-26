@@ -2,31 +2,38 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Bukit Panjang Government High School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "7 Choa Chu Kang "
+      - Avenue 4
+      - Singapore 689809
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.30am - 6.30pm
+        description: Closed on Saturdays, Sundays and Public Holidays
+    maps_link: https://www.google.com/maps?q=bukit+panjang+government+high+school&rlz=1C5CHFA_enSG891SG893&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi6z5W_z6_4AhVqSGwGHYzNBp4Q_AUoAnoECAIQBA
+    title: School Building
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6769 1031
+      - email: bpghs@moe.edu.sg
+      - other: "Fax: 6762 6576"
+    title: General Enquiries
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Chao Chu Kang
+    title: Nearest MRT
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Blk 442 serviced by Bus 300, 983 <br>Blk 426 (opposite school) serviced
+          by Bus 300, 983
+    title: Nearest Bus Stops
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Take Bus 300 or 983 from Choa Chu Kang MRT station
+    title: Getting to Us
 ---

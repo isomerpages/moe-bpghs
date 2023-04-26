@@ -1,0 +1,14 @@
+collections:
+  links:
+    output: true
+    order:
+      - For Parents.md
+      - For Students.md
+      - For Teachers.md
+      - Admissions.md
+      - Financial Assistance.md
+      - Subject Combinations.md
+      - Service Providers.md
+      - ECG Counselling.md
+      - Pastoral Counselling.md
+      - Gebiz | Invitation to Quote.md
