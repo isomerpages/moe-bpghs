@@ -5,7 +5,6 @@ description: ""
 ---
 # News & Events
 * [The BPian experience](https://www.instagram.com/bpian.experience/?hl=en)
-* [BPGHS Open House](https://www.bpghs.moe.edu.sg/news-and-events/open-house/)
 *  ["Read for Life" Competition](/news-and-events/read-for-life-competition)
 * [Time-lapse Video of 60th Anniversary Thumbprint Artwork](/news-and-events/time-lapse-video-of-60th-anniversary-thumbprint-artwork)
 * [60th Anniversary Musical Videos](/news-and-events/60th-anniversary-musical-videos)
