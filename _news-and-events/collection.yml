@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - Open House.md
       - Read for Life Competition.md
       - Time Lapse Video of 60th Anniversary Thumbprint Artwork.md
       - 60th Anniversary Musical Videos.md
