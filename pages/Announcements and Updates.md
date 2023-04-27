@@ -5,6 +5,7 @@ description: ""
 ---
 ### Announcements & Updates
 
+*   [2023 Sec 4/5 Timed Practice Schedule](/files/2023%20timed%20practice%20(t2w7-8)%20(updated%2030%20mar%202023).pdf)updated 30 March 2023
 *   [2023 Term 2 Class Timetable.pdf](/files/2023%20Term%202%20Class%20Timetable%2019%20March.pdf) updated 19 March 2023  
     
 *   [2023 March holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1fze6igJqry0-mgB4_kZpcItfIy_yFqqX/edit?usp=sharing&ouid=115100839027229621374&rtpof=true&sd=true) updated 15 March 2023
