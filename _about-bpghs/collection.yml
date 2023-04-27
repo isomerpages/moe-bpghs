@@ -2,6 +2,7 @@ collections:
   about-bpghs:
     output: true
     order:
+      - Open House.md
       - Vision, Mission, Values and Motto.md
       - Our BPian Experience.md
       - Our Achievements/.keep
