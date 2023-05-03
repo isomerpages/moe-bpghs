@@ -37,3 +37,16 @@ Meet at least one of the following:
 * Member of Band for at least 2 years.
 * Minimum of 2 years playing experience in woodwind, brass or percussion instrument.
 * Outstanding achievements at national or international levels in Band.
+
+**3. Chinese Orchestra (Boy/Girl)**
+
+Meet at least one of the following:
+* Demonstrate strong talent and interest in Chinese Orchestra.
+* Minimum of 2 years playing experience in Chinese Orchestra.
+* Outstanding achievements at national or international levels in Chinese Orchestra.
+
+
+**4. Malay Language**
+
+* Achieved consistently good academic results in Malay Language.
+* Active participation in activities related to the use of Malay Language.
