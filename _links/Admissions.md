@@ -70,3 +70,12 @@ Meet at least one of the following:
 provided by the school during the DSA audition.
 
 2.4 Malay Language: Applicants are required to complete a written assessment.
+
+#### (III) Schedule
+![](/images/dsa%20schedule.png)
+
+#### (IV) Application Procedure (4 May 2023, 11am – 31 May 2023, 3pm):
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
