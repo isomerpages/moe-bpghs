@@ -22,6 +22,18 @@ As part of the BPian family, you can look forward to many enriching and fun acti
 | Leadership development programmes  | Malay Literature in upper secondary level|
 | CCA Values-In-Action activities | |
 
+#### (I) Eligibility Criteria
+Applicants must meet the following criteria under the respective talent area:
 
-The selection criteria and process for the talent areas can be found in the attached document [here](/files/dsa%20information.pdf).
+**1. Basketball (Boy), Floorball (Boy), Netball (Girl), Volleyball (Boy & Girl)**
+* Member of Basketball, Floorball, Netball or Volleyball CCA for at least 2 years preferred.
+* Student of Junior Sports Academy (JSA) programme preferred.
+* Relevant training and game experiences preferred.
+* Top 8 placing at National School Games (NSG) competitions preferred.
 
+**2. Concert Band (Boy/Girl)**
+
+Meet at least one of the following:
+* Member of Band for at least 2 years.
+* Minimum of 2 years playing experience in woodwind, brass or percussion instrument.
+* Outstanding achievements at national or international levels in Band.
