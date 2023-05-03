@@ -73,7 +73,22 @@ provided by the school during the DSA audition.
 2.4 Malay Language: Applicants are required to complete a written assessment.
 
 #### (III) Schedule
-![](/images/dsa%20schedule.png)
+
+| Date | Process |
+| ------ | ---------- |
+|4 May 2023, 11am to 31 May 2023, 3pm.  | Online application at DSA-Sec portal.   |
+|22 to 27 Jun 2023     | Shortlisted applicants will be informed of the selection trial/audition and interview via email.    |
+|28, 30 Jun & 1 Jul 2023   | Selection trial and interview for **Basketball**. Applicant will be required to attend **only 1 session**. Reporting information will be provided in the email.    |
+|27 Jun & 1 Jul 2023  | Selection trial and interview for **Netball**. Applicant will be required to attend **only 1 session**. Reporting information will be provided in the email.    |
+|27, 28 Jun & 8 Jul 2023    | Selection trial and interview for **Volleyball**. Applicant will be required to attend **only 1 session**. Reporting information will be provided in the email.     |
+|1 Jul 2023    | Audition and interview for **Concert Band and Chinese Orchestra**, 8am to 12noon. Reporting information will be provided in the email.   |
+|20 July 2023    | Assessment for **Malay Language**, 3.30pm to 4.30pm |
+|27 July 2023     | Shortlisted applicants for **Malay Language** will be notified via email by 27 July 2023 for the interview.     |
+|3 Aug 2023    | Interview for **Malay Language**.   |
+|By 18 Aug 2023   | Release of DSA results via email.    |
+|23-27 Oct 2023     | Primary School: Exercise School Preference Stage.     |
+|Early to mid Nov    | Primary School: Results Release Stage by MOE.    |
+
 
 #### (IV) Application Procedure (4 May 2023, 11am – 31 May 2023, 3pm):
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
