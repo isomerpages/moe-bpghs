@@ -33,3 +33,7 @@ Some areas students may require support include:
 *   Self-esteem
 *   Self-harm
 *   Transition to secondary school
+
+**Name of Counsellor:**&nbsp;Mdm Wong Soo Fei
+<br>**Venue:**&nbsp;Counselling Room (Opposite Staff Room 2)
+<br>**How to make an appointment:**&nbsp;Speak to Mdm Wong directly or approach your FT/YH/AYH.
