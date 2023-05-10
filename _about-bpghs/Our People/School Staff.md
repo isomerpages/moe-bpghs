@@ -137,8 +137,8 @@ third_nav_title: Our People
     <td>marina_abu_bakar@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr Yong Hon Zun Fabien</td>
-    <td>yong_hon_zun@moe.edu.sg</td>
+    <td>Miss Pek Yiling</td>
+    <td>pek_yiling@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">2E</td>
@@ -201,17 +201,18 @@ third_nav_title: Our People
     <td>wan_yu_fong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm Rina Haideati Bte Misri</td>
-    <td>rina_haideati_misri@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td rowspan="2">303</td>
+		 </tr><tr>
+    <td rowspan="3">303</td>
     <td>Mdm Maimoon Bte Kamis</td>
     <td>maimoon_kamis@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms Peh Zi Qi</td>
     <td>peh_zi_qi@moe.edu.sg</td>
+  </tr>
+  <tr>
+		<td>Mr Ong Weiquan</td>
+    <td>ong_weiquan@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">304</td>
@@ -402,4 +403,4 @@ third_nav_title: Our People
 </tbody>
 </table>
 
-For general inquiries, please contact us at: [bpghs@moe.edu.sg](mailto:bpghs@moe.edu.sg).
+For general inquiries, please contact us at:&nbsp;[bpghs@moe.edu.sg](mailto:bpghs@moe.edu.sg).
