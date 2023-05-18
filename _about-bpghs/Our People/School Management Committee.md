@@ -12,7 +12,7 @@ third_nav_title: Our People
 |:---:|:---:|
 | Principal | Mr Chua Lek Hong |
 | Vice-Principal | Mr Edmund Ling |
-| Vice-Principal (Admin) | Ms Koh Mui Gek |
+| Vice-Principal | Mdm Teo Ting Ting |
 
 
 
@@ -32,7 +32,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="2" width="271" height="46">English Language &amp; Literature</td>
-<td width="285">Head of Department (covering)</td>
+<td width="285">Head of Department </td>
 <td width="203">Mrs Christine Wong</td>
 <td width="328">png_thiang_thiang_christine@moe.edu.sg</td>
 </tr>
@@ -91,16 +91,12 @@ third_nav_title: Our People
 <td width="328">ng_niann_yeu@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="285" height="23">Subject Head / History</td>
-<td width="203">Ms Trina Tay</td>
-<td width="328">trina_tay_mei_tee@moe.edu.sg</td>
-</tr>
-<tr>
 <td width="285" height="23">Subject Head / Geography</td>
 <td width="203">Mrs Sherlyn Pang</td>
 <td width="328">tan_xue_ling_sherlyn@moe.edu.sg</td>
 </tr>
 <tr>
+</tr><tr>
 <td width="271" height="23">Aesthetics</td>
 <td width="285">Head of Department</td>
 <td width="203">Mr Tay Guan Chuan</td>
@@ -130,7 +126,7 @@ third_nav_title: Our People
 <td width="328">lee_min_jessie@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="285" height="23">Secondary 4 & 5</td>
+<td width="285" height="23">Secondary 4 &amp; 5</td>
 <td width="203">Mr Yeo Zhi Wen</td>
 <td width="328">yeo_zhi_wen@moe.edu.sg</td>
 </tr>
