@@ -5,6 +5,8 @@ description: ""
 ---
 ### Announcements & Updates
 
+*   [2023 Sem 2 Class Timetable](/files/21%20june%20class%20timetable.pdf) updated 23 June 2023
+*   [2023 CCA Schedule (Sem 2)](/files/2023%20cca%20schedule%20sem%202.pdf) updated 23 June 2023
 *   [2023 June Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1BP4N9z12Sek44JusW5hX_Ob7wN2dFqna/edit#gid=2089461536) updated 30 May 2023
 *   [2023 Sec 4/5 Timed Practice Schedule](/files/2023%20timed%20practice%20(t2w7-8)%20(updated%2030%20mar%202023).pdf)updated 30 March 2023
 *   [2023 Term 2 Class Timetable.pdf](/files/2023%20Term%202%20Class%20Timetable%2019%20March.pdf) updated 19 March 2023  
