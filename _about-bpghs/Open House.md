@@ -23,7 +23,7 @@ Look out for more information on this page. You may also find out more about the
 
 
 # Showcases
-<strong><em>Instructional Programme and Co-Curriculur Activities</em></strong>
+<strong><em>Instructional Programme and Co-Curricular Activities</em></strong>
 
 
 **Instructional Programme in BPGHS**
