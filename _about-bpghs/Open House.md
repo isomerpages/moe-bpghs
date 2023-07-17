@@ -1,5 +1,5 @@
 ---
-title: Open House
+title: Open House 
 permalink: /news-and-events/open-house/
 description: ""
 ---
