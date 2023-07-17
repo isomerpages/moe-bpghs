@@ -65,7 +65,7 @@ Prominent BP alumni who have established themselves in their respective fields. 
 <br>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/NkcG-Ze5L_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-<center> Featuring Law Song Seng (Founding Director and former CEO of ITE), Cheng Li Hui (Member of Parliament, Tampines GRC) and Joanne Chow (Staff Officer, Singapore Prison Service). Find out what spurred them to take up professions in community and nation service.</center>
+<center> Featuring Law Song Seng (Founding Director and former CEO of ITE), and Joanne Chow (Staff Officer, Singapore Prison Service). Find out what spurred them to take up professions in community and nation service.</center>
 
 <br>
 
