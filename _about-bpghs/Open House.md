@@ -1,5 +1,5 @@
 ---
-title: Open House 
+title: Open House
 permalink: /news-and-events/open-house/
 description: ""
 ---
@@ -63,8 +63,7 @@ Prominent BP alumni who have established themselves in their respective fields. 
 <center>Featuring Olympian Saiyidah Aisyah and SEA Games medallist Lim Shengyu. Discover their journeys from school sportspersons to representing Singpore in the international sporting arena.</center>
 
 <br>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/NkcG-Ze5L_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+meborder="0" title="YouTube videollllsrc="https:/.youtube.com/embed/NkcG-Ze5L_height="315" width="560"&gt;
 <center> Featuring Law Song Seng (Founding Director and former CEO of ITE), and Joanne Chow (Staff Officer, Singapore Prison Service). Find out what spurred them to take up professions in community and nation service.</center>
 
 <br>
