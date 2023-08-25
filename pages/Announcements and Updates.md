@@ -5,6 +5,9 @@ description: ""
 ---
 ### Announcements & Updates
 
+*  [2023 Sec 1 EOY Exam Schedule](/files/sec%201%20eoy%20exam%20schedule%202023%20(updated%2022%20aug%202023).pdf) updated 25 Aug 2023
+*  [2023 Sec 2 EOY Exam Schedule](/files/sec%202%20eoy%20exam%20schedule%202023%20(updated%2022%20aug%202023).pdf) updated 25 Aug 2023
+*  [2023 Sec 3 EOY Exam Schedule](/files/sec%203%20eoy%20exam%20schedule%202023%20(updated%2022%20aug%202023).pdf) updated 25 Aug 2023
 *  [2023 Sec 2 Streaming talk for parents](/files/streaming%20talk%20for%20parents.pdf) updated 27 July 2023
 *  [2023 Prelim exam schedule (updated venues)](/files/prelim%20exam%20schedule%202023%20(25%20jul%202023).pdf) updated 27 July 2023
 *  [2023 CCA Schedule (Sem 2)](/files/2023%20cca%20schedule%20sem%202%20updated.pdf) updated 27 June 2023
