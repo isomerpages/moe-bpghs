@@ -4,32 +4,36 @@ permalink: /ccas/performing-arts/malay-cultural-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Malay Cultural Society
+### Gamelan
 
-![](/images/mc1.jpeg)
 
-The school’s Malay Cultural Society comprises the Malay Dance group and Gamelan Ensemble.
 
-  
+BPGHS is one of the very few secondary schools in Singapore that offers Gamelan Ensemble as a Co-Curricular Activity (CCA). 
 
-This year, both the Malay Dance group and the Gamelan Ensemble participated in the Singapore Youth Festival Arts Presentation 2019. The dance group performed a traditional Malay dance titled ‘Anja Gemalai’ on 4th April at the University Cultural Centre, under the guidance of dance instructor Ms Seri Rahayu Anuar. The group was awarded the Certificate of Accomplishment. The Gamelan Ensemble performed on 16th of April at the Republic Polytechnic Cultural Centre and obtained the certificate of Distinction. They presented two choice pieces entitled ‘Ladrang Sumyar’ and ‘Dialog Bangau Dengan Katak’ which were arranged by instructor Mr Amran Ahmad.
+CCA day and time: Wednesdays, 4.00pm to 6.00pm.
+Additional days (when necessary): Mondays/Fridays/ Saturdays.
 
-  
+The ensemble was first set up in 2003 as a niche activity for students offering the Elective Malay for Secondary Schools (EMAS) Programme. Later, the ensemble opened to all students as one of the school’s CCA groups. In 2005, the ensemble participated in its first Singapore Youth Festival (SYF) Arts Presentation as a CCA group. 
 
-Other than performing in the school’s Public Performance at the Kallang Theatre on 25th April, the Malay Dance group will be performing in the SYF 2019 Celebrations in the City, on 5 July at the Esplanade Outdoor Theatre and the Gamelan Ensemble will be performing in same event at the same venue on 7th July.
+ Gamelan instruments may be tuned to the scale of slendro (in which the octave is divided into five tones roughly equidistant) or to pelog (a scale consisting of seven notes of varying intervals of which five are given principal stress). At present, BPGHS Gamelan ensemble uses the set of instruments tuned to the slendro scale.  
+ 
+The notes of the slendro scale can be designated in different ways; one common way is the use of numbers often called by their names in Javanese, especially in a shortened form. There is no 4 in the slendro scale.
 
-  
+Our Instructor
+Mr Amran Ahmad has been the person responsible teaching and guiding the members since the ensemble was first set up in 2003. Mr Amran is a qualified engineer who fell in love with Gamelan music while working in Indonesia many years back. His deep passion for Gamelan music motivated him to attend numerous courses and workshops conducted by established artistic organisations in Indonesia. At present, Mr Amran is active in conducting Gamelan music programmes in educational institutions. He is also an active member of a Gamelan performing group that performs in local events and outside Singapore.   
 
-Both groups have their practice sessions once a week on Wednesdays from 4.00 p.m to 6.00 p.m. However, practice sessions are added when preparing for participation in the Singapore Youth Festival Arts Presentation and for school events such as Speech Day, school’s public performance and Hari Raya celebrations, or for outreach programmes outside the school.
+Our Activities
+The ensemble participates in the Singapore Youth Festival (SYF) Arts Presentations, which is organised by the CCA Branch, MOE, biannually.  The ensemble also performed in outreach activities organised by the MOE, Community Clubs and other organisations.    
 
-  
 
-The Malay Cultural Society hopes that the experience and learning obtained by our BPians from their involvement in the CCA has enriched and benefitted them in one way or another as they sail through their journey in life.
-
-  
-
-![](/images/mc2.jpeg)
-
-![](/images/mc3.jpeg)
-
-![](/images/mc4.jpeg)
+Our Achievement 
+SYF Arts Presentation 
+2005	: Bronze award 
+2007	: Bronze award
+2009 	: Silver award
+2011	: Silver award
+2013	: Gold award
+2015	: Certificate of Accomplishment 
+2017 	: Certificate of Accomplishment
+2019 	: Certificate of Distinction 
+2021 	: Certificate of Distinction
