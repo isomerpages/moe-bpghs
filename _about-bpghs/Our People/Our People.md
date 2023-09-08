@@ -8,5 +8,4 @@ third_nav_title: Our People
 
 To access a list of teachers in the School Management Committee and School Staff, click on the relevant tabs on the left-hand side of the page or the menu tab at the top of the page (mobile version).
 
-
-<img src="/images/bpstaff.png" style="width:80%">
+![](/images/all%20staff%20formal%20(resized).jpg)
