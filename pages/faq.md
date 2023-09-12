@@ -19,7 +19,7 @@ permalink: /faq/
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion1">  
+    <input type="checkbox" id="accordion2">  
 		<label for="accordion2"><h3>Academic Matters</h3></label>
     <div>
 			<p><strong>8. How many assessments will a student have for each subject for a year</strong><br><strong>Ans:</strong>&nbsp;As announced by the Ministry of Education (MOE) in Sept 2018, all students will not have more than one weighted assessment per subject per school term. In BPGHS, for Secondary 1 – 3, there will not be any Mid Year Examinations. Students will have 1 weighted assessment in each term for Term 1 – 3, and an End of Year Examination in Term 4. The school also monitors the academic progress of students using other non-weighted assessments, such as project work and presentations.
