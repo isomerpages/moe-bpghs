@@ -2,7 +2,6 @@ collections:
   about-bpghs:
     output: true
     order:
-      - faq.md
       - Open House.md
       - Vision, Mission, Values and Motto.md
       - Our BPian Experience.md
@@ -18,4 +17,5 @@ collections:
       - Our People/School Management Committee.md
       - Our People/School Staff.md
       - BPGHS Code of Conduct.md
+      - faq.md
       - Contact Us.md
