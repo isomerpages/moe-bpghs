@@ -1,10 +1,10 @@
 ---
-title: Dance
+title: International Dance
 permalink: /ccas/performing-arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Dance
+### International Dance
 
 ![](/images/d1.jpeg)
 
@@ -34,6 +34,9 @@ Some of the events our dancers were involved in include SHOWCASE! Performing Art
 *   SYF 2011: Gold Award
 *   SYF 2013: Certificate of Distinction
 *   SYF 2017: Certificate of Accomplishment
+*   SYF 2019: Distinction
+*   SYF 2021: Distinction
+*   SYF 2023: Distinction
 
   
 ![](/images/d2.jpeg)
