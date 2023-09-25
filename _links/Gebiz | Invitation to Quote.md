@@ -11,3 +11,15 @@ description: ""
 | Description of ITQ | Venue and Halal-Certified dinner catering for Bukit Panjang Govt High School Prom Night
 
 <br>
+
+|   | MOESCHETQ23004819 |
+|:---:|:---:|
+| Period of ITQ | Published on 25 September 2023 and will close on 03 October 2023, 01:00PM |
+| Description of ITQ | Instructor for Basketball CCA from 1 Jan 2024 to 31 Dec 2024 (Base Period) with option to extend from 1 Jan 2025 to 31 December 2025 (Option Period)
+
+<br>
+
+|   | MOESCHETQ23004804 |
+|:---:|:---:|
+| Period of ITQ | Published on 25 September 2023 and will close on 03 October 2023, 01:00PM |
+| Description of ITQ | Instructor for Gamelan Ensemble for period 1 Jan 2024 to 31 Dec 2024 (Base Period) and 1 Jan 2025 to 31 Dec 2025 (Option Period)
