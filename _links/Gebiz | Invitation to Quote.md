@@ -23,3 +23,10 @@ description: ""
 |:---:|:---:|
 | Period of ITQ | Published on 25 September 2023 and will close on 03 October 2023, 01:00PM |
 | Description of ITQ | Instructor for Gamelan Ensemble for period 1 Jan 2024 to 31 Dec 2024 (Base Period) and 1 Jan 2025 to 31 Dec 2025 (Option Period)
+
+<br>
+
+|   | MOESCHETQ23004814 |
+|:---:|:---:|
+| Period of ITQ | Published on 26 September 2023 and will close on 04 October 2023, 01:00PM |
+| Description of ITQ | Instructor for Chinese Drama for the period 1 January 2024 to 31 December 2024 with option to extend from 1 January 2025 to 31 December 2025

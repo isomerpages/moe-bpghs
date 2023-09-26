@@ -3,9 +3,7 @@ title: Open House
 permalink: /news-and-events/open-house/
 description: ""
 ---
-![](/images/Banner%201.jpeg)
-
-BPGHS will be having our Open House on 18 November 2023.
+BPGHS will be having our Open House on **18 November 2023**.
 
 Look out for more information on this page. You may also find out more about the school through the videos below.
 # Our Virtual Tour
