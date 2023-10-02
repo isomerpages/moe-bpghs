@@ -30,3 +30,17 @@ description: ""
 |:---:|:---:|
 | Period of ITQ | Published on 26 September 2023 and will close on 04 October 2023, 01:00PM |
 | Description of ITQ | Instructor for Chinese Drama for the period 1 January 2024 to 31 December 2024 with option to extend from 1 January 2025 to 31 December 2025
+
+<br>
+
+|   | MOESCHETQ23005040 |
+|:---:|:---:|
+| Period of ITQ | Published on 29 September 2023 and will close on 09 October 2023, 01:00PM |
+| Description of ITQ | Instructor for Dance CCA Training Programme in Bukit Panjang Government High School from 1 Jan 2024 to 31 Dec 2024 with option to extend in 2025
+
+<br>
+
+|   | MOESCHETQ23005053 |
+|:---:|:---:|
+| Period of ITQ | Published on 29 September 2023 and will close on 09 October 2023, 01:00PM |
+| Description of ITQ | Volleyball Main Instructor &amp; Assistant Instructor for Volleyball Training Programme from 1st January 2024 to 31st December 2024.
