@@ -5,6 +5,7 @@ description: ""
 ---
 ### Announcements & Updates
 
+*  [2023 Truncated Timetable](/files/truncated%202023%20class%20final.pdf) updated 11 Oct 2023
 *  [2023 Sec 1 EOY Format and Topics](/files/sec%201%20eoy%20format%20of%20paper%20&%20topics%20to%20be%20tested%202023%20(12%20sep%202023).pdf) updated 12 Sept 2023
 *  [2023 Sec 2 EOY Format and Topics](/files/sec%202%20eoy%20format%20of%20paper%20&%20topics%20to%20be%20tested%202023.pdf) updated 28 Aug 2023
 *  [2023 Sec 3 EOY Format and Topics](/files/sec%203%20eoy%20format%20of%20paper%20&%20topics%20to%20be%20tested%202023%20(12%20sep%202023).pdf)updated 12 Sept 2023
