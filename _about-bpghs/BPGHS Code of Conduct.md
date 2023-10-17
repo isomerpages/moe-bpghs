@@ -34,7 +34,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 * Game attire (e.g. CCA T-shirts, jerseys etc.) is not allowed during lessons.
 * Upon feedback from teachers, all rectifications should be done on the day itself. Otherwise, students will be sent back home.
 
-<p><strong>2. PE ATTIRE & CCA/CLASS T-SHIRT</strong></p>
+<p><strong>2. PE ATTIRE &amp; CCA/CLASS T-SHIRT</strong></p>
 
 * Students can wear half uniform to school on days when they have PE lessons, except Mondays with assembly period. 
 * Half uniform: School T-shirt with school shorts/pants/skirt.
@@ -75,12 +75,9 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 
 <strong><center>Attire</center></strong>
 
-<img src="/images/UNIFORM1.png" 
-     style="width:75%">
-<img src="/images/UNIFORM2.png" 
-     style="width:75%">
-<img src="/images/HAIR.png" 
-     style="width:75%">
+<img style="width:75%" src="/images/UNIFORM1.png">
+<img style="width:75%" src="/images/UNIFORM2.png">
+<img style="width:75%" src="/images/HAIR.png">
 		 
 
 <p><strong>4. GROOMING AND ATTIRE DURING THE SCHOOL VACATION</strong></p>
@@ -89,7 +86,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 * Students are not to wear sandals/flip-flops and non-school T-shirts (excluding class T-shirts). Offenders will be asked to leave the school premises.
 
 
-# Attendance & Punctuality
+# Attendance &amp; Punctuality
 
 Every BPian has the responsibility of attending all lessons, CCAs and other school activities punctually and regularly.
 
@@ -99,7 +96,7 @@ Every BPian has the responsibility of attending all lessons, CCAs and other scho
 
 **ABSENTEEISM**
 <ul>
-<li>Parent / Guardian must call the school to notify the General Office of their child&rsquo;s / ward&rsquo;s absence by 7.30am.</li>
+<li>Parent / Guardian must call the school to notify the General Office of their child’s / ward’s absence by 7.30am.</li>
 <li>Absence from school must be supported by a medical certificate or a letter of excuse (up to a maximum of three letters per semester) from the parent / guardian. This medical certificate or letter must be handed in to the Form Teacher the very day the student returns to school.</li>
 </ul>
 <ul>
@@ -120,7 +117,7 @@ Every BPian has the responsibility of attending all lessons, CCAs and other scho
 <li>Students who are absent without valid reasons and supporting documents will be considered as having played truant and will be recorded as such. Disciplinary action will be taken against students found playing truant or absenting themselves from school without a valid reason.</li>
 </ul>
 <ul>
-<li>Students are responsible for the completion of all homework and assignments missed during the time of absence. It is the student&rsquo;s responsibility to check with their classmates on work that is missed, obtain make-up work (class work and homework assignments) from individual teachers and to arrange and comply with a schedule for make-up work approved by each individual teacher.</li>
+<li>Students are responsible for the completion of all homework and assignments missed during the time of absence. It is the student’s responsibility to check with their classmates on work that is missed, obtain make-up work (class work and homework assignments) from individual teachers and to arrange and comply with a schedule for make-up work approved by each individual teacher.</li>
 </ul>
 
 
@@ -378,7 +375,7 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tr>
 <tr>
 <td>Excellent</td>
-<td>A student who&nbsp;<strong>consistently behaves in an exemplary manner</strong>. He/she<br />
+<td>A student who&nbsp;<strong>consistently behaves in an exemplary manner</strong>. He/she<br>
 <ul>
 <li>is always courteous and respectful towards others and</li>
 <li>always does things well in his/her own and</li>
@@ -390,7 +387,7 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tr>
 <tr>
 <td>Very Good</td>
-<td>A student who&nbsp;<strong>consistently behaves well</strong>. He/she<br />
+<td>A student who&nbsp;<strong>consistently behaves well</strong>. He/she<br>
 <ul>
 <li>is courteous and respectful towards others and</li>
 <li>does things well in his/her own and</li>
@@ -402,7 +399,7 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tr>
 <tr>
 <td>&nbsp;Good</td>
-<td>&nbsp;A student who<strong>&nbsp;behaves well most of the time</strong>. He/she<br />
+<td>&nbsp;A student who<strong>&nbsp;behaves well most of the time</strong>. He/she<br>
 <ul>
 <li>is generally courteous and respectful towards others most of the time and</li>
 <li>does things well in his/her own most of the time and</li>
@@ -414,7 +411,7 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tr>
 <tr>
 <td>Fair&nbsp;</td>
-<td>&nbsp;A student who<strong>&nbsp;shows unacceptable behaviour</strong>. He/she<br />
+<td>&nbsp;A student who<strong>&nbsp;shows unacceptable behaviour</strong>. He/she<br>
 <ul>
 <li>is courteous and respectful towards others sometimes</li>
 <li>does things well in his/her own sometimes</li>
@@ -426,7 +423,7 @@ The following guide will be used by teachers in assigning the conduct grade to e
 </tr>
 <tr>
 <td>Poor&nbsp;</td>
-<td>A student who<strong>&nbsp;frequently shows unacceptable behaviour</strong>. He/she<br />
+<td>A student who<strong>&nbsp;frequently shows unacceptable behaviour</strong>. He/she<br>
 <ul>
 <li>is seldom courteous and respectful towards others sometimes</li>
 <li>seldom does things well in his/her own</li>
@@ -466,7 +463,7 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="83">
+<td width="83" rowspan="4">
 <p><strong>Major</strong></p>
 </td>
 <td width="274">
@@ -553,16 +550,19 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 <tr>
 <td width="274">
 <ul>
-<li>Committing an act of dishonesty in assessments / tests / examinations</li>
+<li>Major breach of examination rules</li>
 </ul>
 <div>
 <div><em>Include but not limited to:</em></div>
 <div>
 <ul>
 <ul>
-<li>Attempts to obtain unfair assistance or advantage on assessment material</li>
-<li>Copying other students' answers or from subject materials</li>
-<li>Providing answers for others to copy</li>
+<li>Possess any unauthorised calculator or dictionary, materials, information related to the assessment content in any form.</li>
+<li>Possess electronic, communication, smart or computerised devices.</li>
+<li>Communicate (verbal and non-verbal) to give / receive / discuss answers</li>
+<li>Change answers when assessment paper is returned.</li>
+<li>Leave the assessment venue, quarantine or holding room without permission.</li>
+<li>Commit plagiarism or support such acts.</li>
 </ul>
 </ul>
 </div>
@@ -570,54 +570,24 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 </td>
 <td width="273">
 <ul>
-<li>Conduct grade down by at least 2 grades</li>
+<li>Conduct downgrade by up to 2 grades</li>
 <li>Home involvement</li>
 <li>Counselling&nbsp;</li>
-<li>Results nullified</li>
-<li>Others:</li>
-<ul>
-<li>Not eligible to apply for overseas trips</li>
-<li>Step down from leadership position in CCA / Class</li>
-<li>Suspension from school / co-curricular activities (includes any of the following):</li>
-<ul>
-<li>CCA / non-CCA related matches/competitions</li>
-<li>SYF / performance</li>
-<li>no promotion in uniform groups</li>
+<li>Results nullified (i.e. '0' marks)</li>
 </ul>
-</ul>
-</ul>
+
+
 </td>
 </tr>
 <tr>
 <td>
-<ul>
-<li>Breach of assessments / tests / examinations procedures&nbsp;</li>
-</ul>
-<div><em>Include but not limited to:</em></div>
-<div>
-<ul>
-<ul>
-<li>All kinds of communication between students during the exams (includes the time for giving instructions and paper collection)</li>
-<li>Possession of unauthorised materials</li>
-<li>Failure to stop writing when told to do so at the end of assessment</li>
-</ul>
-</ul>
-</div>
-</td>
-<td>
-<ul>
-<li>Home involvement</li>
-<li>Counselling&nbsp;</li>
-<li>Results nullified&nbsp;</li>
-</ul>
-<div>*<em>Conduct grade down by at least 2 grades for repeat offenders.</em></div>
 </td>
 </tr>
 <tr>
-<td width="83">
+<td width="274">
 <p><strong>Minor</strong></p>
 </td>
-<td width="274">
+<td>
 <ul>
 <li>Late-coming</li>
 <li>Late for lessons (more than 5 minutes)</li>
@@ -627,7 +597,7 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 <li>Not doing assignments</li>
 <li>Using vulgar language</li>
 <li>Disruptive / inappropriate behaviour</li>
-<li>Consuming food / drink outside caf&eacute; / canteen and outside recess time during school hours</li>
+<li>Consuming food / drink outside café / canteen and outside recess time during school hours</li>
 <li>Possession of poker cards</li>
 <li>Possession and/or use of PEDs outside designated places and beyond approved time periods</li>
 </ul>
@@ -641,19 +611,19 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 </ul>
 </div>
 </td>
-<td width="273"><u><strong>For Late-coming:<br /></strong><br />Committed offence 1 &ndash; 3 times</u><br />
+<td width="273"><u><strong>For Late-coming:<br></strong><br>Committed offence 1 – 3 times</u><br>
 <ul>
 <li>Verbal warning</li>
 <li>Home involvement</li>
 </ul>
-<br /><u>Committed offence 4 - 8 times</u><br />
+<br><u>Committed offence 4 - 8 times</u><br>
 <ul>
 <li>Conduct grade down by 1 grade</li>
 <li>Home involvement</li>
 <li>Counselling / Referral to external agencies</li>
 <li>Detention / Service to school</li>
 </ul>
-<br /><u>Committed offence 9 times or more<br /></u><br />
+<br><u>Committed offence 9 times or more<br></u><br>
 <ul>
 <li>Conduct grade down by 2 grades</li>
 <li>Home involvement</li>
@@ -672,13 +642,47 @@ All offences (major and minor cases) will be recorded in the School Cockpit Offe
 </ul>
 </ul>
 <div>+<em>Consequences differ for the other minor offences indicated here. School will refer to internal disciplinary standard operating procedures for follow up.&nbsp;</em></div>
+
+
+
+</td>
+</tr>
+<tr>
+<td width="273">
+</td><td>
+<ul>
+<li>Minor breach of examination rules</li>
+</ul>
+<div>
+<div><em>Include but not limited to:</em></div>
+<div>
+<ul>
+<ul>
+<li>Flip open or turn over the question paper before being instructed to do so.</li>
+<li>Exhibit improper conduct or misbehaviour during the examination.</li>
+<li>Fail to stop writing immediately when the invigilator makes the announcement to end the announcement.</li>
+</ul>
+</ul>
+</div>
+</div>
+</td>
+<td width="274">
+<ul>
+<li>Home involvement</li>
+<li>Counselling&nbsp;</li>
+<li>Deduction of 10% of the attained marks</li>
+<li>*Conduct downgrade by up to 2 grades for repeat offenders.</li>
+</ul>
+
+
+</td>
+</tr>
+<tr>
+<td>
 </td>
 </tr>
 </tbody>
 </table>
-
-
-
 
 
 **DETENTION / SERVICE TO SCHOOL**
