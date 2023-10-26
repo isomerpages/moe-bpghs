@@ -9,7 +9,8 @@ third_nav_title: Our Achievements
 
 # [Academic Achievements](https://cms.isomer.gov.sg/sites/moe-bpghs/folders/about-bpghs/subfolders/Our%20Achievements/editPage/Academic%20Achievements.md)
 
-# Non-Academic Achievements
+
+[**Non-Academic Achievements**](https://cms.isomer.gov.sg/sites/moe-bpghs/folders/about-bpghs/subfolders/Our%20Achievements/editPage/Non%20Academic%20Achievements.md)
 
    
 # Staff Achievements
