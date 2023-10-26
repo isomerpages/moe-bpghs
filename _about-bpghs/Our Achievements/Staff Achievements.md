@@ -15,6 +15,7 @@ We would like to offer our congratulations to the following staff who received t
 * Mdm Rina Haideati Bte Misri (SH/Malay Language)
 * Mdm Sheila d/o Selvarajah (Operations Support Officer)
 
+![](/images/national%20day%20awards%202022(2).jpg)
 
 <div>
 
