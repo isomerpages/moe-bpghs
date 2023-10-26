@@ -9,6 +9,7 @@ third_nav_title: Our Achievements
 
 [**Academic Achievements**](https://cms.isomer.gov.sg/sites/moe-bpghs/folders/about-bpghs/subfolders/Our%20Achievements/editPage/Academic%20Achievements.md)
 
+![](/images/0%20level-96.jpg)
 
 
 [**Non-Academic Achievements**](https://cms.isomer.gov.sg/sites/moe-bpghs/folders/about-bpghs/subfolders/Our%20Achievements/editPage/Non%20Academic%20Achievements.md)
@@ -17,3 +18,4 @@ third_nav_title: Our Achievements
    
 [**Staff Achievements**](https://cms.isomer.gov.sg/sites/moe-bpghs/folders/about-bpghs/subfolders/Our%20Achievements/editPage/Staff%20Achievements.md)
 
+![](/images/mr%20ling.jpg)
