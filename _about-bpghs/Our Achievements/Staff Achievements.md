@@ -19,7 +19,7 @@ We would like to offer our congratulations to the following staff who received t
 
 <div>
 
-# 2021 Inspiring Teacher of English Award (ITEA)
+## 2021 Inspiring Teacher of English Award (ITEA)
 	
 <div style="float: left">
 
