@@ -5,14 +5,9 @@ description: ""
 ---
 ### Gebiz | Invitation to Quote
 
-|   | MOESCHETQ23006000 |
+|   | MOESCHETQ23006395 |
 |:---:|:---:|
-| Period of ITQ | Published on 18 October 2023 and will close on 26 October 2023, 01:00PM |
-| Description of ITQ | Supply of Instructors for production and training program for Cultural Performance 2024 - Chinese Opera (Huangmei) and Malay Play in BPGHS
+| Period of ITQ | Published on 25 October 2023 and will close on 2 November 2023, 01:00PM |
+| Description of ITQ | Engage instructor for Gamelan Ensemble for the period 1 January 2024 to 31 December 2024 (Base Period) with option 2025
 
 <br>
-
-|   | MOESCHETQ23005991 |
-|:---:|:---:|
-| Period of ITQ | Published on 18 October 2023 and will close on 26 October 2023, 01:00PM |
-| Description of ITQ |Sec 1 English Literature Drama Programme 2024
