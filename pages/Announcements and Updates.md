@@ -5,7 +5,8 @@ description: ""
 ---
 ### Announcements & Updates
 
-*  [2023 Nov/Dec Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1_CfNFL_2QhP96oX6Z2NPOZDJXt7V9qHY/edit?usp=sharing&ouid=115100839027229621374&rtpof=true&sd=true) updated 27 Oct 2023
+* [2024 BPGHS Booklists](/files/2024%20bpghs%20booklist.pdf) updated 31 Oct 2023
+*   [2023 Nov/Dec Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1_CfNFL_2QhP96oX6Z2NPOZDJXt7V9qHY/edit?usp=sharing&ouid=115100839027229621374&rtpof=true&sd=true) updated 27 Oct 2023
 *  [2023 Bridging Schedule](/files/bridging%20programme%202023%20-%20schedule.pdf) updated 27 Oct 2023
 *  [2023 Truncated Timetable](/files/truncated%202023%20class%20final.pdf) updated 11 Oct 2023
 *  [2023 Sec 1 EOY Format and Topics](/files/sec%201%20eoy%20format%20of%20paper%20&%20topics%20to%20be%20tested%202023%20(12%20sep%202023).pdf) updated 12 Sept 2023
