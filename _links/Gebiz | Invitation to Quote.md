@@ -5,10 +5,10 @@ description: ""
 ---
 ### Gebiz | Invitation to Quote
 
-|   | MOESCHETQ23006395 |
+|   | MOESCHETQ23006753 |
 |:---:|:---:|
-| Period of ITQ | Published on 25 October 2023 and will close on 2 November 2023, 01:00PM |
-| Description of ITQ | Engage instructor for Gamelan Ensemble for the period 1 January 2024 to 31 December 2024 (Base Period) with option 2025
+| Period of ITQ | Published on 1 November 2023 and will close on 9 November 2023, 01:00PM |
+| Description of ITQ | To provide instructors for Concert Band for the period of 1 January 2024 to 31 December 2024. This includes the provision for sectional instructors.
 
 <br>
 
