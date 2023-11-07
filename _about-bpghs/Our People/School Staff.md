@@ -3,6 +3,7 @@ title: School Staff
 permalink: /about-bpghs/our-people/school-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### School Staff
 
@@ -396,7 +397,7 @@ third_nav_title: Our People
   </tr>
   <tr>
     <td> </td>
-    <td>Ms Angela Huang</td>
+    <td>Ms Angela</td>
     <td>Allied Educator (Learning and Behavioural Support)</td>
     <td>huang_liping_angela@moe.edu.sg</td>
   </tr>
