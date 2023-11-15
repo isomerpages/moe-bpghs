@@ -12,7 +12,9 @@ Look out for more information on this page. You may also find out more about the
 
 # Open House 2023
 
+![](/images/open_house_brochure_pg_1.png)
 
+![](/images/open_house_brochure_pg_2.png)
 
 
 # Our Virtual Tour
