@@ -18,9 +18,9 @@ sections:
   - infopic:
       title: Secondary One e-Registration
       id: infopic
-      description: From 20 December 2023
+      description: From 20 December 2023, 9 a.m.
       button: Click here for more information
       url: https://www.bpghs.moe.edu.sg/news-and-events/open-house/
-      image: /images/open house banner.jpg
+      image: /images/BPGHS__286_2_.jpg
       alt: Image alt text
 ---
