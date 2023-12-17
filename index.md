@@ -20,7 +20,7 @@ sections:
       id: infopic
       description: From 20 December 2023, 9 a.m.
       button: Click here for more information
-      url: https://www.bpghs.moe.edu.sg/news-and-events/open-house/
+      url: https://www.bpghs.moe.edu.sg/links/admissions/
       image: /images/BPGHS__286_2_.jpg
       alt: Image alt text
 ---
