@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /announcements-and-updates/
   - infopic:
-      title: Secondary One e-Registration
+      title: Sec One e-Registration
       id: infopic
       description: From 20 December 2023, 9 a.m.
       button: Click here for more information
