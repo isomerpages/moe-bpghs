@@ -16,11 +16,11 @@ sections:
           description: ""
           url: /announcements-and-updates/
   - infopic:
-      title: 2023 Open House
+      title: Sec One e-Registration
       id: infopic
-      description: 18 November 2023, 9am - 12.30pm
+      description: From 20 December 2023, 9 a.m.
       button: Click here for more information
-      url: https://www.bpghs.moe.edu.sg/news-and-events/open-house/
-      image: /images/open house banner.jpg
+      url: https://sites.google.com/moe.edu.sg/bpghs2023s1registration/home
+      image: /images/BPGHS__286_2_.jpg
       alt: Image alt text
 ---

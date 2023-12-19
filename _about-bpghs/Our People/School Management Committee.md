@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-bpghs/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### School Leaders
 
@@ -10,7 +11,7 @@ third_nav_title: Our People
 
 | Designation | Name |
 |:---:|:---:|
-| Principal | Mr Chua Lek Hong |
+| Principal | Mr Seet Tiat Hee |
 | Vice-Principal | Mr Edmund Ling |
 | Vice-Principal | Mdm Teo Ting Ting |
 
@@ -64,9 +65,6 @@ third_nav_title: Our People
 <td width="328">rina_haideati_misri@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="285" height="23">Subject Head / Chinese Language</td>
-<td width="203">Ms Goh Chee Ling</td>
-<td width="328">goh_chee_ling@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="3" width="271" height="69">Science</td>
@@ -120,7 +118,7 @@ third_nav_title: Our People
 <td width="328">ong_weiquan@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="271" height="46">Year Head</td>
+<td rowspan="2" width="271" height="46">Year Head / Student Management</td>
 <td width="285">Secondary 2</td>
 <td width="203">Ms Jessie Lee Min</td>
 <td width="328">lee_min_jessie@moe.edu.sg</td>
@@ -142,13 +140,8 @@ third_nav_title: Our People
 <td width="328">tan_lily_b@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="271" height="68">Student Management</td>
-<td width="285">Head of Department</td>
-<td width="203">Mdm Ong Seok Jean</td>
-<td width="328">ong_seok_jean@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="45">Subject Head / Student Leadership &amp; VIA (Covering)</td>
+
+<td width="271" height="45">Student Leadership and VIA &nbsp;</td><td width="285" height="45">Subject Head / Student Leadership &amp; VIA </td>
 <td width="203">Mr Ng Zi Jian</td>
 <td width="328">ng_zi_jian_a@moe.edu.sg</td>
 </tr>
@@ -161,8 +154,8 @@ third_nav_title: Our People
 <tr>
 <td width="271" height="45">Information &amp; Communication Technology</td>
 <td width="285">Head of Department</td>
-<td width="203">Mr Lim Jun Sheng</td>
-<td width="328">lim_jun_sheng@moe.edu.sg</td>
+<td width="203">Mdm Ong Seok Jean</td>
+<td width="328">ong_seok_jean@moe.edu.sg </td>
 </tr>
 </tbody>
 </table>
