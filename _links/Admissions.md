@@ -4,12 +4,10 @@ permalink: /links/admissions/
 description: ""
 variant: markdown
 ---
-# Sec 1 e-registration for 2024
+# 2024 Sec 1 e-registration
 
 
-This page will go live soon.
-
-Thank you for your patience.
+Please click [here](https://sites.google.com/moe.edu.sg/bpghs2023s1registration/home) to be directed to the 2024 Secondary One registration webpage.
 
 
 
