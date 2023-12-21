@@ -9,6 +9,16 @@ variant: markdown
 
 Please click [here](https://sites.google.com/moe.edu.sg/bpghs2023s1registration/home) to be directed to the 2024 Secondary One registration webpage.
 
+The Cut-Of-Points for the respective Posting Groups for 2024 are as follows:
+
+
+
+| Posting Group | COP |
+| -------- | -------- |
+| G3   | 11  |
+| G2   | 22 |
+| G1   | 26 |
+
 
 
 
