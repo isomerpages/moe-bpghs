@@ -397,9 +397,9 @@ variant: markdown
   </tr>
   <tr>
     <td> </td>
-    <td>Ms Angela</td>
-    <td>Allied Educator (Learning and Behavioural Support)</td>
-    <td>huang_liping_angela@moe.edu.sg</td>
+    <td>Mr Adam Mas</td>
+    <td>SEN Officer</td>
+    <td>mas_senin_mas_seman@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
