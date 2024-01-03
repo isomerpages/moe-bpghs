@@ -15,12 +15,4 @@ sections:
         - title: Announcements & Updates
           description: ""
           url: /announcements-and-updates/
-  - infopic:
-      title: Sec One e-Registration
-      id: infopic
-      description: From 20 December 2023, 9 a.m.
-      button: Click here for more information
-      url: https://sites.google.com/moe.edu.sg/bpghs2023s1registration/home
-      image: /images/BPGHS__286_2_.jpg
-      alt: Image alt text
 ---

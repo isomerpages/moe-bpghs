@@ -2,5 +2,6 @@
 title: School Advisory Committee
 permalink: /partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
-![](/images/sac%20160523.png)
+![](/images/SAC_2024.png)
