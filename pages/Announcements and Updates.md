@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 After School Schedule](/files/BPGHS_After_School_Schedule_2024.pdf) updated 3 Jan 2024
 * [2024 CCA Schedule](/files/2024_CCA_Schedule_updated.pdf) updated 3 Jan 2024
 * [2024 Sem 1 Class Timetable](/files/2024_SEM_1_CLASS_TIMETABLE_FINAL.pdf) updated 31 Dec 2023
 * [2024 BPGHS Booklists](/files/2024%20bpghs%20booklist.pdf) updated 31 Oct 2023
