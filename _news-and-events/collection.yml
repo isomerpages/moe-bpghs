@@ -1,0 +1,8 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Read for Life Competition.md
+      - Time Lapse Video of 60th Anniversary Thumbprint Artwork.md
+      - 60th Anniversary Musical Videos.md
+      - 60th Anniversary Video Series.md

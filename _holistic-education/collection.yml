@@ -1,0 +1,16 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Personalised Digital Learning Programme @ BPGHS.md
+      - Full Subject Based Banding.md
+      - English & Literature.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Education Sculpture Garden.md
+      - Design & Technology | Nutrition & Food Science.md
+      - Physical Education.md
