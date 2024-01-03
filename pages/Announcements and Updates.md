@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 CCA Schedule](/files/2024_CCA_Schedule_updated.pdf) updated 3 Jan 2024
 * [2024 Sem 1 Class Timetable](/files/2024_SEM_1_CLASS_TIMETABLE_FINAL.pdf) updated 31 Dec 2023
 * [2024 BPGHS Booklists](/files/2024%20bpghs%20booklist.pdf) updated 31 Oct 2023
 *   [2023 Nov/Dec Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1_CfNFL_2QhP96oX6Z2NPOZDJXt7V9qHY/edit?usp=sharing&ouid=115100839027229621374&rtpof=true&sd=true) updated 27 Oct 2023
