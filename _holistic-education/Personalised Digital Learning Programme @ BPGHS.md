@@ -74,7 +74,7 @@ To make a request to reset your Student Icon password (if you have not set your 
 To support you in keeping your child safe online, you may refer to these additional resources:
 
 *   [Parents' Handbook I](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf)&nbsp;and&nbsp;Parents' Handbook II
-*   
+*   [Infographic on the PLD initiative 2024](/files/IP8___Infographic_on_the_PLD_Initiative_2024_edited.pdf)
 *   Parent Kit on Cyber Wellness for Your Child ([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))
 *   MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/)&nbsp;)
 *   Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
