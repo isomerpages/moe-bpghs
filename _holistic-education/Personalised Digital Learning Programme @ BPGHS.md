@@ -35,7 +35,7 @@ By equipping students with their own PLD, schools can:
 
 Our school has selected Acer TravelMate Spin for 2024 Sec 1 students. 
 Microsoft Surface Go 3 was the selected PLD for the other level students. 
-<br>
+<br><br>
 Please click on the PDF files below for more information regarding the selected PLD.
 
 **For Secondary 1**<br>
@@ -51,22 +51,18 @@ Please click on the PDF files below for more information regarding the selected 
 
 #### Student iCON
 
- Dear Parents and BPians,  
-  
+Dear Parents and BPians,<br>
 Please click on the PDF files below for more information about Student iCON.  
   
-[Student iCON - Introduction.pdf](/files/Student%20iCON%20-%20Introduction.pdf) 
-
-[Student iCON - Onboarding Guide For Students.pdf](/files/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf)
-
+[Student iCON - Introduction.pdf](/files/Student%20iCON%20-%20Introduction.pdf) <br>
+[Student iCON - Onboarding Guide For Students.pdf](/files/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf)<br>
 [Student iCon - FAQ.pdf](/files/Student%20iCon%20-%20FAQ.pdf)
   
-To reset your Student iCON password, please click on the link below.  
+To reset your Student iCON password, please click on the link below. <br> 
 [Student iCON password reset](https://go.gov.sg/bpghs-password-reset)  
 
   
-To make a request to reset your Student Icon password (if you have not set your security questions), or make an appointment to resolve issues related to your PLD,&nbsp;please click on the link below.  
-
+To make a request to reset your Student Icon password (if you have not set your security questions), or make an appointment to resolve issues related to your PLD,&nbsp;please click on the link below.  <br>
 [BPGHS ICT](https://form.gov.sg/63bfa3dce2862f00118e3e7b)
  
 #### Additional Resources for Parents
