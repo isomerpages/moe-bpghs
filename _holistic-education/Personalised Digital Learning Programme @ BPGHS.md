@@ -10,9 +10,6 @@ MOE’s National Digital Literacy Programme (NDLP) was launched in March 2020 fo
 
 Under the NDLP, every secondary school student will own a school-prescribed Personal Learning Device (PLD). 
 
-
-  
-
   
 ### Intended Outcomes
 
@@ -41,19 +38,16 @@ Microsoft Surface Go 3 was the selected PLD for the other level students.
 <br>
 Please click on the PDF files below for more information regarding the selected PLD.
 
-**For Secondary 1**
-
+**For Secondary 1**<br>
+[Acer Travelmate B3 Spin 11](/files/Acer_Travelmate_B3_Spin_11_product_sheet.pdf)
+<br>[Parent Engagement Deck for Sec 1 2024](/files/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf)
+<br>PLD Claims Process (Coming Soon)
 
 **For Secondary 2, 3, 4**
+<br>[Microsoft-SurfaceGo3.pdf](/files/pld1.pdf) 
+<br>[Parent Engagement Deck for Sec 1 2022.pdf](/files/pld2.pdf) 
+<br>[PLD Claims Process.pdf](/files/pld3.pdf) 
 
-[Microsoft-SurfaceGo3.pdf](/files/pld1.pdf) 
-
-[Parent Engagement Deck for Sec 1 2022.pdf](/files/pld2.pdf) 
-
-[PLD Claims Process.pdf](/files/pld3.pdf) 
-
-
-  
 
 #### Student iCON
 
@@ -79,7 +73,8 @@ To make a request to reset your Student Icon password (if you have not set your 
 
 To support you in keeping your child safe online, you may refer to these additional resources:
 
-*   [Parents' Handbook I](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf)&nbsp;and&nbsp;Parents' Handbook II Please reupload file **FILE TOO LARGE**)&nbsp;on Learning with a Personal Learning Device.
+*   [Parents' Handbook I](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD.pdf)&nbsp;and&nbsp;Parents' Handbook II
+*   
 *   Parent Kit on Cyber Wellness for Your Child ([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))
 *   MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/)&nbsp;)
 *   Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
