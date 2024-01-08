@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 CCA information for Sec 1s](/files/Sec_1_CCA_Information_for_Students_2024__edited_.pdf) updated 8 Jan 2024
 * [2024 After School Schedule](/files/BPGHS_After_School_Schedule_2024.pdf) updated 3 Jan 2024
 * [2024 CCA Schedule](/files/2024_CCA_Schedule_updated.pdf) updated 3 Jan 2024
 * [2024 Sem 1 Class Timetable](/files/2024_SEM_1_CLASS_TIMETABLE_FINAL.pdf) updated 31 Dec 2023
