@@ -2,7 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
-      - Personalised Learning Device (PLD) Initiative @ BPGHS.md
+      - Personal Learning Device (PLD) Initiative @ BPGHS.md
       - Full Subject Based Banding.md
       - English & Literature.md
       - Mother Tongue.md
