@@ -90,7 +90,7 @@ variant: markdown
 </tr>
 <tr>
 <td width="285" height="23">Subject Head / Geography</td>
-<td width="203">Ms Tan Xue Ling Sherlyn</td>
+<td width="203">Ms Sherlyn Tan Xue Ling</td>
 <td width="328">tan_xue_ling_sherlyn@moe.edu.sg</td>
 </tr>
 <tr>
