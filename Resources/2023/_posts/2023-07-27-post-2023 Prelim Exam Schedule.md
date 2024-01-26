@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/prelim%20exam%20schedule%202023%20(25%20jul%202023" rel="noopener noreferrer nofollow" target="_blank">2023 Prelim Exam Schedule</a>
+</p>
