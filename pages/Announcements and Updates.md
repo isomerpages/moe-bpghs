@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 Scheme of Assessment](https://www.bpghs.moe.edu.sg/2024-scheme-of-assessment/permalink) updated 26 Jan 2024
 * [2024 Calendar of Key Events](/files/BPGHS_Calendar_of_Key_Events_2024.pdf) updated 15 Jan 2024
 * [2024 CCA information for Sec 1s](/files/Sec_1_CCA_Information_for_Students_2024__edited_.pdf) updated 8 Jan 2024
 * [2024 After School Schedule](/files/BPGHS_After_School_Schedule_2024.pdf) updated 3 Jan 2024
