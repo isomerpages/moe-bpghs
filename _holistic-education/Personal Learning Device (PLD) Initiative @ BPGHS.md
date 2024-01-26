@@ -78,9 +78,9 @@ Microsoft Surface Go 3 was the selected PLD for the other level students.
 <br>
 <br>Please click on the PDF files below for more information regarding the
 selected PLD.</p>
-<p><strong>For Secondary 1</strong>
-<br><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a>
-<br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a>
+<p><strong>For Secondary 1</strong> 
+<br><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a> 
+<br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a> 
 <br><a href="/files/2024/Procedures_for_Device_Issues_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process</a>
 </p>
 <p><strong>For Secondary 2, 3, 4</strong> 
@@ -93,7 +93,7 @@ selected PLD.</p>
 <br>Please click on the PDF files below for more information about Student
 iCON.</p>
 <p><a href="/files/Student%20iCON%20-%20Introduction.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON - Introduction.pdf</a> 
-<br><a href="/files/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON - Onboarding Guide For Students.pdf</a>
+<br><a href="/files/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON - Onboarding Guide For Students.pdf</a> 
 <br><a href="/files/Student%20iCon%20-%20FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCon - FAQ.pdf</a>
 </p>
 <p>To reset your Student iCON password, please click on the link below.
@@ -127,7 +127,7 @@ additional resources:</p>
 <p>Media Literacy Council (<a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/better-internet-sg</a>)</p>
 </li>
 <li>
-<p>National Library’s Learning &amp; Information Literacy Resources (<a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/</a>&nbsp;)</p>
+<p>National Library’s Learning &amp; Information Literacy Resources (<a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/</a>)</p>
 </li>
 <li>
 <p>TOUCH Community Services (<a href="https://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">https://help123.sg</a>)</p>
