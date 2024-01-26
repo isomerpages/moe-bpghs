@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/streaming%20talk%20for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Streaming Talk for Parents</a>
+</p>
