@@ -9,18 +9,18 @@ variant: tiptap
 ---
 <p><strong>Exam Schedules</strong>
 </p>
-<p><a href="/files/sec%201%20eoy%20exam%20schedule%202023%20(updated%2022%20aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/2023/sec 1 eoy exam schedule 2023 (updated 22 aug 2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
-<p><a href="/files/sec%202%20eoy%20exam%20schedule%202023%20(updated%2022%20aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/2023/sec 2 eoy exam schedule 2023 (updated 22 aug 2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
-<p><a href="/files/sec%203%20eoy%20exam%20schedule%202023%20(updated%2022%20aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/2023/sec 3 eoy exam schedule 2023 (updated 22 aug 2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
 </p>
 <p></p>
 <p><strong>Exam Format and Topics</strong>
 </p>
-<p><a href="/files/sec%201%20eoy%20format%20of%20paper%20&amp;%20topics%20to%20be%20tested%202023%20(12%20sep%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/2023/sec 1 eoy format of paper &amp; topics to be tested 2023 (12 sep 2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
-<p><a href="/files/sec%202%20eoy%20format%20of%20paper%20&amp;%20topics%20to%20be%20tested%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/2023/sec 2 eoy format of paper &amp; topics to be tested 2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
-<p><a href="/files/sec%203%20eoy%20format%20of%20paper%20&amp;%20topics%20to%20be%20tested%202023%20(12%20sep%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/2023/sec 3 eoy format of paper &amp; topics to be tested 2023 (12 sep 2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
 </p>
