@@ -7,5 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><a href="/files/truncated%202023%20class%20final.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Truncated Timetable</a>
+<p><a href="/files/2023/truncated 2023 class final.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Truncated Timetable</a>
 </p>
