@@ -88,12 +88,12 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong>Time Period</strong> 
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </th>
@@ -205,12 +205,12 @@ etc.)</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong>Time Period</strong> 
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </th>
@@ -329,12 +329,12 @@ both offline and online</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong>Time Period</strong> 
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </th>
@@ -460,12 +460,12 @@ and act in alignment with our beliefs</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong>Time Period</strong> 
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </th>
@@ -489,16 +489,16 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· understand that the value of a person is not tied to one’s gender and
-not conforming to gender stereotypes does not negate one’s gender identity
-<br>· understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>· understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations
-<br>· know that imposing gender stereotypes on oneself and others can limit
+<br>
+</p>
+<p>· know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -521,18 +521,24 @@ or their friends are involved in an unhealthy relationship.</p>
 <td rowspan="1" colspan="1">
 <p>· know there are healthy ways of coping with broken relationships, and
 family and friends are important pillars of support
-<br>· recognise emotions caused by traumatic situations, e.g. bullying, abuse
+<br>
+</p>
+<p>· recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
 social impact on victims
-<br>· understand that we need moral courage and wisdom to recognise and end
+<br>
+</p>
+<p>· understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
 well-being
-<br>· understand the importance of ensuring that non-verbal messages match
+<br>
+</p>
+<p>· understand the importance of ensuring that non-verbal messages match
 with verbal ones, when communicating personal and emotional boundaries
 in a relationship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -555,14 +561,18 @@ communicating with each other.</p>
 <p>· know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions
-<br>· know that marriage entails a union between a man and a woman based on
+<br>
+</p>
+<p>· know that marriage entails a union between a man and a woman based on
 love, trust, commitment, and requires mutual effort
-<br>· understand that conflicts are normal in any relationship, including
+<br>
+</p>
+<p>· understand that conflicts are normal in any relationship, including
 marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -587,7 +597,7 @@ and act in alignment with our beliefs
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -610,13 +620,13 @@ and act in alignment with our beliefs
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br><strong>At the end of the lesson, students will be able to:</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-<br><strong>(e.g.Term 1 Week 2)</strong>
+<p><strong>Time Period</strong> 
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </th>
 </tr>
@@ -643,28 +653,27 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5
-students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the
-Ground” from the unit, “Respectful Relationship and Safety”.</p>
+<p></p>
 <p><strong><em>eTeens</em> Programme</strong>
 </p>
 <p>8.&nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide Secondary
 3 students with accurate information on STIs, HIV and protection from a
 health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments
-– a mass talk segment and a classroom-based programme.&nbsp;&nbsp;</p>
+– a mass talk segment and a classroom-based programme.&nbsp;&nbsp;The desired
+outcome of the eTeens programme is that students are empowered to make
+wise, informed and sensible decisions.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Bukit Panjang Government High School, the eTeens programme will be implemented as follows in 2023:</strong>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Bukit Panjang Government High School, the eTeens programme will be implemented as follows in 2024:</strong>
 </p>
 <table>
 <tbody>
@@ -687,15 +696,15 @@ are empowered to make wise, informed and sensible decisions.</p>
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awareness of the different STIs and HIV/AIDS
-<br>
-<br>Modes of transmission
-<br>
-<br>Modes of protection, specifically on how the condom is used
-<br>Consequences and impact of STIs/HIV</p>
+<p>Raise awareness and provide knowledge on:</p>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 2</p>
+<p>Term 1 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -709,7 +718,7 @@ of assertiveness and responsible decision-making
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 2</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -719,14 +728,13 @@ of assertiveness and responsible decision-making
 <p>10. Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p>
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
-completed form is to be submitted by 25/02/2022.&nbsp;</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable&nbsp;<a href="/files/2024/Annex_A__SEd_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
+completed form is to be submitted by 29/02/2024.&nbsp;</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/Annex%20B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;&nbsp;The
-completed form is to be submitted by 25/02/2022.</p>
-<p>13. Parents can contact the school at&nbsp;<a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a>&nbsp;for discussion
-or to seek clarification about the school’s sexuality education programme.</p>
-<p>14. Parents, who wish to attend the school sexuality education programmes,
-should contact the school to make the necessary arrangements.</p>
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable&nbsp;<a href="/files/2024/ANNEX_B__SEd_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;&nbsp;The
+completed form is to be submitted by 13/01/2024.</p>
+<p>13. Parents can contact the school at&nbsp;<a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a>&nbsp;or 6769 1031 for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
