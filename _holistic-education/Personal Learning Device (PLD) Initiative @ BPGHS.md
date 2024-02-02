@@ -116,12 +116,10 @@ only)</p>
 </li>
 <li>
 <p>Others</p>
-<p>Please click on the link below.</p>
-<p><a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal</a>
+<p>Please click on the link here: <a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <h4>Additional Resources for Parents</h4>
 <p>To support you in keeping your child safe online, you may refer to these
