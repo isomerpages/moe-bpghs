@@ -102,21 +102,24 @@ iCON.</p>
 <p>To make a request to reset your Student Icon password (if you have not
 set your security questions), or make an appointment to resolve issues
 related to your PLD,&nbsp;please click on the link below.
-<br><a href="https://form.gov.sg/63bfa3dce2862f00118e3e7b" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT</a>
+<br><a href="https://go.gov.sg/booking-bpghs" rel="noopener noreferrer nofollow" target="_blank">Book an appointment with the ICT manager</a>
 </p>
 <p></p>
-<h4>Book an Appointment with the ICT Manager </h4>
-<p>Please click on the link <a href="https://go.gov.sg/booking-bpghs" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p></p>
-<h4>Other technical information: </h4>
-<p>• Information on bluetooth keyboard (For Microsoft Surface Go Users only)</p>
-<p>• Set up MIMS Challenge Questions</p>
-<p>• Others</p>
+<h4>Other technical information:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Information on bluetooth keyboard (For Microsoft Surface Go Users
+only)</p>
+</li>
+<li>
+<p>Set up MIMS Challenge Questions</p>
+</li>
+<li>
+<p>Others</p>
+</li>
+</ul>
 <p>Please click on the link below.</p>
-<p><a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal</a>
-</p>
-<p></p>
+<p>BPGHS ICT Portal</p>
 <p></p>
 <h4>Additional Resources for Parents</h4>
 <p>To support you in keeping your child safe online, you may refer to these
