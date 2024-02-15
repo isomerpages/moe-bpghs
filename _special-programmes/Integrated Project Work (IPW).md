@@ -1,6 +1,6 @@
 ---
-title: Applied Science Programme
-permalink: /special-programmes/applied-science-programme/
+title: Integrated Project Work (IPW)
+permalink: /special-programmes/ipw/
 description: ""
 variant: markdown
 ---
