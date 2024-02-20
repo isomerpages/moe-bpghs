@@ -3,159 +3,347 @@ title: School Management Committee
 permalink: /about-bpghs/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-### School Leaders
-
-
-
-| Designation | Name |
-|:---:|:---:|
-| Principal | Mr Seet Tiat Hee |
-| Vice-Principal | Mr Edmund Ling |
-| Vice-Principal | Mdm Teo Ting Ting |
-
-
-
-
-#### Key Personnel
-
-
-
-
-<table border="0" width="1087" cellspacing="0" cellpadding="0">
+<h3>School Leaders</h3>
+<table>
 <tbody>
 <tr>
-	<td width="271" height="40"><strong>Department</strong></td>
-<td width="285"><strong>Position</strong></td>
-<td width="203"><strong>Name</strong></td>
-<td width="328"><strong>Email address</strong></td>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
 </tr>
 <tr>
-<td rowspan="2" width="271" height="46">English Language &amp; Literature</td>
-<td width="285">Head of Department </td>
-<td width="203">Mrs Christine Wong</td>
-<td width="328">png_thiang_thiang_christine@moe.edu.sg</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seet Tiat Hee</p>
+</td>
 </tr>
 <tr>
-<td width="285" height="23">Subject Head / Literature in English</td>
-<td width="203">Mr Muhammad Hafiz</td>
-<td width="328">muhammad_hafiz_hanafia@moe.edu.sg</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edmund Ling</p>
+</td>
 </tr>
 <tr>
-<td rowspan="2" width="271" height="46">Mathematics</td>
-<td width="285">Head of Department</td>
-<td width="203">Mr Tay Khye Ping</td>
-<td width="328">tay_khye_ping@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Subject Head</td>
-<td width="203">Mr Chua Yong Meng</td>
-<td width="328">chua_yong_meng@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="3" width="271" height="69">Mother Tongue Language</td>
-<td width="285">Head of Department</td>
-<td width="203">Mr Tan Kok Hua</td>
-<td width="328">tan_kok_hua@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Subject Head / Malay Language</td>
-<td width="203">Ms Rina Haideati Misri</td>
-<td width="328">rina_haideati_misri@moe.edu.sg</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td rowspan="3" width="271" height="69">Science</td>
-<td width="285">Head of Department</td>
-<td width="203">Ms Alina Bte Ahmad Sany</td>
-<td width="328">alina_ahmad_sany@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Subject Head / Physics</td>
-<td width="203">Ms Neo Yng Yng</td>
-<td width="328">neo_yng_yng@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Subject Head / Chemistry</td>
-<td width="203">Ms Qiu Yiru</td>
-<td width="328">qiu_yiru@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="3" width="271" height="69">Humanities</td>
-<td width="285">Head of Department</td>
-<td width="203">Ms Ng Niann Yeu</td>
-<td width="328">ng_niann_yeu@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Subject Head / Geography</td>
-<td width="203">Ms Sherlyn Tan Xue Ling</td>
-<td width="328">tan_xue_ling_sherlyn@moe.edu.sg</td>
-</tr>
-<tr>
-</tr><tr>
-<td width="271" height="23">Aesthetics</td>
-<td width="285">Head of Department</td>
-<td width="203">Mr Tay Guan Chuan</td>
-<td width="328">tay_guan_chuan@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="271" height="23">Physical Education &amp; CCA</td>
-<td width="285">Head of Department</td>
-<td width="203">Mrs Joan Neo</td>
-<td width="328">joan_koh_puay_leng@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="271" height="46">Character &amp; Citizenship Education</td>
-<td width="285">Head of Department</td>
-<td width="203">Mdm Chong Lin Lin</td>
-<td width="328">chong_lin_lin@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Subject Head / NE</td>
-<td width="203">Mr Ong Weiquan</td>
-<td width="328">ong_weiquan@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="271" height="46">Year Head / Student Management</td>
-<td width="285">Secondary 2</td>
-<td width="203">Ms Jessie Lee Min</td>
-<td width="328">lee_min_jessie@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Secondary 4 &amp; 5</td>
-<td width="203">Mr Yeo Zhi Wen</td>
-<td width="328">yeo_zhi_wen@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="271" height="46">Assistant Year Head</td>
-<td width="285">Secondary 1</td>
-<td width="203">Mr Leonard Ng</td>
-<td width="328">ng_ding_zhong@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="285" height="23">Secondary 3</td>
-<td width="203">Mdm Tan Lily</td>
-<td width="328">tan_lily_b@moe.edu.sg</td>
-</tr>
-<tr>
-
-<td width="271" height="45">Student Leadership and VIA &nbsp;</td><td width="285" height="45">Subject Head / Student Leadership &amp; VIA </td>
-<td width="203">Mr Ng Zi Jian</td>
-<td width="328">ng_zi_jian_a@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="271" height="45">School Staff Developer&nbsp;</td>
-<td width="285">Head of Department&nbsp;</td>
-<td width="203">Ms Kogila Vani d/o Ramakrishnan&nbsp;</td>
-<td width="328">kogila_vani_ramakrishnan@moe.edu.sg&nbsp;</td>
-</tr>
-<tr>
-<td width="271" height="45">Information &amp; Communication Technology</td>
-<td width="285">Head of Department</td>
-<td width="203">Mdm Ong Seok Jean</td>
-<td width="328">ong_seok_jean@moe.edu.sg </td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Ting Ting</p>
+</td>
 </tr>
 </tbody>
 </table>
+<h4>Key Personnel</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Christine Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>png_thiang_thiang_christine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Literature in English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hafiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_hafiz_hanafia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Khye Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_khye_ping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Yong Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_yong_meng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kok Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kok_hua@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rina Haideati Misri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rina_haideati_misri@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alina Bte Ahmad Sany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alina_ahmad_sany@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Yng Yng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>neo_yng_yng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Qiu Yiru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>qiu_yiru@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Niann Yeu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_niann_yeu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherlyn Tan Xue Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_xue_ling_sherlyn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Guan Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_guan_chuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joan Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joan_koh_puay_leng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chong Lin Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_lin_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / NE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Weiquan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_weiquan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Year Head / Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Zhi Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_zhi_wen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jessie Lee Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_min_jessie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leonard Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_ding_zhong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Lily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ily_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Leadership and VIA &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Leadership &amp; VIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Zi Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_zi_jian_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kogila Vani d/o Ramakrishnan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kogila_vani_ramakrishnan@moe.edu.sg&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Seok Jean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_seok_jean@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
