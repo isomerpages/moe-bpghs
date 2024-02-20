@@ -56,7 +56,7 @@ variant: tiptap
 <p>Ace Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ace-learning.com" rel="noopener noreferrer nofollow" target="_blank">https://heymath.com/sg/</a>
+<p><a href="https://www.ace-learning.com" rel="noopener noreferrer nofollow" target="_blank">https://www.ace-learning.com</a>
 </p>
 </td>
 </tr>
