@@ -2,6 +2,7 @@
 title: Character and Citizenship Education
 permalink: /cce/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ### Character and Citizenship Education
 
