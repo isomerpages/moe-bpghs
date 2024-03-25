@@ -2,8 +2,9 @@
 title: Subject Combinations
 permalink: /links/subject-combinations/
 description: ""
+variant: markdown
 ---
-# Secondary 3 Subject Combinations for Year 2024
+# Secondary 3 Subject Combinations for Year 2025
 
 
 Information will be made available at a later date.
