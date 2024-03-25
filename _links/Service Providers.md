@@ -2,8 +2,75 @@
 title: Service Providers
 permalink: /links/service-providers/
 description: ""
+variant: tiptap
 ---
-<center><strong><u>BUKIT PANJANG GOVT HIGH SCHOOL
-<br>SCHOOL SUPPLIERS/SERVICE PROVIDERS</u></strong></center>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">S/No</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Supplier</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Supplier’s Company Name</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Website</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bookshop</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SHINGLEE BOOKSTORES PTE LTD</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#EB0028;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="http://www.asencio.com.sg/"><span style="text-decoration:none;color:#EB0028">www.shinglee.com.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Uniform &amp; PE Attire</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">YANG TZE KIANG TAILOR</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#EB0028;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="http://www.yangtzekiang.com.sg/"><span style="text-decoration:none;color:#EB0028">www.yangtzekiang.com.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Insurance GPA For Students</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">NTUC INCOME</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#EB0028;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="http://www.income.com.sg/"><span style="text-decoration:none;color:#EB0028">www.income.com.sg</span></a></td></tr></tbody></table>
+<p><strong><u>BUKIT PANJANG GOVT HIGH SCHOOL <br>SCHOOL SUPPLIERS/SERVICE PROVIDERS</u></strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Supplier</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Supplier’s Company Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bookshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHINGLEE BOOKSTORES PTE LTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.shingleebookstores.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.shingleebookstores.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniform &amp; PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YANG TZE KIANG TAILOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank">www.yangtzekiang.com.sg/eshop/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Insurance GPA For Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC INCOME</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
