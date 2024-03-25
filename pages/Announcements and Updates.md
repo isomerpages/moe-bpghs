@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 Updated After School Schedule](/files/2024/BPGHS_After_School_Schedule_2024__Updated_on_4_Mar_.pdf) updated 25 March 2024
 * [Notification of Absence from School - PG Notification](/files/2024/Notification_of_Absence_from_School___PG_Notification.pdf) updated 15 March 2024
 * [2024 Scheme of Assessment](/2024-scheme-of-assessment/permalink/) updated 26 Jan 2024
 * [2024 Calendar of Key Events](/files/2024/BPGHS_Calendar_of_Key_Events_2024.pdf) updated 15 Jan 2024
