@@ -9,7 +9,7 @@ variant: markdown
 ![](/images/IPW__5_.jpg)
 
 *“Interdisciplinary Project Work is a learning experience that provides secondary school students with the opportunity to synthesise knowledge from various areas of learning and apply it to real-life situations. Students collaborate with their peers and communicate their ideas effectively to achieve a common objective.”*
-<div align="right"><i> Taken from: <br><u>[https://www.moe.gov.sg/education-in-sg/our-programmes/project-work](https://www.moe.gov.sg/education-in-sg/our-programmes/project-work)</u></i></div>
+<div align="right"><i> Taken from: <br><u>https://www.moe.gov.sg/education-in-sg/our-programmes/project-work</u></i></div>
 
 ![](/images/IPW__1_.jpg)
 
