@@ -102,8 +102,6 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <p align="right">
 — Mr Zhang Ze Tong<br>
 </p>
-<br>
-
 
 <table class="tg">
 <thead>
