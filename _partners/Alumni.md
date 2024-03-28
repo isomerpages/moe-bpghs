@@ -83,7 +83,9 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 — Muhammad Salehan B Jaafar (Lee Kuan Yew Award)
 		</div>
 	</div>
+	
 <br>
+
 <table class="tg">
 <thead>
   <tr>
