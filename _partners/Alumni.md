@@ -102,7 +102,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 <p align="right">
 — Mr Zhang Ze Tong<br>
-
+</p>
 <br>
 
 
@@ -117,9 +117,9 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 *Don't aim for happiness, be happy with what you aim for. Success if not the goal, self-worth is. Create magic with everyday things and life will be enchanted.*
 
-</p><p align="right">
+<p align="right">
 — Ms Haryani Binte Mohamed Affandi<br>
-
+</p>
 
 <table class="tg">
 <thead>
@@ -132,9 +132,9 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 *Serving as Band Major of Bukit Panjang Teck Whye Band taught me important life values that I hold dear even till this day. CCAs offer a full richness of experience that can indeed be life-changing.*
 
-</p><p align="right">
+<p align="right">
 — Dr Leonard Tan<br>
-	
+</p>
 
 <table class="tg">
 <thead>
@@ -147,6 +147,6 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 
 *Open your heart to embrace life's values, and unlock your mind to explore the boundless realm of knowledge.*
 
-</p><p align="right">
+<p align="right">
 — Dr Pang Sze Dai<br>
 	</p>
