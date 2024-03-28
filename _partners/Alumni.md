@@ -110,11 +110,11 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/haryna.png" style="width:50%"></td>
-		<td class="tg-0pky"><br><br><br><br><br>Ms Haryani Binte Mohamed Affandi<br>Class of 1999<br>Co-Founder &amp; Co-Owner of Bambini Childcare LLP<br><br></td>
+		<td class="tg-0pky"><br><br><br><br><br><br>Ms Haryani Binte Mohamed Affandi<br>Class of 1999<br>Co-Founder &amp; Co-Owner of Bambini Childcare LLP<br><br></td>
   </tr>
 </thead>
 </table>
-<br>
+
 *Don't aim for happiness, be happy with what you aim for. Success if not the goal, self-worth is. Create magic with everyday things and life will be enchanted.*
 
 <p align="right">
@@ -125,11 +125,11 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/leonard_tan.png" style="width:50%"></td>
-		<td class="tg-0pky"><br><br><br><br><br><br><br>Dr Leonard Tan<br>Class of 1994<br>Associate Professor of Music, NIE NTU<br><br></td>
+		<td class="tg-0pky"><br><br><br><br><br><br><br><br>Dr Leonard Tan<br>Class of 1994<br>Associate Professor of Music, NIE NTU<br><br></td>
   </tr>
 </thead>
 </table>
-<br>
+
 
 *Serving as Band Major of Bukit Panjang Teck Whye Band taught me important life values that I hold dear even till this day. CCAs offer a full richness of experience that can indeed be life-changing.*
 
@@ -141,11 +141,11 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/pang_sze_dai.png" style="width:50%"></td>
-		<td class="tg-0pky"><br><br><br><br><br><br><br>Dr Pang Sze Dai<br>Class of 1992<br>Associate Professor of Civil Engineering, NUS<br><br></td>
+		<td class="tg-0pky"><br><br><br><br><br><br><br><br>Dr Pang Sze Dai<br>Class of 1992<br>Associate Professor of Civil Engineering, NUS<br><br></td>
   </tr>
 </thead>
 </table>
-<br>
+
 
 *Open your heart to embrace life's values, and unlock your mind to explore the boundless realm of knowledge.*
 
