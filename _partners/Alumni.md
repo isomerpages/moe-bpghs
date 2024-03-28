@@ -32,7 +32,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" style="width:75%"></td>
-		<td class="tg-0pky"><strong>Name:</strong> Koh Sheng Wei, Demas<br><br><strong>Class in BPGHS:</strong> 4T2/2008<br><br><strong>Scholarship:</strong> Teaching Scholarship (Overseas)<br><br><strong>Organisation awarding the scholarship:</strong> MOE<br><br><strong>School:</strong> London School of Economics &amp; Political Science<br><br><strong>Course:</strong> Economics</td>
+		<td class="tg-0pky"><strong>Name:</strong> Koh Sheng Wei, Demas<br><strong>Class in BPGHS:</strong> 4T2/2008<br><strong>Scholarship:</strong> MOE Teaching Scholarship (Overseas)<br><strong>School:</strong> London School of Economics &amp; Political Science<br><strong>Course:</strong> Economics</td>
   </tr>
 </thead>
 </table>
@@ -62,14 +62,12 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <thead>
   <tr>
     <td class="tg-0pky"><img src="/images/Alumni%20-%20Choong%20Ming%20Zhe.jpeg" style="width:75%"></td>
-		<td class="tg-0pky"><br><br><br><strong>Name:</strong> Choong Ming Zhe<br><br><br><br><strong>Class:</strong> Class of 2010<br><br><br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
+		<td class="tg-0pky"><br><br><br><br><strong>Name:</strong> Choong Ming Zhe<br><strong>Class:</strong> Class of 2010<br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br></td>
   </tr>
 </thead>
 </table>
 
-*In BPGHS, I developed my self-confidence and learned the importance of friendship. Before joining the National Science Challenge, never could I have imagined presenting before a huge audience, including subject-matter experts, no less.*
-
-*Nonetheless, my team’s relentless encouragement gave me the courage necessary. Indeed, true friends should be cherished as they are genuine to you through thick and thin, and will grant you the strength to conquer even the most trying of moments.* 
+*In BPGHS, I developed my self-confidence and learned the importance of friendship. Before joining the National Science Challenge, never could I have imagined presenting before a huge audience, including subject-matter experts, no less. Nonetheless, my team’s relentless encouragement gave me the courage necessary. Indeed, true friends should be cherished as they are genuine to you through thick and thin, and will grant you the strength to conquer even the most trying of moments.* 
 
 <div>
 <div style="float: right">
@@ -88,29 +86,67 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 	
 <br>
 
-*You may not be the next Uncle Raymond and that's ok. Social media trends rise and fall anyway, and you can do way better than that. Everyone, including you, can make a positive impact to the people around you. What's your story?*
-<p align="right">
-— Mr Zhang Ze Tong, Class of 2009<br>
-	Mediacorp Artiste, 2019 Star Search Winner 
-
-	
 <br>
+<br>
+
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="/images/zhang_ze_tong.png" style="width:75%"></td>
+		<td class="tg-0pky"><br><br><br><br><br><br><br><br>Mr Zhang Ze Tong<br>Class of 2009<br>Mediacorp Artiste, 2019 Star Search Winner<br><br></td>
+  </tr>
+</thead>
+</table>
+
+*You may not be the next Uncle Raymond and that's ok. Social media trends rise and fall anyway, and you can do way better than that. Everyone, including you, can make a positive impact to the people around you. What's your story?*
+
+<p align="right">
+— Mr Zhang Ze Tong<br>
+
+<br>
+
+
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="/images/haryna.png" style="width:75%"></td>
+		<td class="tg-0pky"><br><br><br><br><br>Ms Haryani Binte Mohamed Affandi<br>Class of 1999<br>Co-Founder &amp; Co-Owner of Bambini Childcare LLP<br><br></td>
+  </tr>
+</thead>
+</table>
 
 *Don't aim for happiness, be happy with what you aim for. Success if not the goal, self-worth is. Create magic with everyday things and life will be enchanted.*
-</p><p align="right">
-— Ms Haryani Binte Mohamed Affandi, Class of 1999<br>
-	Co-Founder &amp; Co-Owner of Bambini Childcare LLP
 
-		
-<br>
+</p><p align="right">
+— Ms Haryani Binte Mohamed Affandi<br>
+
+
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="/images/leonard_tan.png" style="width:75%"></td>
+		<td class="tg-0pky"><br><br><br><br><br><br><br>Dr Leonard Tan<br>Class of 1994<br>Associate Professor of Music, NIE NTU<br><br></td>
+  </tr>
+</thead>
+</table>
 
 *Serving as Band Major of Bukit Panjang Teck Whye Band taught me important life values that I hold dear even till this day. CCAs offer a full richness of experience that can indeed be life-changing.*
+
 </p><p align="right">
-— Dr Leonard Tan, Class of 1994<br>
-	Associate Professor of Music, NIE NTU 
+— Dr Leonard Tan<br>
 	
 
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky"><img src="/images/pang_sze_dai.png" style="width:75%"></td>
+		<td class="tg-0pky"><br><br><br><br><br><br><br>Dr Pang Sze Dai<br>Class of 1992<br>Associate Professor of Civil Engineering, NUS<br><br></td>
+  </tr>
+</thead>
+</table>
+
 *Open your heart to embrace life's values, and unlock your mind to explore the boundless realm of knowledge.*
+
 </p><p align="right">
-— Dr Pang Sze Dai, Class of 1992<br>
-	Associate Professor of Civil Engineering, NUS</p>
+— Dr Pang Sze Dai<br>
+	</p>
