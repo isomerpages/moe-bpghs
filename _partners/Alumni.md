@@ -2,10 +2,11 @@
 title: Alumni
 permalink: /partners/alumni/
 description: ""
+variant: markdown
 ---
 ### Alumni
 
-<strong><u>President's Scholar & SAF Scholar 2016 (Natasha Ann Lum)</u></strong>
+<strong><u>President's Scholar &amp; SAF Scholar 2016 (Natasha Ann Lum)</u></strong>
 
 ![](/images/Alumni%20-%20Natasha%20Ann%20Lum.jpeg)
 
@@ -30,8 +31,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" 
-     style="width:75%"></td>
+    <td class="tg-0pky"><img src="/images/Alumni%20-%20Koh%20Sheng%20Wei%20Demas.jpeg" style="width:75%"></td>
 		<td class="tg-0pky"><strong>Name:</strong> Koh Sheng Wei, Demas<br><br><strong>Class in BPGHS:</strong> 4T2/2008<br><br><strong>Scholarship:</strong> Teaching Scholarship (Overseas)<br><br><strong>Organisation awarding the scholarship:</strong> MOE<br><br><strong>School:</strong> London School of Economics &amp; Political Science<br><br><strong>Course:</strong> Economics</td>
   </tr>
 </thead>
@@ -61,9 +61,8 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/Alumni%20-%20Choong%20Ming%20Zhe.jpeg" 
-     style="width:75%"></td>
-		<td class="tg-0pky"><BR><BR><BR><strong>Name:</strong> Choong Ming Zhe<br><br><br><br><strong>Class:</strong> Class of 2010<br><br><br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
+    <td class="tg-0pky"><img src="/images/Alumni%20-%20Choong%20Ming%20Zhe.jpeg" style="width:75%"></td>
+		<td class="tg-0pky"><br><br><br><strong>Name:</strong> Choong Ming Zhe<br><br><br><br><strong>Class:</strong> Class of 2010<br><br><br><br><strong>Scholarship:</strong> PSC Singapore Government Scholarship (Open)<br><br></td>
   </tr>
 </thead>
 </table>
@@ -77,6 +76,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 	— Ming Zhe
 	</div>
 	</div>
+<br>
 
 *Being in BPGHS gave me a lot of opportunities to lead and excel; especially being in the Student Council Executive Committee. The support that the teachers and classmates gave made me a more confident person.*
 	
@@ -85,3 +85,32 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 — Muhammad Salehan B Jaafar (Lee Kuan Yew Award)
 		</div>
 	</div>
+	
+<br>
+
+*You may not be the next Uncle Raymond and that's ok. Social media trends rise and fall anyway, and you can do way better than that. Everyone, including you, can make a positive impact to the people around you. What's your story?*
+<p align="right">
+— Mr Zhang Ze Tong, Class of 2009<br>
+	Mediacorp Artiste, 2019 Star Search Winner 
+
+	
+<br>
+
+*Don't aim for happiness, be happy with what you aim for. Success if not the goal, self-worth is. Create magic with everyday things and life will be enchanted.*
+</p><p align="right">
+— Ms Haryani Binte Mohamed Affandi, Class of 1999<br>
+	Co-Founder &amp; Co-Owner of Bambini Childcare LLP
+
+		
+<br>
+
+*Serving as Band Major of Bukit Panjang Teck Whye Band taught me important life values that I hold dear even till this day. CCAs offer a full richness of experience that can indeed be life-changing.*
+</p><p align="right">
+— Dr Leonard Tan, Class of 1994<br>
+	Associate Professor of Music, NIE NTU 
+	
+
+*Open your heart to embrace life's values, and unlock your mind to explore the boundless realm of knowledge.*
+</p><p align="right">
+— Dr Pang Sze Dai, Class of 1992<br>
+	Associate Professor of Civil Engineering, NUS</p>
