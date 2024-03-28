@@ -92,7 +92,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/zhang_ze_tong.png" style="width:75%"></td>
+    <td class="tg-0pky"><img src="/images/zhang_ze_tong.png" style="width:50%"></td>
 		<td class="tg-0pky"><br><br><br><br><br><br><br><br>Mr Zhang Ze Tong<br>Class of 2009<br>Mediacorp Artiste, 2019 Star Search Winner<br><br></td>
   </tr>
 </thead>
@@ -109,7 +109,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/haryna.png" style="width:75%"></td>
+    <td class="tg-0pky"><img src="/images/haryna.png" style="width:50%"></td>
 		<td class="tg-0pky"><br><br><br><br><br>Ms Haryani Binte Mohamed Affandi<br>Class of 1999<br>Co-Founder &amp; Co-Owner of Bambini Childcare LLP<br><br></td>
   </tr>
 </thead>
@@ -124,7 +124,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/leonard_tan.png" style="width:75%"></td>
+    <td class="tg-0pky"><img src="/images/leonard_tan.png" style="width:50%"></td>
 		<td class="tg-0pky"><br><br><br><br><br><br><br>Dr Leonard Tan<br>Class of 1994<br>Associate Professor of Music, NIE NTU<br><br></td>
   </tr>
 </thead>
@@ -139,7 +139,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0pky"><img src="/images/pang_sze_dai.png" style="width:75%"></td>
+    <td class="tg-0pky"><img src="/images/pang_sze_dai.png" style="width:50%"></td>
 		<td class="tg-0pky"><br><br><br><br><br><br><br>Dr Pang Sze Dai<br>Class of 1992<br>Associate Professor of Civil Engineering, NUS<br><br></td>
   </tr>
 </thead>
