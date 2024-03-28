@@ -114,7 +114,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
   </tr>
 </thead>
 </table>
-
+<br>
 *Don't aim for happiness, be happy with what you aim for. Success if not the goal, self-worth is. Create magic with everyday things and life will be enchanted.*
 
 <p align="right">
@@ -129,6 +129,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
   </tr>
 </thead>
 </table>
+<br>
 
 *Serving as Band Major of Bukit Panjang Teck Whye Band taught me important life values that I hold dear even till this day. CCAs offer a full richness of experience that can indeed be life-changing.*
 
@@ -144,6 +145,7 @@ We are proud of Natasha’s achievements and are confident that she will go on t
   </tr>
 </thead>
 </table>
+<br>
 
 *Open your heart to embrace life's values, and unlock your mind to explore the boundless realm of knowledge.*
 
