@@ -125,22 +125,14 @@ Development Programme.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National STEM Championship</p>
+<p>A*Star Science Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semi Finalist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022 ICAS Science Assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ongoing</p>
+<p>8 Awardees</p>
 </td>
 </tr>
 <tr>
@@ -156,23 +148,7 @@ Development Programme.</p>
 <p>Singapore Junior Physics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver, 4 Honourable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Biomedical Quiz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Gold, 1 Silver, 2 Bronze, 1 Merit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IgnITE Skills Challenge 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Place</p>
+<p>2 Silver, 2 Bronza and 5 Honourable Mention</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +156,7 @@ Development Programme.</p>
 <p>Singapore Junior Chemistry Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Gold</p>
+<p>1 Gold, 1 Bronze</p>
 </td>
 </tr>
 <tr>
@@ -188,23 +164,26 @@ Development Programme.</p>
 <p>Singapore Junior Biology Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Gold, 1 Silver, 2 Bronzes, 1 Honourable Mention</p>
+<p>1 Gold, 2 Silver, 3 Bronze and 2 Honourable Mention</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>StemCo Competitions</p>
+<p>IgnITE Skills Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Gold, 12 Silver, 1 Bronze</p>
+<p>Finalists</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A*Star Science Award</p>
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Awardees</p>
+<p>SG75 Our Singapore Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One individual 1st prize</p>
 </td>
 </tr>
 </tbody>
