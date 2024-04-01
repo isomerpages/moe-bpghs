@@ -3,45 +3,1587 @@ title: Academic Achievements
 permalink: /about-bpghs/our-achievements/academic-achievements/
 description: ""
 third_nav_title: Our Achievements
+variant: tiptap
 ---
-# 2022 Achievements
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Department</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competition</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">English Language and Literature</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Orator's Trophy</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Semi-Finalist</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">ICAS English Assessment (Sec 1 - 3 selected classes)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">22 Outstanding, 162 Commendable </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Live On Festival 2022 – Essay Competition (School Category, Sec 3 -5)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Certificate of Award: Special Mention</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Humanities</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Earth Alive Inter-school Challenge 2022</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Honourable Mention Top Performer Award</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">PREPMUN 2022</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Best Speaker Award<br>2 Most Improved Delegate Awards</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NUS Geography Challenge 2022</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold. Student identified to join the Geography Talent Development Programme.</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Mathematics</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">ignITE Skills Challenge 2022 (Social Media Retailing))</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Finalists</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">All Singapore Secondary Mathematics Competition for Normal Course Students 2022</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Top 20</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2022 Singapore Mathematical Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Junior Category - <br>2 Bronze, <br>3 Honourable<br>Senior Category - <br>1 Gold, <br>3 Silver, <br>3 Bronze, <br>3 Honourable</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Mother Tongue - Chinese Language</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">第13届 (地球村) 国际青少年双语演讲大会 - The GoodTalk (Global Village) 13th International Children &amp; Youth Bilingual Speech Convention<br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold, 2 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">20th National Secondary Schools Chinese Creative Writing Competition – 新蕾奖: 诗歌组</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Distinction</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">HSK Chinese Proficiency Test (Grade 5)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">60% Distinctions</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue - EMAS</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Inter-Secondary Schools Blackout Poetry Competition</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1st, 2nd and 3rd Prize</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="10">Science</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">National STEM Championship</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Semi Finalist</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2022 ICAS Science Assessment</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ongoing</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">International C.B. Paul Science Quiz</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold, 6 Silver, 1 Bronze and 4 Merit</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Physics Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Silver, 4 Honourable Mention</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">International Biomedical Quiz</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Gold, 1 Silver, 2 Bronze, 1 Merit</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">IgnITE Skills Challenge 2022</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3rd Place</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Chemistry Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Biology Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold, 1 Silver, 2 Bronzes, 1 Honourable Mention</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">StemCo Competitions</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Gold, 12 Silver, 1 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">A*Star Science Award</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Awardees</td></tr></tbody></table>
-
-
-# 2021 Achievements
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Department</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competition</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">English Language and Literature</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Commonwealth Essay Competition 2021</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021 ICAS English Assessment</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 High Distinction, 15<br>Distinction, 43 Credit, 10 Merit</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">National Schools Literature Festival 2021 - Unseen Debate (Sec 4 Exp)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Winner</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Humanities</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Historical Scene Investigation (H.S.I.) Challenge 2021</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Silver Award</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">River Valley Model United Nations 2021</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Best Position Paper<br>2 Honourable Mentions</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NUS Geography Challenge 2021</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Mathematics</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ignite Skills Challenge 2021 (Social Media Retailing)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold, Finalist</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021 ICAS Mathematics Assessment</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">8 Distinction, 5 Credit, 1 Merit, 14 Participation Certificates</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021 Singapore Mathematical Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Silver, 3 Bronze and 6 Honourable Mention</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Mother Tongue - Chinese Language</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">第12届 (地球村) 国际青少年双语演讲大会 - The GoodTalk (Global Village) International Children &amp; Youth Bilingual Speech Convention<br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold, 1 Distinction</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">推广华文学习委员会（CPCLL）与UFM 100.3 “与声剧来”中文广播剧创作比赛 - “Script It Right” Chinese Radio Drama Script Writing<br>Competition 2021</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Distinction ; 2 Merit</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">在新中国留学生征文大赛《谁不说咱家乡好 》- Singapore Overseas Chinese Students Writing Competition - "My Hometown"</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Merit</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue - EMAS</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Peraduan Mengarang Pena Emas (writing competition)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Gold</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="10">Science</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore International Science Competition</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Semi Finalist team</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2022 ICAS Science Assessment</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ongoing</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">International C.B. Paul Science Quiz</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Gold, 3 Silver, 3 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Physics Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">International Biomedical Quiz</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Silver, 4 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">IgnITE Skills Challenge 2021</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Finalist team</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Chemistry Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Gold, 1 Silver</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Biology Olympiad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Silver, 4 Bronze, 2 Honourable Mention</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">StemCo Competitions</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">21 Gold, 97 Silver, 36 Bronze</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">A*Star Science Award</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Awardees</td></tr></tbody></table>
-
-
-
-# 2020 Achievements
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Department</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competition</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">Mathematics</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">All Singapore Normal Course Mathematics Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">6 Participation</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2020 ICAS Mathematics Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">6 Distinctions, 15 credits, 1 Merit and 8 Participation</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2020 Singapore Mathematics Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Gold, 1 Silver, 4 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="7">Science</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Physics Olympiad 2020</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Silver, 9 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Biology Olympiad 2020</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">31 Certificate of Merit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">International Biomedical Quiz 2020</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3 Gold, 2 Silver, 2 Bronze, 10 Merit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">PhysiCo: International Physics Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Gold, 9 Silver, 4 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">ChemiCo: International Chemistry Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Gold, 9 Silver, 7 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">BioCo: International Biology Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Gold, 8 Silver, 3 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">NRC CoderZ Coding Challenge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Overall Champion</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Humanities</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">NUS Geography Challenge 2020 Individual Component</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Gold, 1 Silver</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Historical Scene Investigation (H.S.I.) Challenge 2020</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Bronze</td></tr></tbody></table>
-
-
-
-# 2019 Achievements
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Department</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competition</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="6">English Language and Literature</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Anglo-Chinese Junior College Orator's Trophy 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">National Schools Literature Festival 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Set Text Debate - Winner</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lower Sec Choral Speak2020ing - Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lower Sec Flash Fiction - 1st &amp; 2nd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">UNSW REACH - Writing</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3 Exemplary, <br>26 Outstanding, <br>34 Commendable</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">UNSW REACH - English</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">33 Exemplary, <br>150 Outstanding, <br>253 Commendable</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Humanities</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">NUS Geography Challenge Preliminary Round</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Top Performing Individuals - 1 Gold, 1 Silver, 2 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">7th River Valley Model United Nations</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Best Position Paper in Double Delegation Council</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="7">Mathematics</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Australian Math Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Secondary 1 - 1 High Distinction, 19 Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Secondary 2 - 13 Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">Singapore Mathematics Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Junior Category - 1 Silver, 3 Bronze, 3 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Senior Category - 3 Bronze, 2 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Open Category - 1 Bronze, 3 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Media Computing Competition 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Game Category - Silver</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Animation Category - Silver</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="7">Mother Tongue - Chinese Language</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Chinese Challenge 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Individual Category - Top 30</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">圣公会中学2019年现场华文故事创作比赛 - Anglican High School National Story Writing Competition 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Outstanding Award</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">新蕾奖 17th National Secondary School Chinese Creative Writing Competition 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lower Sec Category - 3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">第十三届全国中学生翻译比赛 2019 - 13th National Secondary Schools Translation Competition 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Outstanding Individual Award </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">"地球村" 国际青少年双语演讲大会 - The GoodTalk "Global village" Children &amp; Youth Bilingual Speech Convention</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd, 3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Script It Right' Chinese Radio Drama Script Writing Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Finalist, 2 Outstanding Script Merit Award</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">第四届国际华语水平大赛 (新马地区) - 4th International Chinese Proficiency Competition (Singapore and Malaysia)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd, Encouragement Award</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="5">Mother Tongue - EMAS</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Piala Cendekia Sahibba 2019 - National Malay Scrabble Competition 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">West Zone - 3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National -1st</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Pesta Pantun 2019 (Pantun Competition)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Sayembara Sajak 2019 (Modern Poetry Competition)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lower Sec (Recitation) - 1st</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Upper Sec (Writing) - 3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="6">Science</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Physics Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Gold, 2 Silver, 2 Bronze, 2 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Biology Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Gold, 3 Silver, 2 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Chemistry Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Gold, 1 Silver, 1 Bronze, 1 Merit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">8th International Biomedical Quiz</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Gold, 2 Silver, 3 Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Science Challenge 2019</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Quarterfinalists</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">IgnITE Skills Challenge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Data Visualisation - 1st, 2nd</td></tr></tbody></table>
-
-
-
-# 2018 Achievements
-
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; width: 820px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 198px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Department</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 424px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 197px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Aesthetics</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Youth Festival Art Exhibition 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Certificate of Recognition (Special Mention)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="193" height="171" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">English Language and Literature</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">ICAS Writing</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">12 High Distinction, 12 Distinction, 31 Credit, ICAS Medal Winner</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">ICAS English</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4 High Distinction, 42 Distinction, 178 Credit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Schools Literature Festival</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Upper Sec Set Text Debate Winners, Upper Sec Unseen Debate Winners</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Humanities</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Library Board Annual 'Prove It' Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National University of Singapore Geography Challenge</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Silver, Geo-Trial - Best Scoring Team (Dakota Crescent Station)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="5" width="193" height="210" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mathematics</td><td rowspan="4" width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Mathematical Olympiad 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Junior Category - 3 Bronze, 12 Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Senior Category - 1 Silver, 3 Bronze, 3 Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Open Category - 2 Silver, 2 Bronze, 1 Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Commendation Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Australian Mathematics Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1 High Distinction, 22 Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="7" width="193" height="173" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mother Tongue - Chinese Language</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Script It Right' Chinese Radio Drama Script Writing Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Best Script (Merit)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">12th National Secondary Schools Translation Competition 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Merit Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">GoodTalk (地球村) 国际青少年双语演讲大会 (The GoodTalk "Global village" Children &amp; Youth Bilingual Speech Convention)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd, 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Chinese Poem-Writing Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Merit Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">第三届国际华语水平大赛 (新马地区) (3rd International Chinese Proficiency Competition [Singapore and Malaysia])</td><td width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">10 Merit Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2018 华语大比拼 (2018 Chinese Language Challenge)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Merit Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2018年超级明星阅读比赛 (Reading Superstar Competition 2018)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st, 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="193" height="77" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Mother Tongue - EMAS</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Pesta Pantun 2018 (Poetry Festival)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Sayembara Sajak 2018 (Modern Poetry Writing Competition)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Lower Sec - 1st,<br style="margin: 0px; outline: 0px; padding: 0px;">Upper Sec - 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Pena Emasku (Creative Writing Competition)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Gold, 1 Top 30 Entry</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="6" width="193" height="172" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Science</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Junior Physics Olympiad</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Silver, 4 Bronze, 6 Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Junior Biology Olympiad</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4 Silver, 1 Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Junior Chemistry Olympiad</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1 Gold, 1 Silver, 1 Bronze, 3 Merit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Science Challenge</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Quarter finalists</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">IgnITE Skills Challenge 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Finalists</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Creative and Heuristic Applications of Science</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4 Honourable Mention</td></tr></tbody></table>
-
-
-
-# 2017 Achievements
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Department</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competition</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Aesthetics</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">UOB Painting of the Year (Emerging Artist Category)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="7">English Language and Literature</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">ICAS Writing</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">10 High Distinction, 24 Distinction, 37 Credit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">ICAS English</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 High Distinction, 49 Distinction, 214 Credit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="4">National Schools Literature Festival</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lower Sec Book Parade - Consolation</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Upper Sec Set Text Debate - Winners</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Upper Sec Unseen Debate - Winners</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Flash Fiction - Commendation</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Public Speaking Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Finalist</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">Humanities</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Library Board Annual 'Prove It' Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Regional Round Champion</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National University of Singapore Geography Challenge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Top Performing Individual (Bronze)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Historical Scene Investigation</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Finalist</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="5">Mathematics</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">Singapore Mathematical Olympiad 2017</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Junior Category - 5 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Senior Category - 1 Silver, 1 Bronze, 2 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Open Category - 1 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Australian Mathematics Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 High Distinction, 24 Distinction, Certificate of Achievement</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Media Computing Competition 2017 (Game Category)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Gold, Sustained Gold Award</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="4">Mother Tongue - Chinese Language</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">新蕾奖 15th National Secondary School Chinese Creative Writing Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">11th National Secondary Schools Translation Competition 2017</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2017年“新空下”全国学生新谣歌唱及创作比赛 (National Schools Xinyao Singing and Songwriting Competition 2017)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Individual Singing - Finalist</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">第二届国际华语水平大赛 (新马地区) (2nd International Chinese Proficiency Competition [Singapore and Malaysia])</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Mother Tongue - EMAS</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Piala Cendekia Sahibba 2017 - National Malay Scrabble Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">West Zone - 2nd, National 3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Pena Emasku 2017 (Creative Writing Competition)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">12 Gold, 9th, 16th</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="7">Science</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">ICAS Science</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">17 High Distinction, 81 Distinction, 155 Credit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Physics Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3 Silver, 4 Bronze, 3 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Biology Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Silver, 2 Honourable Mention</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Junior Chemistry Olympiad</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3 Bronze, 5 Merit</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">IgnITE Skills Challenge 2017</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">6 Finalists</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">EUREKA 2017</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Environment Quiz</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Individual - 2nd, 5th</span><br><span style="background-color:initial">Team - Overall 1st</span></td></tr></tbody></table>
+<h1>2023 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival - Flash Fiction (Upper and Lower
+Sec) &amp; Unseen Poetry Debate (Upper Sec EXP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YMCA Plain English Speaking Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 1 Bronze. 1 Student identified to join the Geography Talent
+Development Programme.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Skills Challenge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All Singapore Secondary Mathematics Competition for Normal Course Students
+2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Individual Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category -
+<br>4 Honourable
+<br>Senior Category -
+<br>1 Silver,
+<br>2 Bronze,
+<br>7 Honourable</p>
+<p>Open Category -</p>
+<p>1 Gold, 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The 14th "Global Village" Children &amp; Youth Bilingual Speech Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>"Script It Right" Chinese Radio Drama Script Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue - EMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS "Bisikan Pena" Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 ICAS Science Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International C.B. Paul Science Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 2 Silver, 1 Bronze and 2 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 4 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Biomedical Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold, 1 Silver, 2 Bronze, 1 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver, 2 Bronzes, 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>StemCo Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Gold, 12 Silver, 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A*Star Science Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2022 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orator's Trophy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Semi-Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English Assessment (Sec 1 - 3 selected classes)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 Outstanding, 162 Commendable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live On Festival 2022 – Essay Competition (School Category, Sec 3 -5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Award: Special Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Earth Alive Inter-school Challenge 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honourable Mention Top Performer Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PREPMUN 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Best Speaker Award
+<br>2 Most Improved Delegate Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold. Student identified to join the Geography Talent Development Programme.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Skills Challenge 2022 (Social Media Retailing))</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All Singapore Secondary Mathematics Competition for Normal Course Students
+2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category -
+<br>2 Bronze,
+<br>3 Honourable
+<br>Senior Category -
+<br>1 Gold,
+<br>3 Silver,
+<br>3 Bronze,
+<br>3 Honourable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>第13届 (地球村) 国际青少年双语演讲大会 - The GoodTalk (Global Village) 13th International
+Children &amp; Youth Bilingual Speech Convention
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 2 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20th National Secondary Schools Chinese Creative Writing Competition –
+新蕾奖: 诗歌组</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HSK Chinese Proficiency Test (Grade 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60% Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue - EMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-Secondary Schools Blackout Poetry Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st, 2nd and 3rd Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 ICAS Science Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International C.B. Paul Science Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 6 Silver, 1 Bronze and 4 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 4 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Biomedical Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold, 1 Silver, 2 Bronze, 1 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver, 2 Bronzes, 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>StemCo Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Gold, 12 Silver, 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A*Star Science Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2021 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commonwealth Essay Competition 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 ICAS English Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 High Distinction, 15
+<br>Distinction, 43 Credit, 10 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival 2021 - Unseen Debate (Sec 4 Exp)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation (H.S.I.) Challenge 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>River Valley Model United Nations 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Best Position Paper
+<br>2 Honourable Mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignite Skills Challenge 2021 (Social Media Retailing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold, Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 ICAS Mathematics Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Distinction, 5 Credit, 1 Merit, 14 Participation Certificates</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021 Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Silver, 3 Bronze and 6 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>第12届 (地球村) 国际青少年双语演讲大会 - The GoodTalk (Global Village) International Children
+&amp; Youth Bilingual Speech Convention
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>推广华文学习委员会（CPCLL）与UFM 100.3 “与声剧来”中文广播剧创作比赛 - “Script It Right” Chinese
+Radio Drama Script Writing
+<br>Competition 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Distinction ; 2 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>在新中国留学生征文大赛《谁不说咱家乡好 》- Singapore Overseas Chinese Students Writing Competition
+- "My Hometown"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue - EMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peraduan Mengarang Pena Emas (writing competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore International Science Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi Finalist team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022 ICAS Science Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International C.B. Paul Science Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold, 3 Silver, 3 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Biomedical Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Silver, 4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Silver, 4 Bronze, 2 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>StemCo Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Gold, 97 Silver, 36 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A*Star Science Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2020 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Singapore Normal Course Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020 ICAS Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Distinctions, 15 credits, 1 Merit and 8 Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020 Singapore Mathematics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver, 4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad 2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 9 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad 2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Certificate of Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Biomedical Quiz 2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold, 2 Silver, 2 Bronze, 10 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PhysiCo: International Physics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 9 Silver, 4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ChemiCo: International Chemistry Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 9 Silver, 7 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BioCo: International Biology Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 8 Silver, 3 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NRC CoderZ Coding Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2020 Individual Component</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation (H.S.I.) Challenge 2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2019 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese Junior College Orator's Trophy 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Schools Literature Festival 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Set Text Debate - Winner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Choral Speak2020ing - Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Flash Fiction - 1st &amp; 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UNSW REACH - Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Exemplary,
+<br>26 Outstanding,
+<br>34 Commendable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UNSW REACH - English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>33 Exemplary,
+<br>150 Outstanding,
+<br>253 Commendable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge Preliminary Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top Performing Individuals - 1 Gold, 1 Silver, 2 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th River Valley Model United Nations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Position Paper in Double Delegation Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Australian Math Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 - 1 High Distinction, 19 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2 - 13 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Singapore Mathematics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category - 1 Silver, 3 Bronze, 3 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Category - 3 Bronze, 2 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open Category - 1 Bronze, 3 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Media Computing Competition 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Game Category - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Animation Category - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Chinese Challenge 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Category - Top 30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>圣公会中学2019年现场华文故事创作比赛 - Anglican High School National Story Writing Competition
+2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>新蕾奖 17th National Secondary School Chinese Creative Writing Competition
+2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Category - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>第十三届全国中学生翻译比赛 2019 - 13th National Secondary Schools Translation Competition
+2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Outstanding Individual Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>"地球村" 国际青少年双语演讲大会 - The GoodTalk "Global village" Children &amp; Youth
+Bilingual Speech Convention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd, 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Script It Right' Chinese Radio Drama Script Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Finalist, 2 Outstanding Script Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>第四届国际华语水平大赛 (新马地区) - 4th International Chinese Proficiency Competition
+(Singapore and Malaysia)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd, Encouragement Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Mother Tongue - EMAS</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Piala Cendekia Sahibba 2019 - National Malay Scrabble Competition 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National -1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pesta Pantun 2019 (Pantun Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Sayembara Sajak 2019 (Modern Poetry Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec (Recitation) - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec (Writing) - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 2 Silver, 2 Bronze, 2 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 3 Silver, 2 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver, 1 Bronze, 1 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th International Biomedical Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 2 Silver, 3 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Science Challenge 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarterfinalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Visualisation - 1st, 2nd</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2018 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Art Exhibition 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition (Special Mention)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 High Distinction, 12 Distinction, 31 Credit, ICAS Medal Winner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 High Distinction, 42 Distinction, 178 Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Set Text Debate Winners, Upper Sec Unseen Debate Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Library Board Annual 'Prove It' Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore Geography Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Silver, Geo-Trial - Best Scoring Team (Dakota Crescent Station)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Singapore Mathematical Olympiad 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category - 3 Bronze, 12 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Category - 1 Silver, 3 Bronze, 3 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open Category - 2 Silver, 2 Bronze, 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Commendation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Australian Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 High Distinction, 22 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Script It Right' Chinese Radio Drama Script Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Best Script (Merit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12th National Secondary Schools Translation Competition 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GoodTalk (地球村) 国际青少年双语演讲大会 (The GoodTalk "Global village" Children &amp;
+Youth Bilingual Speech Convention)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd, 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Poem-Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>第三届国际华语水平大赛 (新马地区) (3rd International Chinese Proficiency Competition
+[Singapore and Malaysia])</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 华语大比拼 (2018 Chinese Language Challenge)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018年超级明星阅读比赛 (Reading Superstar Competition 2018)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st, 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mother Tongue - EMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pesta Pantun 2018 (Poetry Festival)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sayembara Sajak 2018 (Modern Poetry Writing Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec - 1st,
+<br>Upper Sec - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pena Emasku (Creative Writing Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold, 1 Top 30 Entry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Silver, 4 Bronze, 6 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Silver, 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 1 Silver, 1 Bronze, 3 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Science Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative and Heuristic Applications of Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Honourable Mention</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2017 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UOB Painting of the Year (Emerging Artist Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS Writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 High Distinction, 24 Distinction, 37 Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 High Distinction, 49 Distinction, 214 Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Schools Literature Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Book Parade - Consolation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Set Text Debate - Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Unseen Debate - Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flash Fiction - Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Public Speaking Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Library Board Annual 'Prove It' Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Regional Round Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore Geography Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top Performing Individual (Bronze)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Singapore Mathematical Olympiad 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Category - 5 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Category - 1 Silver, 1 Bronze, 2 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open Category - 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Australian Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 High Distinction, 24 Distinction, Certificate of Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Computing Competition 2017 (Game Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold, Sustained Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>新蕾奖 15th National Secondary School Chinese Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11th National Secondary Schools Translation Competition 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017年“新空下”全国学生新谣歌唱及创作比赛 (National Schools Xinyao Singing and Songwriting
+Competition 2017)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Singing - Finalist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>第二届国际华语水平大赛 (新马地区) (2nd International Chinese Proficiency Competition
+[Singapore and Malaysia])</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mother Tongue - EMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Piala Cendekia Sahibba 2017 - National Malay Scrabble Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone - 2nd, National 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pena Emasku 2017 (Creative Writing Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Gold, 9th, 16th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 High Distinction, 81 Distinction, 155 Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Silver, 4 Bronze, 3 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 2 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Bronze, 5 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EUREKA 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Environment Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual - 2nd, 5th
+<br>Team - Overall 1st</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
