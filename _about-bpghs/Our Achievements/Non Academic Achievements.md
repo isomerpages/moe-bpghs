@@ -187,6 +187,121 @@ variant: tiptap
 <p>1st Runner-up</p>
 </td>
 </tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spectra Floorball Carnival B Division (Zonal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships B Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships B Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 24</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships C Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships C Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minime Challenge Under 14 Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minime Challenge Under 14 Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Novices Challenge Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Novices Challenge Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 20</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
