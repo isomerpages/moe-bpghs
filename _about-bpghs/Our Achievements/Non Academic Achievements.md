@@ -332,11 +332,10 @@ variant: tiptap
 <p>Chinese Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14th National Short Video Competition (Secondary schools and JCs/MI)</p>
+<p>SYF 2023 Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Female Lead Award
-<br>Best Script Award (Nominated)</p>
+<p>Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -344,11 +343,76 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade 2022: Parade &amp; Concert
-<br>National Day Observance Ceremony@Bukit Batok East Constituency</p>
+<p>SYF 2023 Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Represent the school at event</p>
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation (Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gamelan Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -381,7 +445,7 @@ variant: tiptap
 <p>Girl Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah (PNA) Award (2021)</p>
+<p>Puan Noor Aishah (PNA) Award (2022)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
@@ -389,26 +453,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Baden Powell Award 2022</p>
+<p>Baden Powell Award 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Awardee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2 Awardees</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Smoke Free Ambassador Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Group 2 - 2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Day 2023 - Poets for Peace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
 </td>
 </tr>
 <tr>
@@ -416,7 +480,7 @@ variant: tiptap
 <p>National Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Recognition (2021)</p>
+<p>Unit Recognition (2022)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -431,7 +495,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,10 +515,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Best Unit Cadet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award (2021)</p>
+<p>Frank Cooper Sands Award (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corp Achievement Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
@@ -462,13 +545,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saint John Brigade</p>
+<p>Chief Commissioner Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Comissioner Badge</p>
+<p>20 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Northwest First aid and Nursing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Awardees</p>
+<p>Ambulance Cadet - 3rd Place and Best in Casualty Transportation</p>
+<p></p>
+<p>Nursing Cadet - 4th Place</p>
 </td>
 </tr>
 </tbody>
