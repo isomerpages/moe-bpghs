@@ -591,51 +591,44 @@ variant: tiptap
 <p>Infocomm Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.E.mation! 2022</p>
+<p>N.E.mation! 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Second</p>
+<p>6 teams represented the school</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Science Society Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Robocup Open 2022</p>
+<p>Singapore Robocup Open 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CoSpace - RCAP CoSpace Autonomous Driving, U19 - 1st</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Robotics Competition 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RoboMission Best Content Award - 3rd</p>
+<p>3 Teams comprising 11 students were given the Merit Award for the RoboCup
+Junior Rescure Line U19.</p>
+<p></p>
+<p>1 Team comprising 2 students were given the Merit Award for the RCAP CoSpace
+Autonomous Driving U19.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RoboCup Asia Pacific 2022</p>
+<p>Astrigue 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RoboCup Junior Rescue Line Presentation - 1st and 2nd Placing
-<br>
-<br>RCAP CoSpace Autonomous Driving - Poster Presentation Award
-<br>
-<br>RCAP Influencer Award (Most Popular Video) - 3rd Place
-<br>
-<br>RCAP Influencer Award (People's Choice) - 1st Place</p>
+<p>1 team awarded 2nd Runner-up</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Astrigue 2022</p>
+<p>BP Comm Link</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd in final round</p>
+<p>ignITE Skills Challenge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 teams got into finals; 1 team won 2nd Runner-up</p>
 </td>
 </tr>
 </tbody>
