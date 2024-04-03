@@ -195,7 +195,7 @@ variant: tiptap
 <p>B Division National Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Completed 1st round</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ variant: tiptap
 <p>C Division National Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Completed 1st round</p>
 </td>
 </tr>
 <tr>
