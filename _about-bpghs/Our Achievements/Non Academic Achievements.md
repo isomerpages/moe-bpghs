@@ -3,99 +3,3251 @@ title: Non Academic Achievements
 permalink: /about-bpghs/our-achievements/non-academic-achievements/
 description: ""
 third_nav_title: Our Achievements
+variant: tiptap
 ---
-# 2022 Achievements
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Sports</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">Volleyball</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">B Boys West Zone Championship</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Champion</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">B Girls West Zone Championship</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1st Runner-up</td></tr></tbody></table>
-
+<h1>2023 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Ace U15 Championship (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Ace U15 Championship (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Girls National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Cross Country (Interest Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evergreen Road Run (B Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Evergreen Road Run (B Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Evergreen Road Run (C Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Ultimate Frisbee (Interest Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JWSS Inter-school Ultimate Frisbee Competition (U-17 Mixed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Inter-school Ultimate Frisbee Competition (U-15 Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWSS Inter-school Ultimate Frisbee Competition (U-15 Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Completed 1st round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Completed 1st round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spectra Floorball Carnival B Division (Zonal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships B Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships B Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 24</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships C Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Championships C Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 31</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minime Challenge Under 14 Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minime Challenge Under 14 Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Novices Challenge Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Novices Challenge Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rank 20</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation (Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gamelan Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah (PNA) Award (2022)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Smoke Free Ambassador Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Group 2 - 2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Day 2023 - Poets for Peace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition (2022)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC - Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (UOPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corp Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Northwest First aid and Nursing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ambulance Cadet - 3rd Place and Best in Casualty Transportation</p>
+<p></p>
+<p>Nursing Cadet - 4th Place</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.E.mation! 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 teams represented the school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Robocup Open 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Teams comprising 11 students were given the Merit Award for the RoboCup
+Junior Rescure Line U19.</p>
+<p></p>
+<p>1 Team comprising 2 students were given the Merit Award for the RCAP CoSpace
+Autonomous Driving U19.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 team awarded 2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BP Comm Link</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Skills Challenge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 teams got into finals; 1 team won 2nd Runner-up</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2022 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner-up</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Performing Arts</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Chinese Drama</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">14th National Short Video Competition (Secondary schools and JCs/MI)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> Best Female Lead Award<br>Best Script Award (Nominated)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Concert Band</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Day Parade 2022: Parade &amp; Concert<br>National Day Observance Ceremony@Bukit Batok East Constituency</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Represent the school at event</td></tr></tbody></table>
-
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14th National Short Video Competition (Secondary schools and JCs/MI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Female Lead Award
+<br>Best Script Award (Nominated)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Parade 2022: Parade &amp; Concert
+<br>National Day Observance Ceremony@Bukit Batok East Constituency</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Represent the school at event</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Uniformed Groups</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">Girl Guides</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Puan Noor Aishah (PNA) Award (2021)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="1">Baden Powell Award 2022</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Awardee</td></tr><tr></tr><tr></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">National Cadet Corps</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Unit Recognition (2021)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NCC - Outstanding Cadet Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Awardee</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">National Police Cadet Corps</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SPF-NPCC Badge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Awardees</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Frank Cooper Sands Award (2021)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Saint John Brigade</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chief Comissioner Badge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11 Awardees</td></tr></tbody></table>
-
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah (PNA) Award (2021)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition (2021)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC - Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (UOPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award (2021)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Comissioner Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Clubs and Societies</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Infocomm Club</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">N.E.mation! 2022</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Second</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">Science Society Club</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Robocup Open 2022</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">CoSpace - RCAP CoSpace Autonomous Driving, U19 - 1st</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">National Robotics Competition 2022
-</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">RoboMission Best Content Award - 3rd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">RoboCup Asia Pacific 2022</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">RoboCup Junior Rescue Line Presentation - 1st and 2nd Placing<br><br>RCAP CoSpace Autonomous Driving - Poster Presentation Award<br><br>RCAP Influencer Award (Most Popular Video) - 3rd Place<br><br>RCAP Influencer Award (People's Choice) - 1st Place</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Astrigue 2022</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">3rd in final round</td></tr></tbody></table>
-
-# 2021 Achievements
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Sports</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">Volleyball</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">B Boys West Zone Championship</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1st</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">B Girls West Zone Championship</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd</td></tr></tbody></table>
-
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.E.mation! 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Robocup Open 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CoSpace - RCAP CoSpace Autonomous Driving, U19 - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Robotics Competition 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RoboMission Best Content Award - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Asia Pacific 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RoboCup Junior Rescue Line Presentation - 1st and 2nd Placing
 <br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Performing Arts</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Chinese Drama</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Drama)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Chinese Orchestra</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Full Orchestra)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Dance</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Chinese Dance)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">English Drama</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Drama)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Accomplishment</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">Malay Cultural Society</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Gamelan)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Distinction</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Malay Dance)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Accomplishment</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Military Band</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SYF 2021 Arts Presentation (Concert Band)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Distinction</td></tr></tbody></table>
-
+<br>RCAP CoSpace Autonomous Driving - Poster Presentation Award
 <br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Uniformed Groups</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">Girl Guides</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Baden-Powell Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Awardee</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">West Division Day</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Dance/Skit Video Competition - Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Skribbl - Bronze</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">West Division Campfire</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">What Comes Next Competition - 3rd Place</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">National Cadet Corps</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NCC 120 Virtual Run</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">West Zone 2nd</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NCC - Outstanding Cadet Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Awardee</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">National Police Cadet Corps</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SPF-NPCC Badge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Awardees</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Best Unit Cadet Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Awardees</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Anti SMIS/COIS Scam CSSP challenge (Youth)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Top 10</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Unit Overall Proficiency Award (UOPA)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Scouts</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">West Area Campfire</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Participated</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Saint John Brigade</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chief Comissioner Badge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11 Awardees</td></tr></tbody></table>
-
+<br>RCAP Influencer Award (Most Popular Video) - 3rd Place
 <br>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="font-weight:bold">Clubs and Societies</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">CCA</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Competition</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold">Achievement</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Infocomm Club</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">N.E.mation! 2021</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd Runner-Up</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">Science Society Club</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Singapore Robocup Open 2021</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Distinction (Individual), 1 Merit (Team)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Astrigue 2021</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Best Individual, 1 Best Project (Team), 1 Third (Team)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Astrochallenge 2021</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2nd Runner-Up, Best Project</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">RoboCup Asia-Pacific 2021 Japan - Autonomous Driving Challenge, U19 (Virtual) SuperTeam Event</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1st Place</td></tr></tbody></table>
-
-
-# 2020 Achievements
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">Uniformed Groups</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCA</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competition</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> Girl Guides</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Puan Noor Aishah Award </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> Gold</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> National Cadet Corps</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Outstanding Cadet Award </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">1 Awardee </td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="3">National Police Cadet Corps</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">SPF-NPCC Badge</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">4 Awardees</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Best Unit Cadet Award</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Awardees</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Highest rank promotion of Station Inspector (SI)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2 Awardees</td></tr></tbody></table>
-
-
-# 2019 Achievements
-
-
-<table width="818" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 820px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="24" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" height="24" class="" width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 818px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Sports</b></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="7" height="133" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Basketball</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys West Zone Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys National Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Top 8</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys West Zone Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys National Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Top 8</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Overseas Family School Under-14 Tournament</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Tip and Rip Singapore American School Under-14 Tournament</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Anglican High Under-14 Cup 2019</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="10" height="190" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Canoeing</td><td rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Canoe Marathon</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">U14 C2 Men - 2nd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 C2 Men - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Junior Canoe Sprint Championships</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 C2 Men 500m - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 C2 Men 1000m - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="6" height="114" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Schools Canoeing Championships</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys C2 500m - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys C2 1000m - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys K4 500m - 5th</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys K2 500m - 5th</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Division Top 5</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Division Top 5</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Fencing</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Novices Fencing Championships 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Women's Epee Team - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Floorball / Hockey</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Hockey Federation B Division Boys Bowl 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="39" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Netball</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls West Zone Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Girls West Zone Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="7" height="134" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Volleyball</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls West Zone Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls National Inter-school Volleyball Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys West Zone Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys National Inter-school Volleyball Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Presbyterian High School U14 Invitational</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys - 1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Xingnan Primary U13 Invitational (Girls)</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr></tbody></table>
-
- 
- <br>
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="24" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 818px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performing Arts</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese Drama</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Drama)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese Orchestra</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Full Orchestra)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Choir</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Choir)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Dance</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Chinese Dance)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">English Drama</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Drama)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="39" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Malay Cultural Society</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Gamelan)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Malay Dance)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Military Band</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2019 AP (Concert Band)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr></tbody></table>
-
- <br>
-
-<table width="818" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><colgroup class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" class="" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" height="20" class="" width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Uniformed Groups</b></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" height="57" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girl Guides</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Baden Powell Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Awardees</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Division Day</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Throw Pong - 3rd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Stack the Cups - 3rd</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="59" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Cadet Corps</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Unit Recognition Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;Outstanding Cadet Award 2019</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;1 Awardee</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="39" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Soccer Competition 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Zone - 2nd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Top 8</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;National Police Cadet Corps</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Unit Overall Proficiency Award&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;Gold</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="39" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Scouts</td><td rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Area Inter-Unit Cohesion Day</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Catapult Challenge - Gold</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chariot Race - Silver</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="76" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Saint John Brigade</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Corp Achievement Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chief Commissioner Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">4 Awardees</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Zone Six First Aid and Nursing Competition</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Nursing Adult - 2nd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ambulance Cadet - 1st</td></tr></tbody></table>
-
-  <br>
-
-<table width="818" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><colgroup class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" class="" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="24" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" height="24" class="" width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Clubs and Societies</b></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr height="38" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="38" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Infocomm Club</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">N.E.mation 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 teams in Top 10, 1 Special Mention</td></tr><tr height="38" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="5" height="171" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Science Society Club</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">ITE Robotics Challenge 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Obstacle Avoidance Challenge - Merit</td></tr><tr height="38" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="76" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">International 41st C. B. Paul Science Quiz 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Lower Sec Individual - Silver</td></tr><tr height="38" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="38" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Upper Sec Individual -&nbsp;<br class="" style="margin: 0px; outline: 0px; padding: 0px;">3 Gold, 2 Silver, 2 Bronze</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Astrigue 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Champion</td></tr><tr height="38" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="38" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">AstroChallenge 2019</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Champion, Most Popular Project</td></tr></tbody></table>
-
-
-# 2018 Achievements
-
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="24" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 756px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Sports</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Basketball</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="10" width="193" height="190" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Canoeing</td><td rowspan="4" width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Junior Canoe Sprint Championships</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 Men C2 1000m - 6th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 Men C2 500m - 5th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 Men K1 1000m - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 Men K1 500m - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" width="434" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Schools Canoeing Championships</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys K4 500m - 6th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys K1 1000m - 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys K4 100m - 6th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys K4 500m - 6th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Inter-School Dragon Boat Championship (NISDBC)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys DB 12 - 6th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys DB 22 - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Fencing</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Novices Fencing Championships 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls Epee Individual - 7th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Inter-School Championships</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls Epee Team - 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Hockey</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Hockey Federation B Division Hockey 5's Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Division Boys Hockey Bowl and Plate Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" width="193" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Netball</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Netops Netball Carnival C Division</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Netops Netball Carnival B Division</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="12" width="193" height="228" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Volleyball</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls National Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys National Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Top 8</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Presbyterian High School U15 Invitational</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Presbyterian High School U17 Invitational</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Queensway Secondary School U13 Invitational</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys - 1st</td></tr></tbody></table>
-
-  <br>
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="24" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 756px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performing Arts</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">English Drama</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">South West Eco Skit Competition 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Military Band</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF AP (Display Band)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr></tbody></table>
-
-  <br>
-
-<table width="818" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><colgroup class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" class="" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" class="" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr height="24" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" height="24" class="" width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Uniformed Groups</b></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="80" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girl Guides</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Puan Noor Aishah Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Baden Powell Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Awardees</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="40" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Division Day</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Throw Pong - 3rd</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Stack the Cups - 3rd</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="39" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Cadet Corps</td><td class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best Unit Competition</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2018 National Digital Arts Championship</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Special Award</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="8" height="154" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Police Cadet Corps</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Unit Recognition Award 2018</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Unit Overall Proficiency Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best Unit Cadet 2018</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Awardees</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">SPF-NPCC Badge</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Awardees</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Shooting Competition</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Female Cadet Team - 9th</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Area 20 Games Day&nbsp;</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Catapult Attack - 1st</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Jurong Division NPCC Challenge Shield</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Merit</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Youth Flying Club Excellence Award 2018</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">1 Awardee</td></tr><tr height="20" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="39" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Scouts</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Patrol Camp 2018</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Silver</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Frank Cooper Sands Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" height="76" class="" width="193" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Saint John Brigade</td><td class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Corp Achievement Award</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chief Commissioner's Badge</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Awardees</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" height="38" class="" width="434" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">First Aid and Nursing Competition</td><td class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Nursing Adult - 2nd</td></tr><tr height="19" class="" style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" class="" width="191" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ambulance Cadet - 1st</td></tr></tbody></table>
-
-  <br>
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="25" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 756px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Clubs and Societies</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="12" width="193" height="403" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Science Society Club</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">NUS 13th National Crystal Growing Competition 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best Booth Display</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="434" height="116" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Astrigue 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Main Category - 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Project Category - Best Project, Most Creative Project</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="40" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Individual Poetry - 1st, 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">AstroChallenge 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Main Category - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Project - Best Project</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="114" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">International 40th C. B. Paul Science Quiz 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Lower Sec Individual - Silver, Honourable Mention, Merit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Upper Sec Individual - Gold, Silver, Bronze, Honourable Mention, Merit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="434" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">ITE Robotics Challenge 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Line Tracing - 3rd, Merit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Obstacle - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Report - Best Report</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">RoboCup Singapore Open 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="193" height="114" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Service-Learning Club</td><td rowspan="3" width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">PAYM Service-Learning Champion Project Accolade 2018</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese New Year Feast - Silver</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese New Year Celebrations - Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">S.T.A.R Award - 2 Awardees</td></tr></tbody></table>
-
+<br>RCAP Influencer Award (People's Choice) - 1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in final round</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2021 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-# 2017 Achievements
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="24" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 818px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Sports</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" width="193" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Basketball</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys National Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Top 8</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Elite Basketball League 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">5th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="13" width="193" height="248" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Canoeing</td><td rowspan="4" width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Junior Canoe Sprint Championships</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U14 C1 500m - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U14 C2 500m - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 K1 500m - 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">U16 K1 1000m - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" width="434" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Schools Canoeing Championships</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C boys C1 500m - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys C2 500m - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys K1 500m - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys K1 1000m - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="434" height="58" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Inter-School Dragon Boat Championship (NISDBC)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys DB 12 - 5th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys DB 12 - 6th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys DB 22 - 4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Canoe Marathon</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Junior Men C1 11km - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Open Men C1 16km - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Fencing</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Novices Fencing Championships 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Highest Individual Rank - 8th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Hockey</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Singapore Hockey Federation C Division Hockey 5's Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Netball</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="13" width="193" height="247" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Volleyball</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Girls National Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Girls West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C Boys National Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Top 8</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys West Zone Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">B Boys National Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">4th</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Presbyterian High School U13 Invitational</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Volleyball Association of Singapore National U14 Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Geylang Methodist Volleyball Invitational Tournament</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Boys 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Xingnan Primary Invitational Championship</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girls - 2nd</td></tr></tbody></table>
-
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Full Orchestra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Malay Cultural Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Gamelan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Malay Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Military Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentation (Concert Band)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-  
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="24" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 818px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performing Arts</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="58" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese Drama</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Drama)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Commendation</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">10th National Chinese Short Film Competition for Secondary Schools 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best Supporting Actress, Most Popular Poster</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese Orchestra</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Full Orchestra)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Choir</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Choir)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Dance</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Chinese Dance)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="40" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">English Drama</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Drama)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Story Challenge 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Team Category - 2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="40" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Malay Cultural Society</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Gamelan)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Malay Dance)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Distinction</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Military Band</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SYF 2017 AP (Concert Band)</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Accomplishment</td></tr></tbody></table>
-
-  <br>
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 818px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Uniformed Groups</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="4" width="193" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Girl Guides</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Puan Noor Aishah Award</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Baden Powell Award</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Awardees</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Division Day</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Speed Stacko - Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Division Heritage Trail</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Cadet Corps</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best Unit Competition</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="193" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">National Police Cadet Corps</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Unit Overall Proficiency Award</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best Unit Cadet 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Awardees</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">SPF-NPCC Badge</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Awardees</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="193" height="40" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Scouts</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Frank Cooper Sands Award</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">West Area Scout Day Competitions</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2 Golds</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="6" width="193" height="116" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Saint John Brigade</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Corp Achievement Award</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chief Commissioner Award</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">3 Awardees</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Basic First Aid Drill Instructor Course</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Best in Knowledge</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="434" height="59" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Zone Six First Aid and Home Nursing Competition 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Ambulance Team - 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Nursing Cadet - 3rd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Nursing Adult - 2nd</td></tr></tbody></table>
-
-  <br>
-
-<table border="1" width="818" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 820px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="193" style="margin: 0px; outline: 0px; padding: 0px;"><col width="434" style="margin: 0px; outline: 0px; padding: 0px;"><col width="191" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="818" height="24" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 818px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Clubs and Societies</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="193" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">CCA</b></td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Competition</b></td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Achievement</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="6" width="193" height="190" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Science Society Club</td><td width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">International Union of Crystallography</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Astrigue 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">2nd</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="2" width="434" height="76" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">C. B. Paul International Science Quiz 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Lower Sec Individual - 1 Bronze, 1 Silver, 1 Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Upper Sec Individual - 2 Bronze, 2 Silver, 1 Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="19" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">ITE Robotics Challenge 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">1st, 2nd, 3rd, Merit</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="434" height="57" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">RoboCup Singapore Open 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Rescue Line - 2nd, Represented Singapore in Japan</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="193" height="96" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Service-Learning Club</td><td rowspan="3" width="434" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">PAYM Service-Learning Champion Project Accolade 2017</td><td width="191" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">Chinese New Year Celebrations - Silver</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="38" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Go Green for the</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21px; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Community - Gold</span></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" height="20" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">S.T.A.R Award - 2 Awardees</td></tr></tbody></table>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baden-Powell Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance/Skit Video Competition - Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skribbl - Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Campfire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>What Comes Next Competition - 3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC 120 Virtual Run</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC - Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anti SMIS/COIS Scam CSSP challenge (Youth)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (UOPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Area Campfire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Comissioner Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.E.mation! 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Robocup Open 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Distinction (Individual), 1 Merit (Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Best Individual, 1 Best Project (Team), 1 Third (Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrochallenge 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-Up, Best Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Asia-Pacific 2021 Japan - Autonomous Driving Challenge, U19 (Virtual)
+SuperTeam Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2020 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Highest rank promotion of Station Inspector (SI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2019 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overseas Family School Under-14 Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tip and Rip Singapore American School Under-14 Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglican High Under-14 Cup 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Canoeing</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Singapore Canoe Marathon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U14 C2 Men - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 C2 Men - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Junior Canoe Sprint Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U16 C2 Men 500m - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 C2 Men 1000m - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>National Schools Canoeing Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys C2 500m - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys C2 1000m - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys K4 500m - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys K2 500m - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Top 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Top 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Novices Fencing Championships 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Women's Epee Team - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Floorball / Hockey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Hockey Federation B Division Boys Bowl 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Girls National Inter-school Volleyball Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys National Inter-school Volleyball Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Presbyterian High School U14 Invitational</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xingnan Primary U13 Invitational (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Full Orchestra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Choir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Malay Cultural Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Gamelan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Malay Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Military Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 AP (Concert Band)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Throw Pong - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stack the Cups - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Outstanding Cadet Award 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Soccer Competition 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Zone - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>West Area Inter-Unit Cohesion Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Catapult Challenge - Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chariot Race - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corp Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Zone Six First Aid and Nursing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Adult - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambulance Cadet - 1st</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.E.mation 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 teams in Top 10, 1 Special Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE Robotics Challenge 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obstacle Avoidance Challenge - Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>International 41st C. B. Paul Science Quiz 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Individual - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Individual -&nbsp;
+<br>3 Gold, 2 Silver, 2 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AstroChallenge 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Champion, Most Popular Project</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>2018 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Canoeing</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>National Junior Canoe Sprint Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U16 Men C2 1000m - 6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 Men C2 500m - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 Men K1 1000m - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 Men K1 500m - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Schools Canoeing Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys K4 500m - 6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys K1 1000m - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys K4 100m - 6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys K4 500m - 6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Inter-School Dragon Boat Championship (NISDBC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys DB 12 - 6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys DB 22 - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Novices Fencing Championships 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Epee Individual - 7th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Inter-School Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Epee Team - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Hockey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Hockey Federation B Division Hockey 5's Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division Boys Hockey Bowl and Plate Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netops Netball Carnival C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netops Netball Carnival B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Girls National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Presbyterian High School U15 Invitational</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Presbyterian High School U17 Invitational</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Queensway Secondary School U13 Invitational</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys - 1st</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South West Eco Skit Competition 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Military Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF AP (Display Band)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Throw Pong - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stack the Cups - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 National Digital Arts Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Shooting Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Female Cadet Team - 9th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Area 20 Games Day&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Catapult Attack - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jurong Division NPCC Challenge Shield</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Flying Club Excellence Award 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Patrol Camp 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corp Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>First Aid and Nursing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Adult - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambulance Cadet - 1st</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS 13th National Crystal Growing Competition 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Booth Display</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Astrigue 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Main Category - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team Project Category - Best Project, Most Creative Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual Poetry - 1st, 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>AstroChallenge 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Main Category - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team Project - Best Project</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>International 40th C. B. Paul Science Quiz 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Individual - Silver, Honourable Mention, Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Individual - Gold, Silver, Bronze, Honourable Mention, Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>ITE Robotics Challenge 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Line Tracing - 3rd, Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Obstacle - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Report - Best Report</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Singapore Open 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Service-Learning Club</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>PAYM Service-Learning Champion Project Accolade 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Feast - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations - Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S.T.A.R Award - 2 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<h1>2017 Achievements</h1>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elite Basketball League 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p>Canoeing</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>National Junior Canoe Sprint Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U14 C1 500m - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U14 C2 500m - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 K1 500m - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U16 K1 1000m - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Schools Canoeing Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C boys C1 500m - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys C2 500m - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys K1 500m - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys K1 1000m - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Inter-School Dragon Boat Championship (NISDBC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Boys DB 12 - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys DB 12 - 6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys DB 22 - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Singapore Canoe Marathon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Men C1 11km - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open Men C1 16km - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Novices Fencing Championships 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Highest Individual Rank - 8th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Hockey Federation C Division Hockey 5's Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Girls National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys West Zone Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys National Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Presbyterian High School U13 Invitational</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Volleyball Association of Singapore National U14 Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geylang Methodist Volleyball Invitational Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xingnan Primary Invitational Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls - 2nd</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th National Chinese Short Film Competition for Secondary Schools 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Supporting Actress, Most Popular Poster</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Full Orchestra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Choir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Story Challenge 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Category - 2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Malay Cultural Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Gamelan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Malay Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Military Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 AP (Concert Band)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speed Stacko - Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Heritage Trail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Area Scout Day Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Golds</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Saint John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corp Achievement Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basic First Aid Drill Instructor Course</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best in Knowledge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Zone Six First Aid and Home Nursing Competition 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ambulance Team - 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nursing Cadet - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nursing Adult - 2nd</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Union of Crystallography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>C. B. Paul International Science Quiz 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Individual - 1 Bronze, 1 Silver, 1 Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Individual - 2 Bronze, 2 Silver, 1 Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITE Robotics Challenge 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st, 2nd, 3rd, Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RoboCup Singapore Open 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rescue Line - 2nd, Represented Singapore in Japan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Service-Learning Club</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>PAYM Service-Learning Champion Project Accolade 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations - Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Go Green for the</p>
+<p>Community - Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S.T.A.R Award - 2 Awardees</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
