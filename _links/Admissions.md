@@ -112,5 +112,3 @@ from early-May.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec.</a>
 </p>
-<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
-</p>
