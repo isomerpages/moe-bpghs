@@ -115,7 +115,7 @@ include</p>
 </tbody>
 </table>
 <p></p>
-<h4>(I) Eligibility Criteria </h4>
+<h4>(I) Eligibility Criteria</h4>
 <p>Applicants must meet the following criteria under the respective talent
 area:</p>
 <p><strong>1. Basketball (Boy), Floorball (Boy), Netball (Girl), Volleyball (Boy &amp; Girl)</strong>
@@ -168,7 +168,7 @@ Orchestra.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>4. Malay Language </strong>
+<p><strong>4. Malay Language</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -244,7 +244,7 @@ by the school during the DSA audition.</p>
 <p></p>
 <p>2.4 Malay Language: Applicants are required to complete a written assessment.</p>
 <p></p>
-<h4>(III) Schedule </h4>
+<h4>(III) Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -269,7 +269,7 @@ by the school during the DSA audition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 28 Jul 2024</p>
+<p>By 28 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be informed of the selection trial/audition
