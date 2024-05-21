@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [For Sec 2 Parents - Endorsement Form for Centre Based O-level Computing](/files/2024/For_Sec_2_Parents___Endorsement_Form_for_Centre_Based_O_Level_Computing.pdf) updated 21 May 2024
 * [2024 Updated After School Schedule](/files/2024/BPGHS_After_School_Schedule_2024__Updated_on_4_Mar_.pdf) updated 25 March 2024
 * [Notification of Absence from School - PG Notification](/files/2024/Notification_of_Absence_from_School___PG_Notification.pdf) updated 15 March 2024
 * [2024 Scheme of Assessment](/2024-scheme-of-assessment/permalink/) updated 26 Jan 2024
