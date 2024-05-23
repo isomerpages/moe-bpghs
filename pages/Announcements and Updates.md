@@ -6,6 +6,9 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [For Sec 2 Parents - Streaming Briefing Slides (NT)](/files/2024/Streaming_Briefing_2024__NT__V1.pdf) updated 23 May 2024
+* [For Sec 2 Parents - Streaming Briefing Slides (NA)](/files/2024/Streaming_Briefing_2024__NA__V1.pdf) updated 23 May 2024
+*  [For Sec 2 Parents - Streaming Briefing Slides (Express)](/files/2024/Streaming_Briefing_2024__Express__V1.pdf) updated 23 May 2024
 * [For Sec 2 Parents - Endorsement Form for Centre Based O-level Computing](/files/2024/For_Sec_2_Parents___Endorsement_Form_for_Centre_Based_O_Level_Computing.pdf) updated 21 May 2024
 * [2024 Updated After School Schedule](/files/2024/BPGHS_After_School_Schedule_2024__Updated_on_4_Mar_.pdf) updated 25 March 2024
 * [Notification of Absence from School - PG Notification](/files/2024/Notification_of_Absence_from_School___PG_Notification.pdf) updated 15 March 2024
