@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 June Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/193SSON3TSZiQtVKmuu5YPzb1oq9HF70m/edit#gid=966568570) updated 28 May 2024
 * [For Sec 2 Parents - Streaming Briefing Slides (NT)](/files/2024/Streaming_Briefing_2024__NT__V1.pdf) updated 23 May 2024
 * [For Sec 2 Parents - Streaming Briefing Slides (NA)](/files/2024/Streaming_Briefing_2024__NA__V1.pdf) updated 23 May 2024
 *  [For Sec 2 Parents - Streaming Briefing Slides (Express)](/files/2024/Streaming_Briefing_2024__Express__V1.pdf) updated 23 May 2024
