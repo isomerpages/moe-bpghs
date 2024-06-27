@@ -25,14 +25,3 @@ In order to maximise the potential of higher readiness students, selected studen
 ![](/images/Copy_of_Science6.jpg)
 
 In Upper Secondary, students are invited to participate in customised curricula on Physics, Chemistry and Biology that culminates in the opportunity to participate and represent the school in the various Science Olympiads. Other prestigious Science competitions include the National STEM Championship as well as ignITE Skills Challenge.
-
-
-
-
-
-
-
-
-
-
-
