@@ -143,4 +143,3 @@ The school has a progressive programme that strengthens their social-emotional c
 ![](/images/photo_6055183742059790118_x.jpg)
 
 ![](/images/photo_6055183742059790119_x.jpg)
-
