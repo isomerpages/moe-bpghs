@@ -2,6 +2,7 @@
 title: BPGHS Code of Conduct
 permalink: /about-bpghs/bpghs-code-of-conduct/
 description: ""
+variant: markdown
 ---
 # Student Management
 
@@ -29,7 +30,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 * Collar pins must be worn at all times when students are in their full uniform. They must be worn on the left collar.
 * Only school-issued collar badges are allowed to be worn. Only one CCA collar pin may be worn on the right collar.
 * All students must put on the school tie on Mondays during the school assembly, or at important school functions, e.g. Speech Day, Graduation Day, Prize Presentation, etc.
-* Socks are to be be worn at all times and must be visible, but should not be mid-calf or beyond in length. Only single coloured socks are allowed. No outlandish shoes or shoes with offensive designs are allowed. 
+* Socks are to be worn at all times and must be visible, but should not be mid-calf or beyond in length. Only white, black, grey and navy blue socks are allowed. Socks with a small logo are allowed. No outlandish shoes with offensive designs are allowed. High-cut shoes are not allowed.
 * The wearing of flip flops/ sandals to school is prohibited except on medical grounds.
 * Game attire (e.g. CCA T-shirts, jerseys etc.) is not allowed during lessons.
 * Upon feedback from teachers, all rectifications should be done on the day itself. Otherwise, students will be sent back home.
@@ -136,15 +137,15 @@ Every BPian has the responsibility of attending all lessons, CCAs and other scho
 <li>All students must be punctual for school, lessons, CCA and other committed school activities.</li>
 </ul>
 <ul>
-<li>Students will be deemed as late if they are not with their classes at the respective venues when the flag raising ceremony commences&nbsp;at 7.30 a.m. The designated venues, unless otherwise informed, are:</li>
+<li>Students must be at the respective venues for assembly by 7.30 am. The designated venues, unless otherwise informed, are:</li>
 </ul>
 <ul>
 <ul>
 <li>Mondays: Multi-Purpose Hall</li>
 <li>Tuesdays and Thursdays: Classrooms</li>
-<li>Wednesdays and Fridays:&nbsp;Courtyard</li>
+<li>Wednesdays and Fridays: Multi-Purpose Hall</li>
 </ul>
-<li>Students will be held at the foyer for safety reasons, and will be considered late, if they reach school after 7.28am.</li>
+<li>Students will be deemed as late if they are not in school by 7.30 am.</li>
 <li>Students who are late for school must report to the General Office to obtain a permission slip to enter their classes.</li>
 </ul>
 <ul>
@@ -238,14 +239,19 @@ The bell will ring at the following times:
 * Return all utensils and crockery to the appropriate collection basins provided by each stall.
 * The canteen and café are the only designated places for food consumption. Do not bring food out of these places to any other areas. Easting and drinking sugary drinks are strictly prohibited in the classroom at all times.
 
-**DURING RECESS**
+**DURING RECESS/ LUNCH BREAK**
 
-* Refrain from disturbing other schoolmates by making excessive and unnecessary noise during recess.
-* Do not loiter around classroom blocks, particularly along the corridors, during recess.
 
-**AFTER RECESS**
+*   Refrain from disturbing other schoolmates by making excessive and unnecessary noise during recess/lunch break.
+    
+*   Do not loiter around classroom blocks, particularly along the corridors, during recess/lunch break.
+    
 
-* 5 minutes before recess ends, students are to make their way back to their classrooms in a quiet and orderly manner to get ready for the next lesson. Students are expected to be back in class at the time recess ends.
+
+
+**AFTER RECESS/ LUNCH BREAK**
+
+* 5 minutes before recess/lunch break ends, students are to make their way back to their classrooms in a quiet and orderly manner to get ready for the next lesson. Students are expected to be back in class at the time recess ends.
 
 **AFTER CURRICULUM HOURS**
 
