@@ -35,10 +35,3 @@ Our flagship programmes include the following: Sports Carnival, Sec 1 Adventure 
 ![](/images/photo_6055183742059790077_y.jpg)
 
 ![](/images/WhatsApp_Image_2024_03_08_at_12_12_02_PM.jpg)
-
-
-
-	
-	
-
-
