@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Character and Citizenship Education.md
-      - Values in Action.md
       - Educational & Career Guidance.md
       - Sexuality Education.md
       - Student Leadership Development/.keep
