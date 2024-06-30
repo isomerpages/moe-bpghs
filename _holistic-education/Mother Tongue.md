@@ -10,31 +10,31 @@ The Mother Tongue Department seeks to offer a range of student learning experien
 
 #### Chinese Language Unit
 
- **Chinese Language and Higher Chinese   热爱母语 弘扬文化**
+ **Chinese Language and Higher Chinese &nbsp; 热爱母语 弘扬文化**
  
- **Use of Pedagogical Approaches**
+ <strong><u>Use of Pedagogical Approaches </u></strong>
  
 Through the use of suitable innovative pedagogical approaches such as the Inquiry-based Learning and Questions-based Learning tasks, the Chinese Unit aims to promote authentic learning and ignite the joy of learning among the students as they grasp the essential knowledge and skills in the mother tongue languages. Apart from the rigorous performance tasks, we also provide timely and constructive feedback to boost our students’ learning, and at the same time, leverage different ICT tools, such as Student Learning Space (SLS), to enhance their oral communication skills.
 
-**Stretching of the students’ abilities beyond the classroom**
+ <strong><u>Stretching of the students’ abilities beyond the classroom </u></strong>
 
   
-The Unit's pedagogical approaches are supplemented with numerous platforms to stretch students beyond meeting syllabus requirements. As an illustration,students  are strongly encouraged to sit for the Chinese Proficiency Test (汉语水平考试) which is an international standardized test for Chinese language proficiency. Over the years,HSK scores have  become a requirement for international students to prove their Chinese language proficiencies if they would like to apply for scholarships in the top universities of China. Moreover, students also have the opportunities of participating in competitions such as  “Script It Right” Chinese Radio Drama Script Writing Competition, the National Secondary Schools Translation Competition, “Global Village” Children & Youths Bilingual Speech Competition, the National Chinese Poem-Writing Competition and the National Chinese Challenge.
+The Unit's pedagogical approaches are supplemented with numerous platforms to stretch students beyond meeting syllabus requirements. As an illustration,students&nbsp; are strongly encouraged to sit for&nbsp;the Chinese Proficiency Test (汉语水平考试) which is an international standardized test for Chinese language proficiency. Over the years,HSK scores have&nbsp; become a requirement for international students to prove their Chinese language proficiencies if they would like to apply for scholarships in the top universities of China. Moreover, students also have the opportunities of participating in competitions such as&nbsp; “Script It Right” Chinese Radio Drama Script Writing Competition, the National Secondary Schools Translation Competition, “Global Village” Children &amp; Youths Bilingual Speech Competition, the National Chinese Poem-Writing Competition and the National Chinese Challenge.
   
 ![](/images/chinese%201.jpeg)
 
 ![](/images/chinese%202.jpeg)
 
 
-**Mother Tongue Fortnight Programme**
+ <strong><u>Mother Tongue Fortnight Programme </u></strong>
 
 Across all levels, students participate in the Mother Tongue Fortnight Programme which provides them with the opportunity of learning decorative art such as Chinese calligraphy and painting, Chinese tea appreciation, and martial arts like Wushu and Silat. These programmes and workshops would help to deepen the students’ learning of Chinese language and culture.
 
 
 
-**Cultural Exposure & theatrical experience (武中戏曲团)**
+ <strong><u>Cultural Exposure &amp; theatrical experience (武中戏曲团) </u></strong>
 
-Apart from the instructional programmes, the Unit aims to promote and strengthen our students’ sense of cultural heritage and identity through a variety of programmes such as the Chinese New Year Celebration, Mid-Autumn Festival Celebration and the Cultural Performance.
+Apart from the instructional programmes, the Unit&nbsp;aims to promote and strengthen our students’ sense of cultural heritage and identity through a variety of programmes such as the Chinese New Year Celebration, Mid-Autumn Festival Celebration and the Cultural Performance.
 
   
 ![](/images/chinese%203.jpeg)
@@ -55,9 +55,9 @@ The Cultural Performance is an event which allows students to be exposed to trad
 
 ![](/images/Screenshot_2024_06_27_at_11_48_01.png)
 
-**Overseas Immersion Programmes**
+ <strong><u>Overseas Immersion Programmes </u></strong>
 
-Other than learning about the different cultures in school,the Unit organizes overseas immersion programmes to broaden our students’ global awareness. To date, overseas immersion trips to China (Chengdu, Xi’an, Beijing, Shanghai, Xiamen), and Taiwan have been organized。
+Other than learning about the different cultures in school,the Unit&nbsp;organizes overseas immersion programmes to broaden our students’ global awareness. To date, overseas immersion trips to China (Chengdu, Xi’an, Beijing, Shanghai, Xiamen), and Taiwan have been organized。
   
 #### Malay Language Unit
 
@@ -78,16 +78,16 @@ To promote the use of the language in an authentic setting, students participate
 
 
 
-  **EMAS and Malay Language Elective Programme (MLEP)**
+   <strong><u>EMAS and Malay Language Elective Programme (MLEP) </u></strong>
 	
 
 ![](/images/Screenshot_2024_06_27_at_11_55_39.png)
 
-**EMAS (Elective Programme in Malay Language for Secondary Schools)**
+ <strong><u>EMAS (Elective Programme in Malay Language for Secondary Schools) </u></strong>
 
 EMAS is a 4-year programme that aims to provide an opportunity for students to speak and use the Malay Language in an environment that promotes an exclusive use of the language. Through a variety of language, cultural and literary activities, the programme targets to enhance students’ overall proficiency in the Malay Language, create interest in and develop an appreciation of the Malay Language and culture.
 
-The programme is for students who offer Higher Malay.  
+The programme is for students who offer Higher Malay.&nbsp;&nbsp;
 
 Activities: 
 
@@ -109,12 +109,12 @@ Activities:
 ![](/images/Screenshot_2024_06_27_at_11_56_02.png)
 
 
-**(MLEP-Sec) Malay Language Elective Programme at Secondary School Level**
+ <strong><u>(MLEP-Sec) Malay Language Elective Programme at Secondary School Level </u></strong>
 
 
-The Malay Language Elective Programme at Secondary School Level (MLEP-Sec) aims to nurture promising students to attain a high level of language proficiency in Malay, enhance their understanding of Malay literature and develop academically able students to become effectively bilingual so as to better serve the needs of our nation. 
+The Malay Language Elective Programme at Secondary School Level (MLEP-Sec) aims to nurture promising students to attain a high level of language proficiency in Malay, enhance their understanding of Malay literature and develop academically able students to become effectively bilingual so as to better serve the needs of our nation.&nbsp;
 
-The 2-year programme (Secondary 3 and 4) is for students who offer ‘O’ Level Literature in Malay, in either full or elective. 
+The 2-year programme (Secondary 3 and 4) is for students who offer ‘O’ Level Literature in Malay, in either full or elective.&nbsp;
 
 Activities:
 
@@ -122,17 +122,17 @@ Activities:
     
 *   Enrichment workshops on creative writings, forums, language symposiums etc.
 
-**Programme Incentives**
+ <strong><u>Programme Incentives </u></strong>
 
 Malay Language Elective Scholarship (MLES) MLEP-Sec students who are Singaporean citizens and achieved outstanding performance in lower secondary will be considered for the MLES awarded by MOE.
 
 
 
-*   The MLES is tenable for 2 years 
+*   The MLES is tenable for 2 years&nbsp;
     
-*   Recipients will receive an annual scholarship allowance of $1,000. 
+*   Recipients will receive an annual scholarship allowance of $1,000.&nbsp;
     
-*   School fees will also be covered, subject to an annual cap of $2,400.  
+*   School fees will also be covered, subject to an annual cap of $2,400.&nbsp;&nbsp;
     
 *   Subsidy for overseas immersion trip will be given.
     
