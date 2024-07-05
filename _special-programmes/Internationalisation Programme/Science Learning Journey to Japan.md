@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Internationalisation Programme
 ---
-<h3>Science and Math Learning Journey to Osaka, Japan 2024 </h3>
+<h3>Science and Math Learning Journey to Osaka, Japan 2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_04_at_11_58_54_AM__1_.jpg">
 </div>
