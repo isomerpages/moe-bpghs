@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Announcements & Updates
-* [Prelim Exam Schedule 2024](/files/Prelim_Exam_Schedule_2024__updated_18_Jul_2024_.pdf)
+* [Prelim Exam Schedule 2024](/files/Prelim_Exam_Schedule_2024__for_sch_website_.pdf)
 updated 18 July 2024
 * [2024 Sem 2 Class Timetable](/files/2024/Sem_2_Timetable_Class_FINAL_for_distribution.pdf) updated 21 June 2024
 * [2024 June Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/193SSON3TSZiQtVKmuu5YPzb1oq9HF70m/edit#gid=966568570) updated 28 May 2024
