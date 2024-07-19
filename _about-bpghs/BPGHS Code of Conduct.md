@@ -30,7 +30,7 @@ Every BPian should take pride in wearing the school uniform. The uniform is a re
 * Collar pins must be worn at all times when students are in their full uniform. They must be worn on the left collar.
 * Only school-issued collar badges are allowed to be worn. Only one CCA collar pin may be worn on the right collar.
 * All students must put on the school tie on Mondays during the school assembly, or at important school functions, e.g. Speech Day, Graduation Day, Prize Presentation, etc.
-* Socks are to be worn at all times and must be visible, but should not be mid-calf or beyond in length. Only white, black, grey and navy blue socks are allowed. Socks with a small logo are allowed. No outlandish shoes with offensive designs are allowed. High-cut shoes are not allowed.
+* Socks are to be worn at all times and must be visible, but should not be mid-calf or beyond in length. Only white, black, grey and navy blue socks are allowed. Socks with a small logo are allowed. No outlandish shoes with offensive designs are allowed. High-cut shoes are not allowed
 * The wearing of flip flops/ sandals to school is prohibited except on medical grounds.
 * Game attire (e.g. CCA T-shirts, jerseys etc.) is not allowed during lessons.
 * Upon feedback from teachers, all rectifications should be done on the day itself. Otherwise, students will be sent back home.
@@ -194,10 +194,16 @@ Every BPian must exhibit exemplary conduct, and show respect and care for others
 
 <strong><u>Handphones:</u></strong>
 * Handphones must be **switched off** immediately the moment they step into the school and kept out of sight of everyone.
-* Hndphones can only be used at the following venues at all times: **canteen and café**. Handphones are ***not***  allowed in the classrooms, study corners, corridors, library and any part of the school compound at any part of the school day, unless instructed by teachers for academic/ CCA purposes. Also, PEDs should not be carried around in the hands, or seen lying on or under the study table.
-* Students who wish to use their handphones can only do so **during recess and after school dismissal**, either in the canteen or café.
-* Handphones found in sight outside the designated places, and beyond approved time periods will be safe-kept by the school till the end of the school day, unless otherwise stated. This applies regardless of whether the phone seen by the teachers is in use or not.
-* For students who breach the handphone rules twice or more, his or her handphone will be safe-kept in the General Office for 3 working days (overnight), or longer, in proportion to the frequency of offences.
+* **Handphones can ONLY be used during recess, lunch break and after school dismissal.**
+* Handphones should not be carried around in the hands, or seen lying on or under the study table.
+* For students who breach the handphone rules, his/her handphone will be safe-kept in the General Office.
+ <ul>
+<li>First offence: 3 school nights</li>
+<li>Second offence: 5 school nights</li>
+<li>Third and subsequent offence: 10 school nights</li>
+*Phones will not be returned over the weekends/public holidays if the locking period spans across different weeks.
+</ul>
+
 * If there are repeated cases of students not adhering to the above guidelines, the PEDs of that class will be placed in the classroom lockers during curriculum time, for a stipulated period of time according to the number of reported cases.
 * If a student's PED has caused him/her to become involved in a disciplinary matter, it may be confiscated. An investigation will be carried out by the school and the student's parents will be kept informed about the matter. The PED will only be returned to the student/ parent after the investigation has concluded.
 
@@ -242,9 +248,9 @@ The bell will ring at the following times:
 **DURING RECESS/ LUNCH BREAK**
 
 
-*   Refrain from disturbing other schoolmates by making excessive and unnecessary noise during recess/lunch break.
-    
-*   Do not loiter around classroom blocks, particularly along the corridors, during recess/lunch break.
+* Refrain from disturbing other schoolmates by making excessive and unnecessary noise during recess/lunch break. 
+
+* Do not loiter around classroom blocks, particularly along the corridors, during recess/lunch break
     
 
 
@@ -264,6 +270,24 @@ The bell will ring at the following times:
 * No usage of the school hall for any personal activity at any time of the day unless authorised.
 * No playing of ball games in the classrooms or any part of the school grounds NOT designated for such activities.
 * Students may have to pay the replacement / repair costs of minor acts of vandalism in school, such as a damaged locker, broken window or fan, graffiti, etc.
+
+**DURING SELF-STUDY PERIODS**
+
+* Students are expected to do their own revision and work during the self-study periods. 
+* No playing of ball games, sports, or any other games during the self-study periods. 
+* Students are not allowed to use their handphones during self-study periods. 
+* Students are allowed to use the following venues during self-study periods:
+<ul>
+<li>Canteen</li>
+<li>Classroom</li>
+<li>Café</li>
+<li>Library</li>
+
+</ul>
+
+
+
+
 
 **USE OF SCHOOL PROPERTY**
 
