@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 ### Announcements & Updates
+* [Supply of Manpower Services for Bukit Panjang Govt High School](https://www.bpghs.moe.edu.sg/links/gebiz-invitation-to-quote/)
+updated 23 July 2024
 * [Prelim Exam Schedule 2024](/files/Prelim_Exam_Schedule_2024__for_sch_website_.pdf)
 updated 18 July 2024
 * [2024 Sem 2 Class Timetable](/files/2024/Sem_2_Timetable_Class_FINAL_for_distribution.pdf) updated 21 June 2024
