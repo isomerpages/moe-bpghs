@@ -188,7 +188,7 @@ additional resources:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sheryln Tan
-<br>(SH ICT) <a href="mailto:tan_xue_ling_sherlyn@moe.edu" rel="noopener noreferrer nofollow" target="_blank">tan_xue_ling_sherlyn@moe.edu</a>.sg</p>
+<br>(SH ICT) tan_xue_ling_sherlyn@moe.edu.dg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainah
