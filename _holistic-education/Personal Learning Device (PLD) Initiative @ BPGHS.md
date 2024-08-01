@@ -15,7 +15,12 @@ Personal Learning Device (PLD).</p>
 <h3>Intended Outcomes</h3>
 <p>The use of the personal learning device for teaching and learning aims
 to:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -157,7 +162,12 @@ additional resources:</p>
 <p>2024 FAQ <a href="/files/2024/FAQs_for_PLD_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>If you have any further queries, kindly email us at:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -177,9 +187,8 @@ additional resources:</p>
 <br>ong_seok_jean@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Chng
-<br>(ICT Manager)
-<br>chng_wee_kar@schools.gov.sg</p>
+<p>Ms Sheryln Tan
+<br>(SH ICT) <a href="mailto:tan_xue_ling_sherlyn@moe.edu" rel="noopener noreferrer nofollow" target="_blank">tan_xue_ling_sherlyn@moe.edu</a>.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainah
