@@ -187,7 +187,7 @@ additional resources:</p>
 <br>ong_seok_jean@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheryln Tan
+<p>Ms Sherlyn Tan
 <br>(SH ICT) tan_xue_ling_sherlyn@moe.edu.dg</p>
 </td>
 <td rowspan="1" colspan="1">
