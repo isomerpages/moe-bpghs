@@ -74,3 +74,39 @@ variant: tiptap
 <p>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MOESCHETQ24003226</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publish Date :- 07 Aug 2024
+<br>Closing Date :- 16 Aug 2024 01:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Description of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Education - Schools</p>
+<p>To run a two days Arts Enrichment Programme with Music and Dance Modules
+for secondary three student on 23 &amp; 24 October 2024.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
