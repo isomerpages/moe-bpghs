@@ -6,6 +6,12 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [Secondary 3 EOY Exam Schedule ](/files/EOY_Sec_3_Exam_Schedule_2024__updated_26_Aug_2024____Sherlyn_Tan.pdf) 
+updated 26 Aug 2024
+*  [Secondary 2 EOY Exam Schedule](/files/EOY_Sec_2_Exam_Schedule_2024__updated_26_Aug_2024____Sherlyn_Tan.pdf)
+updated 26 Aug 2024
+* [Secondary 1 EOY Exam Schedule](/files/EOY_Sec_1_Exam_Schedule_2024__updated_26_Aug_2024____Sherlyn_Tan.pdf)
+updated 26 Aug 2024
 * [Prelim Exam Schedule 2024](/files/Aug_Prelim_Exam_Schedule_2024__updated_20_Jul_2024____Ms_Alina.pdf)
 updated 12 Aug 2024
 * [2024 Sem 2 Class Timetable](/files/2024/Sem_2_Timetable_Class_FINAL_for_distribution.pdf) updated 21 June 2024
