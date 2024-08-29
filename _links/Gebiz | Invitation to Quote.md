@@ -109,4 +109,39 @@ for secondary three student on 23 &amp; 24 October 2024.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><br></strong>MOESCHETQ24003683</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Publish Date : 28 August 2024
+<br>Closing Date : 5 September 2024 01:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Description of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Requirement for venue and halal-certified dinner catering</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
