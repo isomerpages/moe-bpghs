@@ -3,7 +3,33 @@ title: Staff Achievements
 permalink: /about-bpghs/our-achievements/staff-achievements/
 description: ""
 third_nav_title: Our Achievements
+variant: markdown
 ---
+
+# 2024 National Day Awards
+
+Here's our heartiest congratulations to the following staff who received their National Day Awards 2024!
+
+**THE COMMENDATION MEDAL [Pingat Kepujian]**
+
+![](/images/photo_6246774695466747560_y.jpg)
+
+
+
+* Mdm Alina Binte Ahmad Sany (HOD/Science Department)
+
+**THE EFFICIENCY MEDAL [Pingat Berkebolehan]** 
+* Mr Abdul Hamid s/o Packeer Mohd
+(STEM Instructor /Laboratory)
+
+**THE LONG SERVICE MEDAL [Pingat Bakti Setia]**
+![](/images/photo_6246774695466747561_y.jpg)
+* Mdm Koh Puay Leng Joan (HOD / PE Department)
+ ![](/images/photo_6246774695466747562_y.jpg)
+* Mdm Teoh Soo Sim (Teacher)
+
+
+
 # 2022 National Day Awards
 
 We would like to offer our congratulations to the following staff who received their National Day Awards 2022!

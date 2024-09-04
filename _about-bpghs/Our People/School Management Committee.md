@@ -6,7 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>School Leaders</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,7 +47,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Key Personnel</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -86,6 +96,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_hafiz_hanafia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nur'aini Binte Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nuraini_abdul_rashid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -193,10 +217,10 @@ variant: tiptap
 <p>Subject Head / Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sherlyn Tan Xue Ling</p>
+<p>Mr Ong Weiquan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_xue_ling_sherlyn@moe.edu.sg</p>
+<p>ong_weiquan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +252,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,17 +263,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_lin_lin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head / NE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Weiquan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_weiquan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +344,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,6 +355,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_seok_jean@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherlyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_xue_ling_sherlyn@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
