@@ -17,5 +17,4 @@ Please click&nbsp;[here](https://bpghs-psg.weebly.com/)&nbsp;to go to the Parent
 
 *  Please click&nbsp;[here](https://drive.google.com/file/d/1_ZMcfziv7k2XF3Sdz7I-VCTiFgTL2RDj/view)&nbsp;to access the Institute of Education (ITE) Slides.
 
-*  Please click&nbsp;[here](https://drive.google.com/file/d/1_ZMcfziv7k2XF3Sdz7I-VCTiFgTL2RDj/view)&nbsp;to access the presentation by our ECG Counsellor.
-
+*  Please click&nbsp;[here](https://drive.google.com/file/d/1R5eTzgHUq5RKeiPmWMuW3kTR6fq9vKix/view)&nbsp;to access the presentation by our ECG Counsellor.
