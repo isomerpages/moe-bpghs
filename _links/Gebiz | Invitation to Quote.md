@@ -16,6 +16,39 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<p>MOESCHETQ24004328</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Published on 20 September 2024 and will close on 30 September 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Description of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Refurbishment of existing Computer Workroom to ICT Student Service Centre</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>MOESCHETQ24004237</p>
 </th>
 </tr>
@@ -39,38 +72,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MOESCHETQ24003957</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Period of ITQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Published on 9 September 2024 and will close on 20 September 2024, 01:00PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Description of ITQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff Lounge Renovation at Staffroom 1</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>
 <br>
