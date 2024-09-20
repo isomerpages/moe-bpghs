@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Announcements & Updates
 
-*  [Secondary 3 EOY Exam Schedule and Venues](/files/2024/Sec3_EOY_Exam_Schedule_2024_with_venues__For_Students___Sherlyn_Tan.pdf)
+* [Secondary 3 EOY Exam Schedule and Venues](/files/2024/Sec_3_EOY_Exam_Schedule_2024_with_venues__For_Students___Sherlyn_Tan.pdf)
 updated 20 Sep 2024
 *  [Secondary 2 EOY Exam Schedule and Venues](/files/2024/Sec_2_EOY_Exam_Schedule_2024_with_venues__For_Students____Sherlyn_Tan.pdf)
 updated 20 Sep 2024
