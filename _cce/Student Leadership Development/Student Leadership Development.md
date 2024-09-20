@@ -3,8 +3,11 @@ title: Student Leadership Development
 permalink: /cce/student-leadership-development/
 description: ""
 third_nav_title: Student Leadership Development
+variant: markdown
 ---
 ### Student Leadership Development
+
+![](/images/Student_Leaders__1___1____Zi_Jian_Ng.jpg)
 
 **Vision**
 <br> To develop every BPian to be an Inspiring Leader, who exemplifies and leads in serving others in the school and community. 
