@@ -12,6 +12,12 @@ updated 20 Sep 2024
 updated 20 Sep 2024
 * [Secondary 1 EOY Exam Schedule and Venues](/files/2024/Sec_1_EOY_Exam_Schedule_2024_with_venues__For_Students___Sherlyn_Tan.pdf)
 updated 20 Sep 2024
+* [Secondary 3 EOY Exam Schedule and Topics Tested](/files/2024/EOY_Sec_3_Exam_Schedule_and_Topics_Tested_2024__updated_26_Aug_2024_.pdf)
+updated 26 Aug 2024
+* [Secondary 2 EOY Exam Schedule and Topics Tested](/files/2024/EOY_Sec_2_Exam_Schedule_and_Topics_Tested_2024__updated_26_Aug_2024_.pdf)
+updated 26 Aug 2024
+* [Secondary 1 EOY Exam Schedule and Topics Tested](/files/2024/EOY_Sec_1_Exam_Schedule_and_Topics_Tested_2024__updated_26_Aug_2024_.pdf)
+updated 26 Aug 2024
 * [Prelim Exam Schedule 2024](/files/Aug_Prelim_Exam_Schedule_2024__updated_20_Jul_2024____Ms_Alina.pdf)
 updated 12 Aug 2024
 * [2024 Sem 2 Class Timetable](/files/2024/Sem_2_Timetable_Class_FINAL_for_distribution.pdf) updated 21 June 2024
