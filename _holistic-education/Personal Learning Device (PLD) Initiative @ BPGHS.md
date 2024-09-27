@@ -104,11 +104,9 @@ iCON.</p>
 <p>To reset your Student iCON password, please click on the link below.
 <br><a href="https://go.gov.sg/bpghs-password-reset" rel="noopener noreferrer nofollow" target="_blank">Student iCON password reset</a>
 </p>
-<p>To make a request to reset your Student Icon password (if you have not
-set your security questions), or make an appointment to resolve issues
-related to your PLD,&nbsp;please click on the link below.
-<br><a href="https://go.gov.sg/booking-bpghs" rel="noopener noreferrer nofollow" target="_blank">Book an appointment with the ICT manager</a>
-</p>
+<p>To reset your Student Icon password (if you have not set your security
+questions), or resolve issues related to your PLD, please approach the
+Desktop Engineers at Level 2, ICT Student Services Hub.</p>
 <p></p>
 <h4>Other technical information:</h4>
 <ul data-tight="true" class="tight">
@@ -182,13 +180,11 @@ additional resources:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Seok Jean
-<br>(HOD ICT)
-<br>ong_seok_jean@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Sherlyn Tan
 <br>(SH ICT) tan_xue_ling_sherlyn@moe.edu.dg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Dewi (ICT Manager) dewi_rosyati_sheik@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zainah
