@@ -16,6 +16,40 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<p>MOESCHETQ24004540</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Period of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Published on 27 September 2024 and will close on 07 October 2024, 1:00PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Description of ITQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball Main Instructor &amp; Assistant Instructor for Volleyball Training
+Programme from 1st January 2025 to 31st December 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>MOESCHETQ24004328</p>
 </th>
 </tr>
@@ -38,39 +72,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MOESCHETQ24004237</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Period of ITQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Published on 17 September 2024 and will close on 25 September 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Description of ITQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To conduct one day Aesthetics Learning Programme for Secondary One on
-23 October 2024 and Secondary Two student on 22 October 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p>
