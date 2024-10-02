@@ -119,7 +119,7 @@ Programme from 1st January 2025 to 31st December 2025</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MOESCHETQ24004328</p>
+<p>MOESCHETQ24004694</p>
 </th>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ Programme from 1st January 2025 to 31st December 2025</p>
 <p>Period of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Published on 20 September 2024 and will close on 30 September 2024</p>
+<p>Published on 1 October 2024 and will close on 15 October 2024</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ Programme from 1st January 2025 to 31st December 2025</p>
 <p>Description of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refurbishment of existing Computer Workroom to ICT Student Service Centre</p>
+<p>Redesigning the canteen</p>
 </td>
 </tr>
 </tbody>
