@@ -16,7 +16,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MOESCHETQ24004601</p>
+<p>MOESCHETQ24004876</p>
 </th>
 </tr>
 <tr>
@@ -24,7 +24,7 @@ variant: tiptap
 <p>Period of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Published on 27 September 2024 and will close on 7 October 2024</p>
+<p>Published on 4 October 2024 and will close on 14 October 2024</p>
 </td>
 </tr>
 <tr>
@@ -32,8 +32,8 @@ variant: tiptap
 <p>Description of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design, organise and conduct a developmentally appropriate 4D3N Residential
-Outdoor adventure camp programme (from 2 April 2025 to 5 April 2025)</p>
+<p>Choir Main Instructor &amp; Assistant Instructor for Choir Training Programme
+(from 1st Jan 2025 to 31st Dec 2025 with option to extend in 2026)</p>
 </td>
 </tr>
 </tbody>
