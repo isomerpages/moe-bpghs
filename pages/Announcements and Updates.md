@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### Announcements & Updates
 
+* [2024 Truncated Class Timetable for Script Checking](/files/2024/Truncated_Timetable_Class_TKP___Christine_Png.pdf)
+updated 11 Oct 2024
 * [Secondary 3 EOY Exam Schedule and Venues](/files/2024/Sec_3_EOY_Exam_Schedule_2024_with_venues__For_Students___Sherlyn_Tan.pdf)
 updated 20 Sep 2024
 *  [Secondary 2 EOY Exam Schedule and Venues](/files/2024/Sec_2_EOY_Exam_Schedule_2024_with_venues__For_Students____Sherlyn_Tan.pdf)
