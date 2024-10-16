@@ -48,15 +48,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HR Online</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICONnect</p>
 </td>
 <td rowspan="1" colspan="1">
