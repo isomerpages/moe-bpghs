@@ -42,7 +42,7 @@ University’s (NTU). This was done on a virtual platform.</p>
 <p>For the first time, our biennial combined schools’ AEP Exhibition (AEPE)
 took on a digital platform. The opening launch took on a news anchor-reporter
 theme and the exhibition is curated in a contemporary styled website. The
-exhibition is aptly titled D.A.R.E. You may visit the exhibition&nbsp;<strong><a href="https://aepe2021.com/About-AEP" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;</p>
+exhibition is aptly titled D.A.R.E.</p>
 <p>Selected sec 1, 2 and 3 AEP participated in a National Day project with
 Keat Hong Community Centre (CC). Student made artworks to represent experiences
 during this pandemic. These artworks were telecasted and voiced over by
