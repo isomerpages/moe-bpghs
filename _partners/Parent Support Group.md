@@ -6,8 +6,6 @@ variant: markdown
 ---
 ### Parent Support Group
 
-Please click&nbsp;[here](https://bpghs-psg.weebly.com/)&nbsp;to go to the Parents Support Group website.
-
 <img src="/images/psg.png" style="width:80%">
 
 
