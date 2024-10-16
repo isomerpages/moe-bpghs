@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 Thank you for visiting Bukit Panjang Government High School website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
@@ -13,9 +14,6 @@ Thank you for visiting Bukit Panjang Government High School website. By accessin
 *   This Web Site is maintained by Bukit Panjang Government High School. It is owned by Bukit Panjang Government High School.
 *   The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Bukit Panjang Government High School.
 
-### Privacy Policy
-
-*   Click here to review the [Web Site Privacy Statement](https://www-bpghs-moe-edu-sg-admin.cwp.sg/others/privacy-statement).
 
 ### Restrictions on Use of Materials
 
