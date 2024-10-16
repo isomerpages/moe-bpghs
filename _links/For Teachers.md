@@ -4,7 +4,11 @@ permalink: /links/for-teachers/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,15 +61,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://icon.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE Intranet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">http://intranet.moe.gov.sg</a>
 </p>
 </td>
 </tr>
