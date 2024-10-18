@@ -4,7 +4,11 @@ permalink: /links/for-students/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,15 +61,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ace-learning.com" rel="noopener noreferrer nofollow" target="_blank">https://www.ace-learning.com</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Initiating Student Initiated Activities (SIA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please download the template by clicking <a href="https://www-bpghs-moe-edu-sg-admin.cwp.sg/qql/slot/u148/BPGHS%202019/Links/For%20Students/SiA%20Planning%20Proposal%20Template_updated%2023%20Feb%202018.docx" rel="noopener noreferrer nofollow" target="_blank">Student-initiated-Activities (SiA) Planning Proposal Template</a>
 </p>
 </td>
 </tr>
