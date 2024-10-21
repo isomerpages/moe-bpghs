@@ -6,8 +6,7 @@ variant: markdown
 ---
 ### Character and Citizenship Education
 
-*To access a list of CCE programmes, click on the relevant tabs on the left-hand side of the page or the menu tab at the top of the page (mobile version).*
-  
+ 
 Character and Citizenship Education (CCE) is at the heart of education in Singapore.&nbsp; Through CCE, students learn values, social-emotional competencies, and develop character and citizenship dispositions that enable them to grow holistically and learn for life.&nbsp;&nbsp;
 
 The goals of CCE in BPGHS is to develop every BPian into an inspiring leader who embodies the school values (respect, responsibility, resilience, integrity and care for others) and a heart to serve.&nbsp; By developing inspiring leaders, we develop in them.
