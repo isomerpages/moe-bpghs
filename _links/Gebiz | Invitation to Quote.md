@@ -86,7 +86,7 @@ events in 2025.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MOESCHETQ24005194</p>
+<p>MOESCHETQ24005693</p>
 </th>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ events in 2025.</p>
 <p>Period of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Published on 14 Oct 2024 and will close on 22 Oct 2024 01:00 PM</p>
+<p>Published on 24 Oct 2024 and will close on 4 Nov 2024 01:00 PM</p>
 </td>
 </tr>
 <tr>
@@ -102,9 +102,7 @@ events in 2025.</p>
 <p>Description of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Education - Schools To provide instructors for Concert Band
-for the period of 1 January 2025 to 31 December 2025. This includes the
-provision for sectional instructors.</p>
+<p>To organize sit-down dinner for the 65th Anniversary 2025 Celebration.</p>
 </td>
 </tr>
 </tbody>
