@@ -6,7 +6,7 @@ variant: markdown
 ---
 BPGHS will be having our Open House on **16 November 2024**.
 
-Find out more details from our Open House brochure here: (/files/LR_16045_BPGHS_Outreach_A5_Brochure_8th_draft___Ms_Alina.pdf)
+Find out more details from our Open House brochure here: [](/files/LR_16045_BPGHS_Outreach_A5_Brochure_8th_draft___Ms_Alina.pdf)
 
 Look out for more information on this page. You may also find out more about the school through the videos below.
 
