@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 ### Announcements & Updates
+* [2024 Nov Dec Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1-gibjfT2ONTeIiuUy87QIGVq7mGBHGuJ/edit?usp=sharing&ouid=114076641539275533540&rtpof=true&sd=true)
+updated 29 Oct 2024
 * [2024 Truncated Timetable for Checking of Scripts](/files/2024/Truncated_Timetable_Class_11_October___Christine_Png.pdf)
 updated 11 Oct 2024
 * [Secondary 3 EOY Exam Schedule and Venues](/files/2024/Sec_3_EOY_Exam_Schedule_2024_with_venues__For_Students___Sherlyn_Tan.pdf)
