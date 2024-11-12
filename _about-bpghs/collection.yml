@@ -2,9 +2,9 @@ collections:
   about-bpghs:
     output: true
     order:
-      - Principal's Message.md
       - Open House.md
       - Vision, Mission, Values and Motto.md
+      - Principal's Message.md
       - Our BPian Experience.md
       - Our Achievements/.keep
       - Our Achievements/Our Achievements.md
