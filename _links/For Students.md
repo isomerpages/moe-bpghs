@@ -30,15 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Book an appointment with the ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/booking-bpghs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bpghs-password-reset</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>BPGHS ICT Portal</p>
 </td>
 <td rowspan="1" colspan="1">
