@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6170002507238064916.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cropped_P_s_photo.jpg">
 </div>
 <p>Welcome to Bukit Panjang Government High School (BPGHS)!</p>
 <p>As we look forward to celebrating our 65th anniversary in 2025, it is
