@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 ### Announcements & Updates
+
+* [2025 Booklists](/files/FINAL__Bukit_Panjang_Govt_High_2025_Booklists___Ms_Alina.pdf) updated 15 Nov 2024
 * [2024 Nov Dec Holiday CCA Schedule](https://docs.google.com/spreadsheets/d/1-gibjfT2ONTeIiuUy87QIGVq7mGBHGuJ/edit?usp=sharing&ouid=114076641539275533540&rtpof=true&sd=true)
 updated 29 Oct 2024
 * [2024 Truncated Timetable for Checking of Scripts](/files/2024/Truncated_Timetable_Class_11_October___Christine_Png.pdf)
