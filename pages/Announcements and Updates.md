@@ -7,8 +7,8 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Website_Popup_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration 2025</a> updated
-11 Dec 2024</p>
+<p><a href="/files/Website_Popup_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration 2025</a> (link
+will be activated on 18th Dec) updated 11 Dec 2024</p>
 </li>
 <li>
 <p><a href="/files/FINAL__Bukit_Panjang_Govt_High_2025_Booklists___Ms_Alina.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Booklists</a> updated
