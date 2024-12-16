@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>Announcements &amp; Updates</h3>
+<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/open?id=1TsZODRZlXtwN_9Py1Ber0wJJiIiPJ5TH" rel="noopener nofollow" target="_blank">Briefing to Students - 2024 GCE N level Results Release</a> updated
+16 Dec 2024</p>
+</li>
 <li>
 <p><a href="/files/Website_Popup_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration 2025</a> (link
 will be activated on 18th Dec) updated 11 Dec 2024</p>
