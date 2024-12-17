@@ -112,7 +112,7 @@ will be activated on 18th Dec) updated 11 Dec 2024</p>
 31 Dec 2023</p>
 </li>
 <li>
-<p><a href="https://www.bpghs.moe.edu.sg/Resources/2024/" rel="noopener nofollow" target="_blank">2024 Information</a>
+<p><a href="Resources/2024/" rel="noopener nofollow" target="_blank">2024 Information</a>
 </p>
 </li>
 <li>
