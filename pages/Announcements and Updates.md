@@ -112,8 +112,8 @@ will be activated on 18th Dec) updated 11 Dec 2024</p>
 31 Dec 2023</p>
 </li>
 <li>
-<p><a href="/files/2024%20bpghs%20booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 BPGHS Booklists</a> updated
-31 Oct 2023</p>
+<p><a href="https://www.bpghs.moe.edu.sg/Resources/2024/" rel="noopener nofollow" target="_blank">2024 Information</a>
+</p>
 </li>
 <li>
 <p><a href="/Resources/2023/" rel="noopener noreferrer nofollow" target="_blank">2023 Information</a>
