@@ -32,5 +32,5 @@ sections:
           description: All students posted to BPGHS must join an AEP Selection Test on 23
             Dec.
           linktext: Click here to see the schedule
-          url: https://drive.google.com/file/d/1j8P_Dk_OCbFvKWGCUCfgh2nYSM8uUCVR/view?usp=sharing
+          url: https://drive.google.com/file/d/1XBnBaKZPhdKB-DA7-WTKVseIDFdPJQSK/view?usp=sharing
 ---
