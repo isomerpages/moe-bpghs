@@ -28,9 +28,4 @@ sections:
           description: You can register from 18 December 2024 (Wednesday), 8 am.
           linktext: Register here
           url: https://sites.google.com/moe.edu.sg/2025bpghssec1reg/home
-        - title: Art Elective Prog (AEP) Selection Test
-          description: All students posted to BPGHS must join an AEP Selection Test on 23
-            Dec.
-          linktext: Click here to see the schedule
-          url: https://drive.google.com/file/d/1XBnBaKZPhdKB-DA7-WTKVseIDFdPJQSK/view?usp=sharing
 ---
