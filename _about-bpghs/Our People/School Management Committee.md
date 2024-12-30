@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ English Language</p>
+<p>Subject Head / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Nur'aini Binte Abdul Rashid</p>
@@ -114,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics (covering)</p>
+<p>Subject Head / Mathematics (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Penny Goh</p>
@@ -359,7 +359,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sherlyn Tan</p>
