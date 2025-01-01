@@ -17,7 +17,7 @@ sections:
           url: /announcements-and-updates/
         - title: Calendar of Events
           description: ""
-          url: https://calendar.google.com/calendar/embed?src=c_8946bff5f9a76cb352cbd0b8b976fcb27097cce61d4445a6276830c011fa985a%40group.calendar.google.com&ctz=Asia%2FSingapore
+          url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
   - textcards:
       title: Welcome Sec 1s!
       subtitle: 2025 Sec 1 Registration
