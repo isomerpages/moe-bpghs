@@ -7,12 +7,16 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/open?id=1TsZODRZlXtwN_9Py1Ber0wJJiIiPJ5TH" rel="noopener nofollow" target="_blank">Briefing to Students - 2024 GCE N level Results Release</a> updated
+<p><a href="/files/After_School_Schedule_2025__For_parents____Ms_Alina.pdf" rel="noopener nofollow" target="_blank">2025 After School Schedule</a> updated
+1 Jan 2025</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/open?id=1TsZODRZlXtwN_9Py1Ber0wJJiIiPJ5TH" rel="noopener nofollow" target="_blank">2024 GCE N level Results Release (Briefing for Students)</a> updated
 16 Dec 2024</p>
 </li>
 <li>
-<p><a href="/files/Website_Popup_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration 2025</a> (link
-will be activated on 18th Dec) updated 11 Dec 2024</p>
+<p><a href="/files/Website_Popup_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Registration</a> updated
+11 Dec 2024</p>
 </li>
 <li>
 <p><a href="/files/FINAL__Bukit_Panjang_Govt_High_2025_Booklists___Ms_Alina.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Booklists</a> updated
