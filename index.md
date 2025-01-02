@@ -18,6 +18,15 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+  - announcements:
+      title: Timetable
+      id: announcements
+      announcement_items:
+        - title: Semester 1 Timetable
+          date: 02 January 2025
+          announcement: Dear students, please access your timetable here.
+          link_text: Semester 1 Timetable
+          link_url: https://drive.google.com/file/d/1ZlIBb3lXf80dcSmVpCweIYvErLMZqGIo/view?usp=sharing
   - textcards:
       title: Welcome Sec 1s!
       subtitle: 2025 Sec 1 Registration
