@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://drive.google.com/file/d/1ZlIBb3lXf80dcSmVpCweIYvErLMZqGIo/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Semester 1 Timetable</a> updated
+29 Dec</p>
+</li>
+<li>
 <p><a href="/files/After_School_Schedule_2025__For_parents____Ms_Alina.pdf" rel="noopener nofollow" target="_blank">2025 After School Schedule</a> updated
 1 Jan 2025</p>
 </li>
