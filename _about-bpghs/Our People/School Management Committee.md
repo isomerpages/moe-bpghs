@@ -238,7 +238,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,6 +249,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_lin_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Character and Citizenship Education and Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Zi Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_zi_jian_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -313,20 +324,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ily_b@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Leadership and VIA &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Student Leadership &amp; VIA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Zi Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_zi_jian_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
