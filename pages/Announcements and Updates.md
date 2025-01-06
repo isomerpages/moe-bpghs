@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2025_CCA_Schedule___Joan_Puay_Leng_Koh.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule</a> updated
+6 Jan 2025</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1ZlIBb3lXf80dcSmVpCweIYvErLMZqGIo/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Interim Timetable (6-17 Jan 2025)</a> updated
 2 Jan 2025</p>
 </li>
