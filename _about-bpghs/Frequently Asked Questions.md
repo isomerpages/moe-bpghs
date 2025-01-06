@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1>FAQs</h1>
-<h2>FAQs for 2025 Sec 1 Registration</h2>
 <hr>
 <h4><strong>GENERAL INFORMATION</strong></h4>
 <p><strong>1. What is the Cut-Off Point (COP) for BPGHS for 2025? </strong>
