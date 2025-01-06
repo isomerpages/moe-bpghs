@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>FAQ</h1>
-<h3><u>FAQs for 2025 Sec 1 Registration</u></h3>
-<h4><strong><u>GENERAL INFORMATION</u></strong></h4>
+<h3>FAQs for 2025 Sec 1 Registration</h3>
+<h4><strong>GENERAL INFORMATION</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>What is the Cut-Off Point (COP) for BPGHS for 2025?</strong>
@@ -102,7 +102,7 @@ communicated later.</p>
 <p>Answer: A typical meal (without drinks) in the school canteen costs between
 $2.50 and $3.50. The canteen comprises of 4 Chinese food stalls, 3 halal
 food stalls and 1 drink stall.</p>
-<h3><u>ACADEMIC MATTERS</u></h3>
+<h3>ACADEMIC MATTERS</h3>
 <p><strong>8.&nbsp;How many assessments will a student have for each subject for year?</strong>
 </p>
 <p>Answer: As announced by MOE in Sep 2018, all students will not have more
@@ -122,7 +122,7 @@ raise the country’s digital literacy. All students in the school will be
 using devices of the same model and the purchasing of the devices will
 be done in school. A separate briefing will be conducted later.</p>
 <p></p>
-<p><strong>10.&nbsp; How does the school support students to cope with the demands of the academic programmes? </strong>
+<p><strong>10.&nbsp; How does the school support students to cope with the demands of the academic programmes?</strong>
 </p>
 <p>Answer: Support structures such as remedial lessons and consultations
 are provided for students when necessary.</p>
@@ -171,14 +171,14 @@ script writing, public speaking, translation and journalism.</p>
 all our students participate in our in-house Interdisciplinary Project
 Work (IPW), which equips students with interdisciplinary problem-solving
 skills and hones their collaborative and communication skills.</p>
-<h4><u>STUDENT WELL-BEING</u></h4>
+<h4>STUDENT WELL-BEING</h4>
 <p><strong>16.&nbsp; How does the school support students’ social and emotional well-being?</strong>
 </p>
 <p>Answer: The school has a student development team comprising Year Heads,
 Assistant Year Heads, Special Education Needs Officer and a School Counsellor
 working closely with the Form Teachers to look into the social and emotional
 needs of students.</p>
-<h4><u>CO-CURRICULAR ACTIVITIES (CCA)</u></h4>
+<h4>CO-CURRICULAR ACTIVITIES (CCA)</h4>
 <p><strong>17.&nbsp; Is CCA compulsory in secondary schools?</strong>
 </p>
 <p>Answer: CCA is compulsory in secondary school. Students can choose a CCA
@@ -193,11 +193,11 @@ These are likely to increase when students are preparing for competitions.
 Generally, students can expect to participate in 1-3 CCA sessions every
 week, with approximately 3 hours for each session.</p>
 <p></p>
-<p><strong>19.&nbsp; How is CCA allocated to each student? </strong>
+<p><strong>19.&nbsp; How is CCA allocated to each student?</strong>
 </p>
 <p>Answer: CCA allocation is based on students’ choices and talents and available
 vacancies.</p>
-<h4><u>DISCIPLINE</u></h4>
+<h4>DISCIPLINE</h4>
 <p><strong>20.&nbsp; What is the policy of the school on Personal Electronic Device (PED) usage in school?</strong>
 </p>
 <p>Answer: Students are not encouraged to bring their PEDs to school. If
