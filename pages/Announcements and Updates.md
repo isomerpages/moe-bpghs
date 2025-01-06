@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_CCA_Schedule___Joan_Puay_Leng_Koh.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule</a> updated
+<p><a href="/files/2025_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule</a> updated
 6 Jan 2025</p>
 </li>
 <li>
