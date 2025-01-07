@@ -32,5 +32,5 @@ sections:
       description: Information for parents on notifying the school should their child
         be absent.
       button: Click Here For details
-      url: /
+      url: /notification-of-absence-from-school/
 ---
