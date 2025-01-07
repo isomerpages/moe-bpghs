@@ -24,7 +24,7 @@ sections:
       description: Announcement to the 2024 Graduating students who have sat for the O
         level examinations.
       button: Click Here For details
-      url: r
+      url: /2025-o-level-results-release/
   - textcards:
       title: Welcome Sec 1s!
       subtitle: 2025 Sec 1 Registration
