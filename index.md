@@ -18,6 +18,13 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+  - infobar:
+      title: 2025 O-Level Results Release
+      id: infobar
+      description: Announcement to the 2024 Graduating students who have sat for the O
+        level examinations.
+      button: Click Here For details
+      url: /2025-o-level-results-release/
   - textcards:
       title: Welcome Sec 1s!
       subtitle: 2025 Sec 1 Registration
