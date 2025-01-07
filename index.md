@@ -25,4 +25,12 @@ sections:
         level examinations.
       button: Click Here For details
       url: /2025-o-level-results-release/
+  - infobar:
+      title: Notification of Absence from School
+      subtitle: Add informational text
+      id: infobar
+      description: Information for parents on notifying the school should their child
+        be absent.
+      button: Click Here For details
+      url: /
 ---
