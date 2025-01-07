@@ -27,10 +27,9 @@ sections:
       url: /2025-o-level-results-release/
   - infobar:
       title: Notification of Absence from School
-      subtitle: Add informational text
       id: infobar
-      description: Information for parents on notifying the school should their child
-        be absent.
+      description: Information for parents on notifying the school about their child's
+        absence.
       button: Click Here For details
       url: /notification-of-absence-from-school/
 ---
