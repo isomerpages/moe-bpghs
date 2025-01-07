@@ -103,7 +103,7 @@ variant: tiptap
 <p>Mr Tan Suan Swee Ashley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_suan_swee_ashley@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ variant: tiptap
 <p>Mr Dav Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_sik_kuan_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Afiq Bin Abdullah</p>
+<p>Mr Mohd Afiq Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohd_afiq_abdullah@moe.edu.sg</p>
@@ -665,123 +665,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chew_sek_ling@moe.edu.sg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Non-Form Teachers</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chiu Hwee Wan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hwee_wan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Angela Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_yen_ai_angela@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Ee Ling (Mrs Lim)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_ee_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Mother Tongue Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kong Siew Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kong_siew_hong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Sahrinah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_sahrinah_mohd_said@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hussain Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Allied Educator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hussain_mohamed_ibrahim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Adam Mas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mas_senin_mas_seman@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
