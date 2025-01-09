@@ -12,6 +12,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Secondary 1 Resources </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Link to Resources</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Notification of Absence Form</strong>
 </p>
 </td>
