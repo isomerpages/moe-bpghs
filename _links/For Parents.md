@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bpghs.moe.edu.sg/sec-1-resources/" rel="noopener nofollow" target="_blank">Link to Resources</a>
+<p><strong><a href="https://www.bpghs.moe.edu.sg/sec-1-resources/" rel="noopener nofollow" target="_blank">Link to Resources</a></strong>
 </p>
 </td>
 </tr>
