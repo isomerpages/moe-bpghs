@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1 Resources </strong>
+<p><strong>Secondary 1 Resources</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
