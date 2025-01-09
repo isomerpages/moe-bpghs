@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Secondary 1 Resources.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
