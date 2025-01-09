@@ -12,12 +12,34 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1 Resources</strong>
+<p><strong>Secondary 1 Resources </strong>
+</p>
+<p><strong>(for parents' reference)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.bpghs.moe.edu.sg/sec-1-resources/" rel="noopener nofollow" target="_blank">Link to Resources</a></strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Managing_Your_Life_as_a_Teenager_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Managing Your Life as Teenager</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Introduction_to_Core_Curriculum_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction to Core Curriculum 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/ICT_Student_Engagement_Deck_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ICT Student Engagement Deck 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_1_PECCA_Briefing_6_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 PE/CCA Briefing 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_1_CCA_Information_for_Students_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 CCA Information for Students</a>
+</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
