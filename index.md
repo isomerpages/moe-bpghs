@@ -18,6 +18,14 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+  - infopic:
+      title: 2024 Yearbook
+      id: infopic
+      description: You may scan the QR code to access our 2024 Yearbook!
+      button: take a look
+      url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+      image: /images/BPGHS_2024_Yearbook.png
+      alt: Image alt text
   - infobar:
       title: 2024 O-Level Results Release
       id: infobar
@@ -32,12 +40,4 @@ sections:
         absence.
       button: Click Here For details
       url: /notification-of-absence-from-school/
-  - infopic:
-      title: 2024 Yearbook
-      id: infopic
-      description: You may scan the QR code to access our 2024 Yearbook!
-      button: take a look
-      url: https://online.fliphtml5.com/obrr/uoqt/#p=1
-      image: /images/BPGHS_2024_Yearbook.png
-      alt: Image alt text
 ---
