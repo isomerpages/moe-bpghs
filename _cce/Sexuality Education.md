@@ -539,9 +539,14 @@ our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
-</p>
-<p>&nbsp;</p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
@@ -601,8 +606,11 @@ personal and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment.</a>
-</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment.</p>
 <p>&nbsp;Students will learn that what really matters in &nbsp;sustaining
 and maintaining a long-term romantic relationship that leads to marriage,
 is understanding the other person’s perspective and effectively communicating
@@ -654,7 +662,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 5</strong>
 </p>
@@ -722,11 +730,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
@@ -798,7 +802,6 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
@@ -807,19 +810,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <u>here</u> (please upload parents opt-out form
-found in Annex <strong>A</strong> and insert a hyperlink for parents to download
-the form). The completed form is to be submitted by 20/01/2025.</p>
+and is also downloadable <a href="/files/SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed form is to
+be submitted by 20/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <u>here</u> (please upload parents opt-out form
-found in Annex <strong>B</strong> and insert a hyperlink for parents to download
-the form). &nbsp;The completed form is to be submitted by 20/01/2025.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at &nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a>&nbsp;or 6769 1031 for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
-<p><strong><br><br></strong>
-</p>
-<p>&nbsp;</p>
-<p></p>
+and is also downloadable <a href="/files/SEd_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. &nbsp;The completed form
+is to be submitted by 20/01/2025.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a>&nbsp;or 6769 1031
+for discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
