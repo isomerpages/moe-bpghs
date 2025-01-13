@@ -18,14 +18,13 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
-  - infopic:
+  - infobar:
       title: 2024 Yearbook
-      id: infopic
-      description: You may scan the QR code to access our 2024 Yearbook!
-      button: take a look
+      id: infobar
+      description: Find out more about our key events, achievements and milestones in
+        2024 by flipping through our online yearbook!
+      button: Take A Look
       url: https://online.fliphtml5.com/obrr/uoqt/#p=1
-      image: /images/BPGHS_2024_Yearbook.png
-      alt: Image alt text
   - infobar:
       title: 2024 O-Level Results Release
       id: infobar
