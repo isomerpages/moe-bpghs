@@ -32,4 +32,12 @@ sections:
         absence.
       button: Click Here For details
       url: /notification-of-absence-from-school/
+  - infopic:
+      title: 2024 Yearbook
+      id: infopic
+      description: You may scan the QR code to access our 2024 Yearbook!
+      button: take a look
+      url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+      image: /images/BPGHS_2024_Yearbook.png
+      alt: Image alt text
 ---
