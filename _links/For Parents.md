@@ -48,7 +48,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/6785bb7b2a99be2770509ba9" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6785bb7b2a99be2770509ba9</a></strong>
+<p><strong><a href="https://form.gov.sg/6785bb7b2a99be2770509ba9" rel="noopener noreferrer nofollow" target="_blank">Click Here to Access</a></strong>
 </p>
 <p></p>
 </td>
