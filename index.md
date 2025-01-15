@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing_Page_Picture.png
+      background: /images/Landing_Page_Picture_2.png
       key_highlights:
         - title: News & Events
           description: ""
