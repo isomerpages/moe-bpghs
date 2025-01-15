@@ -24,7 +24,7 @@ century</p>
 <p><em>To nurture Learner-Leaders who Think, Care and Serve</em>
 </p>
 <h2>Values</h2>
-<p><em>BPGHS espouses the values of Responsibility, Resilience, Respect, Integrity and Care for others.</em>
+<p><em>BPians espouse the values of Responsibility, Resilience, Respect, Integrity and Care for others.</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,7 +76,7 @@ the community</p>
 </tbody>
 </table>
 <h2>Motto</h2>
-<p><em>Diligent in study and practice</em>
+<p><em>Diligent in Study and Practice</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
