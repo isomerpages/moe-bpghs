@@ -2,67 +2,116 @@
 title: Vision, Mission, Values and Motto
 permalink: /about-bpghs/vision-mission-values-and-motto/
 description: ""
+variant: tiptap
 ---
-<img src="/images/logo.jpeg" 
-     style="width:25%">
-<h2><center>Vision</center></h2>
-<center><em>Every BPian a Passionate Learner, an Inspiring Leader</em></center>
-
-
-Every BPian embodying the qualities in the school values and 21st century competencies that enable them to be:
-* Passionate Learners who are committed to be the best that they can be in their learning pursuit.
-* Inspiring Leaders who exemplify and lead in service to others in the school and community.
-
-
-<h2><center>Mission</center></h2>
-<center><em>To ignite the joy of learning through a holistic education and develop leaders with a heart to serve</em></center>
-
-<center><strong>"Ignite the joy of learning"</strong></center>
-<center>by designing CLIIA learning experiences that engage students and enable them to find success in learning.</center>
-
-* Contexualistion
-* Learner-centredness
-* Interdisciplinary
-* Inquiry-driven
-* AfL
-
-<center><strong>"Holistic Education"</strong></center>
-<center>refers to the pursuit of both academic excellence and character and leadership development</center>
-
-<center><strong>"Develop leaders with a heart to serve"</strong></center>
-<center>refers to nurturing BPians, anchored in school values, who lead in serving others in the school community</center>
-
-
-<h2><center>Values</center></h2>
-
-
-
-<center><em>BPGHS espouses the values of Responsibility, Resilience, Respect, Integrity and Care for others.</em></center>
-
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Responsibility</th><th style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Fulfils one's role and responsibilities to the best of one's ability</span></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Resilience</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Being able to cope with change and seize the opportunity for growth</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Respect</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Treats self and others with respect</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Integrity</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Being honest and upright in character</span></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Care for others</td><td style="background-color:#ffffff;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#222">Acts with kindness and compassion and contributes to the betterment of the community</span></td></tr></tbody></table>
-
-
-<br>
-
-
-<h2><center>Motto</center></h2>
-<center><em>Diligent in study and practice</em></center>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Diligent</th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">Showing perseverance and tenacity</span></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Study</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">The pursuit of learning</span></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Practice</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222">The application of learning that shows purpose and character</span></td></tr></tbody></table>
-
-<h2><center>Strategic Thrusts</center></h2>
-
-<center><strong>ST1 Igniting the Joy of Learning</strong></center>
-
-<center>An engaging and enriching student focussed learning environment to develop passionate learners</center>
-
-<center><strong>ST2 Nurturing Future Leaders</strong></center>
-
-<center>A robust student development programme to nurture students to be leaders with a heart to serve</center>
-
-<center><strong>ST3 Building Staff Capacity and Competency</strong></center>
-
-<center>Purposeful staff learning and development programmes to enhance staff capacity and competency</center>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/logo.jpeg">
+</div>
+<h2>Vision</h2>
+<p><em>Every BPian a Passionate and Future-Ready Learner, and an Inspiring Leader of Good</em>
+</p>
+<p>Every BPian to be:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learners with the knowledge, skills and attitudes to thrive in the 21st
+century</p>
+</li>
+<li>
+<p>Learners anchored in values who inspire others to make a positive impact</p>
+</li>
+</ul>
+<h2>Mission</h2>
+<p><em>To nurture Learner-Leaders who Think, Care and Serve</em>
+</p>
+<h2>Values</h2>
+<p><em>BPians espouse the values of Responsibility, Resilience, Respect, Integrity and Care for others.</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fulfils one's role and responsibilities to the best of one's ability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being able to cope with change and seize the opportunity for growth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treats self and others with respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being honest and upright in character</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Care for others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acts with kindness and compassion and contributes to the betterment of
+the community</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Motto</h2>
+<p><em>Diligent in Study and Practice</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Diligent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Showing perseverance and tenacity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Study</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The pursuit of learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Practice</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The application of learning that shows purpose and character</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2></h2>
+<p></p>
