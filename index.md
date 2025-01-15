@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bpghs homepage.gif
+      background: /images/Landing_Page_Picture.png
       key_highlights:
         - title: News & Events
           description: ""
