@@ -18,6 +18,7 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+      variant: image
   - infobar:
       title: 2024 Yearbook
       id: infobar
