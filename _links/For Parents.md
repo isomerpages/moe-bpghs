@@ -39,6 +39,18 @@ variant: tiptap
 <p><a href="/files/Sec_1_CCA_Information_for_Students_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 CCA Information for Students</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1ucdhvq9bwLXlcC17mJby09vsj6ICoVYi/view" rel="noopener nofollow" target="_blank">Parent Support Group Recruitment</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/open?id=11VacBc23a3uPTnla2t9nuAxvtHbX63ww" rel="noopener nofollow" target="_blank">Full Subject-Based Banding Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/open?id=1TZKk7d41siSu7DJA9XWvLHdg6t2WCFgn" rel="noopener nofollow" target="_blank">The Personal Learning Device (PLD) Initiative</a>
+</p>
+</li>
 </ol>
 </td>
 </tr>
