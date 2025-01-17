@@ -26,18 +26,4 @@ sections:
         2024 by flipping through our online yearbook!
       button: Take A Look
       url: https://online.fliphtml5.com/obrr/uoqt/#p=1
-  - infobar:
-      title: 2024 O-Level Results Release
-      id: infobar
-      description: Announcement to the 2024 Graduating students who have sat for the O
-        level examinations.
-      button: Click Here For details
-      url: /2025-o-level-results-release/
-  - infobar:
-      title: Notification of Absence from School
-      id: infobar
-      description: Information for parents on notifying the school about their child's
-        absence.
-      button: Click Here For details
-      url: /notification-of-absence-from-school/
 ---
