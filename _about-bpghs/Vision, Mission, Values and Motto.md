@@ -24,7 +24,7 @@ century</p>
 <p><em>To nurture Learner-Leaders who Think, Care and Serve</em>
 </p>
 <h2>Values</h2>
-<p><em>BPians espouse the values of Responsibility, Resilience, Respect, Integrity and Care for others.</em>
+<p><em>BPians espouse the values of Responsibility, Resilience, Respect, Integrity and Care for Others.</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
