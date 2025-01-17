@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Sem_1_Timetable_Classes_wef_20_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 Timetable wef 20 Jan</a> updated
+<p><a href="/files/2025_Sem_1_Timetable_Classes_wef_20_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 Timetable (wef 20 Jan)</a> updated
 17 Jan 2025</p>
 </li>
 <li>
