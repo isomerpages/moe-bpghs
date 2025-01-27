@@ -83,14 +83,14 @@ Microsoft Surface Go 3 was the selected PLD for the other level students.
 <br>
 <br>Please click on the PDF files or links below for more information regarding
 the selected PLD.</p>
-<p><strong>For Secondary 1</strong> 
+<p><strong>For Secondary 2</strong> 
 <br><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a> 
 <br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a> 
 <br><a href="/files/2024/Procedures_for_Device_Issues_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process</a>
 </p>
 <p><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase replacement accessories</a>
 </p>
-<p><strong>For Secondary 2, 3, 4</strong> 
+<p><strong>For Secondary 3, 4, 5</strong>
 <br><a href="/files/pld1.pdf" rel="noopener noreferrer nofollow" target="_blank">Microsoft-SurfaceGo3.pdf</a> 
 <br><a href="/files/pld2.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck for Sec 1 2022.pdf</a> 
 <br><a href="/files/pld3.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process.pdf</a>
@@ -104,7 +104,7 @@ iCON.</p>
 <br><a href="/files/Student%20iCon%20-%20FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCon - FAQ.pdf</a>
 </p>
 <p>To reset your Student iCON password, please click on the link below.
-<br><a href="https://go.gov.sg/bpghs-password-reset" rel="noopener noreferrer nofollow" target="_blank">Student iCON password reset</a>
+<br><a href="https://go.gov.sg/resetpassword-bpghs" rel="noopener noreferrer nofollow" target="_blank">Student iCON password reset</a>
 </p>
 <p>To reset your Student Icon password (if you have not set your security
 questions), or resolve issues related to your PLD, please approach the
