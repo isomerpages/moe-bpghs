@@ -96,19 +96,10 @@ the selected PLD.</p>
 <br><a href="/files/pld3.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process.pdf</a>
 </p>
 <h4>Student iCON</h4>
-<p>Dear Parents and BPians,
-<br>Please click on the PDF files below for more information about Student
-iCON.</p>
-<p><a href="/files/Student%20iCON%20-%20Introduction.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON - Introduction.pdf</a> 
-<br><a href="/files/Student%20iCON%20-%20Onboarding%20Guide%20For%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON - Onboarding Guide For Students.pdf</a> 
-<br><a href="/files/Student%20iCon%20-%20FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCon - FAQ.pdf</a>
-</p>
-<p>To reset your Student iCON password, please click on the link below.
-<br><a href="https://go.gov.sg/resetpassword-bpghs" rel="noopener noreferrer nofollow" target="_blank">Student iCON password reset</a>
-</p>
+<p></p>
 <p>To reset your Student Icon password (if you have not set your security
 questions), or resolve issues related to your PLD, please approach the
-Desktop Engineers at Level 2, ICT Student Services Hub.</p>
+ICT Manager or Desktop Engineers at Level 2, ICT Student Services Hub.</p>
 <p></p>
 <h4>Other technical information:</h4>
 <ul data-tight="true" class="tight">
@@ -171,7 +162,7 @@ additional resources:</p>
 <p>ICT Matters</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>PLD Matters</p>
+<p>PLD and MIMS Matters</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Administrative &amp; Financial Matters</p>
