@@ -797,7 +797,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
