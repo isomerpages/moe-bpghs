@@ -7,12 +7,16 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/spreadsheets/d/1-ivXoeEcC2ezffwPMfWYK3S-M0XWhTkBIhBaXjQhtQk/edit?usp=sharing" rel="noopener nofollow" target="_blank">2025 Sec 1-3 Weighted Assessment Schedule</a> updated
+3 Feb</p>
+</li>
+<li>
 <p><a href="/files/2025_Sem_1_Timetable_Classes_wef_20_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 Timetable (wef 20 Jan)</a> updated
-17 Jan 2025</p>
+17 Jan</p>
 </li>
 <li>
 <p><a href="/files/2025_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule</a> updated
-6 Jan 2025</p>
+6 Jan</p>
 </li>
 <li>
 <p><a href="/files/After_School_Schedule_2025__For_parents____Ms_Alina.pdf" rel="noopener nofollow" target="_blank">2025 After School Schedule</a>
