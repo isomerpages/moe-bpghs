@@ -215,7 +215,7 @@ acting irresponsibly or maliciously when online (e.g. spreading of online
 falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -294,7 +294,7 @@ one’s own unique qualities and characteristics as a male or female</p>
 entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +321,7 @@ and the importance of exercising discretion to reduce risks and avoid negative
 consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +347,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -424,7 +424,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -456,7 +456,7 @@ healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -559,7 +559,7 @@ to the self-esteem of oneself and others and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -596,7 +596,7 @@ personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -629,9 +629,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
-<p>&amp;
-<br>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -725,7 +723,7 @@ our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -797,7 +795,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
