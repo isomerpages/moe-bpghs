@@ -19,6 +19,21 @@ sections:
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
       variant: image
+  - textcards:
+      title: 65th Prize-Giving Day 2025 11th  April
+      id: textcards
+      description: Congratulations to all award recipients for this year’s
+        Prize-Giving Day.   Please remember to RSVP via the link in your
+        notification email by  24th February 2025.
+      cards:
+        - title: Current Students
+          description: Please click the link below to view the awardee list.
+          linktext: Awardee List (Current Students)
+          url: https://docs.google.com/spreadsheets/d/1SxuQ7ZG9vdIZ-6Ol_hqmpGjKnv6x4-5YclWDtw8TdRs/edit?gid=0#gid=0
+        - title: Alumni (Class of 2024) and Friends of the School.
+          description: Please click the link below to view the awardee list.
+          linktext: Awardee List (Alumni & Friends)
+          url: https://docs.google.com/spreadsheets/d/1UwGC-JsGvvVfWq-6OClemahis8_1mZXhcr5ZsLP37tU/edit?gid=0#gid=0
   - infobar:
       title: 2024 Yearbook
       id: infobar
