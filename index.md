@@ -20,11 +20,11 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
       variant: image
   - textcards:
-      title: 65th Prize-Giving Day 2025 11th  April
+      title: Prize-Giving Day 2025
       id: textcards
-      description: Congratulations to all award recipients for this year’s
-        Prize-Giving Day.   Please remember to RSVP via the link in your
-        notification email by  24th February 2025.
+      description: Congratulations to all award recipients of Prize-Giving Day 2025!
+        An email has been sent to you with the link to RSVP your attendance on
+        11 April. Please RSVP by 24 February.
       cards:
         - title: Current Students
           description: Please click the link below to view the awardee list.
