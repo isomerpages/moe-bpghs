@@ -30,7 +30,7 @@ sections:
           description: Please click the link below to view the awardee list.
           linktext: Awardee List (Current Students)
           url: https://docs.google.com/spreadsheets/d/1SxuQ7ZG9vdIZ-6Ol_hqmpGjKnv6x4-5YclWDtw8TdRs/edit?gid=0#gid=0
-        - title: Alumni (Class of 2024) and Friends of the School.
+        - title: Alumni (Class of 2024) and Friends of the School
           description: Please click the link below to view the awardee list.
           linktext: Awardee List (Alumni & Friends)
           url: https://docs.google.com/spreadsheets/d/1UwGC-JsGvvVfWq-6OClemahis8_1mZXhcr5ZsLP37tU/edit?gid=0#gid=0
