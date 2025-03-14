@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/spreadsheets/d/1PSs0kjXiJl3BLRRzOKnz_AQIEHc8HAAC/edit?gid=834315777#gid=834315777" rel="noopener nofollow" target="_blank">2025 March Holiday CCA Schedule</a> updated
+14 Mar</p>
+</li>
+<li>
 <p><a href="https://docs.google.com/spreadsheets/d/1-ivXoeEcC2ezffwPMfWYK3S-M0XWhTkBIhBaXjQhtQk/edit?usp=sharing" rel="noopener nofollow" target="_blank">2025 Sec 1-3 Weighted Assessment Schedule</a> updated
 3 Feb</p>
 </li>
