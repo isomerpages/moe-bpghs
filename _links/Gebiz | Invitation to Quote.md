@@ -16,7 +16,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MOESCHETQ24006716</strong>
+<p><strong>MOESCHETQ25001348</strong>
 </p>
 </td>
 </tr>
@@ -25,7 +25,8 @@ variant: tiptap
 <p>Period of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Published on 15 Nov 2024 and will close on 25 Nov 2024 01:00 PM</p>
+<p>Published on 25th March, 2025 and will close on 3rd April, 2025, 01:00
+PM</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +34,8 @@ variant: tiptap
 <p>Description of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To organize sit-down dinner for the 65th Anniversary 2025 Celebration.</p>
+<p>To provide sale of uniform on-site in school / off-site at reasonable
+prices from 1st July 2025 to 30th June 2027</p>
 </td>
 </tr>
 </tbody>
