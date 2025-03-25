@@ -4,4 +4,4 @@ permalink: /partners/school-advisory-committee/
 description: ""
 variant: markdown
 ---
-![](/images/SAC_2024.png)
+![](/images/2025_2026__School_Advisory_Committee_Final.png)
