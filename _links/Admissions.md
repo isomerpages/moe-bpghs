@@ -49,5 +49,5 @@ be directed to the 2024 Secondary One registration webpage.</p>
 </tbody>
 </table>
 <h1>Direct School Admission Exercise – Admission to Secondary 1 in 2026</h1>
-<p>Please check this page again in April 2025</p>
+<p>Please check this page again in April 2025.</p>
 <p></p>
