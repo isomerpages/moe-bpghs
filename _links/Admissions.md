@@ -48,7 +48,6 @@ be directed to the 2024 Secondary One registration webpage.</p>
 </tr>
 </tbody>
 </table>
-<h1>Direct School Admission Exercise – Admission to Secondary 1 in 2025</h1>
-<p><a href="/files/Website_Nov_Dec_2024___Joan_Puay_Leng_Koh.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
+<h1>Direct School Admission Exercise – Admission to Secondary 1 in 2026</h1>
+<p>Please check this page again in April 2025</p>
 <p></p>
