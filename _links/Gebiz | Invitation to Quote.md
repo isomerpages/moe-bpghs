@@ -16,8 +16,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MOESCHETQ25001348</strong>
-</p>
+<p>MOESCHETQ25001937</p>
 </td>
 </tr>
 <tr>
@@ -25,8 +24,7 @@ variant: tiptap
 <p>Period of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Published on 25th March, 2025 and will close on 3rd April, 2025, 01:00
-PM</p>
+<p>Published on 17 Apr 2025 and will close on 29 Apr 2025</p>
 </td>
 </tr>
 <tr>
@@ -34,8 +32,7 @@ PM</p>
 <p>Description of ITQ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To provide sale of uniform on-site in school / off-site at reasonable
-prices from 1st July 2025 to 30th June 2027</p>
+<p>To set up and operate a Cafe in Bukit Panjang Govt High School</p>
 </td>
 </tr>
 </tbody>
