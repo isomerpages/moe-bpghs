@@ -1,0 +1,4 @@
+collections:
+  bp-unique:
+    output: true
+    order: []
