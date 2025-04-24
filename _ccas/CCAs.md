@@ -2,6 +2,7 @@
 title: CCAs
 permalink: /ccas/ccas/
 description: ""
+variant: markdown
 ---
 ### CCAs
 
