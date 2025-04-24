@@ -2,7 +2,6 @@ collections:
   our-bpian-experience:
     output: true
     order:
-      - CCAs/.keep
       - Instructional Programme/.keep
       - Instructional Programme/English & Literature.md
       - Instructional Programme/Mother Tongue.md
