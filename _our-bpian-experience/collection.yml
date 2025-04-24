@@ -1,5 +1,5 @@
 collections:
-  holistic-education:
+  our-bpian-experience:
     output: true
     order:
       - Personal Learning Device (PLD) Initiative @ BPGHS.md
