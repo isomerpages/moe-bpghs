@@ -1,5 +1,5 @@
 collections:
-  about-bpghs:
+  our-bp-family:
     output: true
     order:
       - Open House.md
