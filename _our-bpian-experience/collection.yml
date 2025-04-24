@@ -2,11 +2,11 @@ collections:
   our-bpian-experience:
     output: true
     order:
-      - Our Achievements/Staff Achievements.md
-      - Our Achievements/Non Academic Achievements.md
-      - Our Achievements/Academic Achievements.md
-      - Our Achievements/Our Achievements.md
       - Our Achievements/.keep
+      - Our Achievements/Our Achievements.md
+      - Our Achievements/Academic Achievements.md
+      - Our Achievements/Non Academic Achievements.md
+      - Our Achievements/Staff Achievements.md
       - Personal Learning Device (PLD) Initiative @ BPGHS.md
       - Full Subject Based Banding.md
       - English & Literature.md
