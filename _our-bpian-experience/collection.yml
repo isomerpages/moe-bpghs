@@ -2,6 +2,11 @@ collections:
   our-bpian-experience:
     output: true
     order:
+      - Our Achievements/.keep
+      - Our Achievements/Our Achievements.md
+      - Our Achievements/Academic Achievements.md
+      - Our Achievements/Non Academic Achievements.md
+      - Our Achievements/Staff Achievements.md
       - Instructional Programme/.keep
       - Instructional Programme/English & Literature.md
       - Instructional Programme/Mother Tongue.md
@@ -10,11 +15,6 @@ collections:
       - Instructional Programme/Humanities.md
       - Instructional Programme/Design & Technology | Nutrition & Food Science.md
       - Instructional Programme/Physical Education.md
-      - Our Achievements/.keep
-      - Our Achievements/Our Achievements.md
-      - Our Achievements/Academic Achievements.md
-      - Our Achievements/Non Academic Achievements.md
-      - Our Achievements/Staff Achievements.md
       - Personal Learning Device (PLD) Initiative @ BPGHS.md
       - Full Subject Based Banding.md
       - Aesthetics/.keep
