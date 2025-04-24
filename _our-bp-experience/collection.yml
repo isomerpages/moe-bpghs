@@ -1,4 +1,5 @@
 collections:
   our-bp-experience:
     output: true
-    order: []
+    order:
+      - Instructional Programme/.keep
