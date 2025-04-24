@@ -2,7 +2,6 @@ collections:
   our-bpian-experience:
     output: true
     order:
-      - Our Achievements.md
       - Personal Learning Device (PLD) Initiative @ BPGHS.md
       - Full Subject Based Banding.md
       - English & Literature.md
