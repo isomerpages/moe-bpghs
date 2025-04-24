@@ -2,7 +2,6 @@ collections:
   our-bp-family:
     output: true
     order:
-      - Open House.md
       - Vision, Mission, Values and Motto.md
       - Principal's Message.md
       - Our BPian Experience.md
