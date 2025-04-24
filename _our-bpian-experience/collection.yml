@@ -2,8 +2,8 @@ collections:
   our-bpian-experience:
     output: true
     order:
-      - Co Curricular Activities/CCAs.md
-      - Co Curricular Activities/.keep
+      - CCAs/CCAs.md
+      - CCAs/.keep
       - Instructional Programme/.keep
       - Instructional Programme/English & Literature.md
       - Instructional Programme/Mother Tongue.md
