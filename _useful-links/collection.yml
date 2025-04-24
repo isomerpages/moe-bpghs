@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Frequently Asked Questions.md
       - For Students/BPGHS Code of Conduct.md
       - For Students/.keep
       - Open House.md
