@@ -2,10 +2,6 @@ collections:
   our-bp-family:
     output: true
     order:
-      - Our Partners/Alumni.md
-      - Our Partners/Parent Support Group.md
-      - Our Partners/School Advisory Committee.md
-      - Our Partners/.keep
       - Vision, Mission, Values and Motto.md
       - Principal's Message.md
       - Our History.md
@@ -14,6 +10,10 @@ collections:
       - Our People/Our People.md
       - Our People/School Management Committee.md
       - Our People/School Staff.md
+      - Our Partners/.keep
+      - Our Partners/Alumni.md
+      - Our Partners/Parent Support Group.md
+      - Our Partners/School Advisory Committee.md
       - BPGHS Code of Conduct.md
       - Frequently Asked Questions.md
       - Contact Us.md
