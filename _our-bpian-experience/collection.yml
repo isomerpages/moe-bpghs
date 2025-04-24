@@ -2,7 +2,6 @@ collections:
   our-bpian-experience:
     output: true
     order:
-      - CCAs.md
       - CCAs/CCAs.md
       - CCAs/.keep
       - Instructional Programme/.keep
