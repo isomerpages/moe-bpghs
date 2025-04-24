@@ -1,5 +1,5 @@
 collections:
-  special-programmes:
+  admissions:
     output: true
     order:
       - Art Elective Programme.md
