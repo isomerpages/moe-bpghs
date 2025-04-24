@@ -17,7 +17,7 @@ variant: tiptap
 century</p>
 </li>
 <li>
-<p>Learners anchored in values who inspire others to make a positive impact</p>
+<p>Leaders anchored in values who inspire others to make a positive impact</p>
 </li>
 </ul>
 <h2>Mission</h2>
