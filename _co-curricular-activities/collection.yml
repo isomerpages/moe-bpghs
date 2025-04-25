@@ -2,10 +2,10 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies/Science Society Club.md
-      - Clubs and Societies/Infocomm Club.md
-      - Clubs and Societies/BP Communication Link.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/BP Communication Link.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Science Society Club.md
       - Performing Arts/Gamelan.md
       - Performing Arts/English Drama.md
       - Performing Arts/Chinese Drama.md
