@@ -2,6 +2,7 @@ collections:
   our-bp-experience:
     output: true
     order:
+      - Student Development Programmes/Education Sculpture Garden.md
       - Student Development Programmes/Full Subject Based Banding.md
       - Student Development Programmes/Personal Learning Device (PLD) Initiative
         @ BPGHS.md
