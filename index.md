@@ -9,10 +9,7 @@ sections:
   - hero:
       background: /images/Landing_Page_Picture_4.png
       key_highlights:
-        - title: News & Events
-          description: ""
-          url: /news-and-events
-        - title: Announcements & Updates
+        - title: Announcements & Events
           description: ""
           url: /announcements-and-updates/
         - title: Calendar of Events
