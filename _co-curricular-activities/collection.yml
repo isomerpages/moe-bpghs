@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/Scouts.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/.keep
       - St John Brigade.md
