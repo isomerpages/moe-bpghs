@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - National Cadet Corp.md
       - CCAs.md
       - Sports & Games/.keep
