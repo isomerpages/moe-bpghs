@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programmes/.keep
       - Our Achievements/Staff Achievements.md
       - Our Achievements/Non Academic Achievements.md
       - Our Achievements/Academic Achievements.md
