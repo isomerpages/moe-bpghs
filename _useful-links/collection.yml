@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Parents/Financial Assistance.md
       - For Parents/.keep
       - Frequently Asked Questions.md
       - For Students/For Students.md
