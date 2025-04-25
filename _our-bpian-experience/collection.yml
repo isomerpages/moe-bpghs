@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Our Achievements/.keep
-      - Our Achievements/Staff Achievements.md
-      - Our Achievements/Non Academic Achievements.md
-      - Our Achievements/Academic Achievements.md
       - Our Achievements/Our Achievements.md
+      - Our Achievements/Academic Achievements.md
+      - Our Achievements/Non Academic Achievements.md
+      - Our Achievements/Staff Achievements.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Design & Technology | Nutrition & Food
