@@ -1,5 +1,4 @@
 collections:
   ccas:
     output: true
-    order:
-      - Clubs and Societies/.keep
+    order: []
