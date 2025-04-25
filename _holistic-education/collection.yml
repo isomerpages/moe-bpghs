@@ -2,6 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
+      - Instructional Programmes/Design & Technology | Nutrition & Food
+        Science.md
       - Instructional Programmes/Humanities.md
       - Instructional Programmes/Science.md
       - Instructional Programmes/Mathematics.md
