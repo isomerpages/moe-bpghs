@@ -2,8 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Instructional Programme/.keep
-      - Instructional Programme/English & Literature.md
       - Personal Learning Device (PLD) Initiative @ BPGHS.md
       - Full Subject Based Banding.md
       - Aesthetics/.keep
