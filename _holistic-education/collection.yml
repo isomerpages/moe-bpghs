@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Development Programme/.keep
-      - Our Achievements/.keep
       - Instructional Programme/.keep
       - Instructional Programme/English & Literature.md
       - Instructional Programme/Mother Tongue.md
