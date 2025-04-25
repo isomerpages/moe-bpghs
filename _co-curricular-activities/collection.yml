@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Girl Guides.md
       - Scouts.md
       - St John Brigade.md
       - National Police Cadet Corp.md
