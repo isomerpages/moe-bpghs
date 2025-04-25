@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Performing Arts/.keep
-      - Performing Arts/Concert Band.md
       - Performing Arts/English Drama.md
       - Performing Arts/Gamelan.md
       - Performing Arts/International Dance.md
