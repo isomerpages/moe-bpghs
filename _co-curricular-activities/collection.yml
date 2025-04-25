@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - St John Brigade.md
       - National Police Cadet Corp.md
       - National Cadet Corp.md
       - CCAs.md
