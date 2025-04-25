@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - Our Achievements/Our Achievements.md
       - Our Achievements/.keep
       - Aesthetics/.keep
