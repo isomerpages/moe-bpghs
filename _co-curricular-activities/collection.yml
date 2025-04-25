@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/BP Communication Link.md
       - Clubs and Societies/.keep
       - Infocomm Club.md
       - Science Society Club.md
