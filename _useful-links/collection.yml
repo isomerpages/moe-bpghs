@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Frequently Asked Questions.md
+      - For Parents/Admissions.md
       - For Parents/.keep
       - For Parents/Links for Parents.md
       - For Parents/Financial Assistance.md
