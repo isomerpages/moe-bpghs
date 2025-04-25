@@ -2,12 +2,11 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/National Cadet Corp.md
-      - Uniformed Groups/National Police Cadet Corp.md
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/St John Brigade.md
+      - CCAs.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/BP Communication Link.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Science Society Club.md
       - Performing Arts/.keep
       - Performing Arts/Chinese Drama.md
       - Performing Arts/Chinese Orchestra.md
@@ -22,8 +21,9 @@ collections:
       - Sports & Games/Floorball.md
       - Sports & Games/Netball.md
       - Sports & Games/Volleyball.md
-      - Clubs and Societies/BP Communication Link.md
-      - Clubs and Societies/Infocomm Club.md
-      - Clubs and Societies/Science Society Club.md
-      - Clubs and Societies/.keep
-      - CCAs.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corp.md
+      - Uniformed Groups/National Police Cadet Corp.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/St John Brigade.md
