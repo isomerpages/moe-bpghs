@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Uniform Groups/.keep
       - Sports & Games/.keep
       - Sports & Games/Basketball.md
       - Sports & Games/Volleyball.md
