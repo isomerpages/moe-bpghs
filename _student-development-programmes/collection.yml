@@ -1,5 +1,4 @@
 collections:
   student-development-programmes:
     output: true
-    order:
-      - Student Leadership Development/.keep
+    order: []
