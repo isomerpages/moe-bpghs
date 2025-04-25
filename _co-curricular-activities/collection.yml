@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Girl Guides.md
       - Scouts.md
       - St John Brigade.md
       - National Police Cadet Corp.md
