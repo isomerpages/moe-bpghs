@@ -2,16 +2,16 @@ collections:
   useful-links:
     output: true
     order:
+      - Frequently Asked Questions.md
+      - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Service Providers.md
       - For Parents/Financial Assistance.md
-      - For Parents/.keep
-      - Frequently Asked Questions.md
+      - For Students/.keep
       - For Students/Pastoral Counselling.md
       - For Students/ECG Counselling.md
       - For Students/For Students.md
       - For Students/BPGHS Code of Conduct.md
-      - For Students/.keep
       - For Teachers.md
       - Admissions.md
       - Subject Combinations.md
