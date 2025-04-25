@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs and Societies/Science Society Club.md
       - Clubs and Societies/.keep
       - Chinese Drama.md
       - Infocomm Club.md
