@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs and Societies/.keep
-      - BP Communication Link.md
       - Infocomm Club.md
       - Science Society Club.md
       - Performing Arts/Gamelan.md
