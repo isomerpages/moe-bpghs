@@ -2,7 +2,6 @@ collections:
   student-development-programmes:
     output: true
     order:
-      - Sexuality Education.md
       - Student Leadership Development/.keep
       - Student Leadership Development/Student Leadership Development.md
       - Student Leadership Development/Student Council.md
