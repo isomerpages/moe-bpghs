@@ -1,5 +1,4 @@
 collections:
   our-bp-experience:
     output: true
-    order:
-      - Student Development Programmes/.keep
+    order: []
