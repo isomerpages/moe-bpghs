@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Chinese Orchestra.md
       - Clubs and Societies/BP Communication Link.md
       - Clubs and Societies/Infocomm Club.md
       - Clubs and Societies/Science Society Club.md
