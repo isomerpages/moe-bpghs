@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Frequently Asked Questions.md
+      - For Students/For Students.md
       - For Students/BPGHS Code of Conduct.md
       - For Students/.keep
       - For Parents.md
