@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
       - Aesthetics/Education Sculpture Garden.md
