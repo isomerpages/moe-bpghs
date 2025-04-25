@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Full Subject Based Banding.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Education Sculpture Garden.md
