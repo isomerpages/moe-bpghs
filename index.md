@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
       variant: image
+  - infopic:
+      title: 2025 Open House
+      id: infopic
+      button: Choose BPGHS
+      url: ff
+      image: /images/250404_BPGHS_Sec_4_Group_Photo_2__1_.jpg
+      alt: Image alt text
   - infobar:
       title: 2024 Yearbook
       id: infobar
