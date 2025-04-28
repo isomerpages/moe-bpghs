@@ -171,7 +171,7 @@ additional resources:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sherlyn Tan
-<br>(SH ICT) tan_xue_ling_sherlyn@moe.edu.dg</p>
+<br>(SH ICT) tan_xue_ling_sherlyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dewi (ICT Manager) dewi_rosyati_sheik@moe.edu.sg</p>
