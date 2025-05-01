@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - DSA 2026.md
       - Admissions.md
       - Open House.md
