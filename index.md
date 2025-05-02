@@ -19,7 +19,8 @@ sections:
   - infobar:
       title: DSA 2026
       id: infobar
-      description: Information regarding 2025's DSA exercise can be found in the link below.
+      description: Information regarding the upcoming DSA exercise can be found in the
+        link below.
       button: DSA 2026
       url: /dsa-2026/
   - infobar:
