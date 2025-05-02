@@ -3,27 +3,27 @@ collections:
     output: true
     order:
       - CCAs.md
-      - Uniform Groups/.keep
-      - Uniform Groups/National Cadet Corp.md
-      - Uniform Groups/National Police Cadet Corp.md
-      - Uniform Groups/St John Brigade.md
-      - Uniform Groups/Scouts.md
-      - Uniform Groups/Girl Guides.md
-      - Sports & Games/.keep
-      - Sports & Games/Basketball.md
-      - Sports & Games/Volleyball.md
-      - Sports & Games/Floorball.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Fencing.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/BP Communication Link.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Science Society Club.md
       - Performing Arts/.keep
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/International Dance.md
       - Performing Arts/Chinese Drama.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
       - Performing Arts/English Drama.md
       - Performing Arts/Gamelan.md
-      - Clubs and Societies/.keep
-      - Clubs and Societies/Science Society Club.md
-      - Clubs and Societies/Infocomm Club.md
-      - Clubs and Societies/BP Communication Link.md
+      - Performing Arts/International Dance.md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball.md
+      - Sports & Games/Fencing.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Volleyball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corp.md
+      - Uniformed Groups/National Police Cadet Corp.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/St John Brigade.md

@@ -1,9 +1,0 @@
-collections:
-  cce:
-    output: true
-    order:
-      - Character and Citizenship Education.md
-      - Sexuality Education.md
-      - Student Leadership Development/.keep
-      - Student Leadership Development/Student Leadership Development.md
-      - Student Leadership Development/Student Council.md

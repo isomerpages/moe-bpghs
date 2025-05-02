@@ -1,0 +1,6 @@
+collections:
+  get-in-touch:
+    output: true
+    order:
+      - Contact Us.md
+      - Gebiz | Invitation to Quote.md
