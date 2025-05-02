@@ -17,11 +17,11 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
       variant: image
   - infobar:
-      title: DSA 2025
+      title: DSA 2026
       id: infobar
       description: Information regarding 2025's DSA exercise can be found in the link below.
-      button: DSA 2025
-      url: /dsa-2025/
+      button: DSA 2026
+      url: /dsa-2026/
   - infobar:
       title: 2024 Yearbook
       id: infobar
