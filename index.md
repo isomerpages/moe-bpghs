@@ -17,7 +17,7 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
       variant: image
   - infobar:
-      title: DSA 2025
+      title: Direct School Admission Exercise 2025
       id: infobar
       description: Information regarding the upcoming DSA exercise can be found in the
         link below.
