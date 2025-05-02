@@ -14,7 +14,7 @@ sections:
           url: /announcements-and-updates/
         - title: DSA 2025
           description: ""
-          url: /dsa-2026/
+          url: /dsa-2025/
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
