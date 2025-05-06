@@ -142,7 +142,7 @@ variant: tiptap
 <p>Subject Head / Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rina Haideati Misri</p>
+<p>Mdm Rina Haideati Misri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rina_haideati_misri@moe.edu.sg</p>
