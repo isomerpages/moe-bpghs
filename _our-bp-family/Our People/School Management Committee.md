@@ -84,7 +84,7 @@ variant: tiptap
 <p>Mrs Christine Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>png_thiang_thiang_christine@schools.gov.sg</p>
+<p>png_thiang_thiang_christine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ variant: tiptap
 <p>Ms Siti Nur'aini Binte Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nuraini_abdul_rashid@schools.gov.sg</p>
+<p>siti_nuraini_abdul_rashid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>Mr Chua Yong Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_yong_meng@schools.gov.sg</p>
+<p>chua_yong_meng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>Ms Penny Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>penny_goh_pei_xuan@schools.gov.sg</p>
+<p>penny_goh_pei_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +134,7 @@ variant: tiptap
 <p>Mr Tan Kok Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kok_hua@schools.gov.sg</p>
+<p>tan_kok_hua@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -142,10 +142,10 @@ variant: tiptap
 <p>Subject Head / Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rina Haideati Misri</p>
+<p>Mdm Rina Haideati Misri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rina_haideati_misri@schools.gov.sg</p>
+<p>rina_haideati_misri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ variant: tiptap
 <p>Mr Chong Shuming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_shuming@schools.gov.sg</p>
+<p>chong_shuming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ variant: tiptap
 <p>Ms Alina Bte Ahmad Sany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>alina_ahmad_sany@schools.gov.sg</p>
+<p>alina_ahmad_sany@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ variant: tiptap
 <p>Ms Qiu Yiru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>qiu_yiru@schools.gov.sg</p>
+<p>qiu_yiru@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ variant: tiptap
 <p>Ms Ng Niann Yeu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_niann_yeu@schools.gov.sg</p>
+<p>ng_niann_yeu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ variant: tiptap
 <p>Mr Ong Weiquan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_weiquan@schools.gov.sg</p>
+<p>ong_weiquan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@ variant: tiptap
 <p>Mr Tay Guan Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_guan_chuan@schools.gov.sg</p>
+<p>tay_guan_chuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ variant: tiptap
 <p>Mrs Joan Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>joan_koh_puay_leng@schools.gov.sg</p>
+<p>joan_koh_puay_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +248,7 @@ variant: tiptap
 <p>Mdm Chong Lin Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_lin_lin@schools.gov.sg</p>
+<p>chong_lin_lin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ variant: tiptap
 <p>Mr Ng Zi Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_zi_jian_a@schools.gov.sg</p>
+<p>ng_zi_jian_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>Mr Muhammad Hafiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_hafiz_hanafia@schools.gov.sg</p>
+<p>muhammad_hafiz_hanafia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p>Ms Jessie Lee Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_min_jessie@schools.gov.sg</p>
+<p>lee_min_jessie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ variant: tiptap
 <p>Mr Yeo Zhi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_zhi_wen@schools.gov.sg</p>
+<p>yeo_zhi_wen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +312,7 @@ variant: tiptap
 <p>Mr Leonard Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_ding_zhong@schools.gov.sg</p>
+<p>ng_ding_zhong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -323,7 +323,7 @@ variant: tiptap
 <p>Mdm Tan Lily</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_lily_b@schools.gov.sg</p>
+<p>tan_lily_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -337,7 +337,7 @@ variant: tiptap
 <p>Ms Kogila Vani d/o Ramakrishnan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kogila_vani_ramakrishnan@schools.gov.sg</p>
+<p>kogila_vani_ramakrishnan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ variant: tiptap
 <p>Mdm Ong Seok Jean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_seok_jean@schools.gov.sg</p>
+<p>ong_seok_jean@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>Ms Sherlyn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_xue_ling_sherlyn@schools.gov.sg</p>
+<p>tan_xue_ling_sherlyn@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
