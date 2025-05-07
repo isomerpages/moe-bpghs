@@ -78,10 +78,7 @@ knowledge and skills to thrive in the digital environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP%20framework.png">
 </div>
 <h4>Personal Learning Device (PLD)</h4>
-<p>Our school has selected Acer TravelMate Spin for 2024 Sec 1 students.
-Microsoft Surface Go 3 was the selected PLD for the other level students.
-<br>
-<br>Please click on the PDF files or links below for more information regarding
+<p>Please click on the PDF files or links below for more information regarding
 the selected PLD.</p>
 <p><strong>For Secondary 1</strong>
 </p>
