@@ -22,7 +22,7 @@ sections:
       description: Information regarding the upcoming DSA exercise can be found in the
         link below.
       button: DSA 2025
-      url: /dsa-2026/
+      url: https://www.bpghs.moe.edu.sg/dsa-2025/
   - infobar:
       title: 2024 Yearbook
       id: infobar
