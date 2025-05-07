@@ -78,11 +78,16 @@ knowledge and skills to thrive in the digital environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP%20framework.png">
 </div>
 <h4>Personal Learning Device (PLD)</h4>
-<p>Our school has selected Acer TravelMate Spin for 2024 Sec 1 students.
-Microsoft Surface Go 3 was the selected PLD for the other level students.
-<br>
-<br>Please click on the PDF files or links below for more information regarding
+<p>Please click on the PDF files or links below for more information regarding
 the selected PLD.</p>
+<p><strong>For Secondary 1</strong>
+</p>
+<p><a href="/files/IP1_Windows____Parent_Engagement_Deck_2025__10_Jan_25_.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Deck</a>
+</p>
+<p><a href="/files/Procedures_for_Device_Issues_2025.pdf" rel="noopener nofollow" target="_blank">Procedures for Device Issues 2025</a>
+</p>
+<p><a href="https://form.gov.sg/615fd833d09a290014ac2f05" rel="noopener nofollow" target="_blank">Request to change DMA setting</a>
+</p>
 <p><strong>For Secondary 2</strong> 
 <br><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a> 
 <br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a> 
@@ -95,8 +100,9 @@ the selected PLD.</p>
 <br><a href="/files/pld2.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck for Sec 1 2022.pdf</a> 
 <br><a href="/files/pld3.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process.pdf</a>
 </p>
-<h4>Student iCON</h4>
 <p></p>
+<p></p>
+<h4>Student iCON</h4>
 <p>To reset your Student Icon password (if you have not set your security
 questions), or resolve issues related to your PLD, please approach the
 ICT Manager or Desktop Engineers at Level 2, ICT Student Services Hub.</p>
@@ -122,8 +128,8 @@ only)</p>
 additional resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I </a>and&nbsp;
-<a href="/files/2024/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Hadbook I </a>and&nbsp;
+<a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
 </p>
 </li>
 <li>
