@@ -36,6 +36,6 @@ sections:
       id: infopic
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/bpghs
-      image: /images/askgov.png
+      image: /images/Untitled_design__5_.png
       alt: Image alt text
 ---
