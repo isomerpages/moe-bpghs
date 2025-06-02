@@ -30,4 +30,12 @@ sections:
         2024 by flipping through our online yearbook!
       button: Take A Look
       url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION?
+      id: infopic
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/bpghs
+      image: /images/askgov.png
+      alt: Image alt text
 ---
