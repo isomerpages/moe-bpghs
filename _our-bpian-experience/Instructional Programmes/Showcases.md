@@ -6,8 +6,6 @@ description: ""
 third_nav_title: Instructional Programmes
 ---
 <h1>Showcases</h1>
-<p><strong><em>Instructional Programme and Co-Curricular Activities</em></strong>
-</p>
 <p><strong>Instructional Programme in BPGHS</strong>
 </p>
 <div class="iframe-wrapper">
