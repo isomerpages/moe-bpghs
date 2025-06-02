@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>CCAs</h3>
+<hr>
 <p>To access a list of CCAs, click on the relevant tabs on the left-hand
 side of the page or the menu tab at the top of the page (mobile version).*</p>
+<hr>
 <p><strong>CCA - Teaser</strong>
 </p>
 <div class="iframe-wrapper">
@@ -15,6 +17,7 @@ side of the page or the menu tab at the top of the page (mobile version).*</p>
 <p>We aim to develop our students holistically by providing experiences that
 inculcate sound moral values, build character, and foster camaraderie.
 A teaser of the CCAs.</p>
+<hr>
 <p><strong><em>Performing Arts Showcase</em></strong>
 </p>
 <p>At the SYF 2021, our performing arts groups, namely Chinese Dance, Chinese
@@ -26,6 +29,7 @@ up equally enthralling performances. Hope you enjoy their performances.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1ZTG-2iwlmE"></iframe>
 </div>
+<p></p>
 <p>The CCA programme plays a significant role in the holistic development
 of our students. CCAs inculcate sound moral values, build character, foster
 camaraderie and deepen students’ sense of belonging and sense of responsibility
