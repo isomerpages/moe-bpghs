@@ -34,7 +34,7 @@ and benevolence, which stand as beacons in our lives.
 our district which reminds us of our humble rural beginnings.
 <br>The <strong>Book</strong>, which contains our Motto, signifies the BPians'
 educational journey.</p>
-<p>The <strong>Three symbols</strong> stand for different aspects of our educational
+<p>The <strong>three symbols</strong> stand for different aspects of our educational
 programme:
 <br>The Atom - laying a strong foundation in cognitive and character development
 <br>The Ship - imbuing a spirit of discovery and lifelong learning
