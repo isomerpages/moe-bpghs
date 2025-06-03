@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Bukit Panjang Government High School
 locations:
   - address:
-      - "7 Choa Chu Kang "
+      - 7 Choa Chu Kang
       - Avenue 4
       - Singapore 689809
     operating_hours:
@@ -23,7 +23,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Chao Chu Kang
+      - other: Choa Chu Kang
     title: Nearest MRT
   - content:
       - phone: ""
@@ -36,4 +36,5 @@ contacts:
       - email: ""
       - other: Take Bus 300 or 983 from Choa Chu Kang MRT station
     title: Getting to Us
+feedback: ""
 ---
