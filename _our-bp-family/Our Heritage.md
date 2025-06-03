@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h1>Our Heritage</h1>
 <hr>
-<h2>Strong Heritage</h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UKf-LxjWamE"></iframe>
 </div>
