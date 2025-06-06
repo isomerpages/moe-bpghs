@@ -114,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Mathematics (covering)</p>
+<p>Subject Head / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Penny Goh</p>
