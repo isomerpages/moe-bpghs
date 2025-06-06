@@ -102,7 +102,6 @@ the selected PLD.</p>
 <br><a href="/files/pld3.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process.pdf</a>
 </p>
 <p></p>
-<p></p>
 <h4>Student iCON</h4>
 <p>To reset your Student Icon password (if you have not set your security
 questions), or resolve issues related to your PLD, please approach the
@@ -122,7 +121,6 @@ ICT Manager or Desktop Engineers at Level 2, ICT Student Services Hub.</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <h4>Additional Resources for Parents</h4>
 <p>To support you in keeping your child safe online, you may refer to these
 additional resources:</p>
