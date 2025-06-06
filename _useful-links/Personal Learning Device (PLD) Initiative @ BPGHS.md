@@ -108,7 +108,9 @@ questions), or resolve issues related to your PLD, please approach the
 ICT Manager or Desktop Engineers at Level 2, ICT Student Services Hub.</p>
 <p></p>
 <h4>Other technical information:</h4>
-<p>Please click on the link to access the <a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal </a>for other information</p>
+<p>For information on the following, please click on the link to access the
+<a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Information on bluetooth keyboard (For Microsoft Surface Go Users only)</p>
