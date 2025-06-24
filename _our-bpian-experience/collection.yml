@@ -2,11 +2,14 @@ collections:
   our-bpian-experience:
     output: true
     order:
+      - 2024 Yearbook.md
       - Our Achievements/.keep
       - Our Achievements/Our Achievements.md
       - Our Achievements/Academic Achievements.md
       - Our Achievements/Non Academic Achievements.md
       - Our Achievements/Staff Achievements.md
+      - Our Achievements/Our Alumni Stories.md
+      - Instructional Programmes/Showcases.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English.md
       - Instructional Programmes/Mother Tongue.md

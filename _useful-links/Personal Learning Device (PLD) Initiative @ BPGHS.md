@@ -86,14 +86,15 @@ the selected PLD.</p>
 </p>
 <p><a href="/files/Procedures_for_Device_Issues_2025.pdf" rel="noopener nofollow" target="_blank">Procedures for Device Issues 2025</a>
 </p>
-<p><a href="https://form.gov.sg/615fd833d09a290014ac2f05" rel="noopener nofollow" target="_blank">Request to change DMA setting</a>
+<p><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
 </p>
+<p></p>
 <p><strong>For Secondary 2</strong> 
 <br><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a> 
 <br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a> 
 <br><a href="/files/2024/Procedures_for_Device_Issues_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process</a>
 </p>
-<p><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase replacement accessories</a>
+<p><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
 </p>
 <p><strong>For Secondary 3, 4, 5</strong>
 <br><a href="/files/pld1.pdf" rel="noopener noreferrer nofollow" target="_blank">Microsoft-SurfaceGo3.pdf</a> 
@@ -101,28 +102,27 @@ the selected PLD.</p>
 <br><a href="/files/pld3.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process.pdf</a>
 </p>
 <p></p>
-<p></p>
 <h4>Student iCON</h4>
 <p>To reset your Student Icon password (if you have not set your security
 questions), or resolve issues related to your PLD, please approach the
 ICT Manager or Desktop Engineers at Level 2, ICT Student Services Hub.</p>
 <p></p>
 <h4>Other technical information:</h4>
+<p>For information on the following, please click on the link to access the
+<a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Information on bluetooth keyboard (For Microsoft Surface Go Users
-only)</p>
+<p>Information on bluetooth keyboard (For Microsoft Surface Go Users only)</p>
 </li>
 <li>
 <p>Set up MIMS Challenge Questions</p>
 </li>
 <li>
 <p>Others</p>
-<p>Please click on the link here: <a href="https://go.gov.sg/ict-bpghs" rel="noopener noreferrer nofollow" target="_blank">BPGHS ICT Portal</a>
-</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <h4>Additional Resources for Parents</h4>
 <p>To support you in keeping your child safe online, you may refer to these
 additional resources:</p>
@@ -147,6 +147,10 @@ additional resources:</p>
 </li>
 <li>
 <p>TOUCH Community Services (<a href="https://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">https://help123.sg</a>)</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/615fd833d09a290014ac2f05" rel="noopener nofollow" target="_blank">Request to change DMA setting</a>
+</p>
 </li>
 </ul>
 <h3>Frequently Asked Questions and Answers</h3>
@@ -177,7 +181,7 @@ additional resources:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sherlyn Tan
-<br>(SH ICT) tan_xue_ling_sherlyn@moe.edu.sg</p>
+<br>(Subject Head / ICT) tan_xue_ling_sherlyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dewi (ICT Manager) dewi_rosyati_sheik@moe.edu.sg</p>
