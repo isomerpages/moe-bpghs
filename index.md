@@ -17,10 +17,10 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
       variant: image
   - infobar:
-      title: Direct School Admission Exercise 2025
+      title: Update to Direct School Admission Exercise 2025
       id: infobar
-      description: Information regarding the upcoming DSA exercise can be found in the
-        link below.
+      description: "Dear DSA applicants, the schedule for DSA selection and results
+        has been updated in the link below:"
       button: DSA 2025
       url: https://www.bpghs.moe.edu.sg/dsa-2025/
   - infobar:
