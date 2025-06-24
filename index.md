@@ -19,8 +19,8 @@ sections:
   - infobar:
       title: Update to Direct School Admission Exercise 2025
       id: infobar
-      description: "Dear DSA applicants, the schedule for DSA selection and results
-        has been updated in the link below:"
+      description: "Dear DSA applicants, the schedule for DSA Exercise 2025 has been
+        updated in the link below:"
       button: DSA 2025
       url: https://www.bpghs.moe.edu.sg/dsa-2025/
   - infobar:
