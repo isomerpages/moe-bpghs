@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Timetable_for_classes__240625.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Timetable</a> updated
+26 Jun</p>
+</li>
+<li>
 <p><a href="https://docs.google.com/spreadsheets/d/1qd8RagFKDzv5Ai7a0xv_RDiGmFhnV7Eq/edit?usp=sharing&amp;ouid=114076641539275533540&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2025 June Holiday CCA Schedule</a> updated
 2 Jun</p>
 </li>
