@@ -42,8 +42,9 @@ or ITE Early Admissions Exercise (EAE).</p>
 <p>(Even though appointments show only afternoon slots, walk-ins or morning
 appointments are possible if the student has a free period.)</p>
 <p></p>
-<p>Any enquiries? Send them to <a href="https://go.gov.sg/resil-boosters" rel="noopener noreferrer nofollow" target="_blank"><u>fan_kaideng@moe.edu.sg</u></a>
+<p>Any enquiries? Send them to <a href="mailto:fan_kaideng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_kaideng@moe.edu.sg</a>
 </p>
+<p></p>
 <p>
 <br>
 </p>
