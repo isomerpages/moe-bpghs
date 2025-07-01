@@ -6,47 +6,46 @@ variant: tiptap
 third_nav_title: For Students
 ---
 <h3>ECG Counselling</h3>
-<p><strong>When would you require ECG Counselling? When you want to:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>find out more about your strengths and weaknesses;</p>
-</li>
-<li>
-<p>understand which educational pathway is suitable for you;</p>
-</li>
-<li>
-<p>find out more about different career options;</p>
-</li>
-<li>
-<p>need to make an informed decision about your educational pathway, and/or</p>
-</li>
-<li>
-<p>need to prepare resumes and interviews for Direct School Admission (DSA)
-Exercises to JCs, Early Admission Exercise (EAE) to Polys or ITE.</p>
-</li>
-</ul>
-<p><strong>Name of ECG Counsellor:</strong>&nbsp;Ms Lum Limin
-<br><strong>Venue:</strong>&nbsp;MP12 (Block G, Level 1)
-<br><strong>Day / Time:</strong>&nbsp;Every Monday &amp; Wednesday, 0730h
-to 1700h
-<br><strong>How to make an appointment:</strong>&nbsp;Email Ms Lum at&nbsp;
-<a href="mailto:ecgcounselling2016@gmail.com" rel="noopener noreferrer nofollow" target="_blank">ecgcounselling2016@gmail.com</a>
-</p>
-<p></p>
-<h3>Education and Career Guidance Information</h3>
+<p>ECG Counselling is <strong>for every student</strong> who wishes to achieve
+any of the following <strong>ECG goals</strong>:</p>
 <ul>
 <li>
-<p>Please click&nbsp;<a href="https://drive.google.com/open?id=12hsHgUH0z_JJKD6a053zY7Q_kUXzAA6C" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-access the Singapore Polytechnic Slides.</p>
+<p>To find out more about yourself through discovering your Values, Interests,
+Personality, Skills &amp; Strengths (VIPS);</p>
 </li>
 <li>
-<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1_ZMcfziv7k2XF3Sdz7I-VCTiFgTL2RDj/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-access the Institute of Education (ITE) Slides.</p>
+<p>To explore various Post-Secondary options linked to your VIPS;</p>
 </li>
 <li>
-<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1R5eTzgHUq5RKeiPmWMuW3kTR6fq9vKix/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-access the presentation by our ECG Counsellor.</p>
+<p>To set <a href="https://go.gov.sg/resil-boosters" rel="noopener noreferrer nofollow" target="_blank"><u>S.M.A.R.T goals (click and refer to page 6)</u></a> and
+create actionable plans to reach them.</p>
 </li>
 </ul>
+<p></p>
+<p>More specifically, you can also approach our school’s ECG Counsellor if
+you need help or advice:</p>
+<ul>
+<li>
+<p>making informed decisions about your educational pathway;</p>
+</li>
+<li>
+<p>preparing for your application for JC-Direct School Admission (DSA), Poly
+or ITE Early Admissions Exercise (EAE).</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Name of ECG Counsellor:</strong> Mr Fan Kaideng
+<br><strong>Venue:</strong> ECG Room (Block G, Level 1, Room G01-02)
+<br><strong>Day / Time: </strong>Every Monday &amp; Wednesday, 8.00am to 5.30pm</p>
+<p>Make an appointment with Mr Fan: <a href="https://go.gov.sg/bpecg" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/bpecg</u></a>
+</p>
+<p>(Even though appointments show only afternoon slots, walk-ins or morning
+appointments are possible if the student has a free period.)</p>
+<p></p>
+<p>Any enquiries? Send them to <a href="mailto:fan_kaideng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fan_kaideng@moe.edu.sg</a>
+</p>
+<p></p>
+<p>
+<br>
+</p>
 <p></p>
