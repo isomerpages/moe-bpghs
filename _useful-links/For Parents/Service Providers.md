@@ -7,7 +7,13 @@ third_nav_title: For Parents
 ---
 <p><strong><u>BUKIT PANJANG GOVT HIGH SCHOOL <br>SCHOOL SUPPLIERS/SERVICE PROVIDERS</u></strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -38,7 +44,7 @@ third_nav_title: For Parents
 <p>SHINGLEE BOOKSTORES PTE LTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.shingleebookstores.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.shingleebookstores.com.sg</a>
+<p><a href="https://sl-education.myshopify.com/" rel="noopener noreferrer nofollow" target="_blank">https://sl-education.myshopify.com/</a>
 </p>
 </td>
 </tr>
@@ -53,7 +59,7 @@ third_nav_title: For Parents
 <p>YANG TZE KIANG TAILOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank">www.yangtzekiang.com.sg/eshop/</a>
+<p><a href="https://www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank">https://www.yangtzekiang.com.sg/eshop/</a>
 </p>
 </td>
 </tr>
