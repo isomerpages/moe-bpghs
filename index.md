@@ -15,6 +15,9 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+        - title: FAQs
+          description: ""
+          url: https://ask.gov.sg/bpghs
       variant: image
   - infobar:
       title: Update to Direct School Admission Exercise 2025
