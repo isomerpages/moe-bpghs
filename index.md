@@ -15,6 +15,9 @@ sections:
         - title: Calendar of Events
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+        - title: 2024 Yearbook
+          description: ""
+          url: https://online.fliphtml5.com/obrr/uoqt/#p=1
         - title: FAQs
           description: ""
           url: https://ask.gov.sg/bpghs
