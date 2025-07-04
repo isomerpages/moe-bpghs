@@ -5,8 +5,458 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h1>2024 Achievements</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Sports</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division Boys (League 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Zhong Cup 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys (West Zone): 1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls (West Zone): 2nd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys (National): 1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls (National): Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships C Division (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls (National): 1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys (National): Top 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG West Zone 2024 B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ultimate Frisbee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jurong West Inter-School Ultimate Frisbee Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Floorball C Division Boys (League 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Spectra Floorball Carnival (B Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2024 C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls (Team): 3rd runner-up Girls Epee (Individual): 2nd runner-up Boys
+Epee: Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2024 B Division Boys &amp; Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Performing Arts</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>第十六届全国华语短片制作比赛 —— 网上投选最受欢迎海报</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Popular</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asia Pacific Band Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Uniformed Groups</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olave St Clair Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West Division Day 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poster Design: 1st
+<br>Green Genius Challenge: 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 NCC Outstanding Cadet Award - Woo Chi Sum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Station Inspector (SI) Rank</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>District First Aid and Nursing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Cadet (2nd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief commissioner badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Awardees (Sec 4 members)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commissioner badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Awardees (Sec 3 members)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Clubs &amp; Societies</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.E.mation! 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RoboCup 2024 Singapore Open</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Rescue Line U19 Merit Award, Distinction Award, 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Robotics Olympiad 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Robomission 2 teams of five students were awarded Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BP Communication Link</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Skills Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h1>2023 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -305,7 +755,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -418,7 +873,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -564,7 +1024,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -634,7 +1099,12 @@ Autonomous Driving U19.</p>
 </tbody>
 </table>
 <h1>2022 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -680,7 +1150,12 @@ Autonomous Driving U19.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -731,7 +1206,12 @@ Autonomous Driving U19.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -853,7 +1333,12 @@ Autonomous Driving U19.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -930,7 +1415,12 @@ Autonomous Driving U19.</p>
 </tbody>
 </table>
 <h1>2021 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -976,7 +1466,12 @@ Autonomous Driving U19.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1077,7 +1572,12 @@ Autonomous Driving U19.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1212,7 +1712,12 @@ Autonomous Driving U19.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1284,7 +1789,12 @@ SuperTeam Event</p>
 </tbody>
 </table>
 <h1>2020 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -1358,7 +1868,12 @@ SuperTeam Event</p>
 </tbody>
 </table>
 <h1>2019 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -1603,7 +2118,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -1715,7 +2235,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -1857,7 +2382,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -1934,7 +2464,12 @@ SuperTeam Event</p>
 </tbody>
 </table>
 <h1>2018 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -2205,7 +2740,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -2254,7 +2794,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -2450,7 +2995,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -2580,7 +3130,12 @@ SuperTeam Event</p>
 <br>
 </p>
 <h1>2017 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -2864,7 +3419,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -2992,7 +3552,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -3156,7 +3721,12 @@ SuperTeam Event</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
