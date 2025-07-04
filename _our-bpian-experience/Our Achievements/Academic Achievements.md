@@ -5,8 +5,338 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h1>2024 Achievements</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACJC Orator's Trophy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Plain English Speaking Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICAS English Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary One:</p>
+<p>1 High Distinction, 5 Distinction Secondary Two:</p>
+<p>3 Distinction Secondary Three:</p>
+<p>3 High Distinction, 1 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore Geography Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 2 Bronze and 1 Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Section:</p>
+<p>4 Bronze, 2 Honourable Mention Senior Section:</p>
+<p>1 Gold, 1 Silver, 6 Honourable Mention, 1 student ranked 27th in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“Script It Right” Chinese Radio Drama Script Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists' Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: 1 Silver, 1 Bronze
+<br>Group: 1 Silver, 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Translation Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue - EMAS/MLEP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creative Arts Programme (CAP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mentorship with Berita Harian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pertandingan Sahibba</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students’ In-Person Focus Group Discussion for Review of O-level Literature
+in Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Combined Mother Tongue Language and Literature Seminar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMAS &amp; MLEP Symposium</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS "Bisikan Pena" Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver, 6 Bronze, 3 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Silver, 3 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 2 Silver, 5 Bronze, 1 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A*STAR Science Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biomedical Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold, 2 Silver, 3 Bronze, 3 Honourable Mention, 1 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Physics League</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Playground Challenge 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A*STAR-VJC Science Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists + Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lam Soon Sandwich Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h1>2023 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -189,7 +519,12 @@ Development Programme.</p>
 </tbody>
 </table>
 <h1>2022 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -420,7 +755,12 @@ Children &amp; Youth Bilingual Speech Convention
 </tbody>
 </table>
 <h1>2021 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -646,7 +986,12 @@ Radio Drama Script Writing
 </tbody>
 </table>
 <h1>2020 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -770,7 +1115,12 @@ Radio Drama Script Writing
 </tbody>
 </table>
 <h1>2019 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1056,7 +1406,12 @@ Bilingual Speech Convention</p>
 </tbody>
 </table>
 <h1>2018 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1306,7 +1661,12 @@ Youth Bilingual Speech Convention)</p>
 </tbody>
 </table>
 <h1>2017 Achievements</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
