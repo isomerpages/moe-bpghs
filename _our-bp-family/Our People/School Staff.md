@@ -35,10 +35,10 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Tat Chuan Justin</p>
+<p>Ms Lim Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_tat_chuan_justin@moe.edu.sg</p>
+<p>lim_li_ting_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -157,10 +157,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dav Tan</p>
+<p>Mr Koh Kim Hua Nicholas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sik_kuan_b@moe.edu.sg</p>
+<p>koh_kim_hua_nicholas@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
