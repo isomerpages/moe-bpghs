@@ -44,8 +44,8 @@ third_nav_title: For Parents
 <p>SHINGLEE BOOKSTORES PTE LTD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sl-education.myshopify.com/" rel="noopener noreferrer nofollow" target="_blank">https://sl-education.myshopify.com/</a>
-</p>
+<p>Email <a href="mailto:info@sl-education.com" rel="noopener noreferrer nofollow" target="_blank">info@sl-education.com</a> for
+enquiry</p>
 </td>
 </tr>
 <tr>
