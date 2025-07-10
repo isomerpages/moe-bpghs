@@ -59,7 +59,7 @@ enquiry</p>
 <p>YANG TZE KIANG TAILOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank">https://www.yangtzekiang.com.sg/eshop/</a>
+<p><a href="https://www.yangtzekiang.com.sg/eshop/shop/?swoof=1&amp;school=bukit-panjang-govt-high-school" rel="noopener nofollow" target="_blank">Eshop Link</a>
 </p>
 </td>
 </tr>
