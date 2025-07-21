@@ -13,68 +13,33 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOESCHETQ25003024</p>
+<td rowspan="1" colspan="2">
+<p>Gebiz Invitation to Quote</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Period of ITQ</p>
+<p>ITQ Description:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Publish Date: 10 Jul 2025
-<br>Close Date: 18 Jul 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Description of ITQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supply of Manpower Services for Bukit Panjang Govt High School.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOESCHETQ25002777</p>
+<p>Instructor for Fencing CCA Training Programme in 2026 with option to extend
+in 2027</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Site Visit</p>
+<p>Publish date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 Jul 2025, 2.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Close date</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 Jul 2025, 1:00pm</p>
+<p>21st July 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Description of ITQ</p>
+<p>Close date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design, supply and construction of Courtyard</p>
+<p>29th July 2025, 1:00pm</p>
 </td>
 </tr>
 </tbody>
