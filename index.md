@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://ask.gov.sg/bpghs
       variant: center
-      title: Every BPian a Learner, and an Inspiring Leader of Good
+      title: Passionate. Inspiring. Future-Ready.
       subtitle: To nurture Learner-Leaders who Think, Care and Serve
   - infobar:
       title: Update to Direct School Admission Exercise 2025
