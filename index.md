@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing_Page_Picture_4.png
+      background: /images/Landing_Page.png
       key_highlights:
         - title: Announcements & Events
           description: ""
@@ -21,7 +21,9 @@ sections:
         - title: FAQs
           description: ""
           url: https://ask.gov.sg/bpghs
-      variant: image
+      variant: center
+      title: Every BPian a Learner, and an Inspiring Leader of Good
+      subtitle: To nurture Learner-Leaders who Think, Care and Serve
   - infobar:
       title: Update to Direct School Admission Exercise 2025
       id: infobar
