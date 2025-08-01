@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Landing_Page.png
       key_highlights:
+        - title: BP Pulse
+          description: ""
+          url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
         - title: Announcements & Events
           description: ""
           url: /announcements-and-updates/
-        - title: Calendar of Events
-          description: ""
-          url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
         - title: 2024 Yearbook
           description: ""
           url: https://online.fliphtml5.com/obrr/uoqt/#p=1
