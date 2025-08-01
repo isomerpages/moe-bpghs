@@ -7,23 +7,21 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing_Page.png
+      background: /images/Landing_Page_Picture_4.png
       key_highlights:
         - title: BP Pulse
           description: ""
           url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
-        - title: Announcements & Events
+        - title: Announcements
           description: ""
           url: /announcements-and-updates/
-        - title: 2024 Yearbook
+        - title: Instagram
           description: ""
-          url: https://online.fliphtml5.com/obrr/uoqt/#p=1
-        - title: FAQs
+          url: https://www.instagram.com/bpghs.official/?hl=en
+        - title: Tik Tok
           description: ""
-          url: https://ask.gov.sg/bpghs
-      variant: center
-      title: Passionate. Inspiring. Future-Ready.
-      subtitle: To nurture Learner-Leaders who Think, Care and Serve
+          url: https://www.tiktok.com/@bpian.experience
+      variant: image
   - infobar:
       title: Update to Direct School Admission Exercise 2025
       id: infobar
