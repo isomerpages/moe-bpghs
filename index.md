@@ -31,6 +31,33 @@ sections:
       button: DETAILS HERE
       url: https://www.bpghs.moe.edu.sg/dsa-2025/
       alt: Image alt text
+      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
+  - infopic:
+      title: THINK
+      subtitle: FUTURE-READY LEARNERS
+      id: infopic
+      button: Instructional Programmes
+      url: https://www.bpghs.moe.edu.sg/english/
+      image: /images/250527_Sec_1__3_interclass_games_Day_2_147.jpg
+      alt: Image alt text
+  - infopic:
+      title: CARE
+      subtitle: PASSIONATE YOUTHS
+      id: infopic
+      description: Infopic description
+      button: Co-Curricular Activities (CCA)
+      url: https://www.bpghs.moe.edu.sg/ccas/ccas/
+      image: /images/250106_BPGHS_Sec_1_Orientation_Camp_Day_3_Selected_10.jpg
+      alt: Image alt text
+  - infopic:
+      title: SERVE
+      subtitle: INSPIRING LEADERS OF GOOD
+      id: infopic
+      description: Infopic description
+      button: Student Development Programmes
+      url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
+      image: /images/250403_BPGHS_Sustainable_Gallery_47.jpg
+      alt: Image alt text
   - infobar:
       title: Update to Direct School Admission Exercise 2025
       id: infobar
