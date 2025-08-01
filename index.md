@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: BP Pulse
           description: ""
-          url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
+          url: /highlights/
         - title: Announcements
           description: ""
           url: /announcements-and-updates/
