@@ -22,6 +22,15 @@ sections:
           description: ""
           url: https://www.tiktok.com/@bpian.experience
       variant: image
+  - infopic:
+      title: Direct School Admission Exercise 2025
+      subtitle: JOIN THE BPIAN FAMILY
+      id: infopic
+      description: "Find out more about our Direct School Admission (DSA) Exercise for
+        admission to Secondary 1 in 2026:"
+      button: DETAILS HERE
+      url: https://www.bpghs.moe.edu.sg/dsa-2025/
+      alt: Image alt text
   - infobar:
       title: Update to Direct School Admission Exercise 2025
       id: infobar
