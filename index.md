@@ -44,7 +44,6 @@ sections:
       title: CARE
       subtitle: PASSIONATE YOUTHS
       id: infopic
-      description: Infopic description
       button: Co-Curricular Activities (CCA)
       url: https://www.bpghs.moe.edu.sg/ccas/ccas/
       image: /images/250106_BPGHS_Sec_1_Orientation_Camp_Day_3_Selected_10.jpg
@@ -53,18 +52,10 @@ sections:
       title: SERVE
       subtitle: INSPIRING LEADERS OF GOOD
       id: infopic
-      description: Infopic description
       button: Student Development Programmes
       url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
       image: /images/250403_BPGHS_Sustainable_Gallery_47.jpg
       alt: Image alt text
-  - infobar:
-      title: Update to Direct School Admission Exercise 2025
-      id: infobar
-      description: "Dear DSA applicants, the schedule for DSA Exercise 2025 has been
-        updated in the link below:"
-      button: DSA 2025
-      url: https://www.bpghs.moe.edu.sg/dsa-2025/
   - infobar:
       title: 2024 Yearbook
       id: infobar
@@ -72,6 +63,14 @@ sections:
         2024 by flipping through our online yearbook!
       button: Take A Look
       url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+  - infopic:
+      title: 2024 Yearbook
+      subtitle: BP experience
+      id: infopic
+      description: Our key events, achievements and milestones in 2024
+      button: Take a Look!
+      url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+      alt: Image alt text
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
