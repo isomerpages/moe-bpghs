@@ -56,13 +56,6 @@ sections:
       url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
       image: /images/250403_BPGHS_Sustainable_Gallery_47.jpg
       alt: Image alt text
-  - infobar:
-      title: 2024 Yearbook
-      id: infobar
-      description: Find out more about our key events, achievements and milestones in
-        2024 by flipping through our online yearbook!
-      button: Take A Look
-      url: https://online.fliphtml5.com/obrr/uoqt/#p=1
   - infopic:
       title: 2024 Yearbook
       subtitle: BP experience
@@ -71,6 +64,7 @@ sections:
       button: Take a Look!
       url: https://online.fliphtml5.com/obrr/uoqt/#p=1
       alt: Image alt text
+      image: /images/yearbook.png
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
