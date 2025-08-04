@@ -40,6 +40,8 @@ sections:
       url: https://www.bpghs.moe.edu.sg/english/
       image: /images/250527_Sec_1__3_interclass_games_Day_2_147.jpg
       alt: Image alt text
+      description: Nurturing sharp thinkers through well-rounded academic programmes
+        that inspire curiosity and excellence.
   - infopic:
       title: CARE
       subtitle: PASSIONATE YOUTHS
@@ -48,6 +50,8 @@ sections:
       url: https://www.bpghs.moe.edu.sg/ccas/ccas/
       image: /images/250106_BPGHS_Sec_1_Orientation_Camp_Day_3_Selected_10.jpg
       alt: Image alt text
+      description: Developing every student's growth by offering a diverse range of
+        CCAs that nurture passions, build character, and foster belonging.
   - infopic:
       title: SERVE
       subtitle: INSPIRING LEADERS OF GOOD
@@ -56,6 +60,8 @@ sections:
       url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
       image: /images/250403_BPGHS_Sustainable_Gallery_47.jpg
       alt: Image alt text
+      description: Empowering students to serve with purpose through programmes that
+        cultivate empathy, leadership, and a commitment to making a difference.
   - infopic:
       title: 2024 Yearbook
       subtitle: BP experience
@@ -71,6 +77,6 @@ sections:
       id: infopic
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/bpghs
-      image: /images/Untitled_design__6_.png
+      image: /images/askgov4.png
       alt: Image alt text
 ---
