@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Landing_Page_Picture_4.png
       key_highlights:
-        - title: BP Pulse
+        - title: The BP Pulse
           description: ""
           url: /highlights/
         - title: Announcements
