@@ -23,8 +23,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MOESCHETQ25003471</p>
-<p>Two days Arts Enrichment Programme with Music and Dance Modules for secondary
-three student on 22 &amp; 23 October 2025</p>
+<p>Two days Arts Enrichment Programme with Music and Dance Modules for Secondary
+Three students on 22 &amp; 23 October 2025</p>
 </td>
 </tr>
 <tr>
