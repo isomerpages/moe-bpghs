@@ -22,8 +22,9 @@ variant: tiptap
 <p>ITQ Description:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instructor for Fencing CCA Training Programme in 2026 with option to extend
-in 2027</p>
+<p>MOESCHETQ25003471</p>
+<p>Two days Arts Enrichment Programme with Music and Dance Modules for secondary
+three student on 22 &amp; 23 October 2025</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ in 2027</p>
 <p>Publish date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21st July 2025</p>
+<p>5 Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,7 @@ in 2027</p>
 <p>Close date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29th July 2025, 1:00pm</p>
+<p>13 Aug 2025, 1:00pm</p>
 </td>
 </tr>
 </tbody>
