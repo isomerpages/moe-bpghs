@@ -18,9 +18,6 @@ sections:
         - title: Instagram
           description: ""
           url: https://www.instagram.com/bpghs.official/?hl=en
-        - title: Tik Tok
-          description: ""
-          url: https://www.tiktok.com/@bpian.experience
       variant: image
   - infopic:
       title: Direct School Admission Exercise 2025
