@@ -11,6 +11,10 @@ variant: tiptap
 26 Jul</p>
 </li>
 <li>
+<p><a href="/files/2025_Prelim_Timetable_with_venues__updated_4_Aug_.pdf" rel="noopener nofollow" target="_blank">2025 Prelim Exam Timetable</a> updated
+4 Aug</p>
+</li>
+<li>
 <p><a href="/files/Timetable_for_classes__240625.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Timetable</a> updated
 26 Jun</p>
 </li>
