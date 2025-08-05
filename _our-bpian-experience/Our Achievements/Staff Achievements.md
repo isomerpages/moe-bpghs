@@ -11,7 +11,7 @@ their National Day Awards 2024!</p>
 <p><strong>THE COMMENDATION MEDAL [Pingat Kepujian]</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/photo_6246774695466747560_y.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/photo_6246774695466747560_y.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,13 +28,13 @@ their National Day Awards 2024!</p>
 <p><strong>THE LONG SERVICE MEDAL [Pingat Bakti Setia]</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/photo_6246774695466747561_y.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/photo_6246774695466747561_y.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Koh Puay Leng Joan (HOD / PE Department)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/photo_6246774695466747562_y.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/photo_6246774695466747562_y.jpg">
 </div>
 </li>
 <li>
@@ -60,11 +60,11 @@ received their National Day Awards 2022!</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/national%20day%20awards%202022(2).jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/national%20day%20awards%202022(2).jpg">
 </div>
 <h2>2021 Inspiring Teacher of English Award (ITEA)</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/ITEA_Brian.jpeg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/ITEA_Brian.jpeg">
 </div>
 <p>
 <br>
