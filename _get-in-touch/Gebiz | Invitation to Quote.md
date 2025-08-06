@@ -45,5 +45,43 @@ Three students on 22 &amp; 23 October 2025</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Gebiz Invitation to Quote</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITQ Description:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instructor for Chinese Drama CCA Training Programme in 2026 with option
+to extend in 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publish date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Aug 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Close date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 Aug 2025, 1:00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
