@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Gebiz | Invitation to Quote</h3>
-<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,6 +45,7 @@ Three students on 22 &amp; 23 October 2025</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
