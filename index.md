@@ -34,7 +34,7 @@ sections:
       subtitle: FUTURE-READY LEARNERS
       id: infopic
       button: Instructional Programmes
-      url: https://www.bpghs.moe.edu.sg/english/
+      url: https://www.bpghs.moe.edu.sg/showcases/
       image: /images/250527_Sec_1__3_interclass_games_Day_2_147.jpg
       alt: Image alt text
       description: Nurturing sharp thinkers through well-rounded academic programmes
@@ -43,8 +43,8 @@ sections:
       title: CARE
       subtitle: PASSIONATE YOUTHS
       id: infopic
-      button: Co-Curricular Activities (CCA)
-      url: https://www.bpghs.moe.edu.sg/ccas/ccas/
+      button: Student Development Programmes
+      url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
       image: /images/250106_BPGHS_Sec_1_Orientation_Camp_Day_3_Selected_10.jpg
       alt: Image alt text
       description: Developing every student's growth by offering a diverse range of
@@ -53,8 +53,8 @@ sections:
       title: SERVE
       subtitle: INSPIRING LEADERS OF GOOD
       id: infopic
-      button: Student Development Programmes
-      url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
+      button: Student Leadership Development
+      url: https://www.bpghs.moe.edu.sg/cce/student-leadership-development/
       image: /images/250403_BPGHS_Sustainable_Gallery_47.jpg
       alt: Image alt text
       description: Empowering students to serve with purpose through programmes that
