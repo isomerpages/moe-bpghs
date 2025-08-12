@@ -45,17 +45,18 @@ sections:
       id: infopic
       button: Student Development Programmes
       url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
-      image: /images/250106_BPGHS_Sec_1_Orientation_Camp_Day_3_Selected_10.jpg
+      image: /images/250102_BPGHS_Sec_1_Orientation_Camp_Day_1_64.jpg
       alt: Image alt text
-      description: Developing every student's growth by offering a diverse range of
-        CCAs that nurture passions, build character, and foster belonging.
+      description: Building strong foundations for life through programmes that
+        develop character, emotional intelligence, and the values that guide
+        meaningful relationships.
   - infopic:
       title: SERVE
       subtitle: INSPIRING LEADERS OF GOOD
       id: infopic
       button: Student Leadership Development
       url: https://www.bpghs.moe.edu.sg/cce/student-leadership-development/
-      image: /images/250403_BPGHS_Sustainable_Gallery_47.jpg
+      image: /images/IMG_2417__1_.jpg
       alt: Image alt text
       description: Empowering students to serve with purpose through programmes that
         cultivate empathy, leadership, and a commitment to making a difference.
