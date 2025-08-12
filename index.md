@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/Landing_Page_Picture_4.png
       key_highlights:
-        - title: The BP Pulse
+        - title: Calendar of events
           description: ""
-          url: /highlights/
+          url: https://calendar.google.com/calendar/u/0/embed?src=bpian.experience@gmail.com&ctz=Asia/Singapore
         - title: Announcements
           description: ""
           url: /announcements-and-updates/
         - title: Instagram
           description: ""
-          url: https://www.instagram.com/bpghs.official/?hl=en
+          url: /highlights/
       variant: image
   - infopic:
       title: Direct School Admission Exercise 2025
