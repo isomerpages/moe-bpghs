@@ -54,8 +54,8 @@ sections:
       title: SERVE
       subtitle: INSPIRING LEADERS OF GOOD
       id: infopic
-      button: Student Leadership Development
-      url: https://www.bpghs.moe.edu.sg/cce/student-leadership-development/
+      button: Student Leadership
+      url: https://www.bpghs.moe.edu.sg/student-leadership-development/
       image: /images/IMG_2417__1_.jpg
       alt: Image alt text
       description: Empowering students to serve with purpose through programmes that
