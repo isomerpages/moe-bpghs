@@ -2,8 +2,6 @@ collections:
   our-bpian-experience:
     output: true
     order:
-      - Student Leadership/Student Leadership Development.md
-      - Student Leadership/.keep
       - Our Achievements/.keep
       - Our Achievements/Our Achievements.md
       - Our Achievements/Academic Achievements.md
@@ -27,3 +25,5 @@ collections:
       - Student Development Programmes/Full Subject Based Banding.md
       - Student Development Programmes/Sexuality Education.md
       - Student Development Programmes/Student Council.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership Development.md
