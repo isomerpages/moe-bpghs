@@ -17,7 +17,7 @@ sections:
           url: /announcements-and-updates/
         - title: Instagram
           description: ""
-          url: /highlights/
+          url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
       title: Direct School Admission Exercise 2025
