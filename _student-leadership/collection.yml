@@ -2,4 +2,5 @@ collections:
   student-leadership:
     output: true
     order:
+      - Student Council.md
       - Student Leadership Development.md
