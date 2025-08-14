@@ -2,7 +2,6 @@
 title: Student Council
 permalink: /cce/student-leadership-development/student-council/
 description: ""
-third_nav_title: Student Development Programmes
 ---
 ### Student Council
 

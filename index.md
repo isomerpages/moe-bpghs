@@ -9,39 +9,72 @@ sections:
   - hero:
       background: /images/Landing_Page_Picture_4.png
       key_highlights:
-        - title: Announcements & Events
+        - title: Calendar of events
+          description: ""
+          url: https://calendar.google.com/calendar/u/0/embed?src=bpian.experience@gmail.com&ctz=Asia/Singapore
+        - title: Announcements
           description: ""
           url: /announcements-and-updates/
-        - title: Calendar of Events
+        - title: Instagram
           description: ""
-          url: https://calendar.google.com/calendar/embed?src=bpian.experience%40gmail.com&ctz=Asia%2FSingapore
-        - title: 2024 Yearbook
-          description: ""
-          url: https://online.fliphtml5.com/obrr/uoqt/#p=1
-        - title: FAQs
-          description: ""
-          url: https://ask.gov.sg/bpghs
+          url: /highlights/
       variant: image
-  - infobar:
-      title: Update to Direct School Admission Exercise 2025
-      id: infobar
-      description: "Dear DSA applicants, the schedule for DSA Exercise 2025 has been
-        updated in the link below:"
-      button: DSA 2025
+  - infopic:
+      title: Direct School Admission Exercise 2025
+      subtitle: JOIN THE BPIAN FAMILY
+      id: infopic
+      description: "Find out more about our Direct School Admission (DSA) Exercise for
+        admission to Secondary 1 in 2026:"
+      button: DETAILS HERE
       url: https://www.bpghs.moe.edu.sg/dsa-2025/
-  - infobar:
+      alt: Image alt text
+      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
+  - infopic:
+      title: THINK
+      subtitle: FUTURE-READY LEARNERS
+      id: infopic
+      button: Instructional Programmes
+      url: https://www.bpghs.moe.edu.sg/showcases/
+      image: /images/250527_Sec_1__3_interclass_games_Day_2_147.jpg
+      alt: Image alt text
+      description: Nurturing sharp thinkers through well-rounded academic programmes
+        that inspire curiosity and excellence.
+  - infopic:
+      title: CARE
+      subtitle: PASSIONATE YOUTHS
+      id: infopic
+      button: Student Development Programmes
+      url: https://www.bpghs.moe.edu.sg/cce/character-and-citizenship-education/
+      image: /images/250102_BPGHS_Sec_1_Orientation_Camp_Day_1_64.jpg
+      alt: Image alt text
+      description: Building strong foundations for life through programmes that
+        develop character, emotional intelligence, and the values that guide
+        meaningful relationships.
+  - infopic:
+      title: SERVE
+      subtitle: INSPIRING LEADERS OF GOOD
+      id: infopic
+      button: Student Leadership
+      url: /cce/student-leadership-development/
+      image: /images/IMG_2417__1_.jpg
+      alt: Image alt text
+      description: Empowering students to serve with purpose through programmes that
+        cultivate empathy, leadership, and a commitment to making a difference.
+  - infopic:
       title: 2024 Yearbook
-      id: infobar
-      description: Find out more about our key events, achievements and milestones in
-        2024 by flipping through our online yearbook!
-      button: Take A Look
+      subtitle: BP experience
+      id: infopic
+      description: Our key events, achievements and milestones in 2024
+      button: Take a Look!
       url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+      alt: Image alt text
+      image: /images/yearbook.png
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
       id: infopic
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/bpghs
-      image: /images/Untitled_design__6_.png
+      image: /images/Screenshot_2025_08_04_101652.png
       alt: Image alt text
 ---

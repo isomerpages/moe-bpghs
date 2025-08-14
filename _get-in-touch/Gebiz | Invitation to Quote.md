@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Gebiz | Invitation to Quote</h3>
-<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,8 +22,9 @@ variant: tiptap
 <p>ITQ Description:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instructor for Fencing CCA Training Programme in 2026 with option to extend
-in 2027</p>
+<p>MOESCHETQ25003471</p>
+<p>Two days Arts Enrichment Programme with Music and Dance Modules for Secondary
+Three students on 22 &amp; 23 October 2025</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ in 2027</p>
 <p>Publish date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21st July 2025</p>
+<p>5 Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,46 @@ in 2027</p>
 <p>Close date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29th July 2025, 1:00pm</p>
+<p>13 Aug 2025, 1:00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Gebiz Invitation to Quote</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITQ Description:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instructor for Chinese Drama CCA Training Programme in 2026 with option
+to extend in 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publish date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Aug 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Close date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 Aug 2025, 1:00pm</p>
 </td>
 </tr>
 </tbody>

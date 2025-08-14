@@ -2,7 +2,6 @@
 title: Student Leadership Development
 permalink: /cce/student-leadership-development/
 description: ""
-third_nav_title: Student Development Programmes
 variant: markdown
 ---
 ### Student Leadership Development
