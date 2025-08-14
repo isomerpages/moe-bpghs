@@ -2,6 +2,7 @@ collections:
   our-bpian-experience:
     output: true
     order:
+      - Student Leadership/.keep
       - Our Achievements/.keep
       - Our Achievements/Our Achievements.md
       - Our Achievements/Academic Achievements.md
