@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h1>2025 National Day Awards</h1>
+<p>Here's our heartiest congratulations to the following staff who received
+their National Day Awards 2025!</p>
+<hr>
+<h3>Long Service Award</h3>
+<p>Mrs Christine Wong</p>
+<hr>
+<h3>Commendation Medal</h3>
+<p>Mr Tan Fong Wei</p>
+<p>Mdm Royhayati Bte Mohamed</p>
+<hr>
 <h1>2024 National Day Awards</h1>
 <p>Here's our heartiest congratulations to the following staff who received
 their National Day Awards 2024!</p>
