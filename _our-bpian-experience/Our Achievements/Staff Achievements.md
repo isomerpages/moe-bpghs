@@ -10,10 +10,22 @@ variant: tiptap
 their National Day Awards 2025!</p>
 <hr>
 <h3>Long Service Award</h3>
-<p>Mrs Christine Wong</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Christine Png Thiang Thiang" src="/images/MRS_CHRISTINE_WONG.jpg">
+</div>
+<p>Ms Christine Png Thiang Thiang</p>
 <hr>
 <h3>Commendation Medal</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MR_TAN_FONG_WEI.jpg">
+</div>
 <p>Mr Tan Fong Wei</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MDM_ROYHAYATI_MD_YUSOF.jpg">
+</div>
 <p>Mdm Royhayati Bte Mohamed</p>
 <hr>
 <h1>2024 National Day Awards</h1>
