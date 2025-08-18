@@ -14,6 +14,7 @@ their National Day Awards 2025!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Ms Christine Png Thiang Thiang" src="/images/MRS_CHRISTINE_WONG.jpg">
 </div>
+<p></p>
 <p>Ms Christine Png Thiang Thiang</p>
 <hr>
 <h3>Commendation Medal</h3>
