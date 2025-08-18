@@ -14,19 +14,31 @@ their National Day Awards 2025!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Ms Christine Png Thiang Thiang" src="/images/MRS_CHRISTINE_WONG.jpg">
 </div>
-<p>Ms Christine Png Thiang Thiang</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Christine Png Thiang Thiang (HOD/ English Language)</p>
+</li>
+</ul>
 <hr>
 <h3>Commendation Medal</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MR_TAN_FONG_WEI.jpg">
 </div>
-<p>Mr Tan Fong Wei</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Tan Fong Wei (Vice-Principal)</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MDM_ROYHAYATI_MD_YUSOF.jpg">
 </div>
-<p>Mdm Royhayati Bte Mohamed</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Royhayati Bte Mohamed (Senior Teacher/ Nutrition &amp; Food Science)</p>
+</li>
+</ul>
 <hr>
 <h1>2024 National Day Awards</h1>
 <p>Here's our heartiest congratulations to the following staff who received
