@@ -7,21 +7,9 @@ variant: tiptap
 ---
 <h1>2025 National Day Awards</h1>
 <p>Here's our heartiest congratulations to the following staff who received
-their National Day Awards 2025!</p>
-<hr>
-<h3>Long Service Award</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Ms Christine Png Thiang Thiang" src="/images/MRS_CHRISTINE_WONG.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Christine Png Thiang Thiang (HOD/ English Language)</p>
-</li>
-</ul>
-<hr>
-<h3>Commendation Medal</h3>
-<p></p>
+their National Day Awards!</p>
+<p><strong>THE COMMENDATION MEDAL [Pingat Kepujian]</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MR_TAN_FONG_WEI.jpg">
 </div>
@@ -39,10 +27,20 @@ their National Day Awards 2025!</p>
 <p>Mdm Royhayati Bte Mohamed (Senior Teacher/ Nutrition &amp; Food Science)</p>
 </li>
 </ul>
+<p></p>
+<p><strong>THE LONG SERVICE MEDAL [Pingat Bakti Setia]</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Ms Christine Png Thiang Thiang" src="/images/MRS_CHRISTINE_WONG.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Christine Png Thiang Thiang (HOD/ English Language)</p>
+</li>
+</ul>
+<p></p>
 <hr>
 <h1>2024 National Day Awards</h1>
-<p>Here's our heartiest congratulations to the following staff who received
-their National Day Awards 2024!</p>
 <p><strong>THE COMMENDATION MEDAL [Pingat Kepujian]</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -77,8 +75,6 @@ their National Day Awards 2024!</p>
 </li>
 </ul>
 <h1>2022 National Day Awards</h1>
-<p>We would like to offer our congratulations to the following staff who
-received their National Day Awards 2022!</p>
 <p><strong>THE EFFICIENCY MEDAL [Pingat Berkebolehan]</strong> 
 <br>Mdm Zainah Binte Abdul Aziz (Administrative Executive)</p>
 <p><strong>THE LONG SERVICE MEDAL [Pingat Bakti Setia]</strong>
