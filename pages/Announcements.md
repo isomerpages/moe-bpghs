@@ -7,16 +7,16 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Sec_3_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EOY Exam Schedule &amp; Topics Tested</a>
-</p>
+<p><a href="/files/2025_Sec_3_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EOY Exam Schedule &amp; Topics Tested </a>updated
+2 Sep</p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_2_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY Exam Schedule &amp; Topics Tested</a>
-</p>
+<p><a href="/files/2025_Sec_2_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY Exam Schedule &amp; Topics Tested </a>updated
+2 Sep</p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_1_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY Exam Schedule &amp; Topics Tested</a>
-</p>
+<p><a href="/files/2025_Sec_1_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY Exam Schedule &amp; Topics Tested </a>updated
+2 Sep</p>
 </li>
 <li>
 <p><a href="/files/2025_Prelim_Timetable_with_venues__updated_4_Aug_.pdf" rel="noopener nofollow" target="_blank">2025 Prelim Exam Timetable</a> updated
