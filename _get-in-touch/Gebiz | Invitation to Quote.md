@@ -22,9 +22,9 @@ variant: tiptap
 <p>ITQ Description:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ25003471</p>
-<p>Two days Arts Enrichment Programme with Music and Dance Modules for Secondary
-Three students on 22 &amp; 23 October 2025</p>
+<p>MOESCHETQ25003598</p>
+<p>Instructor for Floorball CCA Training Programme in 2026 with option to
+extend in 2027</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ Three students on 22 &amp; 23 October 2025</p>
 <p>Publish date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Aug 2025</p>
+<p>19 Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ Three students on 22 &amp; 23 October 2025</p>
 <p>Close date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Aug 2025, 1:00pm</p>
+<p>27 Aug 2025, 1:00pm</p>
 </td>
 </tr>
 </tbody>
@@ -62,8 +62,9 @@ Three students on 22 &amp; 23 October 2025</p>
 <p>ITQ Description:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Instructor for Chinese Drama CCA Training Programme in 2026 with option
-to extend in 2027</p>
+<p>MOESCHETQ25003679</p>
+<p>Instructor for Basketball CCA Training Programme in 2026 with option to
+extend in 2027</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +72,7 @@ to extend in 2027</p>
 <p>Publish date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Aug 2025</p>
+<p>19 Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +80,7 @@ to extend in 2027</p>
 <p>Close date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Aug 2025, 1:00pm</p>
+<p>27 Aug 2025, 1:00pm</p>
 </td>
 </tr>
 </tbody>
