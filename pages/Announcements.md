@@ -7,7 +7,8 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Sec_2_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EOY Exam Schedule &amp; Topics Tested</a> updated
+<p><a href="/files/2025_Sec_2_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EOY Ex</a>
+<a href="/files/2025_Sec_3_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025_Sec_2_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">am Schedule &amp; Topics Tested</a> updated
 2 Sep</p>
 </li>
 <li>
