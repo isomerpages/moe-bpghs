@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/spreadsheets/d/1Obiz6VK9jn92sYBO_M41nYYKb9LX788_/edit?gid=51001775#gid=51001775" rel="noopener nofollow" target="_blank">2025 Sept Holiday CCA Schedule </a>updated
+4 Sep</p>
+</li>
+<li>
 <p><a href="/files/2025_Sec_3_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EOY Exam Schedule &amp; Topics Tested </a>updated
 2 Sep</p>
 </li>
