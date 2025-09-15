@@ -207,29 +207,57 @@ as well as a greater appetite for risk-taking and experimentation.</p>
 <p>BPians who are keen to make a positive impact on their lives of others
 in the school or community may launch a SiA project by gathering interested
 peers and obtaining the endorsement from the school SLD team for implementation.</p>
-<p><strong>Some of the SiA projects carried out in 2023:</strong>
+<p><strong>Some of the SiA projects carried out:</strong>
+</p>
+<p><strong>Partnering Organisation: Precious Active Ageing Centre @ Sunshine Garden</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sia%20csa.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sia5.png">
 </div>
-<p><strong>Objective</strong>: Raising awareness about common cybersecurity
-threats and best practices against cyber attacks to the residents in Choa
-Chu Kang.
-<br><strong>Partnering Organization:</strong> Cyber Security Agency of Singapore
-<br><strong>Date:</strong> 17 March 2023
-<br><strong>Venue:</strong> Keat Hong CC</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sia%20red%20cross.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p><strong>Objective:</strong> Raising funds to support the needs of those
-affected by the Turkey earthquake, including emergency shelter, first aid
-and food.
-<br><strong>Partnering Organization:</strong> Singapore Red Cross
-<br><strong>Date:</strong> 22-24 March 2023
-<br><strong>Venue:</strong> BPGHS</p>
+<p><strong>Objective:</strong> The activity aimed to foster intergenerational
+bonds by creating opportunities for students to engage with seniors meaningfully.
+Through shared activities, students hoped to promote joy, connection, and
+mutual understanding, while also encouraging seniors to stay active and
+socially engaged.</p>
+<p><strong>Highlights of the Activity: </strong>Students organised a lively
+afternoon filled with activities that encouraged interaction, creativity,
+and fun:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Karaoke sessions: students and seniors sang familiar tunes together, bridging
+generations through music.</p>
+</li>
+<li>
+<p>Polaroid photo-taking: capturing special moments as keepsakes for the
+seniors.</p>
+</li>
+<li>
+<p>Scrapbooking: students and seniors worked side by side to design personalised
+pages, turning memories into colourful creations.</p>
+<hr>
+</li>
+</ul>
+<p><strong>Partnering Organisation: Society for the Prevention of Cruelty to Animals (SPCA)</strong>
+</p>
+<p><strong>Objective:</strong> The activity aimed to raise awareness about
+animal welfare and the importance of adopting pets instead of buying them.</p>
+<p><strong>Highlights of the Activity:</strong> Students set up a vibrant
+booth featuring a range of animal-themed merchandise such as keychains,
+coasters, notebooks, and bookmarks.
+<br>Over three days, students engaged their peers in meaningful conversations
+about animal welfare, while raising funds to support SPCA’s ongoing efforts.</p>
+<p>Our students’ kind act is also featured in the following news article
+in Channel NewsAsia.
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/singapore/youth-volunteers-raise-funds-spca-animals-students-teenagers-3996911</a>
+<br>
+</p>
+<hr>
 <p>For more information on the workflow and details of other projects, please
 click <a href="https://bpsia.carrd.co/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong><u>Annex AThe Leadership Challenge Model (TLC)</u></strong>
+<p><strong><u>Annex A: The Leadership Challenge Model (TLC)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/SLD2.jpeg">
