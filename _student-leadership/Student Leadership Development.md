@@ -211,10 +211,6 @@ peers and obtaining the endorsement from the school SLD team for implementation.
 </p>
 <p><strong>Partnering Organisation: Precious Active Ageing Centre @ Sunshine Garden</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sia5.png">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
