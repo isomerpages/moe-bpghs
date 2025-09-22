@@ -23,37 +23,77 @@ school community with dedication.</p>
 <h2><strong>Council Activities</strong></h2>
 <p>Over the course of the year, the Student Council has played a significant
 role in school life, with some of their key contributions including:</p>
-<ul>
-<li>
 <p><strong>Secondary One Orientation Camp</strong> – Welcoming new students
 into the BP family and fostering friendships, culminating in the school’s
-first campfire in six years.
-<br>
-</p>
-</li>
-<li>
+first campfire in six years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250106_BPGHS_Sec_1_Orientation_Camp_Day_3_23.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250102_BPGHS_Sec_1_Orientation_Camp_Day_1_37.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250106_BPGHS_Sec_1_Orientation_Camp_Day_3_100.jpg">
+</div>
 <p><strong>Prize-Giving Day</strong> – Assisting in the smooth running of
 the event, ensuring a meaningful and memorable celebration for award recipients
 and their families.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250411_BPGHS_Prize_Giving_Cermony_57.jpg">
+</div>
 <p></p>
-</li>
-<li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250411_BPGHS_Prize_Giving_Cermony_36.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250411_BPGHS_Prize_Giving_Cermony_121.jpg">
+</div>
 <p><strong>Teachers’ Day Celebrations</strong> – Coordinating a school-wide
 programme of appreciation, which included the BP Makers’ Carnival, where
 proceeds were donated to charity.</p>
 <p></p>
-</li>
-<li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250904_Teachers__Day_Celebrations_22.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250904_Teachers__Day_Celebrations_91.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250904_Teachers__Day_Celebrations_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250904_Teachers__Day_Celebrations_136.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_250904_Teachers__Day_Celebrations_115.jpg">
+</div>
 <p><strong>Befriending Sessions with Raffles Christian School (Indonesia)</strong> –
 Facilitating cross-cultural exchanges that broaden students’ global perspectives
 and foster international friendships.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_IMG_0696.jpg">
+</div>
 <p></p>
-</li>
-<li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_IMG_2659.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_IMG_0711.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Council/Copy_of_IMG_2654.jpg">
+</div>
 <p><strong>Project Power Up</strong> – A termly initiative aimed at uplifting
 student morale and strengthening camaraderie within the school.</p>
-</li>
-</ul>
 <p>Through these initiatives, the Student Council continues to strengthen
 school spirit, foster student engagement, and embody the values of thinking,
 caring, and serving as leaders of good.</p>
