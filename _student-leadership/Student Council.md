@@ -2,31 +2,63 @@
 title: Student Council
 permalink: /cce/student-leadership-development/student-council/
 description: ""
+variant: tiptap
 ---
-### Student Council
-
-![](/images/student%20council%201.jpeg) 
-
-The Student Council aims to develop Inspiring Leaders with a Heart to Serve.  
-  
-It plays an important role in building school spirit and contributing to the BPian experience by planning and executing school-wide events such as the Secondary One Orientation Programme and Teachers' Day Celebrations. As the bridge between the school and the student body, the Student Councillors facilitate dialogue sessions between the school leaders and students in order to create a positive teaching and learning environment for everyone. To engender a culture of care among the student body and empathy for the community at large, they also spearhead Student-Initiated Activities such as the Appreciation Week for our unsung heroes in school, as well as participate in community initiatives such as the Keat Hong Constituency Give and Take Quarterly Breakfast sessions. To instill a sense of school pride for our sports teams, they rally and lead the student body in cheers at inter-school competitions.  
-  
-Last year, the Student Councillors sought ideas from the school population and worked on creating their own unique BP merchandise. Forming a project committee called the BP Merch, they tirelessly sourced for materials, created the designs, and carried out the sale of the merchandise which received a positive response from the school population. Through this project, they experienced entrepreneurship and developed enterprise skills.  
-  
-As the highest echelons of student leaders, the Student Councilors go through a robust training and development programme to develop their public speaking and facilitation skills as well as to discover their strengths and develop their talents. Student Councillors are also specially selected to participate in national student leadership workshops and seminars to deepen their knowledge of and skills in student leadership.  
-  
-These various platforms provide Student Councilors with opportunities to develop the relevant skills, knowledge and values to be effective contributors to the school and community.  
-  
-Under the leadership of the President, Vice-president and the Executive Committee, our Student Councillors exemplify our school values and act as role models for the student body. We will keep forging ahead in unity to inspire, lead and serve!  
-  
-**Structure of the BP Student Council:**
-
-![](/images/student%20council%202.png)
-
-![](/images/student%20council%203.jpeg)
-
-![](/images/20190303_100347.jpeg)
-
-![](/images/student%20council%204.jpeg)
-
-![](/images/student%20council%205.jpeg)
+<h1><strong>Student Council</strong></h1>
+<p>The Student Council of Bukit Panjang Government High School plays a vital
+role in nurturing student leadership and fostering a vibrant school community.
+Guided by the school vision of developing <em>l</em>eaders of good who think,
+care and serve, the council provides opportunities for students to grow
+as responsible leaders who are committed to making a positive difference.</p>
+<p>The council serves as an important bridge between the student body and
+the school. Through platforms such as BPVoices (<a href="https://sites.google.com/view/bpvoices/home" rel="noopener noreferrer nofollow" target="_blank"><u>https://sites.google.com/view/bpvoices/home</u></a>),
+councillors represent student perspectives, gather feedback, and work closely
+with the school management team to enhance the overall student experience.</p>
+<p>To fulfil these responsibilities, councillors undergo structured trainings
+during Student Leadership Camp and on-job trainings in leadership, communication,
+and project management. These developmental programmes equip them with
+the confidence, skills, and mindset to lead with purpose and serve the
+school community with dedication.</p>
+<hr>
+<h2><strong>Council Activities</strong></h2>
+<p>Over the course of the year, the Student Council has played a significant
+role in school life, with some of their key contributions including:</p>
+<ul>
+<li>
+<p><strong>Secondary One Orientation Camp</strong> – Welcoming new students
+into the BP family and fostering friendships, culminating in the school’s
+first campfire in six years.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Prize-Giving Day</strong> – Assisting in the smooth running of
+the event, ensuring a meaningful and memorable celebration for award recipients
+and their families.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Teachers’ Day Celebrations</strong> – Coordinating a school-wide
+programme of appreciation, which included the BP Makers’ Carnival, where
+proceeds were donated to charity.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Befriending Sessions with Raffles Christian School (Indonesia)</strong> –
+Facilitating cross-cultural exchanges that broaden students’ global perspectives
+and foster international friendships.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Project Power Up</strong> – A termly initiative aimed at uplifting
+student morale and strengthening camaraderie within the school.</p>
+</li>
+</ul>
+<p>Through these initiatives, the Student Council continues to strengthen
+school spirit, foster student engagement, and embody the values of thinking,
+caring, and serving as leaders of good.</p>
+<p>
+<br>
+<br>
+</p>
+<p></p>
