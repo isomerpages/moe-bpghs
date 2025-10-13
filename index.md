@@ -20,6 +20,15 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
+      title: You're Invited to BPGHS e-Open House 2025
+      subtitle: Discover life at our school!
+      id: infopic
+      description: Join us for our e-Open House on 8 November 2025 (Saturday) from
+        9:00 AM – 10:00 AM
+      button: Register here!
+      url: http://go.gov.sg/bp-oh25
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: JOIN THE BPIAN FAMILY
       id: infopic
