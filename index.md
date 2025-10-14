@@ -28,7 +28,7 @@ sections:
       button: Register here!
       url: http://go.gov.sg/bp-oh25
       alt: Image alt text
-      image: /images/e_Open_House_Poster__2025_.png
+      image: /images/WhatsApp_Image_2025_10_13_at_4_30_25_PM.jpg
   - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: JOIN THE BPIAN FAMILY
