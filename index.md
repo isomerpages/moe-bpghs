@@ -21,7 +21,7 @@ sections:
       variant: image
   - infopic:
       title: You're Invited to The BPian Experience Live!
-      subtitle: Discover BPGHS School Life
+      subtitle: Discover School Life at BPGHS
       id: infopic
       description: Join us on 8 November 2025 (Saturday) from 9:00 AM – 10:00 AM
       button: Register here!
