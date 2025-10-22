@@ -7,20 +7,20 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_5_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 5)</a>
-</p>
+<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_5_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 5) </a>updated
+22 Oct</p>
 </li>
 <li>
-<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026____Sec_4_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 4)</a>
-</p>
+<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026____Sec_4_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 4) </a>updated
+22 Oct</p>
 </li>
 <li>
-<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_3_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 3)</a>
-</p>
+<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_3_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 3) </a>updated
+22 Oct</p>
 </li>
 <li>
-<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_2_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 2)</a>
-</p>
+<p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_2_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 2) </a>updated
+22 Oct</p>
 </li>
 <li>
 <p><a href="https://docs.google.com/spreadsheets/d/1Obiz6VK9jn92sYBO_M41nYYKb9LX788_/edit?gid=51001775#gid=51001775" rel="noopener nofollow" target="_blank">2025 Sept Holiday CCA Schedule </a>updated
