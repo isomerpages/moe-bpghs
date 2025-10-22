@@ -20,6 +20,15 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
+      title: The BPian Experience Live!
+      subtitle: Discover School Life at BPGHS
+      id: infopic
+      description: Join us on online on  Saturday, 8 November 2025 at 9 AM.
+      button: Register here!
+      url: http://go.gov.sg/bp-oh25
+      alt: Image alt text
+      image: /images/e_Open_House_Poster__2025__Final.png
+  - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: JOIN THE BPIAN FAMILY
       id: infopic

@@ -61,7 +61,7 @@ third_nav_title: For Parents
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/6785bb7b2a99be2770509ba9" rel="noopener noreferrer nofollow" target="_blank">Click Here to Access</a></strong>
+<p><strong><a href="https://form.gov.sg/65e966f7431e7d2e554d80a0" rel="noopener noreferrer nofollow" target="_blank">Click Here to Access</a></strong>
 </p>
 <p></p>
 </td>
