@@ -49,7 +49,7 @@ thinking when discussing and writing about texts and convincing others
 of their interpretations.</p>
 </li>
 </ul>
-<p><strong>Competition For Students</strong>
+<p><strong>Competitions for Students</strong>
 </p>
 <p>Secondary One to Four students are encouraged to participate in the National
 Schools Literature Festival, a dynamic platform that nurtures students’
