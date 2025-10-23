@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<h3>English &amp; Literature</h3>
-<p>The&nbsp;<strong>English Language Programme</strong>&nbsp;seeks to educate
-students to be proficient and confident users of the language and to appreciate
-the language.</p>
+<h3>English Language &amp; Literature</h3>
+<p>The&nbsp;<strong>English Language &amp; Literature Programme</strong>&nbsp;seeks
+to educate students to be proficient and confident users of the language
+and to appreciate the language.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students will develop the ability to respond to a variety of texts and
