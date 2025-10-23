@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/spreadsheets/d/1MbkgY2j0bY8sfBYbNt0ccBhvdfxjTT8V/edit?gid=84607633#gid=84607633" rel="noopener nofollow" target="_blank">2025 Year-End Holiday CCA Schedule </a>updated
+24 Oct</p>
+</li>
+<li>
 <p><a href="/files/Bukit_Panjang_Government_High_Booklist__2026___Sec_5_.pdf" rel="noopener nofollow" target="_blank">2026 Booklist (Sec 5) </a>updated
 22 Oct</p>
 </li>
