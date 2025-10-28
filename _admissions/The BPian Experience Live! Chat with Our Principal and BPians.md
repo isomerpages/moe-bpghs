@@ -4,6 +4,10 @@ permalink: /news-and-events/the-bpian-experience-live/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_Open_House_Poster__2025__Final.png">
+</div>
 <p>Bukit Panjang Government High School will be hosting an online webinar, <strong><em>The BPian Experience Live! Chat with Our Principal and BPians</em></strong>,
 on <strong>Saturday, 8 November 2025, at 9.00am</strong>.</p>
 <p>Instead of a physical Open House, we invite you to join us online to hear
