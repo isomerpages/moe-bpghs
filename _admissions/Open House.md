@@ -4,7 +4,7 @@ permalink: /news-and-events/open-house/
 description: ""
 variant: tiptap
 ---
-<p>BPGHS will be having <strong>The BPian Experience Live! Chat with Our Principal and BPians </strong>on <strong>8 November 2025, 9am</strong>.
+<p>BPGHS will be having a webinar: <strong>The BPian Experience Live! Chat with Our Principal and BPians </strong>on <strong>8 November 2025, 9am</strong>.
 More details regarding the event will be posted closer to the date.</p>
 <h1>Our Virtual Tour</h1>
 <div class="iframe-wrapper">
