@@ -93,8 +93,7 @@ and social behaviour, as well as leadership qualities.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety</p>
-<p>Outdoor Education</p>
+<p>Physical Health &amp; Safety Outdoor Education</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Basketball</p>
@@ -113,8 +112,7 @@ and social behaviour, as well as leadership qualities.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety</p>
-<p>Outdoor Education</p>
+<p>Physical Health &amp; Safety Outdoor Education</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Volleyball</p>
@@ -133,8 +131,7 @@ and social behaviour, as well as leadership qualities.</p>
 <p>Sec 4</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety</p>
-<p>Outdoor Education</p>
+<p>Physical Health &amp; Safety Outdoor Education</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>Assessment</p>
@@ -159,8 +156,7 @@ and social behaviour, as well as leadership qualities.</p>
 <p>Sec 5</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety</p>
-<p>Outdoor Education</p>
+<p>Physical Health &amp; Safety Outdoor Education</p>
 </td>
 </tr>
 <tr>
