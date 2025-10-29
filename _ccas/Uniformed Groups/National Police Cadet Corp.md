@@ -5,55 +5,63 @@ description: ""
 variant: tiptap
 third_nav_title: Uniformed Groups
 ---
-<h3>National Police Cadet Corp</h3>
+<h1>National Police Cadet Corp</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_NDP___Sangeetha_Kriskumar.jpg">
 </div>
-<p>The National Police Cadet Corps (NPCC) is a Uniformed Group under the
-Ministry of Education and Ministry of Home Affairs. The CCA provides a
-holistic experience from nurturing values, such as leadership, discipline
-and responsibility, to acquiring skills such as first-aid and kayaking.
-Events such as drills sessions and parades teach the members to be disciplined,
-while outdoor activities such as adventure training camps at Pulau Ubin,
-campcraft and tent-pitching give members a chance to develop resilience
-and enjoy outdoor experiences. NPCC members also get a chance to experience
-policing, learn about the law, be involved in Crime Scene Investigation
-techniques and get a chance to shoot with a real revolver. Apart from all
-these activities, NPCC members gain leadership abilities in the midst of
-grooming their juniors. All in all, NPCC nurtures members into all-rounded
-and caring citizens.</p>
-<p>The Bukit Panjang Government High School NPCC Unit (BPNP) has had several
-accolades over the years.</p>
-<ul>
-<li>
-<p>We have been awarded the Gold Unit for 14 consecutive years (2005 to 2018).</p>
-</li>
-<li>
-<p>Cadets in BPNP have been awarded the following awards and ranks: SPF-NPCC
-Award, Best Unit Cadet and Station Inspector.</p>
-</li>
-<li>
-<p>BPNP Cadets have also been selected to take part in the following exclusive
-events: NPCC Annual Parade Guard-of-Honour, National Day Parade Marching
-Contingent, Harmony Camp, Brunei Overseas Educational Visit, Hong Kong
-Educational Visit and National UG Camp.</p>
-</li>
-<li>
-<p>BPNP cadets have been awarded with the Singapore Youth Flying Club (SYFC)
-Award for the Years 2017 and 2018. The SYFC Award is given to a single
-student in the Sec 4/5 level for attaining the highest LEAPS points.</p>
-</li>
-</ul>
+<p>Bukit Panjang Government High School’s National Police Cadet Corps (BPNPCC)
+offers cadets a distinguished journey of learning, leadership, and service.
+Through purposeful training and immersive experiences, cadets cultivate
+confidence, discipline, and integrity, developing the skills and character
+essential for personal growth and responsible citizenship.</p>
+<p>Throughout the year, cadets refine their abilities in foot drills and
+campcraft, strengthening precision, resilience, and teamwork. Complementing
+these foundational skills are programmes that deepen their understanding
+of law enforcement, civic responsibility, and the values of empathy, integrity,
+and social awareness.</p>
+<p>Cadets gain practical exposure to policing through visits to the Neighbourhood
+Police Centre and the Police Procedures Course, learning about the roles
+of police officers and emergency management protocols. They develop resilience
+and teamwork through the Adventure Training Camp at Pulau Ubin and strengthen
+self-defence skills via the Unarmed Tactics Course, a programme covering
+stances, shuffles, blocks, and stuns.</p>
+<p>Cadets also pursue the Civil Defence Badge under the SCDF Responders Plus
+Programme and attend the Basic Law Course, which explores criminal law,
+the role of law and enforcement in maintaining a peaceful and stable society,
+elements of crime, and common offences. Anti-Narcotics Course, conducted
+in collaboration with the Singapore Anti-Narcotics Association (SANA),
+cultivates awareness of drug abuse and reinforces responsible decision-making.</p>
+<p>Further enhancing their skills, cadets participate in the .22 Revolver
+Live Shoot Programme, mastering marksmanship principles, safe handling,
+and immediate action drills, and the Enhanced Crime Scene Investigation
+(CSI) Course, which provides hands-on experience in mock-up HDB flats and
+Virtual Reality On-Scene Investigations at the Home Team Academy, allowing
+cadets to apply investigative and crime scene management skills in realistic
+scenarios.</p>
+<p>As a cohesive unit, cadets engage in the Unit Camp, bonding activities,
+and the school’s National Day Parade, fostering camaraderie, pride, and
+esprit de corps. They also represent the unit in Area Games Day, Inter-Unit
+CSI or Campcraft Competitions, and the prestigious National Police Annual
+Parade (NPAP).</p>
+<p>Through this comprehensive and enriching programme, BPNPCC nurtures disciplined,
+resilient, and socially responsible cadets, equipping them with the skills,
+values, and experiences to grow with confidence and purpose. Every cadet’s
+journey is marked by personal growth, achievement, and lasting memories.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Unarmed_Tactics___Sangeetha_Kriskumar.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__CCK_NPC_Visit___Sangeetha_Kriskumar.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__K9_Unit_Visit___Sangeetha_Kriskumar.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Adventure_Training_Camp_at_Pulau_Ubin___Sangeetha_Kriskumar.jpg">
 </div>
 <p></p>
