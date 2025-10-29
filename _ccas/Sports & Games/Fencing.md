@@ -6,7 +6,6 @@ variant: tiptap
 third_nav_title: Sports & Games
 ---
 <h1>Fencing</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_Championships_C_Div_Team_Fourth_Place___Poh_Yong_Yau.jpg">
 </div>
