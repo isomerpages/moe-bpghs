@@ -23,14 +23,34 @@ and aesthetic sensitivity.</p>
 <p>The choir together with Dr Paulo Vassalo Lourenço, who came from Portugal
 to conduct a masterclass in singing.</p>
 <p></p>
+<p><strong>National Day Rehearsal</strong>
+<br>Cyntheria leads the choir in a short practice before the actual performance.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f9g7bNWHlMc?si=6ii3dmk07mZX8aZV"></iframe>
+</div>
+<p><strong>National Day Performance</strong>
+<br>The choir presents ‘Our Singapore’ and ‘The Road Ahead’ in the school
+hall.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/12-1Klg0GO4?si=MkHv40jdhmCREvZ-"></iframe>
+</div>
+<p></p>
+<p>After almost a year of hard work and preparation, the choir takes the
+stage in the concert hall of the School of the Arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Performing Arts/SYF___SOTA___Concert_Hall.jpg">
 </div>
-<p>After almost a year of hard work and preparation, the choir takes the
-stage in the concert hall of the School of the Arts.</p>
 <p></p>
+<p>The choir together with our conductors, Mr Yong Chee Foon and Ms Lee Wanrong,
+and accompanist Ms Celine Tan Si-Jie.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Performing Arts/SYF___SOTA___Post_event.jpg">
 </div>
-<p>The choir together with our conductors, Mr Yong Chee Foon and Ms Lee Wanrong,
-and accompanist Ms Celine Tan Si-Jie.</p>
+<p>The full SYF 2025 performance, with the choir presenting 3 pieces: “What
+is That I Hear?”, “Mae-e”, and “The Wind”.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apx3CJKDf8c?si=_w_6Gp80AOIJER8R"></iframe>
+</div>
+<p>
+<br>
+</p>
