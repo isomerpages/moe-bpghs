@@ -6,9 +6,13 @@ variant: tiptap
 third_nav_title: Instructional Programmes
 ---
 <h3>Humanities</h3>
+<p>The Humanities department broadens students' perspectives and develops
+critical thinking skills through diverse programs within and beyond the
+school. Utilising e-pedagogy, students engage in self-directed, collaborative
+humanities investigations, with many inquiry stages conducted online.</p>
 <p>The Humanities department comprises the disciplines of History, Geography
 and Social Studies.</p>
-<p><strong><u>Teaching approaches</u></strong>
+<p><strong><u>Teaching Approaches</u></strong>
 </p>
 <p>In teaching the humanities, a concept-centric approach is used. Students
 attain conceptual understanding and demonstrate their understanding by
@@ -17,9 +21,9 @@ drawing on content knowledge to illustrate the concepts.</p>
 and flipped classroom to allow students to attain information before curriculum
 time. This information serves as prior knowledge that students utilize
 for the various activities and discussions during curriculum time. Teachers
-also utilize other platforms to allow students equal opportunities to participate
-in class as well as receive feedback more instantly.</p>
-<p><strong><u>Authentic learning</u></strong>
+also utilize other ICT platforms to allow students equal opportunities
+to participate in class as well as receive feedback more instantly.</p>
+<p><strong><u>Authentic Learning</u></strong>
 </p>
 <p>Students are actively involved in Historical Investigation (HI), Geographical
 Investigation (GI) Issues Investigation (II) as well as Performance Task

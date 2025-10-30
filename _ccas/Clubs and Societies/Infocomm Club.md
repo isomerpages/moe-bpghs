@@ -20,10 +20,20 @@ to capture precious moments that encapsulate the Bukit Panjang school spirit.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ic2.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ic3.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ic4.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/Changi_Jewel_Field_Trip___Lua_Hao_yi.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/SMRT_Field_Trip_2___Lua_Hao_yi.jpg">
 </div>
 <p></p>
