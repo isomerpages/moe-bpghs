@@ -2,6 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - The BPian Experience Live! Chat with Our Principal and BPians.md
+      - The BPian Experience Live!.md
       - International Students and Returning Singaporeans.md
       - DSA 2025.md
