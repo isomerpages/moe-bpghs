@@ -49,6 +49,10 @@ learn to handle both victory and defeat with grace.</p>
 </div>
 <p>National Champions 2023 (B Division) — a triumph built on grit, unity,
 and belief.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nt_IOmmIlcw?si=FNuLYZlRf-MnRsqL"></iframe>
+</div>
+<p>Active SG Spotlight BPGHS Basketball Team</p>
 <p><strong>3. 武中杯 (Wu Zhong Cup)</strong>
 <br>Launched in 2024, the Wu Zhong Cup is an interschool (B Division) tournament
 organised annually by our CCA. The competition was conceived to provide
