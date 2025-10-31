@@ -9,56 +9,59 @@ third_nav_title: Clubs and Societies
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Science%20Society%20Club%20Poster.jpeg">
 </div>
-<p>The Science Society Club is an umbrella CCA comprising three domains -
-Astronomy, Robotics and Science Quiz. Every student is involved in two
-or more domains to be exposed to a broad scope of knowledge and skills.</p>
-<p>The Astronomy unit focuses on the study of celestial objects such as planets,
-stars and nebulae, as well as various celestial phenomena. Students are
-engaged through various content delivery methods such as hands-on activities,
-games, quizzes and star-gazing. Through intensive training sessions, students
-are equipped with in-depth astronomical knowledge and are able to explain
-the various astronomical phenomena confidently. Plenty of opportunities
-are also given to the students to teach, mentor and build up their presentation
-skills.</p>
-<p>The Robotics unit focuses on the construction of robots and programming
-codes. Students relish the challenge of creating robots based on interesting
-missions assigned to them. In the process of building robots, important
-attributes such as team collaboration, perseverance, creativity and problem
-solving skills are fostered.</p>
-<p>The Science Quiz Unit focuses on the study of Science and Mathematics
-at an advanced level, as well as to trigger curiosity and to ignite the
-joy of learning Science and Mathematics. Through hands-on experiments,
-group discussions, games and quizzes, the students are able to hone their
-scientific knowledge and skills in an enjoyable way. The intensive training
-sessions that they go through serve to build up their critical thinking
-skills.</p>
-<p>Through rigorous training, excellent teamwork and the determined mind
-set to excel, all three units work very hard to achieve commendable results.
-Some key achievements include Team First Runner Up for AstroChallenge Competition,
-Best Booth Display for Crystal Growing Competition, Team Champion for ITE
-Robotics Challenge (Obstacle Category) and numerous Individual Gold, Silver
-and Bronze awards for C.B. Paul Science Quiz in Year 2018.</p>
-<p>In addition, the students are also given plenty of opportunities for their
-leadership and character development. Every year, they get to plan and
-organise major events such as CCA roadshows, Values-in-Action (ViA) and
-Science Team Camp to develop them into leaders with a heart to serve the
-school and the community.</p>
+<p></p>
+<p><strong><u>Exploring Frontiers of Science and Technology: The Science Team’s 2025 Journey</u></strong>
+</p>
+<p>The Science Team at our school continues to be a dynamic co-curricular
+activity that unites two exciting units: Astronomy and Robotics. Together,
+they provide students with the opportunity to explore their curiosity,
+develop scientific thinking, and collaborate in a supportive and stimulating
+environment. Through hands-on activities, competitions, and peer learning,
+the Science Team empowers students to innovate, problem-solve, and think
+critically—qualities essential for the scientists and engineers of tomorrow.</p>
+<p>The Astronomy Unit invites members to embark on a journey through the
+cosmos. Through peer sharing, interactive games, and observational sessions,
+students deepen their understanding of celestial phenomena and master practical
+skills such as telescope handling. Members also challenge themselves by
+taking part in national competitions like the HCI-RI Astrigue Challenge
+and the NUS-NTU AstroChallenge, building both knowledge and confidence.</p>
+<p>The camaraderie among members fosters a vibrant community of learners
+passionate about unraveling the mysteries of the universe. The Robotics
+Unit, guided by a dedicated coach, offers members a hands-on platform to
+design, build, and programme robots for various challenges. Beyond technical
+skills, these sessions cultivate resilience, creativity, and teamwork—skills
+that extend far beyond the robotics lab.</p>
+<p>2025 has been an eventful and rewarding year for the Robotics Unit. In
+April, five teams comprising 19 students participated in the RoboCup Singapore
+Open 2025. Among them, one team of four students earned a Merit in the
+RoboCup Junior Soccer category, while another team of four students achieved
+a Merit in the RCAP Rescue Line competition. Beyond competitions, members
+also had the enriching opportunity to attend a two-day non-residential
+SMART Camp on the Computer Vision Robotic Hand Programme at the Science
+Centre Singapore. This hands-on experience deepened students’ appreciation
+of artificial intelligence and robotics applications in real-world contexts.</p>
+<p>The Science Team’s achievements this year reflect not only technical excellence
+but also curiosity, collaboration, and a shared passion for discovery.
+Both the Astronomy and Robotics Units continue to inspire and nurture young
+innovators, ensuring that our school remains a hub of scientific creativity
+and exploration. The Science Team stands as a testament to what students
+can achieve when they are encouraged to dream, explore, and invent.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ssc1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMART_Camp_2___Bpgh_Science_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ssc2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RoboCup_2___Bpgh_Science_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ssc3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RoboCup_1___Bpgh_Science_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ssc4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/astro2___Bpgh_Science_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ssc5.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ssc6.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/astro1___Bpgh_Science_1.jpg">
 </div>
 <p></p>
