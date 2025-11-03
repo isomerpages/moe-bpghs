@@ -36,7 +36,52 @@ draw conclusions and present their findings using different mediums. These
 activities provide the opportunities for exploration and for students to
 collaborate as teams. They also allow the students to showcase their critical
 thinking skills and creativity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide3.jpg">
+</div>
+<p>Furthermore, the department sparks interest in the humanities by exposing
+students to current affairs through curated assembly talks and organising
+interactive events like Amazing Race and virtual tours, blending learning
+with competition and real-world exploration. These engage students in real-world
+and authentic learning, deepening their understanding of events and concepts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide7.jpg">
+</div>
+<p><strong>Stretching students’ potential</strong>
+<br>Students who demonstrate keen interest or potential are selected to represent
+the school at interschool events such as conferences, Model United Nations
+and competitions. Such platforms allow students to deepen their knowledge
+of the humanities, and also provide opportunities for students to interact
+with students from other schools, broadening their exposure and widening
+their social networks.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/Slide8.jpg">
+</div>
 <p>
+<br>
+<br>
 <br>
 </p>
 <p></p>
