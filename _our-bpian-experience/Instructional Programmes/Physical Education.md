@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Instructional Programmes
 ---
-<h3>Physical Education</h3>
+<h1>Physical Education</h1>
 <p>The Physical Education (PE) Department's programmes are customised at
 each level to develop BPians into physically active, mentally resilient
 and socially competent individuals. The department adopts a game-centred
