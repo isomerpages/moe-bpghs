@@ -5,11 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Uniformed Groups
 ---
-<h3>Scouts</h3>
+<h1>Scouts</h1>
 <p><strong><u>BUKIT PANJANG EAGLE SCOUT GROUP</u></strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hiking_in_Jurong_Lakes_Garden___Kheng_Hwee_Chiam.jpg">
 </div>
