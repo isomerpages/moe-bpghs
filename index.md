@@ -23,11 +23,12 @@ sections:
       title: The BPian Experience Live!
       subtitle: Discover School Life at BPGHS
       id: infopic
-      description: Join us on online on  Saturday, 8 November 2025 at 9 AM.
-      button: Register here!
-      url: http://go.gov.sg/bp-oh25
+      description: "Join us online on Saturday, 8 November 2025 at 9 AM.   Have
+        questions? Submit them at Slido.com using code: 3301310"
+      button: Click here to join the webinar
+      url: https://moe-singapore.zoom.us/j/62773443919?pwd=RnBD1dNRw9M8yZuFrBbriCb8KUmjHW.1
       alt: Image alt text
-      image: /images/e_Open_House_Poster__2025__Final.png
+      image: /images/e_Open_House_Poster__without_QR_code___2025_.png
   - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: JOIN THE BPIAN FAMILY
