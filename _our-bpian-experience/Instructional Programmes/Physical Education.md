@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Instructional Programmes
 ---
-<h3>Physical Education</h3>
+<h1>Physical Education</h1>
 <p>The Physical Education (PE) Department's programmes are customised at
 each level to develop BPians into physically active, mentally resilient
 and socially competent individuals. The department adopts a game-centred
@@ -128,38 +128,26 @@ and social behaviour, as well as leadership qualities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Sec 4</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Assessment</p>
-</td>
-<td rowspan="4" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Softball</p>
+<p>Pickleball</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Assessment</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Sec 5</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>Badminton</p>
 </td>

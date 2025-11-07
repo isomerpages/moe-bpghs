@@ -89,7 +89,6 @@ their future work and life.</p>
 <p>Girl Guides
 <br>NCC (Land)
 <br>NPCC
-<br>Boy Scouts
 <br>St John Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,10 +103,9 @@ their future work and life.</p>
 <br>Chinese Orchestra
 <br>Choir
 <br>Concert Band
-<br>Dance
+<br>International Dance
 <br>English Drama
-<br>Gamelan
-<br>Malay Dance</p>
+<br>Gamelan</p>
 </td>
 </tr>
 </tbody>
