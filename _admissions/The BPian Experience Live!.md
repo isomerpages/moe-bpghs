@@ -11,10 +11,8 @@ variant: tiptap
 <p>Instead of a physical Open House, we invite you to join us online to hear
 from our Principal and students about our rigorous, vibrant and dynamic
 school experience.</p>
-<p><a href="https://moe-singapore.zoom.us/j/62773443919?pwd=RnBD1dNRw9M8yZuFrBbriCb8KUmjHW.1" rel="noopener nofollow" target="_blank">Click here to join the webinar</a>
-</p>
-<p>Meeting ID: 627 7344 3919</p>
-<p>Passcode: 773618</p>
+<p><a href="https://moe-singapore.zoom.us/j/62773443919?pwd=RnBD1dNRw9M8yZuFrBbriCb8KUmjHW.1" rel="noopener nofollow" target="_blank">Click here to join the webinar </a>(Meeting
+ID: 627 7344 3919, Passcode: 773618)</p>
 <p>Send us your questions at <a href="http://Slido.com" rel="noopener noreferrer nofollow" target="_blank">Slido.com</a> — Code: 3301310.</p>
 <h1>Our Virtual Tour</h1>
 <div class="iframe-wrapper">
