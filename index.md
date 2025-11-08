@@ -24,8 +24,7 @@ sections:
       subtitle: Discover School Life at BPGHS
       id: infopic
       description: The recordings of the Principal’s Address and Student Live Panel
-        from The BPian Experience Live! will be uploaded on the school website
-        by 11 November 2025.
+        will be uploaded by 11 November 2025.
       alt: Image alt text
       image: /images/e_Open_House_Poster__without_QR_code___2025_.png
   - infopic:
