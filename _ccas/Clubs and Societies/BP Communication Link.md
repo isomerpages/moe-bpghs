@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h3>BP Communication Link</h3>
+<h1>BP Communication Link</h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bpc1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/WhatsApp_Image_2025_11_07_at_11_08_06_AM___Tay_Yin_Ee_Hester.jpg">
 </div>
 <p>BP Communication Link promotes the mass enjoyment of quality sound and
 lighting effects across numerous school events through the provision of
@@ -22,10 +23,12 @@ their services to the school.</p>
 <p>In addition, members of the club gain exposure to operating equipment
 commonly used in other industries through structured learning journeys.
 This also allows them to explore related career paths in the PA industry.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bpc2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/WhatsApp_Image_2025_11_07_at_11_07_32_AM___Tay_Yin_Ee_Hester.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bpc3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/WhatsApp_Image_2025_11_07_at_11_08_19_AM___Tay_Yin_Ee_Hester.jpg">
 </div>
 <p></p>
