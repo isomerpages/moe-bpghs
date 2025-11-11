@@ -10,12 +10,12 @@ variant: tiptap
 below.</p>
 <h1>Principal's Address</h1>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=VGOw-mSeilU"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VGOw-mSeilU?si=Awfq8L-Me17eqwp9"></iframe>
 </div>
 <p>Learn more about our school’s vision, values, and vibrant learning culture.</p>
 <h1>Live Student Panel</h1>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=E-YbPHwEawc"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E-YbPHwEawc?si=eXKuCDRknw07DpiQ"></iframe>
 </div>
 <p>Hear directly from our BPians as they share their school experiences,
 friendships, and growth journeys.</p>
