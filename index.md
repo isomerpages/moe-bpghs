@@ -23,10 +23,12 @@ sections:
       title: The BPian Experience Live!
       subtitle: Discover School Life at BPGHS
       id: infopic
-      description: The recordings of the Principal’s Address and Student Live Panel
-        will be uploaded on the website by 11 November 2025.
+      description: The recordings of the Principal’s Address and Student Panel from
+        The BPian Experience Live! are now available on the school website.
       alt: Image alt text
       image: /images/e_Open_House_Poster__without_QR_code___2025_.png
+      button: Watch here!
+      url: https://www.bpghs.moe.edu.sg/news-and-events/the-bpian-experience-live/
   - infopic:
       title: Direct School Admission Exercise 2025
       subtitle: JOIN THE BPIAN FAMILY
