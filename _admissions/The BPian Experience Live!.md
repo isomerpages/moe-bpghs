@@ -4,10 +4,7 @@ permalink: /news-and-events/the-bpian-experience-live/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_Open_House_Poster__without_QR_code___2025_.png">
-</div>
-<p>Thank you for joining <em>The BPian Experience Live! Chat with Our Principal and BPians! </em>
+<p>Thank you for joining <em>The BPian Experience Live! Chat with Our Principal and BPians!</em>
 </p>
 <p>Watch the recordings of the Principal’s Address and Student Live Panel
 below.</p>
