@@ -20,10 +20,11 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
-      title: AEP Selection Test Details
+      title: AEP Selection Test
       id: infopic
-      description: Please refer to the poster for details on the Art Elective
-        Programme (AEP) Selection Test.
+      description: Prospective students who are interested to enrol in the Art
+        Elective Programme in BPGHS must sit for the AEP Selection Test upon
+        admission to the school.
       image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
       alt: Image alt text
   - infopic:
