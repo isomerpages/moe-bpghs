@@ -21,7 +21,6 @@ sections:
       variant: image
   - infopic:
       title: AEP Selection Test Details
-      subtitle: Art Elective Programme (AEP)
       id: infopic
       description: Please refer to the poster for details on the Art Elective
         Programme (AEP) Selection Test.
