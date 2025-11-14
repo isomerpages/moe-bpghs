@@ -20,6 +20,14 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
+      title: AEP Selection Test
+      subtitle: Details of the selection Test
+      id: infopic
+      description: Please refer to the poster for details on the Art Elective
+        Programme (AEP) Selection Test.
+      image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026.png
+      alt: Image alt text
+  - infopic:
       title: The BPian Experience Live!
       subtitle: Discover School Life at BPGHS
       id: infopic
