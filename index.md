@@ -20,11 +20,18 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
+      title: AEP Selection Test
+      id: infopic
+      description: Calling all prospective students who are keen to enrol in our Art
+        Elective Programme! Please refer to the poster for further details.
+      image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
+      alt: Image alt text
+  - infopic:
       title: The BPian Experience Live!
       subtitle: Discover School Life at BPGHS
       id: infopic
       description: The recordings of the Principal’s Address and Student Panel from
-        The BPian Experience Live! are now available on the school website.
+        'The BPian Experience Live!' are now available on the school website.
       alt: Image alt text
       image: /images/e_Open_House_Poster__without_QR_code___2025_.png
       button: Watch here!
