@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: AEP Selection Test
       id: infopic
-      description: Calling all prospctive students who want to enrol in the Art
+      description: Calling all prospective students who are keen to enrol in our Art
         Elective Programme! Please refer to the poster for further details.
       image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
       alt: Image alt text
