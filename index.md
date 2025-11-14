@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: Please refer to the poster for details on the Art Elective
         Programme (AEP) Selection Test.
-      image: /images/Copy_of_BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
+      image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
       alt: Image alt text
   - infopic:
       title: The BPian Experience Live!
