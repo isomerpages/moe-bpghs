@@ -22,9 +22,9 @@ sections:
   - infopic:
       title: AEP Selection Test
       id: infopic
-      description: Calling Sec 1 students posted to BPGHS who are keen to enrol in our
-        Art Elective Programme! You can refer to the poster for details of the
-        Selection Test.
+      description: Calling Sec 1 students posted to BPGHS keen to enrol in our Art
+        Elective Programme! There is a Selection Test on 22 Dec, 8-10 am. Save
+        the date!
       button: Button Text
       image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
       alt: Image alt text
