@@ -20,11 +20,21 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
+      title: 2025 N-Level Results
+      subtitle: Results Collection
+      id: infopic
+      description: Information on collection of 2025 N-Level Results on Thursday 18
+        December.
+      button: DETAILS HERE
+      url: /2025-n-level-results-release/
+      alt: Image alt text
+      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
+  - infopic:
       title: AEP Selection Test
       id: infopic
-      description: Calling Sec 1 students posted to BPGHS keen to enrol in our Art
-        Elective Programme! There is a Selection Test on 22 Dec, 8-10 am. Save
-        the date!
+      description: Sec 1 students keen to enrol in our Art Elective Programme will
+        need to sit for an AEP Selection Test. The registration link will be
+        posted here on 19 Dec.
       button: Button Text
       image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
       alt: Image alt text
@@ -38,16 +48,6 @@ sections:
       image: /images/e_Open_House_Poster__without_QR_code___2025_.png
       button: Watch here!
       url: https://www.bpghs.moe.edu.sg/news-and-events/the-bpian-experience-live/
-  - infopic:
-      title: Direct School Admission Exercise 2025
-      subtitle: JOIN THE BPIAN FAMILY
-      id: infopic
-      description: "Find out more about our Direct School Admission (DSA) Exercise for
-        admission to Secondary 1 in 2026:"
-      button: DETAILS HERE
-      url: https://www.bpghs.moe.edu.sg/dsa-2025/
-      alt: Image alt text
-      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
   - infopic:
       title: THINK
       subtitle: FUTURE-READY LEARNERS
@@ -80,14 +80,14 @@ sections:
       description: Empowering students to serve with purpose through programmes that
         cultivate empathy, leadership, and a commitment to making a difference.
   - infopic:
-      title: 2024 Yearbook
+      title: 2025 Yearbook
       subtitle: BP experience
       id: infopic
-      description: Our key events, achievements and milestones in 2024
+      description: Our key events, achievements and milestones in 2025
       button: Take a Look!
-      url: https://online.fliphtml5.com/obrr/uoqt/#p=1
+      url: https://online.fliphtml5.com/obrr/bpghs2025/#p=1
       alt: Image alt text
-      image: /images/yearbook.png
+      image: /images/yearbook_2025.jpg
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
