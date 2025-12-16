@@ -20,6 +20,15 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
+      title: 2025 N-Level Results
+      subtitle: Results Collection
+      id: infopic
+      description: Information on collection of N-Level Results on Thursday 18 December.
+      button: DETAILS HERE
+      url: /2025-n-level-results-release/
+      alt: Image alt text
+      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
+  - infopic:
       title: AEP Selection Test
       id: infopic
       description: Sec 1 students keen to enrol in our Art Elective Programme will
@@ -38,16 +47,6 @@ sections:
       image: /images/e_Open_House_Poster__without_QR_code___2025_.png
       button: Watch here!
       url: https://www.bpghs.moe.edu.sg/news-and-events/the-bpian-experience-live/
-  - infopic:
-      title: Direct School Admission Exercise 2025
-      subtitle: JOIN THE BPIAN FAMILY
-      id: infopic
-      description: "Find out more about our Direct School Admission (DSA) Exercise for
-        admission to Secondary 1 in 2026:"
-      button: DETAILS HERE
-      url: https://www.bpghs.moe.edu.sg/dsa-2025/
-      alt: Image alt text
-      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
   - infopic:
       title: THINK
       subtitle: FUTURE-READY LEARNERS
