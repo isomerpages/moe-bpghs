@@ -86,7 +86,7 @@ sections:
       button: Take a Look!
       url: https://online.fliphtml5.com/obrr/bpghs2025/#p=1
       alt: Image alt text
-      image: /images/yearbook.png
+      image: /images/yearbook_2025.jpg
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
