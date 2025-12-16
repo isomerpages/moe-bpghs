@@ -19,10 +19,10 @@ N -Level results.</p>
 <p>This is a significant milestone in your academic journey, and we look
 forward to celebrating your achievements together as a school community.
 Please arrive punctually and in your school attire to maintain the formality
-of the occasion. As it is a core school experience to collect results with
-your peers, please also understand that students with dyed hair and hairstyles
-that do not adhere to school guidelines will not be allowed entry. They
-will collect their results on another day.</p>
+of the occasion. While it is a core school experience to collect results
+with your peers, please also understand that students with dyed hair and
+hairstyles that do not adhere to school guidelines will not be allowed
+entry. They will collect their results on another day.</p>
 <p>If you are unable to attend the N Level Results release on 18 Dec, you
 can collect your physical result and certification on another day or appoint
 a proxy to collect your results on your behalf. Please inform Ms Jessie
