@@ -23,7 +23,8 @@ sections:
       title: 2025 N-Level Results
       subtitle: Results Collection
       id: infopic
-      description: Information on collection of N-Level Results on Thursday 18 December.
+      description: Information on collection of 2025 N-Level Results on Thursday 18
+        December.
       button: DETAILS HERE
       url: /2025-n-level-results-release/
       alt: Image alt text
