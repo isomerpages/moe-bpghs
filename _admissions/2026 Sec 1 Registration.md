@@ -4,10 +4,10 @@ permalink: /2026-sec-1-registration/
 variant: tiptap
 description: ""
 ---
-<h4><strong>BPGHS warmly welcomes you to our BPian Family! </strong></h4>
+<h4><strong>BPGHS warmly welcomes you to our BPian Family!</strong></h4>
 <p>Please note that students who have been posted to BPGHS, <strong><u>do not </u></strong>have
 to report to school on 19 Dec 2025. There will be an online Sec 1 Registration
-for the students to complete by <strong>19 Dec 2025, 5pm.</strong> 
+for the students to complete by <strong>19 Dec 2025, 5pm.</strong>
 </p>
 <p>Only students interested in the Art Elective Programme (AEP) are required
 to report to school on <strong>Monday, 22 Dec 2025</strong> for the AEP Selection.
@@ -37,7 +37,7 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 <p></p>
 <hr>
 <p></p>
-<h3><strong>Please follow the steps below closely for registration </strong></h3>
+<h3><strong>Please follow the steps below closely for registration</strong></h3>
 <ol>
 <li>
 <p><strong><a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Welcome Letter to Secondary 1 Students</u></a></strong>
