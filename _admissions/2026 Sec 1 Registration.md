@@ -15,6 +15,7 @@ AEP Selection. Parents may accompany their child to the school on that
 day to purchase their books and uniform.</p>
 <p>IMPORTANT! Please complete the Sec 1 registration with the final submission
 of the FormSG form at the end of this page.</p>
+<hr>
 <p></p>
 <h4><strong>Appeal for Admission to BPGHS</strong></h4>
 <ul>
@@ -215,7 +216,9 @@ Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtb
 <p></p>
 <p><strong>7. FAQ</strong>
 </p>
-<p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site</a> or email bpghs@moe.edu.sg.</p>
+<p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
+6769 1031.</p>
+<p></p>
 <p><strong>8. Registration – Compulsory for all posted students (including DSA students)</strong>
 </p>
 <ul>
@@ -226,23 +229,8 @@ Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtb
 </ul>
 <p>Link for e-registration: <a href="https://go.gov.sg/bpghssec1reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1reg</u></a>
 </p>
+<p></p>
 <hr>
-<p><strong>THANK YOU!&nbsp;</strong>
-</p>
-<p><strong>You have now completed the BPGHS Sec 1 registration!&nbsp;</strong>
-</p>
-<p><strong>Welcome to BPGHS! =)</strong>
-</p>
-<hr>
-<h4><strong>Any other queries?</strong></h4>
-<p>If you have any other queries, please contact the school at:&nbsp;</p>
-<p>7 Choa Chu Kang Avenue 4 Singapore 689809</p>
-<p>Tel: 6769 1031 Fax: 6762 6576</p>
-<p>Email: <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bpghs@moe.edu.sg</u></a>
-</p>
-<p>
-<br>
-</p>
 <p>For matters pertaining to the Sec 1 Orientation Programme, please contact:&nbsp;</p>
 <p>Ms Jessie Lee, Year Head</p>
 <p>Email: <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_jessie@moe.edu.sg</a>
