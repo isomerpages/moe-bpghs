@@ -211,11 +211,11 @@ for greater convenience and and to avoid waiting time.&nbsp;</p>
 </ul>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/12KmiapweQXXRaHuKoX8B1b0tfpBhxv0q/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist</u></a> -
-Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">www.shingleebookstores.com.sg</a>.&nbsp;</p>
+<p><a href="https://drive.google.com/file/d/1vAFWjDyFIK5GOgkczIAWhm8ikEekRhAu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist</u></a> -
+Online purchase from <a href="www.shingleebookstores.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.shingleebookstores.com.sg</a>.&nbsp;</p>
 </li>
 <li>
-<p>School Uniform - Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.yangtzekiang.com.sg/eshop/</u></a>
+<p>School Uniform - Online purchase from <a href="https://www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.yangtzekiang.com.sg/eshop/</u></a>
 </p>
 </li>
 </ul>
