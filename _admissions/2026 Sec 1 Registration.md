@@ -4,7 +4,7 @@ permalink: /2026-sec-1-registration/
 variant: tiptap
 description: ""
 ---
-<h4><strong>We warmly welcome you to our BPian Family!</strong></h4>
+<h3><strong>We warmly welcome you to our BPian Family!</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BPGHS_Postcard_Set__Draft_3_.png">
@@ -20,19 +20,9 @@ AEP Selection Test.</p>
 <h4><strong>Appeal for Admission to BPGHS</strong></h4>
 <ul>
 <li>
-<p><strong>Please note that only students whose PSLE score meets the 2026 PSLE Score Range will be considered:</strong>
+<p><strong>Please note that only students whose PSLE score meets the 2026 PSLE Score Range will be considered. You may find the range here: </strong>
+<a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-panjang-govt-high-school" rel="noopener noreferrer nofollow" target="_blank">School profile page | MOE</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Posting Group 3: TBC</p>
-</li>
-<li>
-<p>Posting Group 2: TBC</p>
-</li>
-<li>
-<p>Posting Group 1: TBC</p>
-</li>
-</ul>
 </li>
 <li>
 <p>Admission via appeal is subject to the availability of vacancies and the
@@ -46,15 +36,14 @@ into BPGHS list should still report to their posted secondary school on
 </li>
 </ul>
 <hr>
-<h3><strong>Welcome by Principal, Mr Seet Tiat Hee</strong></h3>
-<p></p>
+<h4><strong>Welcome by Principal, Mr Seet Tiat Hee</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="https://www.bpghs.moe.edu.sg/images/Cropped_P_s_photo.jpg">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal's Letter to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here to read</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Letter to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here to read</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1cJYdvKYl3RSGVn24tqijR1iFX3ZKgj3F/view?usp=drive_link" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Principal's Letter to 2026 Sec 1 Parents</div>
+<div class="isomer-card-title">Letter to 2026 Sec 1 Parents</div>
 <div class="isomer-card-link">Click here to read</div>
 </div>
 </a>
