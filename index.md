@@ -34,7 +34,7 @@ sections:
       title: Appeal for Admission to BPGHS
       subtitle: Sec 1 Posting Exercise
       id: infobar
-      description: Please note that only students whose PSLE score meets the 2026 PSLE
+      description: Please note that only students whose PSLE score meets the 2025 PSLE
         Score Range will be considered.
       button: Submit by 23 Dec 2025, 5 pm
       url: https://go.gov.sg/bpghssec1appeals
