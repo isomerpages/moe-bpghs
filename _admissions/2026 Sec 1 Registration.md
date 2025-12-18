@@ -228,7 +228,7 @@ Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtb
 <p></p>
 <h4><strong>Registration – Compulsory for all posted students (including DSA students)</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bpghssec1reg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">All Sec 1 students must complete the e-registration by 19 December 2025, 5.00pm. </div><div class="isomer-card-description">Please ensure all fields in the form are duly completed.</div><div class="isomer-card-link">Click here to complete e-Registration!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bpghssec1reg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">All Sec 1 students must complete the e-registration by 19 December 2025, 5.00pm.</div><div class="isomer-card-description">Please ensure all fields in the form are duly completed.</div><div class="isomer-card-link">Click here to complete e-Registration!</div></div></a>
 </div>
 <p></p>
 <p></p>
