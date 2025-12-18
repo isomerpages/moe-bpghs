@@ -20,11 +20,11 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
-      title: Sec 1 Registration 2026
-      subtitle: Welcome to BPGHS!
+      title: 2026 Sec 1 Registration
+      subtitle: Sec 1 Posting Exercise
       id: infopic
-      description: Information on registration for new Secondary 1 students posted to
-        BPGHS in 2026.
+      description: Congratulations to all Sec 1 students  posted to our school! Please
+        read through these important information on registration by 19 December.
       button: Click here
       url: 2026-sec-1-registration/
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
