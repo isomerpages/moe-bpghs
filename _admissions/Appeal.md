@@ -7,7 +7,7 @@ description: ""
 <h4><strong>Appeal for Admission to BPGHS</strong></h4>
 <ul>
 <li>
-<p><strong>Please note that only students whose PSLE score meets the 2025 PSLE Score Range will be considered. You may find the 2025 PSLE range here: </strong>
+<p><strong>Please note that only students whose PSLE score meets the 2025 PSLE Score Range will be considered. You may find the 2025 PSLE Score range here: </strong>
 <a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-panjang-govt-high-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-panjang-govt-high-school</a>
 </p>
 </li>
