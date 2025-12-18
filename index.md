@@ -43,11 +43,12 @@ sections:
       title: AEP Selection Test
       id: infopic
       description: Sec 1 students keen to enrol in our Art Elective Programme will
-        need to sit for an AEP Selection Test. The registration link will be
-        posted here on 19 Dec.
-      button: Button Text
+        need to sit for an AEP Selection Test. Please register for the test
+        using the link below.
+      button: REGISTER HERE
       image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
       alt: Image alt text
+      url: https://tinyurl.com/AEPsignup25
   - infopic:
       title: The BPian Experience Live!
       subtitle: Discover School Life at BPGHS
