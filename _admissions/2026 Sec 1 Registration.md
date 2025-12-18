@@ -106,7 +106,7 @@ discover their creative potential and develop their artistic vision.&nbsp;</p>
 </li>
 <li>
 <p>Students who are interested in applying for the AEP are invited to click
-here to register: <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/AEPsignup25</u></a>
+here to register: <a href="https://tinyurl.com/AEPsignup25" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/AEPsignup25</u></a>
 </p>
 </li>
 <li>
