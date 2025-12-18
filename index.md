@@ -29,6 +29,14 @@ sections:
       url: 2026-sec-1-registration/
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
       alt: Image alt text
+  - infobar:
+      title: Appeals
+      subtitle: Sec 1 Posting Exercise
+      id: infobar
+      description: Please note that only students whose PSLE score meets the 2026 PSLE
+        Score Range will be considered.
+      button: Submit by 23 Dec 2025, 5 pm
+      url: https://go.gov.sg/bpghssec1appeals
   - infopic:
       title: 2025 N-Level Results
       subtitle: Results Collection
