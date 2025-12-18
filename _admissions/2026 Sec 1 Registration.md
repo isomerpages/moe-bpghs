@@ -92,7 +92,7 @@ on the links provided below.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Art Elective Programme (AEP) Selection Test Details [Register by XXX]</strong>
+<summary><strong>Art Elective Programme (AEP) Selection Test Details [Register by 19 Dec 25]</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
@@ -122,7 +122,7 @@ for the AEP Selection Test.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>MOE Financial Assistance Scheme (FAS) Application [Register by XXX]</strong>
+<summary><strong>MOE Financial Assistance Scheme (FAS) Application [Register ASAP]</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
