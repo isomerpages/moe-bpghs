@@ -101,7 +101,7 @@ on the links provided below.&nbsp;</p>
 discover their creative potential and develop their artistic vision.&nbsp;</p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1yAq424kRTZtnHYERetggpJmxw8XYFFWC/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to review the MOE AEP brochure</u></a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec/overview" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to review the MOE AEP overview</u></a>
 </p>
 </li>
 <li>
