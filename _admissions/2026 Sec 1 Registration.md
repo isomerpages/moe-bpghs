@@ -212,7 +212,7 @@ for greater convenience and and to avoid waiting time.&nbsp;</p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1vAFWjDyFIK5GOgkczIAWhm8ikEekRhAu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist</u></a> -
-Online purchase from <a href="www.shingleebookstores.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.shingleebookstores.com.sg</a>.&nbsp;</p>
+Online purchase from <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a>.</p>
 </li>
 <li>
 <p>School Uniform - Online purchase from <a href="https://www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.yangtzekiang.com.sg/eshop/</u></a>
