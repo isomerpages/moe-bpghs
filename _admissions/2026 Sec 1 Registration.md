@@ -36,7 +36,8 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 </p>
 <p></p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal's Welcome Address to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here for the Principal's Welcome Letter to 2026 Sec 1 Students</div></div></a>
+<h3><strong>Principal's Welcome</strong></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal's Welcome Letter to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here for the Principal's Welcome Letter to 2026 Sec 1 Students</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1cJYdvKYl3RSGVn24tqijR1iFX3ZKgj3F/view?usp=drive_link" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Principal's Welcome Letter to 2026 Sec 1 Parents</div>
@@ -44,7 +45,6 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 </div>
 </a>
 </div>
-<p></p>
 <hr>
 <h3><strong>Please follow the steps below closely for registration:</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
