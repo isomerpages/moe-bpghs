@@ -203,20 +203,14 @@ Smart Cards.</p>
 </div>
 </details>
 </div>
-<h4>7. Registration – Compulsory for all posted students (including DSA students)</h4>
-<p></p>
+<h4>7. Complete Registration</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bpghssec1reg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">All Sec 1 students must complete the e-registration by 19 December 2025, 5.00pm.</div><div class="isomer-card-description">Please ensure all fields in the form are duly completed.</div><div class="isomer-card-link">Click here to complete Registration!</div></div></a>
 </div>
-<p></p>
-<p></p>
-<p><strong>FAQ</strong>
-</p>
 <p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
 6769 1031.</p>
-<p>[Register ASAP]</p>
-<p></p>
-<h4></h4>
-<p></p>
+<p>For matters pertaining to the Sec 1 Orientation Programme, please contact
+Ms Jessie Lee, Year Head: <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_jessie@moe.edu.sg</a>
+</p>
 <hr>
 <h4><strong>Appeal for Admission to BPGHS</strong></h4>
 <ul>
@@ -237,8 +231,4 @@ into BPGHS list should still report to their posted secondary school on
 </li>
 </ul>
 <hr>
-<p>For matters pertaining to the Sec 1 Orientation Programme, please contact:&nbsp;</p>
-<p>Ms Jessie Lee, Year Head</p>
-<p>Email: <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_jessie@moe.edu.sg</a>
-</p>
 <p></p>
