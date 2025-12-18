@@ -20,15 +20,24 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
-      title: Sec 1 Registration 2026
-      subtitle: Welcome to BPGHS!
+      title: 2026 Sec 1 Registration
+      subtitle: Sec 1 Posting Exercise
       id: infopic
-      description: Information on registration for new Secondary 1 students posted to
-        BPGHS in 2026.
+      description: Congratulations to all Sec 1 students  posted to our school! Please
+        read through these important information for the online registration on
+        19 December.
       button: Click here
       url: 2026-sec-1-registration/
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
       alt: Image alt text
+  - infobar:
+      title: Appeal for Admission to BPGHS
+      subtitle: Sec 1 Posting Exercise
+      id: infobar
+      description: Please note that only students whose PSLE score meets the 2025 PSLE
+        Score Range will be considered.
+      button: Submit by 23 Dec 2025, 5 pm
+      url: https://go.gov.sg/bpghssec1appeals
   - infopic:
       title: 2025 N-Level Results
       subtitle: Results Collection
