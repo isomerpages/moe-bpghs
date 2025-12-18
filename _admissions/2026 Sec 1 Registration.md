@@ -54,9 +54,11 @@ the Form Teachers of your child/ward.</p>
 </details>
 </div>
 <hr>
-<h4>3. Offers to take Subject(s) at More Demanding Level, Higher Mother Tongue and Third Language</h4>
-<p><strong>Parents/guardians will be notified of their child/ward's eligibility via Parents Gateway (PG) by 22 Dec 2025 (Mon) and respond by the next day, 5pm. </strong>Those
-not yet onboarded to Parents Gateway will be contacted by the school instead.&nbsp;</p>
+<h4>3. Offers to take Subject(s) at More Demanding Level, Higher Mother Tongue and Third Language </h4>
+<p><strong>Parents/guardians will be notified of their child/ward's eligibility via Parents Gateway (PG) by 22 Dec 2025 (Mon). You will have to respond by 23 Dec 2025 (Tue), 5pm. </strong>
+</p>
+<p>Those not yet onboarded to Parents Gateway will be contacted by the school
+instead.&nbsp;</p>
 <p>Please refer to the respective MOE websites for the eligibility criteria:&nbsp;</p>
 <ul>
 <li>
@@ -74,62 +76,30 @@ not yet onboarded to Parents Gateway will be contacted by the school instead.&nb
 </ul>
 <p>Students taking Higher Tamil or Third Languages will need to attend these
 classes in another school or MOE Language Centre.</p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
-<p></p>
-<ul>
-<li>
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>Subjects at More Demanding Level</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=Language&amp;subterm=Higher%20Mother%20Tongue%20Languages%20(HMTL)" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Mother Tongue</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/secondary/courses/express/electives/?term=Language&amp;subterm=Foreign%20Language%20Programme%3A%20French%2C%20German%20or%20Spanish" rel="noopener noreferrer nofollow" target="_blank"><u>Third Language</u></a>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p></p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Art Elective Programme (AEP)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul>
-<li>
+<hr>
+<h4>4. Art Elective Programme (AEP) Registration and Selection Test</h4>
 <p>BPGHS offers an in-house AEP. We provide a supportive environment for
 students to discover their creative potential and develop their artistic
 vision.&nbsp;Read more about AEP <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec/overview" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><strong>Students interested in AEP must:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Register at this link: <a href="https://tinyurl.com/AEPsignup25" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/AEPsignup25</u></a> by 19 Dec 2025 (Fri).</strong>
+</p>
 </li>
 <li>
-<p><strong>Students interested in AEP must (i) register at this link: <a href="https://tinyurl.com/AEPsignup25" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/AEPsignup25</u></a> by 19 Dec 2025 (Fri) and (ii) attend the AEP Selection Test at BPGHS on 22 Dec 2025 (Mon), 8-10 am. </strong>They
+<p><strong>Attend the AEP Selection Test at BPGHS on 22 Dec 2025 (Mon), 8-10 am. </strong>They
 should report in their primary school uniform.&nbsp;</p>
 </li>
-<li>
+</ul>
 <p>Interested students who could not attend the AEP Selection test should
 email their digital art portfolio to Mr Tay Guan Chuan, HOD/Aesthetics
 (<a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">tay_guan_chuan@schools.gov.sg</a>)
 for consideration by <strong>22 Dec 2025 (Mon), 12 pm.</strong>
 </p>
-</li>
-</ul>
-</div>
-</details>
-</div>
 <hr>
-<h4>4. Booklist and School Uniform</h4>
+<h4>5. Booklist and School Uniform</h4>
 <ul>
 <li>
 <p>Please refer to the Sec 1 booklist at this <a href="https://drive.google.com/file/d/1vAFWjDyFIK5GOgkczIAWhm8ikEekRhAu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.
@@ -140,29 +110,62 @@ The books may be purchased in school or online:</p>
 except Christmas Eve, Christmas Day and weekends.</p>
 </li>
 <li>
-<p>You can also purchase them online at this link: <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a> for greater
-convenience.</p>
-<p></p>
+<p>The books can also be purchased online at this link: <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a> for
+greater convenience.</p>
 </li>
 </ul>
 </li>
 <li>
-<p>School Uniform - Online purchase from <a href="https://www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.yangtzekiang.com.sg/eshop/</u></a>
+<p>School Uniforms are only available for purchase in school on 22 Dec 2025
+(Mon), 9am to 3pm. Alternatively, they can be purchased online here:
+<a href="https://www.yangtzekiang.com.sg/eshop/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.yangtzekiang.com.sg/eshop/</u>
+</a>
 </p>
 </li>
 </ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>School Uniforms:</strong> Available for purchase only on Monday,
-22 December 2025 (9am to 3pm)</p>
-</li>
-</ul>
-<ul>
-<li>
+<p>The schedule for attire for Sec 1 are as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attire</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full Uniform with Tie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BP White Polo T-Shirt with Uniform Shorts/Skirts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tue, Thu, Fri*</p>
 <p></p>
-</li>
-</ul>
-<p><strong>7. FAQ</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE T-Shirt with Uniform Shorts/Skirts</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>FAQ</strong>
 </p>
 <p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
 6769 1031.</p>
