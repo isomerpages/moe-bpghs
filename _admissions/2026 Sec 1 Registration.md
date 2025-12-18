@@ -146,15 +146,15 @@ as early as possible to allow the school sufficient time for processing.
 Applications may take approximately one month to be approved.&nbsp;</p>
 </li>
 <li>
-<p>MOE FAS Information - <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf</a>
+<p>MOE FAS Information - <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf</a>
 </p>
 </li>
 <li>
-<p>MOE FAS Application Online Form - <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
+<p>MOE FAS Application Online Form - <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
 </p>
 </li>
 <li>
-<p>MOE FAS Application Hard Copy Form - <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf</u></a>
+<p>MOE FAS Application Hard Copy Form - <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf</u></a>
 </p>
 </li>
 </ul>
