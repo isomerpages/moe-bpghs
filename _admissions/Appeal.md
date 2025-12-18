@@ -13,7 +13,7 @@ description: ""
 </li>
 <li>
 <p>Admission via appeal is subject to the availability of vacancies and the
-school's assessment of the applicant's suitability. <strong>All appeals are to be submitted via this form: <a href="https://go.gov.sg/bpghssec1appeals" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1appeal</u>s</a> by Tuesday, 23 December 2025, 5.00pm.</strong>
+school's assessment of the applicant's suitability. <strong>All appeals are to be submitted via this form: <a href="https://go.gov.sg/bpghssec1appeals" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1appeal</u>s</a> by 23 Dec 2025 (Tue), 5.00pm.</strong>
 </p>
 </li>
 <li>
