@@ -30,7 +30,7 @@ sections:
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
       alt: Image alt text
   - infobar:
-      title: Appeals
+      title: Appeal for Admission to BPGHS
       subtitle: Sec 1 Posting Exercise
       id: infobar
       description: Please note that only students whose PSLE score meets the 2026 PSLE
