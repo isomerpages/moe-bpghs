@@ -16,6 +16,15 @@ day to purchase their books and uniform.</p>
 <p>IMPORTANT! Please complete the Sec 1 registration with the final submission
 of the FormSG form at the end of this page.</p>
 <hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal's Welcome Address to 2026 Sec 1 Students</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Principal's Welcome Letter to 2026 Sec 1 Parents</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <p></p>
 <h4><strong>Appeal for Admission to BPGHS</strong></h4>
 <ul>
@@ -37,24 +46,13 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 </p>
 <p></p>
 <hr>
-<p></p>
+<h3></h3>
 <h3><strong>Please follow the steps below closely for registration:</strong></h3>
-<ol>
-<li>
-<p><strong><a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Welcome Letter to Secondary 1 Students</u></a></strong>
-</p>
-</li>
-</ol>
-<p></p>
-<ol start="2">
-<li>
-<p><strong><a href="https://drive.google.com/file/d/1r1VmsbOKiyqxUzHPTKH7BvpAoigD578_/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Welcome Letter to Parents</u></a></strong>
-<br>
-</p>
-</li>
-</ol>
-<p>3. <strong>Higher Mother Tongue, Third Language and Subject-Based Banding Details&nbsp;</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Higher Mother Tongue, Third Language and Subject-Based Banding Details&nbsp;[Register by XXX]</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p>All students who are eligible for Higher Mother Tongue, Third Language
@@ -92,8 +90,12 @@ on the links provided below.&nbsp;</p>
 <p></p>
 </li>
 </ul>
-<p>4. <strong>Art Elective Programme (AEP) Selection Test Details&nbsp;</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Art Elective Programme (AEP) Selection Test Details [Register by XXX]</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p>The BPGHS AEP offers a rich and supportive environment for students to
@@ -115,12 +117,15 @@ for the AEP Selection Test.&nbsp;</p>
 </li>
 <li>
 <p><strong>Student who are unable to make it for the AEP Selection test but wish to be considered for the programme may submit a digital art portfolio via email to Mr Tay Guan Chuan [HOD/Aesthetics] @<em> <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">tay_guan_chuan@schools.gov.sg</a></em> by Monday, 22 December 2025, 12pm.&nbsp;&nbsp;</strong>
-<br>
 </p>
 </li>
 </ul>
-<p>5.<strong> MOE Financial Assistance Scheme (FAS) Application</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>MOE Financial Assistance Scheme (FAS) Application [Register by XXX]</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p>Students whose 2026 FAS application has been approved by their Primary
@@ -154,9 +159,11 @@ Applications may take approximately one month to be approved.&nbsp;</p>
 </p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<h3><strong>School Uniform &amp; Booklist Information</strong></h3>
 <p></p>
-<p>6. <strong>School Uniform &amp; Booklist Information</strong>
-</p>
 <ul>
 <li>
 <p>School books and school uniforms may be purchased via the options outlined
@@ -219,16 +226,11 @@ Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtb
 <p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
 6769 1031.</p>
 <p></p>
-<p><strong>8. Registration – Compulsory for all posted students (including DSA students)</strong>
-</p>
-<ul>
-<li>
-<p>All Sec 1 students are to complete the e-registration by 19 December 2025,
-5.00pm. Please ensure all fields in the form are duly completed.</p>
-</li>
-</ul>
-<p>Link for e-registration: <a href="https://go.gov.sg/bpghssec1reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1reg</u></a>
-</p>
+<h4><strong>Registration – Compulsory for all posted students (including DSA students)</strong></h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bpghssec1reg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">All Sec 1 students must complete the e-registration by 19 December 2025, 5.00pm. </div><div class="isomer-card-description">Please ensure all fields in the form are duly completed.</div><div class="isomer-card-link">Click here to complete e-Registration!</div></div></a>
+</div>
+<p></p>
 <p></p>
 <hr>
 <p>For matters pertaining to the Sec 1 Orientation Programme, please contact:&nbsp;</p>
