@@ -16,12 +16,11 @@ day to purchase their books and uniform.</p>
 <p>IMPORTANT! Please complete the Sec 1 registration with the final submission
 of the FormSG form at the end of this page.</p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal's Welcome Address to 2026 Sec 1 Students</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1USX-xzBBq7mNdOiFgrtIePFnu7zHAIA1/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Principal's Welcome Address to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here for the Principal's Welcome Letter to 2026 Sec 1 Students</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1cJYdvKYl3RSGVn24tqijR1iFX3ZKgj3F/view?usp=drive_link" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Principal's Welcome Letter to 2026 Sec 1 Parents</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Click here for the Principal's Welcome Letter to 2026 Sec 1 Parents</div>
 </div>
 </a>
 </div>
