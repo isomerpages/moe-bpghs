@@ -5,51 +5,53 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>We warmly welcome you to our BPian Family!</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BPGHS_Postcard_Set__Draft_3_.png">
 </div>
-<p>Dear 2026 Sec 1 Students and Parents,</p>
-<p>Congratulations on being posted to Bukit Panjang Government High School! <strong>Please read through this page in detail and complete the online form found at the end of this page by 19 December 2025, 5pm. </strong>You
-do not need to physically report to the school.</p>
-<p>Only students interested in the Art Elective Programme (AEP) are required
-to report to school on <strong>Monday, 22 December 2025</strong> for the
-AEP Selection Test.</p>
-<p></p>
+<p>Dear 2026 Sec 1 Parents/Guardians,</p>
+<p>Congratulations on your child/ward being posted to Bukit Panjang Government
+High School!</p>
+<p><strong>Please read through this page in detail and complete the online form at the end of this page by 19 December 2025, 5pm. </strong>You
+and your child/ward do not need to physically report to the school.</p>
 <hr>
-<h4><strong>Appeal for Admission to BPGHS</strong></h4>
-<ul>
-<li>
-<p><strong>Please note that only students whose PSLE score meets the 2026 PSLE Score Range will be considered. You may find the range here: </strong>
-<a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-panjang-govt-high-school" rel="noopener noreferrer nofollow" target="_blank">School profile page | MOE</a>
-</p>
-</li>
-<li>
-<p>Admission via appeal is subject to the availability of vacancies and the
-school's assessment of the applicant's suitability. <strong>All appeals are to be submitted via this form: <a href="https://go.gov.sg/bpghssec1appeals" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1appeal</u>s</a> by Tuesday, 23 December 2025, 5.00pm.</strong>
-</p>
-</li>
-<li>
-<p>The school will only notify successful applicants. Students who are appealing
-into BPGHS list should still report to their posted secondary school on
-2 Jan 2026.</p>
-</li>
-</ul>
-<hr>
-<h4><strong>Welcome by Principal, Mr Seet Tiat Hee</strong></h4>
+<h4>1. Welcome Letter by Principal, Mr Seet Tiat Hee</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="https://www.bpghs.moe.edu.sg/images/Cropped_P_s_photo.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Letter to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here to read</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1cJYdvKYl3RSGVn24tqijR1iFX3ZKgj3F/view?usp=drive_link" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Letter to 2026 Sec 1 Parents</div>
-<div class="isomer-card-link">Click here to read</div>
+<div class="isomer-card-title">Letter to 2026 Sec 1 Parents (Coming Soon!)</div>
 </div>
-</a>
+</div>
 </div>
 <hr>
-<h3><strong>Please follow the steps below closely for registration:</strong></h3>
+<h4>2. 1st Day of School (2 Jan) and Week 1 (5-9 Jan)</h4>
+<p>Your child/ward should report to school by 7.30 am on 2 January (Friday).</p>
+<p>They should wear the <strong>BPGHS</strong>  <strong>Uniform (White shirt and maroon shorts/skirt)</strong>.
+If they have not purchased the BPGHS uniform, they can wear their primary
+school attire. They will be dismissed by 12 pm.</p>
+<p>We would also like to invite you to join us at BPGHS for 2 events:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>6 January (Tuesday), 7 pm: Orientation Campfire</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Join your child/ward in the finale of their Orientation programme, as
+they celebrate with their Sec 1 classes to mark the beginning of their
+secondary school life.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>9 January (Friday), 6 pm: Parent-Teacher Conference</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Attend this session to learn more about what your child/ward can expect
+in Secondary School, followed by a breakout session where you can meet
+the Form Teachers of your child/ward.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>Please follow the steps below closely for registration:</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Higher Mother Tongue, Third Language and Subject-Based Banding Details&nbsp;[Respond/Acknowledge by Tuesday, 23 Dec 25]</strong>
@@ -118,8 +120,10 @@ All students are required to report to BPGHS in their primary school uniform
 for the AEP Selection Test.&nbsp;</p>
 </li>
 <li>
-<p><strong>Student who are unable to make it for the AEP Selection test but wish to be considered for the programme may submit a digital art portfolio via email to Mr Tay Guan Chuan [HOD/Aesthetics] @<em> <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">tay_guan_chuan@schools.gov.sg</a></em> by Monday, 22 December 2025, 12pm.&nbsp;&nbsp;</strong>
-</p>
+<p>Student who are unable to make it for the AEP Selection test but wish
+to be considered for the programme may submit a digital art portfolio via
+email to Mr Tay Guan Chuan [HOD/Aesthetics] @<em> </em><a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">tay_guan_chuan@schools.gov.sg</a> by
+Monday, 22 December 2025, 12pm.&nbsp;&nbsp;</p>
 </li>
 </ul>
 </div>
@@ -234,6 +238,25 @@ Online purchase from <a href="https://asenciobookshop.sg/" rel="noopener norefer
 </div>
 <p></p>
 <p></p>
+<hr>
+<h4><strong>Appeal for Admission to BPGHS</strong></h4>
+<ul>
+<li>
+<p><strong>Please note that only students whose PSLE score meets the 2025 PSLE Score Range will be considered. You may find the 2025 PSLE range here: </strong>
+<a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-panjang-govt-high-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-panjang-govt-high-school</a><strong> </strong>
+</p>
+</li>
+<li>
+<p>Admission via appeal is subject to the availability of vacancies and the
+school's assessment of the applicant's suitability. <strong>All appeals are to be submitted via this form: <a href="https://go.gov.sg/bpghssec1appeals" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1appeal</u>s</a> by Tuesday, 23 December 2025, 5.00pm.</strong>
+</p>
+</li>
+<li>
+<p>The school will only notify successful applicants. Students who are appealing
+into BPGHS list should still report to their posted secondary school on
+2 Jan 2026.</p>
+</li>
+</ul>
 <hr>
 <p>For matters pertaining to the Sec 1 Orientation Programme, please contact:&nbsp;</p>
 <p>Ms Jessie Lee, Year Head</p>
