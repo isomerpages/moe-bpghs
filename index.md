@@ -24,7 +24,8 @@ sections:
       subtitle: Sec 1 Posting Exercise
       id: infopic
       description: Congratulations to all Sec 1 students  posted to our school! Please
-        read through these important information on registration by 19 December.
+        read through these important information for the online registration on
+        19 December.
       button: Click here
       url: 2026-sec-1-registration/
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
