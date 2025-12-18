@@ -54,8 +54,8 @@ the Form Teachers of your child/ward.</p>
 </details>
 </div>
 <hr>
-<h4>3. Offers to take Subject(s) at More Demanding Level, Higher Mother Tongue and Third Language </h4>
-<p><strong>Parents/guardians will be notified of their child/ward's eligibility via Parents Gateway (PG) by 22 Dec 2025 (Mon). You will have to respond by 23 Dec 2025 (Tue), 5pm. </strong>
+<h4>3. Offers to take Subject(s) at More Demanding Level, Higher Mother Tongue and Third Language</h4>
+<p><strong>Parents/guardians will be notified of their child/ward's eligibility via Parents Gateway (PG) by 22 Dec 2025 (Mon). You will have to respond by 23 Dec 2025 (Tue), 5pm.</strong>
 </p>
 <p>Those not yet onboarded to Parents Gateway will be contacted by the school
 instead.&nbsp;</p>
@@ -106,8 +106,8 @@ for consideration by <strong>22 Dec 2025 (Mon), 12 pm.</strong>
 The books may be purchased in school or online:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The school bookstore will be open from 9 am to 3 pm during 22-30 Dec,
-except Christmas Eve, Christmas Day and weekends.</p>
+<p>The school bookstore will be open from 9 am to 3 pm on 22, 23, 26, 29
+and 30 Dec.</p>
 </li>
 <li>
 <p>The books can also be purchased online at this link: <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a> for
@@ -165,34 +165,57 @@ greater convenience.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>FAQ</strong>
-</p>
-<p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
-6769 1031.</p>
-<p>MOE Financial Assistance Scheme (FAS) Application [Register ASAP]</p>
-<p>Students whose 2026 FAS application has been approved by their Primary
-School are required to bring the approval letter to the BPGHS General Office
-to obtain a BPGHS FAS approval letter.&nbsp;</p>
-<p>Students with siblings in other schools who are currently on FAS should
-similarly bring the sibling's approval letter to the BPGHS General Office
-for the issuance of a BPGHS FAS approval letter.</p>
-<p>Please note that FAS approval by BPGHS is required before the collection
-of free textbooks and uniforms.</p>
-<p>For new FAS applicants, we strongly encourage you to submit your application
-as early as possible to allow the school sufficient time for processing.
-Applications may take approximately one month to be approved.&nbsp;</p>
-<p>MOE FAS Information - <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf</a>
-</p>
-<p>MOE FAS Application Online Form - <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
-</p>
-<p>MOE FAS Application Hard Copy Form - <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf</a>
-</p>
-<h3></h3>
-<h4><strong>Registration – Compulsory for all posted students (including DSA students)</strong></h4>
+<hr>
+<h4>6. Other information</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>MOE Financial Assistance Scheme (FAS) Application</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To obtain the FAS approval letter from BPGHS, the student should present
+to the General Office either:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the 2026 FAS application approval letter from their Primary School, or
+&nbsp;</p>
+</li>
+<li>
+<p>the 2026 FAS application approval letter of their sibling studying in
+another school.</p>
+</li>
+</ul>
+<p></p>
+<p>New FAS applicants should submit their application at this <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">link</a> as
+early as possible because it takes about one month to process. The FAS
+approval letter by BPGHS is required for the collection of free textbooks
+and uniforms.</p>
+<p></p>
+<p>More information on FAS can be found <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Student Concession Card</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Sec 1 students can continue to use their Primary level School Smart Cards
+for concessionary travel until they receive their Secondary level School
+Smart Cards.</p>
+</div>
+</details>
+</div>
+<h4>7. Registration – Compulsory for all posted students (including DSA students)</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bpghssec1reg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">All Sec 1 students must complete the e-registration by 19 December 2025, 5.00pm.</div><div class="isomer-card-description">Please ensure all fields in the form are duly completed.</div><div class="isomer-card-link">Click here to complete Registration!</div></div></a>
 </div>
 <p></p>
+<p></p>
+<p><strong>FAQ</strong>
+</p>
+<p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
+6769 1031.</p>
+<p>[Register ASAP]</p>
+<p></p>
+<h4></h4>
 <p></p>
 <hr>
 <h4><strong>Appeal for Admission to BPGHS</strong></h4>
