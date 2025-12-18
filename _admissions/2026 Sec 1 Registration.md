@@ -55,7 +55,7 @@ the Form Teachers of your child/ward.</p>
 </div>
 <hr>
 <h4>3. Offers to take Subject(s) at More Demanding Level, Higher Mother Tongue and Third Language</h4>
-<p><strong>Parents/guardians will be notified of their child/ward's eligibility via Parents Gateway (PG) by 22 Dec 2025 (Mon) and respond by 23 Dec 2025 (Tue), 5pm. </strong>Those
+<p><strong>Parents/guardians will be notified of their child/ward's eligibility via Parents Gateway (PG) by 22 Dec 2025 (Mon) and respond by the next day, 5pm. </strong>Those
 not yet onboarded to Parents Gateway will be contacted by the school instead.&nbsp;</p>
 <p>Please refer to the respective MOE websites for the eligibility criteria:&nbsp;</p>
 <ul>
@@ -104,7 +104,7 @@ classes in another school or MOE Language Centre.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Art Elective Programme (AEP) </strong>
+<summary><strong>Art Elective Programme (AEP)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
