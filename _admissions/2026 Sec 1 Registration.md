@@ -49,7 +49,7 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 <h3><strong>Please follow the steps below closely for registration:</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Higher Mother Tongue, Third Language and Subject-Based Banding Details&nbsp;[Register by XXX]</strong>
+<summary><strong>Higher Mother Tongue, Third Language and Subject-Based Banding Details&nbsp;[Respond/Acknowledge by Tuesday, 23 Dec 25]</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
