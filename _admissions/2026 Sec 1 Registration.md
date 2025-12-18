@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>BPGHS warmly welcomes you to our BPian Family!</strong></h4>
-<p>Please note that students who have been posted to BPGHS, <strong><u>do not </u></strong>have
-to report to school on 19 Dec 2025. There will be an online Sec 1 Registration
-for the students to complete by <strong>19 Dec 2025, 5pm.</strong>
+<p>Please note that students who have been posted to BPGHS <strong><u>do not </u></strong>have
+to report to school on 19 Dec 2025. There will be an <strong>online</strong> Sec
+1 Registration for the students to complete by <strong>19 December 2025, 5pm.</strong>
 </p>
 <p>Only students interested in the Art Elective Programme (AEP) are required
-to report to school on <strong>Monday, 22 Dec 2025</strong> for the AEP Selection.
-Parents may accompany their child to the school on that day to purchase
-their books and uniform.</p>
+to report to school on <strong>Monday, 22 December 2025</strong> for the
+AEP Selection. Parents may accompany their child to the school on that
+day to purchase their books and uniform.</p>
 <p>IMPORTANT! Please complete the Sec 1 registration with the final submission
 of the FormSG form at the end of this page.</p>
 <p></p>
@@ -37,25 +37,21 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 <p></p>
 <hr>
 <p></p>
-<h3><strong>Please follow the steps below closely for registration</strong></h3>
+<h3><strong>Please follow the steps below closely for registration:</strong></h3>
 <ol>
 <li>
 <p><strong><a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Welcome Letter to Secondary 1 Students</u></a></strong>
 </p>
 </li>
 </ol>
-<p>
-<br>
-</p>
+<p></p>
 <ol start="2">
 <li>
 <p><strong><a href="https://drive.google.com/file/d/1r1VmsbOKiyqxUzHPTKH7BvpAoigD578_/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Welcome Letter to Parents</u></a></strong>
+<br>
 </p>
 </li>
 </ol>
-<p>
-<br>
-</p>
 <p>3. <strong>Higher Mother Tongue, Third Language and Subject-Based Banding Details&nbsp;</strong>
 </p>
 <ul>
@@ -92,11 +88,9 @@ on the links provided below.&nbsp;</p>
 </p>
 </li>
 </ul>
+<p></p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p>4. <strong>Art Elective Programme (AEP) Selection Test Details&nbsp;</strong>
 </p>
 <ul>
@@ -120,12 +114,10 @@ for the AEP Selection Test.&nbsp;</p>
 </li>
 <li>
 <p><strong>Student who are unable to make it for the AEP Selection test but wish to be considered for the programme may submit a digital art portfolio via email to Mr Tay Guan Chuan [HOD/Aesthetics] @<em> <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtbiTnSlNl4gKoIX0S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">tay_guan_chuan@schools.gov.sg</a></em> by Monday, 22 December 2025, 12pm.&nbsp;&nbsp;</strong>
+<br>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p>5.<strong> MOE Financial Assistance Scheme (FAS) Application</strong>
 </p>
 <ul>
@@ -161,9 +153,7 @@ Applications may take approximately one month to be approved.&nbsp;</p>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p>6. <strong>School Uniform &amp; Booklist Information</strong>
 </p>
 <ul>
@@ -222,12 +212,10 @@ Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtb
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>7. FAQ</strong>
 </p>
-<p></p>
+<p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site</a> or email bpghs@moe.edu.sg.</p>
 <p><strong>8. Registration – Compulsory for all posted students (including DSA students)</strong>
 </p>
 <ul>
@@ -239,7 +227,6 @@ Online purchase from <a href="https://drive.google.com/file/d/14_QUPVkdhPyDrYrtb
 <p>Link for e-registration: <a href="https://go.gov.sg/bpghssec1reg" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1reg</u></a>
 </p>
 <hr>
-<p></p>
 <p><strong>THANK YOU!&nbsp;</strong>
 </p>
 <p><strong>You have now completed the BPGHS Sec 1 registration!&nbsp;</strong>
