@@ -23,9 +23,9 @@ sections:
       title: Sec 1 Registration 2026
       subtitle: Welcome to BPGHS!
       id: infopic
-      description: Registration information for new Sec 1 students posted to BPGHS on
-        Friday, 19 December 2025.
-      button: Click here for more information!
+      description: Information on registration for new Secondary 1 students posted to
+        BPGHS in 2026.
+      button: Click here
       url: 2026-sec-1-registration/
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
       alt: Image alt text
