@@ -33,7 +33,7 @@ be submitted by <strong>Tuesday, 23 December 2025, 5.00pm.</strong>
 <p>The school will only notify successful applicants.</p>
 </li>
 </ul>
-<p>Link to appeal form: <a href="https://go.gov.sg/bpghssec1appeal" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1appeal</u>s</a>
+<p>Link to appeal form: <a href="https://go.gov.sg/bpghssec1appeals" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/bpghssec1appeal</u>s</a>
 </p>
 <p></p>
 <hr>
