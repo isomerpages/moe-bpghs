@@ -27,13 +27,89 @@ and your child/ward do not need to physically report to the school.</p>
 </a>
 </div>
 <hr>
-<h4>2. 1st Day of School (2 Jan 2026) and Week 1 (5-9 Jan 2026)</h4>
-<p>Your child/ward should report to school by 7.30 am on 2 Jan 2026 (Friday).</p>
-<p>They should wear the <strong>BPGHS</strong>  <strong>Uniform (White shirt and maroon shorts/skirt)</strong>.
-If they have not purchased the BPGHS uniform, they can wear their primary
-school attire. They will be dismissed by 12.30 pm.</p>
-<p>Specifically, we would like to invite you to join us at BPGHS for these
-2 events:</p>
+<h4>2. 1st Day of School (2 Jan 2026) and Week 1 (5-9 Jan 2026) Information</h4>
+<p>Your child/ward should report to school by 7.30 am on 2 Jan 2026 (Friday)
+for the first day of the Orientation Programme.</p>
+<p></p>
+<h4><strong>[Updated!] </strong>Sec 1 Orientation Programme Schedule 2026 (2, 5 &amp; 6 Jan 2026)</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Start Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>End Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attire</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 2 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*Half-Uniform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 5 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full Uniform with tie; bring PE attire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>**Tuesday, 6 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Full-Uniform with tie</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*PE shirt and white shorts/maroon skirt</p>
+<p><em>If they have not purchased the BPGHS uniform, they can wear their primary school uniform. </em>
+</p>
+<p>**Please note that a CCA Roadshow will be held on <strong>Tuesday, 6 January 2026</strong>,
+from <strong>3.00 pm to 5.00 pm</strong>. This day will conclude the Orientation
+Programme, which will <strong>end at 8.30pm with a campfire.</strong>
+</p>
+<p>Normal timetabled lessons will resume on <strong>Wednesday, 7 January 2026</strong>,
+at <strong>8.50 am</strong>.</p>
+<p></p>
+<p>For all parents, we would like to invite you to join us at BPGHS for the
+following two events:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>6 Jan 2026 (Tue), 5.45pm to 8.30pm : Orientation Campfire</strong>
