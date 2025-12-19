@@ -19,11 +19,12 @@ and your child/ward do not need to physically report to the school.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="https://www.bpghs.moe.edu.sg/images/Cropped_P_s_photo.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Letter to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here to read</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1pAKmRs7qLuB-Gweh8lSS5ijcKD9PNrfH/view?usp=sharing" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Letter to 2026 Sec 1 Parents (Coming Soon!)</div>
+<div class="isomer-card-title">Letter to 2026 Sec 1 Parents</div>
+<div class="isomer-card-link">Click here to read</div>
 </div>
-</div>
+</a>
 </div>
 <hr>
 <h4>2. 1st Day of School (2 Jan 2026) and Week 1 (5-9 Jan 2026)</h4>
