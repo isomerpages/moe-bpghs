@@ -19,23 +19,24 @@ and your child/ward do not need to physically report to the school.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="https://www.bpghs.moe.edu.sg/images/Cropped_P_s_photo.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1S1Vk9sBNJlkycnSn-NOjk__MA4Ga7JEI/view?usp=drive_link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Letter to 2026 Sec 1 Students</div><div class="isomer-card-link">Click here to read</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1pAKmRs7qLuB-Gweh8lSS5ijcKD9PNrfH/view?usp=sharing" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Letter to 2026 Sec 1 Parents (Coming Soon!)</div>
+<div class="isomer-card-title">Letter to 2026 Sec 1 Parents</div>
+<div class="isomer-card-link">Click here to read</div>
 </div>
-</div>
+</a>
 </div>
 <hr>
 <h4>2. 1st Day of School (2 Jan 2026) and Week 1 (5-9 Jan 2026)</h4>
 <p>Your child/ward should report to school by 7.30 am on 2 Jan 2026 (Friday).</p>
 <p>They should wear the <strong>BPGHS</strong>  <strong>Uniform (White shirt and maroon shorts/skirt)</strong>.
 If they have not purchased the BPGHS uniform, they can wear their primary
-school attire. They will be dismissed by 12 pm.</p>
+school attire. They will be dismissed by 12.30 pm.</p>
 <p>Specifically, we would like to invite you to join us at BPGHS for these
 2 events:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6 Jan 2026 (Tue), 7 pm: Orientation Campfire</strong>
+<summary><strong>6 Jan 2026 (Tue), 5.45pm to 8.30pm : Orientation Campfire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Join your child/ward in the finale of their Orientation programme, as
@@ -44,7 +45,7 @@ secondary school life.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>9 Jan 2026 (Fri), 6 pm: Parent-Teacher Conference</strong>
+<summary><strong>9 Jan 2026 (Fri), 6pm to 7.30pm: Parent-Teacher Conference</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Attend this session to learn more about what your child/ward can expect
