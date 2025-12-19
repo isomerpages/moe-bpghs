@@ -30,10 +30,8 @@ and your child/ward do not need to physically report to the school.</p>
 <h4>2. 1st Day of School (2 Jan 2026) and Week 1 (5-9 Jan 2026) Information</h4>
 <p>Your child/ward should report to school by 7.30 am on 2 Jan 2026 (Friday)
 for the first day of the Orientation Programme.</p>
-<p>If they have not purchased the BPGHS uniform, they can wear their primary
-school attire. They will be dismissed by 12.30 pm.</p>
 <p></p>
-<h4><strong>[Updated!] </strong>Sec 1 Orientation Programme Schedule 2026  (2, 5 &amp; 6 Jan 2026)</h4>
+<h4><strong>[Updated!] </strong>Sec 1 Orientation Programme Schedule 2026 (2, 5 &amp; 6 Jan 2026)</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -101,6 +99,8 @@ school attire. They will be dismissed by 12.30 pm.</p>
 </tbody>
 </table>
 <p>*PE shirt and white shorts/maroon skirt</p>
+<p><em>If they have not purchased the BPGHS uniform, they can wear their primary school uniform. </em>
+</p>
 <p>**Please note that a CCA Roadshow will be held on <strong>Tuesday, 6 January 2026</strong>,
 from <strong>3.00 pm to 5.00 pm</strong>. This day will conclude the Orientation
 Programme, which will <strong>end at 8.30pm with a campfire.</strong>
