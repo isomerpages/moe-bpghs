@@ -31,12 +31,12 @@ and your child/ward do not need to physically report to the school.</p>
 <p>Your child/ward should report to school by 7.30 am on 2 Jan 2026 (Friday).</p>
 <p>They should wear the <strong>BPGHS</strong>  <strong>Uniform (White shirt and maroon shorts/skirt)</strong>.
 If they have not purchased the BPGHS uniform, they can wear their primary
-school attire. They will be dismissed by 12 pm.</p>
+school attire. They will be dismissed by 12.30 pm.</p>
 <p>Specifically, we would like to invite you to join us at BPGHS for these
 2 events:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6 Jan 2026 (Tue), 7 pm: Orientation Campfire</strong>
+<summary><strong>6 Jan 2026 (Tue), 5.45 pm: Orientation Campfire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Join your child/ward in the finale of their Orientation programme, as
