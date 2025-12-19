@@ -36,7 +36,7 @@ school attire. They will be dismissed by 12.30 pm.</p>
 2 events:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>6 Jan 2026 (Tue), 5.45 pm: Orientation Campfire</strong>
+<summary><strong>6 Jan 2026 (Tue), 5.45pm to 8.30pm : Orientation Campfire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Join your child/ward in the finale of their Orientation programme, as
@@ -45,7 +45,7 @@ secondary school life.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>9 Jan 2026 (Fri), 6 pm: Parent-Teacher Conference</strong>
+<summary><strong>9 Jan 2026 (Fri), 6pm to 7.30pm: Parent-Teacher Conference</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Attend this session to learn more about what your child/ward can expect
