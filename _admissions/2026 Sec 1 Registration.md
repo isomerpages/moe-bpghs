@@ -99,11 +99,9 @@ for the first day of the Orientation Programme.</p>
 </tbody>
 </table>
 <p>*PE shirt and white shorts/maroon skirt</p>
-<p><em>If they have not purchased the BPGHS uniform, they can wear their primary school uniform. </em>
+<p><em>If they have not purchased the BPGHS uniform, they can wear their primary school uniform.</em>
 </p>
-<p>**Please note that a CCA Roadshow will be held on <strong>Tuesday, 6 January 2026</strong>,
-from <strong>3.00 pm to 5.00 pm</strong>. This day will conclude the Orientation
-Programme, which will <strong>end at 8.30pm with a campfire.</strong>
+<p>**This day will conclude the Orientation Programme, which will <strong>end at 8.30pm with a campfire.</strong>
 </p>
 <p>Normal timetabled lessons will resume on <strong>Wednesday, 7 January 2026</strong>,
 at <strong>8.50 am</strong>.</p>
@@ -127,6 +125,8 @@ secondary school life.</p>
 <p>Attend this session to learn more about what your child/ward can expect
 in Secondary School, followed by a breakout session where you can meet
 the Form Teachers of your child/ward.</p>
+<p><em>You may join us at the CCA Roadshow on this day, from 3-5pm, as well.</em>
+</p>
 </div>
 </details>
 </div>
