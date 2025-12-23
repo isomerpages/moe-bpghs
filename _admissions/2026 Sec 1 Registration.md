@@ -125,7 +125,8 @@ secondary school life.</p>
 <p>Attend this session to learn more about what your child/ward can expect
 in Secondary School, followed by a breakout session where you can meet
 the Form Teachers of your child/ward.</p>
-<p>You may join us at the CCA Roadshow on this day, from 3-5pm, as well.</p>
+<p><em>You may join us at the CCA Roadshow on this day, from 3-5pm, as well.</em>
+</p>
 </div>
 </details>
 </div>
