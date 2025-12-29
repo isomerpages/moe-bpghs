@@ -22,6 +22,15 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The BPian Student Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/bpghs-student-guide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bpghs-student-guide</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student iCON</p>
 </td>
 <td rowspan="1" colspan="1">
