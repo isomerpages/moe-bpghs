@@ -7,8 +7,8 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_Semester_1_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable</a>
-</p>
+<p><a href="/files/2026_Semester_1_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable </a>updated
+31 Dec</p>
 </li>
 <li>
 <p><a href="https://docs.google.com/spreadsheets/d/1MbkgY2j0bY8sfBYbNt0ccBhvdfxjTT8V/edit?gid=84607633#gid=84607633" rel="noopener nofollow" target="_blank">2025 Year-End Holiday CCA Schedule </a>updated
