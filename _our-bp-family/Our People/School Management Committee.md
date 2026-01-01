@@ -92,7 +92,7 @@ variant: tiptap
 <p>Subject Head / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur'aini Binte Abdul Rashid</p>
+<p>Ms Siti Nur'aini Abdul Rashid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_nuraini_abdul_rashid@moe.edu.sg</p>
@@ -131,10 +131,10 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kok Hua</p>
+<p>Mr Choy Chee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kok_hua@moe.edu.sg</p>
+<p>choy_chee_ping@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -274,6 +274,34 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ 21st Century Competencies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Chee Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chee_shan_lim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Wellbeing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Yu Mi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>soh_yu_mi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>Student Management</p>
 </td>
@@ -339,7 +367,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(covering)</p>
+<p>Secondary 2 (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhamad Lokman Bin Mohamad</p>
@@ -378,7 +406,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / ICT</p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sherlyn Tan</p>
