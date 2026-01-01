@@ -239,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sangeetha D/O Kriskumarn</p>
+<p>Ms Sangeetha D/O Kriskumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sangeetha_kriskumar@moe.edu.sg</p>
