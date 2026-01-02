@@ -4,3 +4,70 @@ permalink: /2025-information/
 variant: tiptap
 description: ""
 ---
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1Obiz6VK9jn92sYBO_M41nYYKb9LX788_/edit?gid=51001775#gid=51001775" rel="noopener nofollow" target="_blank">2025 Sept Holiday CCA Schedule </a>updated
+4 Sep</p>
+</li>
+<li>
+<p><a href="/files/2025_Sec_3_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EOY Exam Schedule &amp; Topics Tested </a>updated
+2 Sep</p>
+</li>
+<li>
+<p><a href="/files/2025_Sec_2_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY Exam Schedule &amp; Topics Tested </a>updated
+2 Sep</p>
+</li>
+<li>
+<p><a href="/files/2025_Sec_1_EOY_Exam_Schedule_and_Topics_Tested.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY Exam Schedule &amp; Topics Tested </a>updated
+2 Sep</p>
+</li>
+<li>
+<p><a href="/files/2025_Prelim_Timetable_with_venues__updated_4_Aug_.pdf" rel="noopener nofollow" target="_blank">2025 Prelim Exam Timetable</a> updated
+4 Aug</p>
+</li>
+<li>
+<p><a href="/files/Timetable_for_classes__240625.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Timetable</a> updated
+26 Jun</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1qd8RagFKDzv5Ai7a0xv_RDiGmFhnV7Eq/edit?usp=sharing&amp;ouid=114076641539275533540&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2025 June Holiday CCA Schedule</a> updated
+2 Jun</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1PSs0kjXiJl3BLRRzOKnz_AQIEHc8HAAC/edit?gid=834315777#gid=834315777" rel="noopener nofollow" target="_blank">2025 March Holiday CCA Schedule</a> updated
+14 Mar</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1-ivXoeEcC2ezffwPMfWYK3S-M0XWhTkBIhBaXjQhtQk/edit?usp=sharing" rel="noopener nofollow" target="_blank">2025 Sec 1-3 Weighted Assessment Schedule</a> updated
+3 Feb</p>
+</li>
+<li>
+<p><a href="/files/2025_Sem_1_Timetable_Classes_wef_20_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 Timetable (wef 20 Jan)</a> updated
+17 Jan</p>
+</li>
+<li>
+<p><a href="/files/2025_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2025 CCA Schedule</a> updated
+6 Jan</p>
+</li>
+<li>
+<p><a href="/files/After_School_Schedule_2025__For_parents____Ms_Alina.pdf" rel="noopener nofollow" target="_blank">2025 After School Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/open?id=1TsZODRZlXtwN_9Py1Ber0wJJiIiPJ5TH" rel="noopener nofollow" target="_blank">2024 GCE N level Results Release (Briefing for Students)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Website_Popup_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Registration</a>
+</p>
+</li>
+<li>
+<p><a href="/files/FINAL__Bukit_Panjang_Govt_High_2025_Booklists___Ms_Alina.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Booklists</a>
+</p>
+</li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1-gibjfT2ONTeIiuUy87QIGVq7mGBHGuJ/edit?usp=sharing&amp;ouid=114076641539275533540&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">2024 Nov Dec Holiday CCA Schedule</a>
+</p>
+</li>
+</ul>
+<p></p>
