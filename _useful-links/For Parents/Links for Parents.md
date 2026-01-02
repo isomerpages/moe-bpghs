@@ -57,17 +57,6 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Application Form for Leave of Absence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/68f97df8d9b9803e70fa1c96" rel="noopener noreferrer nofollow" target="_blank">Click Here to Access</a></strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Notification of Absence Form</strong>
 </p>
 </td>
