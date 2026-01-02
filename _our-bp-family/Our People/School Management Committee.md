@@ -160,7 +160,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,6 +182,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>qiu_yiru@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alliot See Ai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ai_xin_see@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
