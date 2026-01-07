@@ -13,10 +13,12 @@ third_nav_title: For Parents
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1 Resources</strong>
+<p><strong>2025 Secondary 1 Resources</strong>
 </p>
 <p><strong>(for parents' reference)</strong>
 </p>
+<p></p>
+<p>*2026 Resources will be available from 12 Jan onwards</p>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
