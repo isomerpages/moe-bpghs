@@ -11,7 +11,7 @@ variant: tiptap
 8 Jan</p>
 </li>
 <li>
-<p><a href="/files/Sec_1_CCA_Information_for_Students_2026.pdf" rel="noopener nofollow" target="_blank">2026 CCA Information for students</a> updated
+<p><a href="/files/Sec_1_CCA_Information_for_Students_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 CCA Information for students</a> updated
 8 Jan</p>
 </li>
 <li>
