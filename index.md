@@ -19,6 +19,14 @@ sections:
           description: ""
           url: https://www.instagram.com/bpghs.official/
       variant: image
+  - infobar:
+      title: Appeal for Admission to BPGHS
+      subtitle: Sec 1 Posting Exercise
+      id: infobar
+      description: "Please note that only students whose PSLE score meets the 2025
+        PSLE Score Range will be considered: PG 1: 26; PG 2: 22; PG 3: 11"
+      button: Submit by 23 Dec 2025, 5 pm
+      url: https://go.gov.sg/bpghssec1appeals
   - infopic:
       title: 2026 Sec 1 Registration
       subtitle: Sec 1 Posting Exercise
@@ -30,14 +38,6 @@ sections:
       url: 2026-sec-1-registration/
       image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
       alt: Image alt text
-  - infobar:
-      title: Appeal for Admission to BPGHS
-      subtitle: Sec 1 Posting Exercise
-      id: infobar
-      description: "Please note that only students whose PSLE score meets the 2025
-        PSLE Score Range will be considered: PG 1: 26; PG 2: 22; PG 3: 11"
-      button: Submit by 23 Dec 2025, 5 pm
-      url: https://go.gov.sg/bpghssec1appeals
   - infopic:
       title: 2025 N-Level Results
       subtitle: Results Collection
@@ -48,16 +48,6 @@ sections:
       url: /2025-n-level-results-release/
       alt: Image alt text
       image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
-  - infopic:
-      title: AEP Selection Test
-      id: infopic
-      description: Sec 1 students keen to enrol in our Art Elective Programme will
-        need to sit for an AEP Selection Test. Please register for the test
-        using the link below.
-      button: REGISTER HERE
-      image: /images/BPGHS_AEP_INTAKE_ADVERTISING_2026__42_x_30_cm_.png
-      alt: Image alt text
-      url: https://tinyurl.com/AEPsignup25
   - infopic:
       title: The BPian Experience Live!
       subtitle: Discover School Life at BPGHS
