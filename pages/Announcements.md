@@ -7,8 +7,8 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_CCA_Information_for_Students_2026.pdf" rel="noopener nofollow" target="_blank">2026 CCA Inf</a>
-<a href="/files/2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 CCA Schedule</a>updated 8 Jan</p>
+<p><a href="/files/2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 CCA Schedule </a>updated
+8 Jan</p>
 </li>
 <li>
 <p><a href="/files/Sec_1_CCA_Information_for_Students_2026.pdf" rel="noopener nofollow" target="_blank">2026 CCA Information for students</a> updated
