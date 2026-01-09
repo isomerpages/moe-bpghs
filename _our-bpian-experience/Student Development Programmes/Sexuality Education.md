@@ -812,14 +812,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="Annex_A__SEd_Letter_to_Parents_" rel="noopener nofollow" target="_blank">here</a>. The completed form is
-to be submitted by 23/01/2026.</p>
+at the start of the year and is also available <a href="/files/Annex_A__SEd_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 23/01/2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="Annex_B__SEd_PG_Opt_out_for_eteens_lesson_" rel="noopener nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 23/01/2026.</p>
+at the start of the year and is also available <a href="/files/Annex_B__SEd_PG_Opt_out_for_eteens_lesson_.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 23/01/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or
