@@ -776,13 +776,13 @@ on:</p>
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
 and impact</p>
-<p>&nbsp;</p>
+<p></p>
 <p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
 assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
 way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
