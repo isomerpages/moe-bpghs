@@ -175,7 +175,6 @@ of self.&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological
@@ -199,7 +198,7 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
