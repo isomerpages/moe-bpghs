@@ -55,9 +55,9 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p></p>
 </li>
 <li>
-<p>The subjects that incorporate topics on sexuality include:</p>
-<p>a. Science</p>
-<p>b. Character and Citizenship Education (CCE)</p>
+<p>The subjects that incorporate topics on sexuality include:
+<br>a. Science
+<br>b. Character and Citizenship Education (CCE)</p>
 <p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
