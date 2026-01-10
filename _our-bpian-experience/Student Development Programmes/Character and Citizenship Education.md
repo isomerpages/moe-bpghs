@@ -9,16 +9,16 @@ third_nav_title: Student Development Programmes
 <p><em>To access a list of CCE programmes, click on the menu tab at the top of this page (mobile version).</em>
 </p>
 <p>Character and Citizenship Education (CCE) is at the heart of education
-in Singapore.&nbsp; Through CCE, students learn values, social-emotional
-competencies, and develop character and citizenship dispositions that enable
-them to grow holistically and learn for life.&nbsp;&nbsp;</p>
+in Singapore. Through CCE, students learn values, social-emotional competencies,
+and develop character and citizenship dispositions that enable them to
+grow holistically and learn for life.&nbsp;&nbsp;</p>
 <p>The goals of CCE in BPGHS is to develop every BPian into an inspiring
 leader who embodies the school values (respect, responsibility, resilience,
 integrity and care for others) and a heart to serve.&nbsp; By developing
 inspiring leaders, we develop in them.</p>
 <p><strong>1. The heart to serve for a good cause</strong>
 </p>
-<p><u>The school values (respect and care for others)</u>
+<p><u>The school values (Respect and Care for Others)</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,7 +28,7 @@ a better world, better Singapore and better community.&nbsp;&nbsp;
 </p>
 </li>
 </ul>
-<p><u>The school values (responsibility and resilience)</u>
+<p><u>The school values (Responsibility and Resilience)</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,7 @@ despite the challenges.&nbsp;
 </p>
 </li>
 </ul>
-<p><u>The school values (integrity)</u>
+<p><u>The school values (Integrity)</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,15 +85,15 @@ education commemorative days, values in action (VIA) activities, mental
 wellbeing programmes, cyberwellness programme and student leadership learning.</p>
 <p><strong>2. Student leadership development&nbsp;</strong>
 </p>
-<p>The school adopt the five practices of the leadership challenge model
-to develop in BPians the skills required of an inspiring leader.&nbsp;
-Students are taught the five practices in the CCE lessons and are required
-to demonstrate these practices in the projects given to them such as the
-VIA programmes, the National Day project, the CCA projects and the Mental
-Wellbeing Day project.&nbsp;&nbsp;</p>
+<p>The school adopts the five practices of the leadership challenge model
+to develop in BPians the skills required of an inspiring leader.&nbsp;Students
+are taught the five practices in the CCE lessons and are required to demonstrate
+these practices in the projects given to them such as the VIA programmes,
+the National Day project, the CCA projects and the Mental Wellbeing Day
+project.&nbsp;&nbsp;</p>
 <p><strong>3. Values in Action (VIA)&nbsp;</strong>
 </p>
-<p>The values in action (VIA) programmes provides students the excellent
+<p>The Values in Action (VIA) programmes provides students the excellent
 opportunity to apply the knowledge they learn in the CCE lessons into action.&nbsp;
 This includes the application of the school values and the five leadership
 practices.&nbsp;&nbsp;</p>
