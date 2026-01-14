@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable__Week_3_onwards_.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable (Week 3 onwards)</a> updated
+<p><a href="/files/Timetable_Class_wef_T1_Week_3___19_Jan_2026.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable wef 19 Jan</a> updated
 14 Jan</p>
 </li>
 <li>
