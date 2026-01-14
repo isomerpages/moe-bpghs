@@ -7,8 +7,12 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/open?id=1xsHCIrCWFT8TqpvN4U_PmGOaJhztHPtp" rel="noopener nofollow" target="_blank">2026 Sec 1 CCA Information for students</a> updated
-10 Jan</p>
+<p><a href="/files/Timetable_Class_wef_T1_Week_3___19_Jan_2026.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable wef 19 Jan</a> updated
+14 Jan</p>
+</li>
+<li>
+<p><a href="/files/Sec_1_CCA_Information_for_Students_2026_updated.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 CCA Information for students </a>updated
+12 Jan</p>
 </li>
 <li>
 <p><a href="/files/2026_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 CCA Schedule </a>updated
