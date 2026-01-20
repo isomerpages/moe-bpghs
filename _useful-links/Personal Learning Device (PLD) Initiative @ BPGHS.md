@@ -84,7 +84,7 @@ the selected PLD.</p>
 <p><strong>For Secondary 1</strong>
 </p>
 <p><a href="/files/BPGHS_PLD_Parent_Engagement_Deck_2026__For_PG_and_Sch_Website_.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Deck 2026</a> 
-<br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a> 
+<br><a href="/files/Procedures_for_Device_Issues_2026.pdf" rel="noopener nofollow" target="_blank">Procedures for Device Issues 2026</a> 
 <br><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
 </p>
 <p><strong>For Secondary 2</strong>
@@ -93,22 +93,15 @@ the selected PLD.</p>
 <br><a href="/files/Procedures_for_Device_Issues_2025.pdf" rel="noopener nofollow" target="_blank">Procedures for Device Issues 2025</a>
 <br><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
 </p>
-<p></p>
-<p><a href="/files/IP1_Windows____Parent_Engagement_Deck_2025__10_Jan_25_.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Deck</a>
-</p>
-<p><a href="/files/Procedures_for_Device_Issues_2025.pdf" rel="noopener nofollow" target="_blank">Procedures for Device Issues 2025</a>
-</p>
-<p><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
-</p>
 <p><strong>For Secondary 3</strong>
-<br><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a> 
+</p>
+<p><a href="/files/2024/Acer_Travelmate_B3_Spin_11_product_sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Acer Travelmate B3 Spin 11</a> 
 <br><a href="/files/2024/IP1___Parent_Engagement_Deck_2024_FINAL_For_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck</a> 
 <br><a href="/files/2024/Procedures_for_Device_Issues_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process</a>
 </p>
-<p><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
-</p>
 <p><strong>For Secondary 4, 5</strong>
-<br><a href="/files/pld1.pdf" rel="noopener noreferrer nofollow" target="_blank">Microsoft-SurfaceGo3.pdf</a> 
+</p>
+<p><a href="/files/pld1.pdf" rel="noopener noreferrer nofollow" target="_blank">Microsoft-SurfaceGo3.pdf</a> 
 <br><a href="/files/pld2.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement Deck for Sec 1 2022.pdf</a> 
 <br><a href="/files/pld3.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Claims Process.pdf</a>
 </p>
@@ -139,8 +132,8 @@ ICT Manager or Desktop Engineers at Level 2, ICT Student Services Hub.</p>
 additional resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I</a>
-<a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>and&nbsp; <a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I </a>and&nbsp;
+<a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II</a>
 </p>
 </li>
 <li>
