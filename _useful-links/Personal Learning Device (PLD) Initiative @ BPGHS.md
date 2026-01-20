@@ -83,7 +83,7 @@ the selected PLD.</p>
 <p></p>
 <p><strong>For Secondary 1</strong>
 </p>
-<p><a href="/files/BPGHS_PLD_Parent_Engagement_Deck_2026__For_PG_and_Sch_Website_.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Deck 2026</a> 
+<p><a href="/files/BPGHS_PLD_Parent_Engagement_Deck_2026__For_PG_and_Sch_Website__200126_.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Deck 2026</a> 
 <br><a href="/files/Procedures_for_Device_Issues_2026.pdf" rel="noopener nofollow" target="_blank">Procedures for Device Issues 2026</a> 
 <br><a href="https://secured.acer.com.sg/pld" rel="noopener nofollow" target="_blank">To purchase Acer replacement accessories</a>
 </p>
