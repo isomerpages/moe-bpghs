@@ -82,15 +82,6 @@ sections:
       description: Empowering students to serve with purpose through programmes that
         cultivate empathy, leadership, and a commitment to making a difference.
   - infopic:
-      title: 2025 Yearbook
-      subtitle: BP experience
-      id: infopic
-      description: Our key events, achievements and milestones in 2025
-      button: Take a Look!
-      url: https://online.fliphtml5.com/obrr/bpghs2025/#p=1
-      alt: Image alt text
-      image: /images/yearbook_2025.jpg
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
       id: infopic
