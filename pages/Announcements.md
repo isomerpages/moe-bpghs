@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/spreadsheets/d/1zg_j8eTJ0uqHWi4IrPg0vnrGrXGQYYou/edit?gid=240944088#gid=240944088" rel="noopener nofollow" target="_blank">Assessment Schedule 2026</a> updated
+10 Feb</p>
+</li>
+<li>
 <p><a href="/files/Timetable_Class_wef_T1_Week_3___19_Jan_2026.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Timetable wef 19 Jan</a> updated
 14 Jan</p>
 </li>
