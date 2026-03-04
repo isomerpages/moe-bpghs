@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2026_Exam_Registration_Info.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Exam Registration Information </a>updated
+4 March</p>
+</li>
+<li>
 <p><a href="https://docs.google.com/spreadsheets/d/1zg_j8eTJ0uqHWi4IrPg0vnrGrXGQYYou/edit?gid=240944088#gid=240944088" rel="noopener nofollow" target="_blank">Assessment Schedule 2026</a> updated
 10 Feb</p>
 </li>
