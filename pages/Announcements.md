@@ -7,6 +7,10 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://docs.google.com/spreadsheets/d/1Ifoj8QZ54zbiZKDyX7xyMlnL_0krWmFa/edit?usp=sharing&amp;ouid=114076641539275533540&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2026 March Holiday CCA Schedule</a> updated
+13 March</p>
+</li>
+<li>
 <p><a href="/files/2026_Exam_Registration_Info.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Exam Registration Information </a>updated
 4 March</p>
 </li>
