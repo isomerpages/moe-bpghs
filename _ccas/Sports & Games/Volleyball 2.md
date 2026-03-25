@@ -36,7 +36,7 @@ Refer to monthly schedule Time: 1500 - 1800</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Staff_in_charge.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/National_B_Div_Boys_3rd__2_.png">
 </div>
 </div>
 <div class="isomer-card-body">
