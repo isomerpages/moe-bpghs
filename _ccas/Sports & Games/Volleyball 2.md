@@ -66,9 +66,7 @@ provide opportunities to strengthen teamwork and refine their gameplay.</p>
 <p>For every BP volleyballer, the journey is about striving for excellence
 together — learning, growing, and playing with heart.</p>
 <hr>
-<h4><strong>Achievements &amp; Gallery</strong></h4>
-<p></p>
-<p></p>
+<h4><strong>Achievements</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -111,7 +109,7 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 </div>
-<p></p>
+<h4><strong>Gallery</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -154,6 +152,5 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 </div>
-<p></p>
 <hr>
 <p></p>
