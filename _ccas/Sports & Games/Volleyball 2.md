@@ -9,7 +9,6 @@ third_nav_title: Sports & Games
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Volleyball/Hero_Photo___Volleyball.png">
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -22,18 +21,96 @@ third_nav_title: Sports & Games
 <div class="isomer-card-description">Frequency: Thrice a week (In Season). Twice a week (Off Season) Days:
 Refer to monthly schedule Time: 1500 - 1800</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Venue</div><div class="isomer-card-description">**hi**</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Venue.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Venue</div>
+<div class="isomer-card-description">Indoor Sports Hall</div>
 </div>
-</a>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Staff_in_charge.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Staff in Charge</div>
+<div class="isomer-card-description">Ms Penny Goh penny_goh_pei_xuan@moe.edu.sg Mr Koh Kim Hua Nicholas koh_kim_hua_nicholas@moe.edu.sg</div>
+</div>
+</div>
+</div>
+<h4><strong>About Us</strong></h4>
+<p>The BP Volleyball teams have long upheld the school’s proud tradition
+of excellence in the sport. Our boys’ and girls’ teams consistently achieve
+top placings in the National School Games (NSG) at both the West Zone and
+National levels, earning recognition as one of the leading volleyball schools
+in Singapore.</p>
+<p>Beyond their achievements, the teams place strong emphasis on teamwork,
+discipline, and character. Every member learns to think critically in challenging
+situations, care for their teammates, and serve with humility and dedication.
+These shared values guide them to grow not just as athletes, but as individuals
+who demonstrate responsibility, resilience, and respect both on and off
+the court.</p>
+<p>With nearly 100 members across four divisions, the teams train consistently
+throughout the year in preparation for major tournaments such as the National
+School Games, as well as the Under-16 and Under-14 National Championships
+organised by the Volleyball Association of Singapore. Players also gain
+valuable experience through friendly matches with other schools, which
+provide opportunities to strengthen teamwork and refine their gameplay.</p>
+<p>For every BP volleyballer, the journey is about striving for excellence
+together — learning, growing, and playing with heart.</p>
+<hr>
+<h4><strong>Achievements &amp; Gallery</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/National_B_Div_Boys_3rd__1_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National B Div Boys 2025 (3rd)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/B_girls_4th.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National B Div Girls 2025 (4th)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/C_boys_1st.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National C Div Boys 2025 (1st)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="c girls" src="/images/CCA   Volleyball/C_girls_1st.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National C Div Girls 2025 (3rd)</div>
+</div>
+</div>
+</div>
+<p>sds</p>
+<hr>
 <p></p>
