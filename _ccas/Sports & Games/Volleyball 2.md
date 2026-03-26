@@ -28,7 +28,13 @@ third_nav_title: Sports & Games
 <div class="isomer-card-title">Venue</div>
 <div class="isomer-card-description">Indoor Sports Hall</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">DSA Eligibility </div><div class="isomer-card-description">Yes</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">DSA Eligibility</div>
+<div class="isomer-card-description">Yes</div>
+</div>
+</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -71,49 +77,24 @@ valuable experience through friendly matches with other schools, which
 provide opportunities to strengthen teamwork and refine their gameplay.</p>
 <p>For every BP volleyballer, the journey is about striving for excellence
 together — learning, growing, and playing with heart.</p>
-<hr>
 <h4><strong>Achievements</strong></h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/National_B_Div_Boys_3rd__1_.png">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>West Zone (2025)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>B Division Boys: Champions</p>
+<p>B Division Girls: 2nd</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>Nationals (2025)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>B Division Boys: 3rd</p>
+<p>B Division Girls: 4th</p>
+<p>C Division Boys: Champions</p>
+<p>C Division Girls: 3rd</p>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National B Div Boys 2025 (3rd)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/B_girls_4th.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National B Div Girls 2025 (4th)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/C_boys_1st.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National C Div Boys 2025 (1st)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="c girls" src="/images/CCA   Volleyball/C_girls_1st.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National C Div Girls 2025 (3rd)</div>
-</div>
-</div>
+</details>
 </div>
 <h4><strong>Gallery</strong></h4>
 <div class="isomer-card-grid">
@@ -124,17 +105,17 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Farewell</div>
+<div class="isomer-card-title">Farewell Celebration for Sec 4</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/15.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/C_boys_1st.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NSG</div>
+<div class="isomer-card-title">C Boys (National Champions)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -144,7 +125,7 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NSG</div>
+<div class="isomer-card-title">B Boys in action in the NSG</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -154,7 +135,7 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NSG</div>
+<div class="isomer-card-title">B Girls in action in the NSG</div>
 </div>
 </div>
 </div>
