@@ -6,6 +6,9 @@ variant: tiptap
 third_nav_title: Instructional Programmes
 ---
 <h1>Physical Education</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/National_B_Div_Boys_3rd__3_.png">
+</div>
 <p>The Physical Education (PE) Department's programmes are customised at
 each level to develop BPians into physically active, mentally resilient
 and socially competent individuals. The department adopts a game-centred
