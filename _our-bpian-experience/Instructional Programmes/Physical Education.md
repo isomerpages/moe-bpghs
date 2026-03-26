@@ -9,6 +9,7 @@ third_nav_title: Instructional Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/National_B_Div_Boys_3rd__3_.png">
 </div>
+<h4><strong>About Us</strong></h4>
 <p>The Physical Education (PE) Department's programmes are customised at
 each level to develop BPians into physically active, mentally resilient
 and socially competent individuals. The department adopts a game-centred
@@ -30,133 +31,89 @@ with others and work as a team in decision making.</p>
 <li>
 <p>Allow them to act on their personal values and demonstrate positive emotions
 and social behaviour, as well as leadership qualities.</p>
+<h4><strong>Curriculum</strong></h4>
 </li>
 </ul>
-<p></p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="5">
-<p><strong>PE CURRICULUM</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level/Term</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Sec 1</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Football</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>Assessment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Secondary 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Physical Health &amp; Safety Outdoor Education</p>
 <p>Netball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Handball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Sec 2</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="2" colspan="1">
+<p>Term 2: Handball</p>
+<p>Term 3: Football</p>
+<p>Term 4: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Physical Health &amp; Safety Outdoor Education</p>
 <p>Basketball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Term 2: Tchoukball</p>
+<p>Term 3: Basketball</p>
+<p>Term 4: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Physical Health &amp; Safety Outdoor Education</p>
 <p>Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tchoukball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Sec 3</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Volleyball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frisbee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pickleball</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Assessment</p>
-</td>
-<td rowspan="2" colspan="1">
+<p>Term 2: Frisbee</p>
+<p>Term 3: Volleyball</p>
+<p>Term 4: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 4</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Volleyball</p>
+<p>Term 2: Pickleball</p>
+<p>Term 3: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 5</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1 &amp; 2: Badminton</p>
+</div>
+</details>
+</div>
+<h4><strong>Department Programmes</strong></h4>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 5</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Badminton</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/Adventure_camp.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adventure Camp (Sec 1)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/Inter_class_games.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Interclass Games (Sec 1-3)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/Sports_Carnival.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports Carnival (Sec 1-4)</div>
+</div>
+</div>
+</div>
 <p>Our flagship programmes include the following:</p>
 <ul data-tight="true" class="tight">
 <li>
