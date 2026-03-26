@@ -13,13 +13,11 @@ third_nav_title: Sports & Games
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/staff_pic.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Training_Days.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Training Info</div>
-<div class="isomer-card-description">Frequency: Thrice a week (In Season). Twice a week (Off Season) Days:
-Refer to monthly schedule Time: 1500 - 1800</div>
+<div class="isomer-card-title">Monday &amp; Tuesday</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -29,8 +27,7 @@ Refer to monthly schedule Time: 1500 - 1800</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Venue</div>
-<div class="isomer-card-description">Indoor Sports Hall</div>
+<div class="isomer-card-title">Indoor Sports Hall</div>
 </div>
 </div>
 <div class="isomer-card">
