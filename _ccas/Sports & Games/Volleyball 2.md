@@ -45,6 +45,32 @@ Refer to monthly schedule Time: 1500 - 1800</div>
 </div>
 </div>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Staff in Charge</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ms Penny Goh <a href="mailto:penny_goh_pei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">penny_goh_pei_xuan@moe.edu.sg</a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Kim Hua Nicholas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <h4><strong>About Us</strong></h4>
 <p>The BP Volleyball teams have long upheld the school’s proud tradition
 of excellence in the sport. Our boys’ and girls’ teams consistently achieve
