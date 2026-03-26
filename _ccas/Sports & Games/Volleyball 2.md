@@ -13,25 +13,25 @@ third_nav_title: Sports & Games
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Training Days</div>
+<div class="isomer-card-title">Training Days 📅</div>
 <div class="isomer-card-description">Schedule Dependent</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Time</div>
+<div class="isomer-card-title">Time 🕒</div>
 <div class="isomer-card-description">1500 - 1800</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Venue</div>
+<div class="isomer-card-title">Venue 📍</div>
 <div class="isomer-card-description">Indoor Sports Hall</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">DSA Eligibility</div>
+<div class="isomer-card-title">DSA Eligibility 📋</div>
 <div class="isomer-card-description">Yes</div>
 </div>
 </div>
