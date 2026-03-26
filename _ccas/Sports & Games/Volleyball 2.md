@@ -14,7 +14,13 @@ third_nav_title: Sports & Games
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Training Days</div>
-<div class="isomer-card-description">Monday, Tuesday &amp; Wednesday</div>
+<div class="isomer-card-description">Schedule Dependent</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Time</div>
+<div class="isomer-card-description">1500 - 1800</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -22,13 +28,7 @@ third_nav_title: Sports & Games
 <div class="isomer-card-title">Venue</div>
 <div class="isomer-card-description">Indoor Sports Hall</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Staff in Charge</div>
-<div class="isomer-card-description">Mr Koh Kim Hua Nicholas koh_kim_hua_nicholas@moe.edu.sg</div>
-</div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">DSA Eligibility </div><div class="isomer-card-description">Yes</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
