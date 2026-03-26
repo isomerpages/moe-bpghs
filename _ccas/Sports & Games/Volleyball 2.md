@@ -82,17 +82,17 @@ together — learning, growing, and playing with heart.</p>
 <details class="isomer-details">
 <summary>West Zone (2025)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>B Division Boys: Champions</p>
-<p>B Division Girls: 2nd</p>
+<p>B Division Boys: Champions 🏆</p>
+<p>B Division Girls: 2nd 🥈</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Nationals (2025)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>B Division Boys: 3rd</p>
-<p>B Division Girls: 4th</p>
-<p>C Division Boys: Champions</p>
-<p>C Division Girls: 3rd</p>
+<p>B Division Boys: 3rd 🏅</p>
+<p>B Division Girls: 4th 🏅</p>
+<p>C Division Boys: Champions 🏆</p>
+<p>C Division Girls: 3rd 🏅</p>
 </div>
 </details>
 </div>
