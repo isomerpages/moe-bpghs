@@ -12,31 +12,18 @@ third_nav_title: Sports & Games
 <h4><strong>CCA Information</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Training_Days.png">
-</div>
-</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Monday &amp; Tuesday</div>
+<div class="isomer-card-title">Training Days</div>
+<div class="isomer-card-description">Monday, Tuesday &amp; Wednesday</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Venue_2.png">
-</div>
-</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Indoor Sports Hall</div>
+<div class="isomer-card-title">Venue</div>
+<div class="isomer-card-description">Indoor Sports Hall</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/staff_pic.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Staff in Charge</div>
 <div class="isomer-card-description">Mr Koh Kim Hua Nicholas koh_kim_hua_nicholas@moe.edu.sg</div>
