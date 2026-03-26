@@ -113,8 +113,18 @@ and social behaviour, as well as leadership qualities.</p>
 <div class="isomer-card-title">Sports Carnival (Sec 1-4)</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SLF" src="/images/PE/SLF.png">
 </div>
-<h4><strong>Gallery</strong></h4>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports Learning Festival (Sec 2)</div>
+</div>
+</div>
+</div>
+<h4><strong>Highlights</strong></h4>
 <p><strong>Adventure Camp</strong>
 </p>
 <div class="instagram-wrapper">
@@ -125,16 +135,6 @@ and social behaviour, as well as leadership qualities.</p>
 </div>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-<p><strong>Interclass Games</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/250528_Sec_1__3_interclass_games_Day_3_67.jpg">
-</div>
-<p><strong>Sports Carnival</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/250313_BPGHS_Sports_Carnival_107.jpg">
 </div>
 <p><strong>Sports Learning Festival</strong>
 </p>
