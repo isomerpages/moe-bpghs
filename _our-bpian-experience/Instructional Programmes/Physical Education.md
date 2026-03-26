@@ -31,6 +31,17 @@ with others and work as a team in decision making.</p>
 <li>
 <p>Allow them to act on their personal values and demonstrate positive emotions
 and social behaviour, as well as leadership qualities.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Our Team</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mrs Joan Neo (HOD) - <a href="mailto:joan_koh_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joan_koh_puay_leng@moe.edu.sg</a>
+</p>
+<p>Mr Vishal Chand s/o Karamchan (SH Covering) - <a href="mailto:vishal_chand_karamchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vishal_chand_karamchan@moe.edu.sg</a>
+</p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong>Curriculum</strong></h4>
 </li>
