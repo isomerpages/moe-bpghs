@@ -41,7 +41,7 @@ Refer to monthly schedule Time: 1500 - 1800</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Staff in Charge</div>
-<div class="isomer-card-description">Ms Penny Goh penny_goh_pei_xuan@moe.edu.sg Mr Koh Kim Hua Nicholas koh_kim_hua_nicholas@moe.edu.sg</div>
+<div class="isomer-card-description">Mr Koh Kim Hua Nicholas koh_kim_hua_nicholas@moe.edu.sg</div>
 </div>
 </div>
 </div>
