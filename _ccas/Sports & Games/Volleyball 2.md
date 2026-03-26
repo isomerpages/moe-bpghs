@@ -49,25 +49,20 @@ Refer to monthly schedule Time: 1500 - 1800</div>
 <details class="isomer-details">
 <summary>Staff in Charge</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Penny Goh <a href="mailto:penny_goh_pei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">penny_goh_pei_xuan@moe.edu.sg</a>
+<p>Ms Penny Goh - <a href="mailto:penny_goh_pei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">penny_goh_pei_xuan@moe.edu.sg</a>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Kim Hua Nicholas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
+<p>Mr Koh Kim Hua Nicholas - <a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Mdm Cai Hong - <a href="mailto:cai_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_hong@moe.edu.sg</a>
+</p>
+<p>Mr Hou Kiat Ping - <a href="mailto:hou_kiat_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hou_kiat_ping@moe.edu.sg</a>
+</p>
+<p>Ms Pek Yiling - <a href="mailto:pek_yiling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yiling@moe.edu.sg</a>
+</p>
+<p>Mr Ang Wai Hao Leonard - <a href="mailto:ang_wai_hao_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_wai_hao_leonard@moe.edu.sg</a>
+</p>
+<p>Ms Lim Li Ting - <a href="mailto:lim_li_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_ting_a@moe.edu.sg</a>
+</p>
 </div>
 </details>
 </div>
