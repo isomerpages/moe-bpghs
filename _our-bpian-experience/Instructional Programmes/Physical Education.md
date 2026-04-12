@@ -9,7 +9,6 @@ third_nav_title: Instructional Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/National_B_Div_Boys_3rd__3_.png">
 </div>
-<h4><strong>About Us</strong></h4>
 <p>The Physical Education (PE) Department's programmes are customised at
 each level to develop BPians into physically active, mentally resilient
 and socially competent individuals. The department adopts a game-centred
@@ -31,21 +30,78 @@ with others and work as a team in decision making.</p>
 <li>
 <p>Allow them to act on their personal values and demonstrate positive emotions
 and social behaviour, as well as leadership qualities.</p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Our Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Mrs Joan Neo (HOD) - <a href="mailto:joan_koh_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joan_koh_puay_leng@moe.edu.sg</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Joan Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joan_koh_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joan_koh_puay_leng@moe.edu.sg</a>
 </p>
-<p>Mr Vishal Chand s/o Karamchan (SH Covering) - <a href="mailto:vishal_chand_karamchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vishal_chand_karamchan@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vishal Chand s/o Karamchan (SH Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vishal_chand_karamchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vishal_chand_karamchan@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Sek Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_sek_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sek_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Kim Hua Nicholas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dav Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sik_kuan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sik_kuan_b@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leonard Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_wai_hao_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_wai_hao_leonard@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Curriculum</strong></h4>
-</li>
-</ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Secondary 1</summary>
@@ -107,7 +163,17 @@ and social behaviour, as well as leadership qualities.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/Inter_class_games.png">
+<img style="width: 100%" height="auto" width="100%" alt="SLF" src="/images/PE/SLF.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports Learning Festival (Sec 2)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/PE_Gallery_3.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -122,16 +188,6 @@ and social behaviour, as well as leadership qualities.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sports Carnival (Sec 1-4)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SLF" src="/images/PE/SLF.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sports Learning Festival (Sec 2)</div>
 </div>
 </div>
 </div>
