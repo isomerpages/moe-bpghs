@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<h1>VOLLEYBALL (Boys &amp; Girls)</h1>
+<h1>Volleyball (Boys &amp; Girls)</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Volleyball/Hero_Photo___Volleyball.png">
 </div>
@@ -57,26 +57,37 @@ third_nav_title: Sports & Games
 </div>
 </details>
 </div>
-<h4><strong>About Us</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About Us</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The BP Volleyball teams have long upheld the school’s proud tradition
 of excellence in the sport. Our boys’ and girls’ teams consistently achieve
 top placings in the National School Games (NSG) at both the West Zone and
 National levels, earning recognition as one of the leading volleyball schools
 in Singapore.</p>
+<p></p>
 <p>Beyond their achievements, the teams place strong emphasis on teamwork,
 discipline, and character. Every member learns to think critically in challenging
 situations, care for their teammates, and serve with humility and dedication.
 These shared values guide them to grow not just as athletes, but as individuals
 who demonstrate responsibility, resilience, and respect both on and off
 the court.</p>
+<p></p>
 <p>With nearly 100 members across four divisions, the teams train consistently
 throughout the year in preparation for major tournaments such as the National
 School Games, as well as the Under-16 and Under-14 National Championships
-organised by the Volleyball Association of Singapore. Players also gain
-valuable experience through friendly matches with other schools, which
-provide opportunities to strengthen teamwork and refine their gameplay.</p>
+organised by the Volleyball Association of Singapore.</p>
+<p></p>
+<p>Players also gain valuable experience through friendly matches with other
+schools, which provide opportunities to strengthen teamwork and refine
+their gameplay.</p>
+<p></p>
 <p>For every BP volleyballer, the journey is about striving for excellence
 together — learning, growing, and playing with heart.</p>
+</div>
+</details>
+</div>
 <h4><strong>Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -105,7 +116,7 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Farewell Celebration for Sec 4</div>
+<div class="isomer-card-title">Sec 4 Farewell Celebration</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -115,17 +126,17 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">C Boys (National Champions)</div>
+<div class="isomer-card-title">C Boys Winning the National Championships</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/13.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Volleyball/Volleyball_Gallery_Pic_3.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">B Boys in action in the NSG</div>
+<div class="isomer-card-title">B Boys Fighting with Pride in the NSG</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -135,7 +146,7 @@ together — learning, growing, and playing with heart.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">B Girls in action in the NSG</div>
+<div class="isomer-card-title">B Girls Celebrating a Win in the NSG</div>
 </div>
 </div>
 </div>
