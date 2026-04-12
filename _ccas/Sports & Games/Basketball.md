@@ -6,6 +6,7 @@ variant: tiptap
 third_nav_title: Sports & Games
 ---
 <h1>Basketball (Boys)</h1>
+<p></p>
 <p>The Basketball (Boys) CCA seeks to develop student-athletes who exemplify
 grit, teamwork, and sportsmanship both on and off the court. Guided by
 our mission to nurture basketballers with a champion mindset, we believe
@@ -50,7 +51,7 @@ learn to handle both victory and defeat with grace.</p>
 <p>National Champions 2023 (B Division) — a triumph built on grit, unity,
 and belief.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nt_IOmmIlcw?si=FNuLYZlRf-MnRsqL"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nt_IOmmIlcw?si=FNuLYZlRf-MnRsqL"></iframe>
 </div>
 <p>Active SG Spotlight BPGHS Basketball Team</p>
 <p><strong>3. 武中杯 (Wu Zhong Cup)</strong>
