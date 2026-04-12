@@ -40,20 +40,77 @@ third_nav_title: Sports & Games
 <details class="isomer-details">
 <summary>Staff in Charge</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Penny Goh - <a href="mailto:penny_goh_pei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">penny_goh_pei_xuan@moe.edu.sg</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Penny Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:penny_goh_pei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">penny_goh_pei_xuan@moe.edu.sg</a>
 </p>
-<p>Mr Koh Kim Hua Nicholas - <a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Kim Hua Nicholas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
 </p>
-<p>Mdm Cai Hong - <a href="mailto:cai_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_hong@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cai Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cai_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_hong@moe.edu.sg</a>
 </p>
-<p>Mr Hou Kiat Ping - <a href="mailto:hou_kiat_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hou_kiat_ping@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hou Kiat Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hou_kiat_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hou_kiat_ping@moe.edu.sg</a>
 </p>
-<p>Ms Pek Yiling - <a href="mailto:pek_yiling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yiling@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pek Yiling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pek_yiling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_yiling@moe.edu.sg</a>
 </p>
-<p>Mr Ang Wai Hao Leonard - <a href="mailto:ang_wai_hao_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_wai_hao_leonard@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leonard Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_wai_hao_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_wai_hao_leonard@moe.edu.sg</a>
 </p>
-<p>Ms Lim Li Ting - <a href="mailto:lim_li_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_ting_a@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_li_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_ting_a@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
