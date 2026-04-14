@@ -6,6 +6,7 @@ variant: tiptap
 third_nav_title: Sports & Games
 ---
 <h1>Netball</h1>
+<p></p>
 <h4>Netball – Team Spirit, Dedication, and Passion on the Court</h4>
 <p></p>
 <div class="isomer-image-wrapper">
