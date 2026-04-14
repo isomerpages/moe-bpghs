@@ -10,7 +10,6 @@ third_nav_title: Sports & Games
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Netball/Netball_Hero_Photo.png">
 </div>
 <h4><strong>CCA Information</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -61,7 +60,8 @@ third_nav_title: Sports & Games
 <p>Ms Sarah Lee Shi Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_shi_qi_sarah@moe.edu.sg</p>
+<p><a href="mailto:lee_shi_qi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shi_qi_sarah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,8 @@ third_nav_title: Sports & Games
 <p>Ms Seleena Binte Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seleena_bte_maidin@moe.edu.sg</p>
+<p><a href="mailto:seleena_bte_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seleena_bte_maidin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +129,6 @@ positivity continue to inspire the entire school community!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">2026 C Div Team</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
 </div>
