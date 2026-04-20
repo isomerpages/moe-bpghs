@@ -20,37 +20,6 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infopic:
-      title: 2026 Sec 1 Registration
-      subtitle: Sec 1 Posting Exercise
-      id: infopic
-      description: Congratulations to all Sec 1 students  posted to our school! Please
-        read through these important information for the online registration on
-        19 December.
-      button: Click here
-      url: 2026-sec-1-registration/
-      image: /images/NEW_Sec_1_Registration_Photo_for_Website.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2025 N-Level Results
-      subtitle: Results Collection
-      id: infopic
-      description: Information on collection of 2025 N-Level Results on Thursday 18
-        December.
-      button: DETAILS HERE
-      url: /2025-n-level-results-release/
-      alt: Image alt text
-      image: /images/250404_BPGHS_Sec_4_Group_Photo_2.jpg
-  - infopic:
-      title: The BPian Experience Live!
-      subtitle: Discover School Life at BPGHS
-      id: infopic
-      description: The recordings of the Principal’s Address and Student Panel from
-        'The BPian Experience Live!' are now available on the school website.
-      alt: Image alt text
-      image: /images/e_Open_House_Poster__without_QR_code___2025_.png
-      button: Watch here!
-      url: https://www.bpghs.moe.edu.sg/news-and-events/the-bpian-experience-live/
-  - infopic:
       title: THINK
       subtitle: FUTURE-READY LEARNERS
       id: infopic
