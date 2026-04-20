@@ -19,6 +19,12 @@ sections:
           description: ""
           url: https://www.instagram.com/bpghs.official/
       variant: image
+  - infobar:
+      title: DSA Info
+      id: infobar
+      description: Click on the link below for more information regarding DSA for 2026
+      button: More Info
+      url: https://www.bpghs.moe.edu.sg/dsa-2026/
   - infopic:
       title: THINK
       subtitle: FUTURE-READY LEARNERS
