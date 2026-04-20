@@ -118,7 +118,6 @@ within the team.</p>
 </details>
 </div>
 <h4><strong>Gallery</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
