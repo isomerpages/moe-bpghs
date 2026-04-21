@@ -148,14 +148,14 @@ together — learning, growing, and playing with heart.</p>
 <h4><strong>Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>West Zone (2025)</summary>
+<summary>2025 (West Zone)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>B Division Boys: Champions 🏆</p>
 <p>B Division Girls: 2nd 🥈</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Nationals (2025)</summary>
+<summary>2025 (Nationals)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>B Division Boys: 3rd 🥉</p>
 <p>B Division Girls: 4th 🏅</p>
