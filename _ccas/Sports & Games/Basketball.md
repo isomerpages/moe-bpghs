@@ -159,14 +159,14 @@ by scanning the QR code below.</p>
 <details class="isomer-details">
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>West Zone B Division: 4th 🏅</p>
+<p>West Zone (B Div): 4th 🏅</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>West Zone B Division: Champions 🏆</p>
-<p>National B Division: Champions 🏆</p>
+<p>West Zone (B Div): Champions 🏆</p>
+<p>National (B Div): Champions 🏆</p>
 </div>
 </details>
 </div>
