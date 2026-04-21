@@ -150,17 +150,17 @@ together — learning, growing, and playing with heart.</p>
 <details class="isomer-details">
 <summary>2025 (West Zone)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>B Division Boys: Champions 🏆</p>
-<p>B Division Girls: 2nd 🥈</p>
+<p>Boys (B Div): Champions 🏆</p>
+<p>Girls (B Div): 2nd 🥈</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2025 (Nationals)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>B Division Boys: 3rd 🥉</p>
-<p>B Division Girls: 4th 🏅</p>
-<p>C Division Boys: Champions 🏆</p>
-<p>C Division Girls: 3rd 🥉</p>
+<p>Boys (B Div): 3rd 🥉</p>
+<p>Girls (B Div): 4th 🏅</p>
+<p>Boys (C Div): Champions 🏆</p>
+<p>Girls (C Div): 3rd 🥉</p>
 </div>
 </details>
 </div>
