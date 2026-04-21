@@ -6,6 +6,9 @@ variant: tiptap
 third_nav_title: Instructional Programmes
 ---
 <h1>Physical Education</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/National_B_Div_Boys_3rd__3_.png">
+</div>
 <p>The Physical Education (PE) Department's programmes are customised at
 each level to develop BPians into physically active, mentally resilient
 and socially competent individuals. The department adopts a game-centred
@@ -29,150 +32,166 @@ with others and work as a team in decision making.</p>
 and social behaviour, as well as leadership qualities.</p>
 </li>
 </ul>
-<p></p>
-<table style="minWidth: 125px">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Our Team</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
-<p><strong>PE CURRICULUM</strong>
+<td rowspan="1" colspan="1">
+<p>Mrs Joan Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joan_koh_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joan_koh_puay_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level/Term</strong>
-</p>
+<p>Mr Vishal Chand s/o Karamchan (SH Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
+<p><a href="mailto:vishal_chand_karamchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vishal_chand_karamchan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Sec 1</p>
+<td rowspan="1" colspan="1">
+<p>Ms Chew Sek Ling</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Football</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>Assessment</p>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_sek_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sek_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Netball</p>
+<p>Mr Koh Kim Hua Nicholas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Handball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Sec 2</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Basketball</p>
+<p><a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football</p>
+<p>Mr Dav Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tchoukball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Sec 3</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Physical Health &amp; Safety Outdoor Education</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Volleyball</p>
+<p><a href="mailto:tan_sik_kuan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sik_kuan_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball</p>
+<p>Mr Leonard Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frisbee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pickleball</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Assessment</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 5</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Badminton</p>
+<p><a href="mailto:ang_wai_hao_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_wai_hao_leonard@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Our flagship programmes include the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adventure Camp (Secondary 1)</p>
-</li>
-<li>
-<p>Interclass Games (Secondary 1 - 3)</p>
-</li>
-<li>
-<p>Outward Bound Camp (Secondary 3)</p>
-</li>
-<li>
-<p>Sports Carnival (All Levels)</p>
-</li>
-<li>
-<p>Sports Learning Festival (Secondary 1 - 2)</p>
-</li>
-</ul>
-<p></p>
+</div>
+</details>
+</div>
+<h4><strong>Curriculum</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Secondary 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Physical Health &amp; Safety Outdoor Education</p>
+<p>Netball</p>
+<p>Term 2: Handball</p>
+<p>Term 3: Football</p>
+<p>Term 4: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Physical Health &amp; Safety Outdoor Education</p>
+<p>Basketball</p>
+<p>Term 2: Tchoukball</p>
+<p>Term 3: Basketball</p>
+<p>Term 4: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Physical Health &amp; Safety Outdoor Education</p>
+<p>Football</p>
+<p>Term 2: Frisbee</p>
+<p>Term 3: Volleyball</p>
+<p>Term 4: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 4</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1: Volleyball</p>
+<p>Term 2: Pickleball</p>
+<p>Term 3: Assessment</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary 5</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Term 1 &amp; 2: Badminton</p>
+</div>
+</details>
+</div>
+<h4><strong>Department Programmes</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/Adventure_camp.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adventure Camp (Sec 1)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SLF" src="/images/PE/SLF.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports Learning Festival (Sec 2)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/PE_Gallery_3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Interclass Games (Sec 1-3)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PE/Sports_Carnival.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports Carnival (Sec 1-4)</div>
+</div>
+</div>
+</div>
+<h4><strong>Highlights</strong></h4>
 <p><strong>Adventure Camp</strong>
 </p>
 <div class="instagram-wrapper">
@@ -183,16 +202,6 @@ and social behaviour, as well as leadership qualities.</p>
 </div>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-<p><strong>Interclass Games</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/250528_Sec_1__3_interclass_games_Day_3_67.jpg">
-</div>
-<p><strong>Sports Carnival</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE/250313_BPGHS_Sports_Carnival_107.jpg">
 </div>
 <p><strong>Sports Learning Festival</strong>
 </p>

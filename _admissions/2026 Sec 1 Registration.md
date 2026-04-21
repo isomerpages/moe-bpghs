@@ -266,8 +266,6 @@ another school.</p>
 early as possible because it takes about one month to process. The FAS
 approval letter by BPGHS is required for the collection of free textbooks
 and uniforms.</p>
-<p></p>
-<p>More information on FAS can be found <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -281,8 +279,6 @@ Smart Cards.</p>
 </details>
 </div>
 <h4>7. Complete Registration</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bpghssec1reg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">All Sec 1 students must complete the e-registration by 19 December 2025, 5.00pm.</div><div class="isomer-card-description">Please ensure all fields in the form are duly completed.</div><div class="isomer-card-link">Click here to complete Registration!</div></div></a>
-</div>
 <p>If you have any questions, please check our <a href="https://ask.gov.sg/bpghs" rel="noopener nofollow" target="_blank">FAQ site,</a> email <a href="mailto:bpghs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bpghs@moe.edu.sg</a> or call the school at
 6769 1031.</p>
 <p>For matters pertaining to the Sec 1 Orientation Programme, please contact

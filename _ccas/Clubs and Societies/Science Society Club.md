@@ -5,63 +5,169 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h3>Science Society Club</h3>
+<h1>Science Society Club</h1>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Science%20Society%20Club%20Poster.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Science Club/Website_photos__3_.png">
 </div>
-<p></p>
-<p><strong><u>Exploring Frontiers of Science and Technology: The Science Team’s 2025 Journey</u></strong>
+<h4><strong>CCA Information</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Training Days 📅</div>
+<div class="isomer-card-description">Schedule Dependent</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Time 🕒</div>
+<div class="isomer-card-description">1600 - 1800</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Venue 📍</div>
+<div class="isomer-card-description">Science Niche Room, Blk C, #03-04</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">DSA Eligibility 📋</div>
+<div class="isomer-card-description">No</div>
+</div>
+</div>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Staff in Charge</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Meng Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_meng_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_meng_hoe@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About Us</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Exploring Frontiers of Science and Technology: The Science Team’s 2025 Journey</strong>
+</p>
+<p></p>
 <p>The Science Team at our school continues to be a dynamic co-curricular
 activity that unites two exciting units: Astronomy and Robotics. Together,
 they provide students with the opportunity to explore their curiosity,
 develop scientific thinking, and collaborate in a supportive and stimulating
-environment. Through hands-on activities, competitions, and peer learning,
-the Science Team empowers students to innovate, problem-solve, and think
-critically—qualities essential for the scientists and engineers of tomorrow.</p>
+environment.</p>
+<p></p>
+<p>Through hands-on activities, competitions, and peer learning, the Science
+Team empowers students to innovate, problem-solve, and think critically—qualities
+essential for the scientists and engineers of tomorrow.</p>
+<p></p>
 <p>The Astronomy Unit invites members to embark on a journey through the
 cosmos. Through peer sharing, interactive games, and observational sessions,
 students deepen their understanding of celestial phenomena and master practical
-skills such as telescope handling. Members also challenge themselves by
-taking part in national competitions like the HCI-RI Astrigue Challenge
-and the NUS-NTU AstroChallenge, building both knowledge and confidence.</p>
+skills such as telescope handling.</p>
+<p></p>
+<p>Members also challenge themselves by taking part in national competitions
+like the HCI-RI Astrigue Challenge and the NUS-NTU AstroChallenge, building
+both knowledge and confidence.</p>
+<p></p>
 <p>The camaraderie among members fosters a vibrant community of learners
 passionate about unraveling the mysteries of the universe. The Robotics
 Unit, guided by a dedicated coach, offers members a hands-on platform to
 design, build, and programme robots for various challenges. Beyond technical
 skills, these sessions cultivate resilience, creativity, and teamwork—skills
 that extend far beyond the robotics lab.</p>
+<p></p>
 <p>2025 has been an eventful and rewarding year for the Robotics Unit. In
 April, five teams comprising 19 students participated in the RoboCup Singapore
 Open 2025. Among them, one team of four students earned a Merit in the
 RoboCup Junior Soccer category, while another team of four students achieved
-a Merit in the RCAP Rescue Line competition. Beyond competitions, members
-also had the enriching opportunity to attend a two-day non-residential
-SMART Camp on the Computer Vision Robotic Hand Programme at the Science
-Centre Singapore. This hands-on experience deepened students’ appreciation
-of artificial intelligence and robotics applications in real-world contexts.</p>
+a Merit in the RCAP Rescue Line competition.</p>
+<p></p>
+<p>Beyond competitions, members also had the enriching opportunity to attend
+a two-day non-residential SMART Camp on the Computer Vision Robotic Hand
+Programme at the Science Centre Singapore. This hands-on experience deepened
+students’ appreciation of artificial intelligence and robotics applications
+in real-world contexts.</p>
+<p></p>
 <p>The Science Team’s achievements this year reflect not only technical excellence
 but also curiosity, collaboration, and a shared passion for discovery.
 Both the Astronomy and Robotics Units continue to inspire and nurture young
 innovators, ensuring that our school remains a hub of scientific creativity
-and exploration. The Science Team stands as a testament to what students
-can achieve when they are encouraged to dream, explore, and invent.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+and exploration.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMART_Camp_2___Bpgh_Science_1.jpg">
+<p>The Science Team stands as a testament to what students can achieve when
+they are encouraged to dream, explore, and invent.</p>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RoboCup_2___Bpgh_Science_1.jpg">
+</details>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RoboCup_1___Bpgh_Science_1.jpg">
+<h4><strong>Achievements</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025 (RoboCup Singapore Open)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>RoboCup Junior Soccer: Merit 🏅</p>
+<p>RCAP Rescue Line: Merit 🏅</p>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/astro2___Bpgh_Science_1.jpg">
+</details>
 </div>
+<h4><strong>Gallery</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/astro1___Bpgh_Science_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Science Club/18.png">
 </div>
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Members testing their robot in the Robo Cup</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Science Club/17.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Members participating in the Robo Cup</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Science Club/15.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Members at the AstroChallenge</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science" src="/images/CCA   Science Club/16.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Members presenting their astronomy project</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
