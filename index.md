@@ -20,7 +20,7 @@ sections:
           url: https://www.instagram.com/bpghs.official/
       variant: image
   - infobar:
-      title: DSA Info
+      title: Direct School Admission (DSA)
       id: infobar
       description: Click on the link below for more information regarding DSA for 2027
         Intake
