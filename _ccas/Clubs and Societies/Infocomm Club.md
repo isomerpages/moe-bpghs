@@ -86,8 +86,7 @@ to capture precious moments that encapsulate the Bukit Panjang school spirit.</p
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">Members developing their photography skills</div>
+<div class="isomer-card-title">Members developing their photography skills</div>
 </div>
 </div>
 <div class="isomer-card">
