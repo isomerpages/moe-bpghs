@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Performing Arts
 ---
-<h1>Chinese Drama</h1>
+<h1><strong>Chinese Drama</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Chinese Drama/Website_photos__4_.png">
 </div>
@@ -82,7 +82,7 @@ between members.</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4><strong>Gallery</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6217716080613378426_y.jpg">
 </div>
