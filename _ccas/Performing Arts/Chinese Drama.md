@@ -82,6 +82,15 @@ between members.</p>
 </div>
 </details>
 </div>
+<h4><strong>Achievements</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>SYF 2025 Arts Presentation: Accomplishment</p>
+</div>
+</details>
+</div>
 <h4><strong>Gallery</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
