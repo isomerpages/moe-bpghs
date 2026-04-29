@@ -125,11 +125,37 @@ charge in the operations of the CCA.</p>
 </details>
 </div>
 <h4><strong>Gallery</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Chinese Orchestra/18.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Chinese Orchestra/18.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Focused during a rehearsal</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Chinese Orchestra/17.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">On the way for a learning journey</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   Chinese Orchestra/16.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Performing for VIPs</div>
+</div>
+</div>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Chinese Orchestra/17.png">
-</div>
 <p></p>
