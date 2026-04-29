@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Performing Arts
 ---
-<h1>Choir</h1>
+<h1><strong>Choir</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Choir/Website_photos.png">
 </div>
@@ -94,7 +94,22 @@ and aesthetic sensitivity.</p>
 <details class="isomer-details">
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>SYF 2025 Arts Presentation: Distinction</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
