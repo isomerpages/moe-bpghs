@@ -105,9 +105,32 @@ confidence, camaraderie, and character in every player.</p>
 <h4><strong>Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2024:</summary>
+<summary>2025:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>National School Games League 2 (C Div): 4th 🏅</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Floorball C Division Boys (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in Group Stage of League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Floorball B Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -120,7 +143,7 @@ confidence, camaraderie, and character in every player.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">C Div Team fighting hard in the NSG</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -130,7 +153,7 @@ confidence, camaraderie, and character in every player.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2025 B Div Team</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -140,7 +163,7 @@ confidence, camaraderie, and character in every player.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2024 B Div Team</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
