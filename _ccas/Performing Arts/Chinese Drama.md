@@ -100,7 +100,7 @@ between members.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members performing for SYF</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -110,7 +110,7 @@ between members.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members performing for SYF</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -120,7 +120,7 @@ between members.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members performing for BPGHS students</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
