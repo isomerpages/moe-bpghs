@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<h1>Volleyball (Boys &amp; Girls)</h1>
+<h1><strong>Volleyball (Boys &amp; Girls)</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Volleyball/Hero_Photo___Volleyball.png">
 </div>
@@ -148,19 +148,64 @@ together — learning, growing, and playing with heart.</p>
 <h4><strong>Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2025 (West Zone)</summary>
+<summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Boys (B Div): Champions 🏆</p>
-<p>Girls (B Div): 2nd 🥈</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2025 (Nationals)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Boys (B Div): 3rd 🥉</p>
-<p>Girls (B Div): 4th 🏅</p>
-<p>Boys (C Div): Champions 🏆</p>
-<p>Girls (C Div): 3rd 🥉</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Boys (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Girls (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Boys (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Girls (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships C Division Girls (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships C Division Boys (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion in League 1</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
