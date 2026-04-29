@@ -97,7 +97,7 @@ This also allows them to explore related career paths in the PA industry.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Comm Link members supporting a school event</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -107,7 +107,7 @@ This also allows them to explore related career paths in the PA industry.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Comm Link members setting up for National Day event</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
