@@ -5,6 +5,631 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h1>2025 Achievements</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Sports</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anglican Cup (B Division) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball B Division 2025 (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division 2025 (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in Group Stage of League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Zhong Cup 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Boys (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Girls (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Boys (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships B Division Girls (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships C Division Girls (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Volleyball Championships C Division Boys (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion in League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>Netops U14 Carnival 2025</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball B Division 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball C Division 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Netball Fiesta B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Netball Fiesta C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Netball Fiesta Recreational Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Cross Country (Interest Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 B Division Girls (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 B Division Girls (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 B Division Boys (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 C Division Girls (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 C Division Boys (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ultimate Frisbee (Interest Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U-17 Inter-School Ultimate Frisbee Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Floorball C Division Boys (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in Group Stage of League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Floorball B Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 C Division Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 C Division Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 B Division Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 C Division Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation, Top 18 (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Singapore Minime Under 14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation (Chinese Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gamelan Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah (PNA) Award (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baden Powell Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Learning Week 2025 - Badge of Escape</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Division Learning Week 2025 - Trivia Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 NCC Outstanding Cadet Award - Ng Pin Rong Dylon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Land Orienteering Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West District - 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Sports Championship - Soccer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>West District - 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Awardee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Station Inspector (SI) Rank</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>St John Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corp Achievement Award (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>District First Aid and Nursing Competiton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Cadet (2nd runner-up)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief commssioner badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Awardees (Sec 4 members)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Comissioner badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Awardees (Sec 3 &amp; 4 members)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Science Society Club</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>RoboCup 2025</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Merit (2 teams of 8 students)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue by RI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h1>2024 Achievements</h1>
 <table style="minWidth: 75px">
 <colgroup>
