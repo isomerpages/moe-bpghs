@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h1>Infocomm Club</h1>
+<h1><strong>Infocomm Club</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Infocomm Club/Website_photos__5_.png">
 </div>
