@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h1>BP Communication Link</h1>
+<h1><strong>BP Communication Link</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA BP Comm Link/Website_photos__1_.png">
 </div>
