@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h1>Science Society Club</h1>
+<h1><strong>Science Society Club</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Science Club/Website_photos__3_.png">
 </div>
@@ -120,10 +120,34 @@ they are encouraged to dream, explore, and invent.</p>
 <h4><strong>Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2025 (RoboCup Singapore Open)</summary>
+<summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>RoboCup Junior Soccer: Merit 🏅</p>
-<p>RCAP Rescue Line: Merit 🏅</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="3" colspan="1">
+<p>RoboCup 2025</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Merit (2 teams of 8 students)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Astrigue by RI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -136,7 +160,7 @@ they are encouraged to dream, explore, and invent.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members testing their robot in the Robo Cup</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -146,7 +170,7 @@ they are encouraged to dream, explore, and invent.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members participating in the Robo Cup</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -156,7 +180,7 @@ they are encouraged to dream, explore, and invent.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members at the AstroChallenge</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -166,7 +190,7 @@ they are encouraged to dream, explore, and invent.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members presenting their astronomy project</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
