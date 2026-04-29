@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
-<h3>Aesthetics</h3>
+<h1><strong>Aesthetics</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics/Website_photos__6_.png">
+</div>
 <p>Under the Aesthetics arm, we have the Art and Music Units. The design
 of the Art and Music lessons are modular in nature and based on the 3E
 (Excite, Engage &amp; Excel) Framework.</p>
@@ -40,25 +43,47 @@ once every two years.</p>
 <p>To expose our students to overseas art and culture, in 2018, selected
 Secondary Two and Three students went on an Art Immersion Trip to Japan,
 Tokyo.</p>
+<h4><strong>Department Programmes</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Aesthetics/17.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics%202.jpeg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics%203.jpeg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enrichment Workshops</div>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Aesthetics%204.jpeg">
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics%205.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/18.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics%206.jpeg">
 </div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GROOVE IT</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics%207.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/16.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Art Immersion Trip</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="art" src="/images/19.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Art Elective Programme (AEP) work on display</div>
+</div>
+</div>
 </div>
 <p></p>
