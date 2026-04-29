@@ -87,7 +87,22 @@ between members.</p>
 <details class="isomer-details">
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>SYF 2025 Arts Presentation: Accomplishment</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
