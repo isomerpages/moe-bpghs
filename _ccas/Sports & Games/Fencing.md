@@ -10,7 +10,6 @@ third_nav_title: Sports & Games
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Fencing/National_B_Div_Boys_3rd__4_.png">
 </div>
 <h4><strong>CCA Information</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -106,14 +105,54 @@ within the team.</p>
 <details class="isomer-details">
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>B Division Girls’ Epee Individual: 3rd 🥉</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2024</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>C Division Girls’ Team Championship: 4th 🏅</p>
-<p>C Division Girls’ Epee Individual: 3rd 🥉</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 C Division Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 C Division Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 B Division Girls Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Fencing Championships 2025 C Division Boys Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation, Top 18 (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Singapore Minime Under 14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
