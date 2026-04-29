@@ -133,7 +133,7 @@ charge in the operations of the CCA.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Focused during a rehearsal</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -143,7 +143,7 @@ charge in the operations of the CCA.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">On the way for a learning journey</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -153,7 +153,7 @@ charge in the operations of the CCA.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Performing for VIPs</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
