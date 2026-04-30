@@ -82,16 +82,62 @@ between members.</p>
 </div>
 </details>
 </div>
+<h4><strong>Achievements</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <h4><strong>Gallery</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6217716080613378426_y.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Chinese Drama/17.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6217716080613378425_y.jpg">
 </div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6217716080613378427_y.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Chinese Drama/16.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Chinese Drama/18.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>

@@ -99,6 +99,76 @@ positivity continue to inspire the entire school community!</p>
 </div>
 </details>
 </div>
+<h4><strong>Achievements</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Netops U14 Carnival 2025</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball B Division 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball C Division 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Netball Fiesta B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Netball Fiesta C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Regent Netball Fiesta Recreational Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <h4><strong>Gallery</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -108,7 +178,7 @@ positivity continue to inspire the entire school community!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2026 B Div Team</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -118,7 +188,7 @@ positivity continue to inspire the entire school community!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">C Div Girls in launching an attack in the NSG</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -128,7 +198,7 @@ positivity continue to inspire the entire school community!</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2026 C Div Team</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>

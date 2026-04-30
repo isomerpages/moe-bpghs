@@ -32,75 +32,6 @@ with others and work as a team in decision making.</p>
 and social behaviour, as well as leadership qualities.</p>
 </li>
 </ul>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Our Team</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Joan Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:joan_koh_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joan_koh_puay_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vishal Chand s/o Karamchan (SH Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vishal_chand_karamchan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vishal_chand_karamchan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chew Sek Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_sek_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_sek_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Kim Hua Nicholas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_kim_hua_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_nicholas@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Dav Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sik_kuan_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sik_kuan_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Leonard Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_wai_hao_leonard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_wai_hao_leonard@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
 <h4><strong>Curriculum</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -190,6 +121,77 @@ and social behaviour, as well as leadership qualities.</p>
 <div class="isomer-card-title">Sports Carnival (Sec 1-4)</div>
 </div>
 </div>
+</div>
+<h4><strong>Achievements</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Cross Country (Interest Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 B Division Girls (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 B Division Girls (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 B Division Boys (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 C Division Girls (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Cross Country 2025 C Division Boys (Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ultimate Frisbee (Interest Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U-17 Inter-School Ultimate Frisbee Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <h4><strong>Highlights</strong></h4>
 <p><strong>Adventure Camp</strong>

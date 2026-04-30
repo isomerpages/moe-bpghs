@@ -159,14 +159,46 @@ by scanning the QR code below.</p>
 <details class="isomer-details">
 <summary>2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>West Zone (B Div): 4th 🏅</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2023</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>West Zone (B Div): Champions 🏆</p>
-<p>National (B Div): Champions 🏆</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglican Cup (B Division) 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball B Division 2025 (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Basketball C Division 2025 (League 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in Group Stage of League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Zhong Cup 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>

@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h1>Infocomm Club</h1>
+<h1><strong>Infocomm Club</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ic1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Infocomm Club/Website_photos__5_.png">
 </div>
 <h4><strong>CCA Information</strong></h4>
 <div class="isomer-card-grid">
@@ -86,7 +86,7 @@ to capture precious moments that encapsulate the Bukit Panjang school spirit.</p
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members developing their photography skills</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -96,8 +96,7 @@ to capture precious moments that encapsulate the Bukit Panjang school spirit.</p
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members learning to sketch</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -107,7 +106,7 @@ to capture precious moments that encapsulate the Bukit Panjang school spirit.</p
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members learning about the various shooting modes</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -117,7 +116,7 @@ to capture precious moments that encapsulate the Bukit Panjang school spirit.</p
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Members out on a learning journey</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>

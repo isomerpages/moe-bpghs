@@ -5,6 +5,360 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
+<h1>2025 Achievements</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Literature Festival Unseen Debate Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ACJC Orator's Trophy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Plain English Speaking Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS English Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary One: 1 High Distinction, 3 Distinction Secondary Two: 5 Distinction
+Secondary Three: 2 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore Geography Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary One: 1 High Distinction, 3 Distinction Secondary Two: 5 Distinction
+Secondary Three: 2 Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Bronze, 5 Honourable Mention in the Junior Section
+<br>2 Gold, 5 Silver, 4 Bronze, 8 Honourable Mention in the Senior Section
+<br>3 Silver, 2 Bronze, 1 Honourable Mention in the Open Section</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1: 3 High Distinction, 6 Distinction, 2 Merit
+<br>Sec 2: 3 Distinction, 3 Merit
+<br>Sec 3: 2 High Distinction, 7 Distinction, 5 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EBS Amazing Race 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 team Second Place, 2 teams Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Financial Literacy Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 teams Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ignite Skills Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 teams Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>POA Quest 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 team Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>Mother Tongue - Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goodtalk Global Village Speech Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finals: 3 Gold, 3 Silver, 4 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Script It Right Radio Drama Compeition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Finalist Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qualifying Round- Lower Sec Individual: 2 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Group: 2 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Individual: 1 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Group: 2 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Chinese Debate Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Debater (Quarter Finals)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Methodist Church Chinese New Year Caligraphy Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Consolation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Chinese Reading Contest organised by CPCLL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Group: 1 Top 10, 3 Top 30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Group: 2 Top 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teen Casting Call(Teen你敢敢说2）</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected as a finalist in a forum show by Mediacorp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Mother Tongue - EMAS/MLEP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Piala Cendekia Sahibba 2025 (National Malay Scrabble Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place: West Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative Arts Programme 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Melissa Alya binte Muhamad Shaban (3D): Mentorship with Malay Renowned
+Writer (2024-2025), Marlia Adda Sofea Marullly Ulum (2G): Mentorship with
+Malay Renowned Writer (2025-2026)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTLEP Seminar and Malay Language and Literature Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMAS &amp; MLEP Symposium</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMAS-MLEP 25th Anniversary Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Literature Outreach Camp for Secondary Two Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Air Race</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Bronze, 1 Silver, 1 Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold, 5 Silver, 6 Bronze, 4 Honourable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>StemCo Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On-going</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A*STAR Science Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICAS Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REACH Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Playground Challenge 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h1>2024 Achievements</h1>
 <table style="minWidth: 75px">
 <colgroup>

@@ -5,30 +5,83 @@ description: ""
 variant: tiptap
 third_nav_title: Performing Arts
 ---
-<h1>English Drama</h1>
+<h1><strong>English Drama</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Future Perfect (SYF 2023)" src="/images/CCA   Clubs/Image_1___Future_Perfect__SYF_2023____Samantha_Lee.png">
 </div>
-<p>Future Perfect (SYF 2023)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/Image_2___Topsy_Turvey_Town__SYF_2025____Samantha_Lee.png">
+<h4><strong>CCA Information</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Training Days 📅</div>
+<div class="isomer-card-description">Tuesday &amp; Thursday</div>
 </div>
-<p>Topsy-Turvey Town (SYF 2025)</p>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Time 🕒</div>
+<div class="isomer-card-description">1600 - 1800</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Venue 📍</div>
+<div class="isomer-card-description">Green Wall Room</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">DSA Eligibility 📋</div>
+<div class="isomer-card-description">No</div>
+</div>
+</div>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Staff in Charge</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Samantha Lee Yuping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samantha_lee_yuping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yuping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Masrurah Hanim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:masrurah_hanim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masrurah_hanim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About Us</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The English Drama Club was established in 2011 to develop passionate drama
 members in stagecraft as well as vocal and physical expression.</p>
 <p>Drama members work together as a team to manipulate the dramatic elements
-effectively for stage performances. We believe that every single member
-in both the cast and the crew plays a vital role towards a successful production
-and our learning as a budding theatre club.</p>
+effectively for stage performances.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/Image_3___Behind_the_Scenes_and_Learning_Journeys___Samantha_Lee.png">
-</div>
+<p>We believe that every single member in both the cast and the crew plays
+a vital role towards a successful production and our learning as a budding
+theatre club.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/Image_4___Behind_the_Scenes_and_Learning_Journeys___Samantha_Lee.png">
-</div>
-<p>Behind the Scenes and Learning Journeys!</p>
 <p>Our Club Activity Highlights</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,13 +101,14 @@ theatre performances of different styles.</p>
 <p>Values-in-Action (ViA) projects for members to serve the community.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA   Clubs/Image_5___Past_SYF_performances__2013___2019____Samantha_Lee.png">
 </div>
-<p>SYF performances from 2013 to 2019</p>
-<p><strong>Our Achievements</strong>
-</p>
+</details>
+</div>
+<h4><strong>Achievements</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2017 - 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>Certificate of Accomplishment for Singapore Youth Festival (SYF) Arts
@@ -77,4 +131,51 @@ Presentation 2013, 2015 and 2017, 2019, 2021, 2023 and 2025</p>
 <p>Eco-Skit Competition 2018 – 1st runner up</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<h4><strong>Gallery</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   English Drama/18.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Topsy-Turvey Town (SYF 2025)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   English Drama/17.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Behind the Scenes and Learning Journeys!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA   English Drama/16.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Performances</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="drama" src="/images/CCA   English Drama/19.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SYF performances from 2013 to 2019</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
