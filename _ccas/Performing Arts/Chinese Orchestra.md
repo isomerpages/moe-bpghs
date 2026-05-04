@@ -19,12 +19,13 @@ third_nav_title: Performing Arts
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Time 🕒</div>
-<div class="isomer-card-description">1600 - 1800</div>
+<div class="isomer-card-description">1550 - 1830</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Venue 📍</div>
+<div class="isomer-card-description">CDC Shelter</div>
 </div>
 </div>
 <div class="isomer-card">
