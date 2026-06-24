@@ -7,16 +7,20 @@ variant: tiptap
 <h3>Announcements &amp; Updates</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Timetable_Class_Sem_2_2026_as_at_190626.pdf" rel="noopener nofollow" target="_blank">2026 Semester 2 Timetable</a> updated
+24 Jun</p>
+</li>
+<li>
 <p><a href="https://docs.google.com/spreadsheets/d/1FqQI4qwRC6hqOIBfwpoTj2aCl4k780DG/edit?usp=sharing&amp;ouid=114076641539275533540&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2026 June Holiday CCA Schedule</a> updated
 29 May</p>
 </li>
 <li>
 <p><a href="https://docs.google.com/spreadsheets/d/1Ifoj8QZ54zbiZKDyX7xyMlnL_0krWmFa/edit?usp=sharing&amp;ouid=114076641539275533540&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2026 March Holiday CCA Schedule</a> updated
-13 March</p>
+13 Mar</p>
 </li>
 <li>
 <p><a href="/files/2026_Exam_Registration_Info.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Exam Registration Information </a>updated
-4 March</p>
+4 Mar</p>
 </li>
 <li>
 <p><a href="https://docs.google.com/spreadsheets/d/1zg_j8eTJ0uqHWi4IrPg0vnrGrXGQYYou/edit?gid=240944088#gid=240944088" rel="noopener nofollow" target="_blank">Assessment Schedule 2026</a> updated
